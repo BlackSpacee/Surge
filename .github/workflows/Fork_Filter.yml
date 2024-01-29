@@ -111,6 +111,7 @@ jobs:
           cp -r tmp/rule/Surge/Emby Ruleset/
 
           cp -r tmp/rule/Surge/AppleID Ruleset/
+          cp -r tmp/rule/Surge/AppStore Ruleset/
           cp -r tmp/rule/Surge/AppleMusic Ruleset/
           cp -r tmp/rule/Surge/TestFlight Ruleset/
           cp -r tmp/rule/Surge/AppleMail Ruleset/
