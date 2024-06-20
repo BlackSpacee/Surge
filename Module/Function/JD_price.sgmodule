@@ -1,0 +1,19 @@
+#!name = JD Price comparison
+#!desc = 京东比价
+#!homepage = https://service.2ti.st/QuanX/Script/jd_tb_price/main.js
+#!author = @yichahucha @Small
+#!icon = https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/JD.png
+#!date = [2021/6/25]
+
+
+[Script]
+# 京东比价
+main_3 = type=http-response, pattern=^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig), script-path=https://service.2ti.st/QuanX/Script/jd_tb_price/main.js, requires-body=true
+
+# 淘宝比价
+main_5 = type=http-request, pattern=^http://.+/amdc/mobileDispatch, script-path=https://service.2ti.st/QuanX/Script/jd_tb_price/main.js, requires-body=true
+
+main_6 = type=http-response, pattern=^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail, script-path=https://service.2ti.st/QuanX/Script/jd_tb_price/main.js, requires-body=true
+
+[MITM]
+hostname = %APPEND% api.m.jd.com, trade-acs.m.taobao.com

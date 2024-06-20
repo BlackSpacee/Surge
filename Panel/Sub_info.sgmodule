@@ -1,0 +1,8 @@
+#!name=机场流量
+#!desc=复制该文件内容至本地模块 修改URL encode后的机场节点链接
+#!anthor=mieqq
+
+订阅名字 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js,script-update-interval=0,argument=url=URL编码后的订阅链接&title=订阅名字&icon=SF Symbol Name&color=#16A951&reset_day=重置日&expire=到期日
+
+[Panel]
+订阅名字 = script-name=订阅名字, update-interval=1800
