@@ -1,0 +1,8 @@
+#!name=Billboard Ranking
+#!desc=美国公告牌面板。将想要显示的条目数量填入songCount=，想要的榜单类型（有四种类型：billboard-200，billboard-artist-100，billboard-global-200，billboard-hot-100）填入sort=。例：songCount=10&sort=billboard-artist-100。不填默认展示前5条billboard-hot-100
+
+[Panel]
+bb100=script-name=bb100
+
+[Script]
+B 榜=type=generic,script-path=https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/bb100.js, argument=icon=music.note.list&color=#fc5656&songCount=&sort=

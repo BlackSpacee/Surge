@@ -1,0 +1,14 @@
+#!name = 豆瓣电影移动版网页优化
+#!desc = 支持跳转豆瓣APP
+#!homepage = https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Html/Douban.conf
+#!author = @ddgksf2013 @Neurogram
+#!icon = https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Douban.png
+#!date = [2024/1/31]
+
+
+[Script]
+# > 豆瓣移动版网页去广告+快捷观影@ddgksf2013
+豆瓣跳转 = type=http-response, pattern=^https?:\/\/m\.douban\.com\/(home_guide|movie|tv|book|group|music), script-path=https://github.com/ddgksf2013/Scripts/raw/master/douban.js, requires-body=true, max-size=-1, timeout=60
+
+[MITM]
+hostname = %APPEND% m.douban.com

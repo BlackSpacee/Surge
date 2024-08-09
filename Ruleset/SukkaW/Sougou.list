@@ -1,0 +1,26 @@
+#########################################
+# Sukka's Ruleset - Sogou Input
+# Last Updated: 2024-04-03T16:26:20.350Z
+# Size: 15
+# License: AGPL 3.0
+# Homepage: https://ruleset.skk.moe
+# GitHub: https://github.com/SukkaW/Surge
+#
+# This file contains rules for Sogou Input.
+#########################################
+DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,otheve.beacon.qq.com
+DOMAIN,oth.str.mdt.qq.com
+DOMAIN-SUFFIX,get.sogou.com
+DOMAIN-SUFFIX,shouji.sogou.com
+DOMAIN-SUFFIX,account.sogou.com
+DOMAIN-SUFFIX,pinyin.sogou.com
+DOMAIN-SUFFIX,ime.sogou.com
+DOMAIN-SUFFIX,macime.sogou.com
+DOMAIN-SUFFIX,sginput.qq.com
+USER-AGENT,SogouInput
+USER-AGENT,com.sogou.sogouinput.BaseKeyboard
+PROCESS-NAME,SogouInput
+PROCESS-NAME,SOgouTaskManager
+PROCESS-NAME,SogouServices
+################## EOF ##################

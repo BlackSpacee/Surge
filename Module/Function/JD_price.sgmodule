@@ -1,0 +1,13 @@
+#!name = JD Price comparison
+#!desc = 京东比价
+#!homepage = https://service.2ti.st/QuanX/Script/jd_tb_price/main.js
+#!author = @yichahucha @Small
+#!icon = https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/JD.png
+#!date = [2021/6/25]
+
+
+[Script]
+京东比价 = type=http-response, pattern=^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig), script-path=https://service.2ti.st/QuanX/Script/jd_tb_price/main.js, requires-body=true
+
+[MITM]
+hostname = %APPEND% api.m.jd.com

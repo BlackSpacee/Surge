@@ -1,0 +1,10 @@
+#!name = ipInfo
+#!desc = ip详细信息
+#!author = @MCdasheng
+
+[Panel]
+ipInfo=script-name=ipInfo,update-interval=1
+
+[Script]
+ipInfo=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/MCdasheng/Surge/main/Scripts/ipinfo.js
+
