@@ -1,0 +1,19 @@
+#!name = 微信公众号去广告
+#!desc = 不包含公众号信息流AD、朋友圈AD , 推荐开启青少年模式可去除朋友圈AD或换区
+#!homepage = 
+#!author = @RuCu6
+#!icon = https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/WeChat.png
+#!date = [2024/4/14]
+
+
+[Rule]
+DOMAIN,wxsnsdy.wxs.qq.com,REJECT
+DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
+URL-REGEX,^http:\/\/[\d\.]+(:49155)?\/finderpdd\.video\.qq\.com\/\d+\/\d+\/stodownload\?,REJECT-TINYGIF
+
+[Map Local]
+# 移除公众号中的推广内容 //mp.weixin.qq.com
+^https:\/\/mp\.weixin\.qq\.com\/mp\/(cps_product_info|getappmsgad|masonryfeed|relatedarticle)\? data-type=text data="{}" status-code=200
+
+[MITM]
+hostname = %APPEND% mp.weixin.qq.com

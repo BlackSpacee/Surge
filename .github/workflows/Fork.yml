@@ -1,0 +1,382 @@
+name: Fork Filter lists
+
+on:
+  workflow_dispatch: # 启用手动触发
+  schedule:
+    - cron: "0 */6 * * *" # 每隔6小时执行一次
+
+jobs:
+  Fork-FLITER-list:
+    runs-on: ubuntu-latest
+    env:
+      TZ: "Asia/Shanghai"
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4.1.0
+        with:
+          repository: blackspacee/Surge
+          path: Surge-repo
+
+      - name: Fork files to Ruleset
+        run: |
+          # Apple
+          curl -L -o Surge-repo/Ruleset/APNs.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/ApplePushNotificationService.list"
+          curl -L -o Surge-repo/Ruleset/Apple.list "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Apple.list"
+
+          # OoklaSpeedtest
+          curl -L -o Surge-repo/Ruleset/Speedtest.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/OoklaSpeedtest.list"
+
+          # OpenAI
+          curl -L -o Surge-repo/Ruleset/OpenAI.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/OpenAI.list"
+
+          # AIGC(SukkaW&KELI) (ChatGPT, Copilot, Gemini, Claude...)
+          mkdir -p Surge-repo/Ruleset/AIGC
+          curl -L -o Surge-repo/Ruleset/AIGC/Claude.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Claude.list"
+          curl -L -o Surge-repo/Ruleset/AIGC/AI_SukkaW.list "https://ruleset.skk.moe/List/non_ip/ai.conf"
+          curl -L -o Surge-repo/Ruleset/AIGC/AI_KELI.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list"
+
+          # 社交媒体
+          curl -L -o Surge-repo/Ruleset/Telegram.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Telegram.list"
+          mkdir -p Surge-repo/Ruleset/Twitter
+          curl -L -o Surge-repo/Ruleset/Twitter/Twitter.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list"
+          mkdir -p Surge-repo/Ruleset/Instagram
+          curl -L -o Surge-repo/Ruleset/Instagram/Instagram.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list"
+          mkdir -p Surge-repo/Ruleset/Facebook
+          curl -L -o Surge-repo/Ruleset/Facebook/Facebook.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list"
+
+          # 流媒体&Emby
+          mkdir -p Surge-repo/Ruleset/ProxyMedia
+          curl -L -o Surge-repo/Ruleset/ProxyMedia/Emby.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Emby.list"
+          curl -L -o Surge-repo/Ruleset/ProxyMedia/ProxyMedia.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list"
+
+          mkdir -p Surge-repo/Ruleset/TikTok
+          curl -L -o Surge-repo/Ruleset/TikTok/TikTok.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/TikTok.list"
+          mkdir -p Surge-repo/Ruleset/Netflix
+          curl -L -o Surge-repo/Ruleset/Netflix/Netflix.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list"
+
+          mkdir -p Surge-repo/Ruleset/BiliBili
+          curl -L -o Surge-repo/Ruleset/BiliBili/BiliBili.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list"
+
+          # Talkatone
+          curl -L -o Surge-repo/Ruleset/Talkatone.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Talkatone.list"
+
+          # Crypto 钱包等
+          mkdir -p Surge-repo/Ruleset/Crypto
+          curl -L -o Surge-repo/Ruleset/Crypto/Crypto.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Crypto.list"
+
+          # ACL4SSR 国外规则
+          mkdir -p Surge-repo/Ruleset/ProxyGFW
+          curl -L -o Surge-repo/Ruleset/ProxyGFW/ProxyGFW.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list"
+
+          # ACL4SSR 国内规则
+          mkdir -p Surge-repo/Ruleset/ChinaDomain
+          curl -L -o Surge-repo/Ruleset/ChinaDomain/ChinaDomain.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
+
+          # LAN
+          curl -L -o Surge-repo/Ruleset/LAN "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Lan.list"
+
+          # ASN
+          mkdir -p Surge-repo/Ruleset/ASN_Fries
+          curl -L -o Surge-repo/Ruleset/ASN_Fries/ASN.Telegram.list "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.Telegram.list"
+          curl -L -o Surge-repo/Ruleset/ASN_Fries/ASN.China.list "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list"
+          mkdir -p Surge-repo/Ruleset/ASN_DH
+          curl -L -o Surge-repo/Ruleset/ASN_DH/Geo_AS_IP_CN_All_Surge.list "https://raw.githubusercontent.com/DH-Teams/DH-Geo_AS_IP_CN/main/Geo_AS_IP_CN_All_Surge.list"
+          curl -L -o Surge-repo/Ruleset/ASN_DH/Geo_AS_CN.list "https://raw.githubusercontent.com/DH-Teams/DH-Geo_AS_IP_CN/main/Geo_AS_CN.list"
+
+          # 广告规则
+          mkdir -p Surge-repo/Ruleset/Advertising
+          curl -L -o Surge-repo/Ruleset/Advertising/AdGuardChinese.list "https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/chinese-filter.txt"
+          curl -L -o Surge-repo/Ruleset/Advertising/Ads_EasyListChina.list "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/rule/Surge/easylistchina_surge.list"
+          curl -L -o Surge-repo/Ruleset/Advertising/Ads_EasyListPrivacy.list "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/rule/Surge/easyprivacy_surge.list"
+          curl -L -o Surge-repo/Ruleset/Advertising/Ads_Dlerio.list "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Reject.list"
+          curl -L -o Surge-repo/Ruleset/Advertising/Ads_SukkaW.list "https://ruleset.skk.moe/List/domainset/reject.conf"
+          curl -L -o Surge-repo/Ruleset/Advertising/Ads_limbopro.list "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo_surge.list"
+          curl -L -o Surge-repo/Ruleset/Advertising/Ads_anti_AD.list "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt"
+          curl -L -o Surge-repo/Ruleset/Advertising/Ads_AdRules.list "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list"
+
+          # fmz200&wala
+          mkdir -p Surge-repo/Ruleset/fmz200
+          curl -L -o Surge-repo/Ruleset/fmz200/Direct_fmz200.list "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list"
+          curl -L -o Surge-repo/Ruleset/fmz200/Ads_fmz200.list "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list"
+          curl -L -o Surge-repo/Ruleset/fmz200/Ads_RuCu6.list "https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
+
+          # LucY
+          mkdir -p Surge-repo/Ruleset/LucY
+          curl -L -o Surge-repo/Ruleset/LucY/Direct.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Direct.list"
+          curl -L -o Surge-repo/Ruleset/LucY/Reject.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Reject.list"
+          curl -L -o Surge-repo/Ruleset/LucY/Proxy.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Proxy.list"
+          # 如漏
+          curl -L -o Surge-repo/Ruleset/LucY/Prevent_DNS_Leaks.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Prevent_DNS_Leaks.list"
+
+          # ConnersHua
+          mkdir -p Surge-repo/Ruleset/ConnersHua
+          curl -L -o Surge-repo/Ruleset/ConnersHua/Direct+.list "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct+.list"
+          curl -L -o Surge-repo/Ruleset/ConnersHua/Ads_ConnersHua.list "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Advertising.list"
+          curl -L -o Surge-repo/Ruleset/ConnersHua/Malicious_ConnersHua.list "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Malicious.list"
+          curl -L -o Surge-repo/Ruleset/ConnersHua/Tracking_ConnersHua.list "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Tracking.list"
+
+          # SukkaW
+          mkdir -p Surge-repo/Ruleset/SukkaW
+          curl -L -o Surge-repo/Ruleset/SukkaW/Sougou.list "https://ruleset.skk.moe/List/non_ip/sogouinput.conf"
+          curl -L -o Surge-repo/Ruleset/SukkaW/Reject.list "https://ruleset.skk.moe/List/non_ip/reject.conf"
+          curl -L -o Surge-repo/Ruleset/SukkaW/Global.list "https://ruleset.skk.moe/List/non_ip/global.conf"
+          curl -L -o Surge-repo/Ruleset/SukkaW/LAN "https://ruleset.skk.moe/List/ip/lan.conf"
+          curl -L -o Surge-repo/Ruleset/SukkaW/LAN.list "https://ruleset.skk.moe/List/non_ip/lan.conf"
+          curl -L -o Surge-repo/Ruleset/SukkaW/ChinaDownLoad.list "https://ruleset.skk.moe/List/non_ip/direct.conf"
+          curl -L -o Surge-repo/Ruleset/SukkaW/China.list "https://ruleset.skk.moe/List/non_ip/domestic.conf"
+          curl -L -o Surge-repo/Ruleset/SukkaW/Local_DNS_Mapping.sgmodule "https://ruleset.skk.moe/Modules/sukka_local_dns_mapping.sgmodule"
+          curl -L -o Surge-repo/Ruleset/SukkaW/Local_DNS_Mapping.ts "https://raw.githubusercontent.com/SukkaW/Surge/master/Source/non_ip/domestic.ts"
+
+
+      - name: Fork ios_rule_script Repository
+        uses: actions/checkout@v4.1.0
+        with:
+          repository: blackmatrix7/ios_rule_script
+          path: tmp # 临时存放目录
+
+      - name: Copy Selected Folders
+        run: |
+          cp -r tmp/rule/Surge/WeChat Ruleset/
+          cp -r tmp/rule/Surge/Zhihu Ruleset/
+
+          cp -r tmp/rule/Surge/Spotify Ruleset/
+          cp -r tmp/rule/Surge/HBO Ruleset/
+          cp -r tmp/rule/Surge/Disney Ruleset/
+          cp -r tmp/rule/Surge/PrimeVideo Ruleset/
+
+          cp -r tmp/rule/Surge/Cloudflare Ruleset/
+          cp -r tmp/rule/Surge/Oracle Ruleset/
+          cp -r tmp/rule/Surge/PayPal Ruleset/
+          cp -r tmp/rule/Surge/Binance Ruleset/
+          cp -r tmp/rule/Surge/OKX Ruleset/
+
+          cp -r tmp/rule/Surge/Vercel Ruleset/
+          cp -r tmp/rule/Surge/GitLab Ruleset/
+          
+          cp -r tmp/rule/Surge/Copilot Ruleset/
+          cp -r tmp/rule/Surge/GitHub Ruleset/
+          cp -r tmp/rule/Surge/OneDrive Ruleset/
+          cp -r tmp/rule/Surge/Bing Ruleset/
+          cp -r tmp/rule/Surge/Microsoft Ruleset/
+
+          cp -r tmp/rule/Surge/Gemini Ruleset/
+          cp -r tmp/rule/Surge/YouTube Ruleset/
+          cp -r tmp/rule/Surge/Google Ruleset/
+
+          cp -r tmp/rule/Surge/AppleID Ruleset/
+          cp -r tmp/rule/Surge/AppStore Ruleset/
+          cp -r tmp/rule/Surge/AppleMusic Ruleset/
+          cp -r tmp/rule/Surge/iCloud Ruleset/
+          cp -r tmp/rule/Surge/TestFlight Ruleset/
+          cp -r tmp/rule/Surge/AppleMail Ruleset/
+          cp -r tmp/rule/Surge/AppleProxy Ruleset/
+
+          cp -r tmp/rule/Surge/Proxy Ruleset/
+          cp -r tmp/rule/Surge/Global Ruleset/
+          cp -r tmp/rule/Surge/China Ruleset/
+          cp -r tmp/rule/Surge/ChinaMax Ruleset/
+
+        shell: bash
+
+      - name: Move Selected Folders
+        run: |
+          rsync -a --exclude 'README.md' Ruleset/* Surge-repo/Ruleset/
+        shell: bash
+
+      # 适配 Nice 和 Wala Surge 规则
+      - name: Edit Ruleset/fmz200&wala
+        run: |
+          cd Surge-repo/Ruleset/fmz200
+          for file in *.list; do
+            if [ -f "$file" ]; then
+            # 修改，& ; 以及大小写
+            sed -i -e 's/, /,/g' -e 's/;/# /g' -e 's/host,/HOST,/g' -e 's/host-/HOST-/g'  -e 's/suffix/SUFFIX/g' -e 's/-keyword/-KEYWORD/g' -e 's/,reject/,REJECT/g' -e 's/ip-cidr/IP-CIDR/g' -e 's/geoip/GEOIP/g' "$file"
+            # 删除“,REJECT”
+            sed -i 's/,REJECT//g' "$file"
+            # 删除“,direct”
+            sed -i 's/,direct//g' "$file"
+            # 修改HOST为DOMAIN
+            sed -i -e 's/HOST,/DOMAIN,/g' -e 's/HOST-/DOMAIN-/g' "$file"
+            # 修改IP6-CIDR为IP-CIDR6
+            sed -i 's/IP6-CIDR,/IP-CIDR6,/g' "$file"
+            # 如果包含IP-CIDR且不包含,no-resolve 则添加,no-resolve
+            awk '/^IP-CIDR/ && !/,no-resolve/ {print $0",no-resolve"; next} {print}' "$file" > tmpfile
+            mv tmpfile "$file"
+            # 删除带有# UPDATED:字样的行
+            awk '!/# UPDATED:/' "$file" > tmpfile
+            mv tmpfile "$file"
+          else
+            echo "$file not found."
+          fi
+          done
+
+      # Advertising DOMAIN-SET 转换 RULE-SET
+      - name: Edit Ruleset/Advertising
+        run: |
+          cd Surge-repo/Ruleset/Advertising
+          for file in AdGuardChinese.list Ads_SukkaW.list; do
+            if [ -f "$file" ]; then
+              # 将每一行的第一个.替换为 DOMAIN-SUFFIX,
+              sed -i 's/^\./DOMAIN-SUFFIX,/' "$file"
+              # 将除了以#开头、空行和以DOMAIN-SUFFIX开头之外的行，在行首添加 DOMAIN-SUFFIX,
+              sed -i '/^\s*$/b; /^\s*#/b; /^DOMAIN-SUFFIX,/b; s/^\([^#]\)/DOMAIN-SUFFIX,\1/' "$file"
+            else
+              echo "$file not found."
+            fi
+          done
+
+
+        # 合并规则
+        # 分流修正
+      - name: Output Direct.list
+        run: |
+          mkdir -p Surge-repo/Ruleset/Own/
+          touch Surge-repo/Ruleset/Own/Direct.list
+          if [ -f "Surge-repo/Ruleset/Own/Direct.list" ] ; then
+            # 清空 Direct.list 文件
+            > Surge-repo/Ruleset/Own/Direct.list
+            cat Surge-repo/Ruleset/ConnersHua/Direct+.list >> Surge-repo/Ruleset/Own/Direct.list
+            cat Surge-repo/Ruleset/Empty/Empty1.list >> Surge-repo/Ruleset/Own/Direct.list
+            cat Surge-repo/Ruleset/fmz200/Direct_fmz200.list >> Surge-repo/Ruleset/Own/Direct.list
+            cat Surge-repo/Ruleset/Empty/Empty2.list >> Surge-repo/Ruleset/Own/Direct.list
+            cat Surge-repo/Ruleset/LucY/Direct.list >> Surge-repo/Ruleset/Own/Direct.list
+            # 使用awk进行去重, 保留注释行, 方便排查问题和反馈.
+            awk '!seen[$0]++' Surge-repo/Ruleset/Own/Direct.list > tmpfile && mv tmpfile Surge-repo/Ruleset/Own/Direct.list
+          else
+            echo "$file not found."
+          fi
+
+
+        # 广告隐私
+      - name: Output Reject.list
+        run: |
+          touch Surge-repo/Ruleset/Own/Reject.list
+          if [ -f "Surge-repo/Ruleset/Own/Reject.list" ] ; then
+            # 清空 Reject.list 文件
+            > Surge-repo/Ruleset/Own/Reject.list
+            cat Surge-repo/Ruleset/fmz200/Ads_RuCu6.list >> Surge-repo/Ruleset/Own/Reject.list
+            cat Surge-repo/Ruleset/Empty/Empty1.list >> Surge-repo/Ruleset/Own/Reject.list
+            cat Surge-repo/Ruleset/ConnersHua/Ads_ConnersHua.list >> Surge-repo/Ruleset/Own/Reject.list
+            cat Surge-repo/Ruleset/Empty/Empty2.list >> Surge-repo/Ruleset/Own/Reject.list
+            cat Surge-repo/Ruleset/ConnersHua/Malicious_ConnersHua.list >> Surge-repo/Ruleset/Own/Reject.list
+            cat Surge-repo/Ruleset/Empty/Empty3.list >> Surge-repo/Ruleset/Own/Reject.list
+            cat Surge-repo/Ruleset/ConnersHua/Tracking_ConnersHua.list >> Surge-repo/Ruleset/Own/Reject.list
+            cat Surge-repo/Ruleset/Empty/Empty4.list >> Surge-repo/Ruleset/Own/Reject.list
+            cat Surge-repo/Ruleset/SukkaW/Reject.list >> Surge-repo/Ruleset/Own/Reject.list
+            cat Surge-repo/Ruleset/Empty/Empty5.list >> Surge-repo/Ruleset/Own/Reject.list
+            cat Surge-repo/Ruleset/LucY/Reject.list >> Surge-repo/Ruleset/Own/Reject.list
+            # 使用awk进行去重, 保留注释行, 方便排查问题和反馈.
+            awk '!seen[$0]++' Surge-repo/Ruleset/Own/Reject.list > tmpfile && mv tmpfile Surge-repo/Ruleset/Own/Reject.list
+          else
+            echo "$file not found."
+          fi
+
+
+        # 国外域名
+      - name: Output Global.list
+        run: |
+          touch Surge-repo/Ruleset/Own/Global.list
+          if [ -f "Surge-repo/Ruleset/Own/Global.list" ] ; then
+            # 清空 Global.list 文件
+            > Surge-repo/Ruleset/Own/Global.list
+            cat Surge-repo/Ruleset/SukkaW/Global.list >> Surge-repo/Ruleset/Own/Global.list
+            cat Surge-repo/Ruleset/Empty/Empty1.list >> Surge-repo/Ruleset/Own/Global.list
+            cat Surge-repo/Ruleset/ProxyGFW/ProxyGFW.list >> Surge-repo/Ruleset/Own/Global.list
+            cat Surge-repo/Ruleset/Empty/Empty2.list >> Surge-repo/Ruleset/Own/Global.list
+            cat Surge-repo/Ruleset/Proxy/Proxy_All_No_Resolve.list >> Surge-repo/Ruleset/Own/Global.list
+            cat Surge-repo/Ruleset/Empty/Empty3.list >> Surge-repo/Ruleset/Own/Global.list
+            cat Surge-repo/Ruleset/Global/Global_All_No_Resolve.list >> Surge-repo/Ruleset/Own/Global.list
+            # 使用awk进行去重, 保留注释行, 方便排查问题和反馈.
+            awk '!seen[$0]++' Surge-repo/Ruleset/Own/Global.list > tmpfile && mv tmpfile Surge-repo/Ruleset/Own/Global.list
+          else
+            echo "$file not found."
+          fi
+
+
+        # 国内域名
+      - name: Output China.list
+        run: |
+          touch Surge-repo/Ruleset/Own/China.list
+          if [ -f "Surge-repo/Ruleset/Own/China.list" ] ; then
+            # 清空 China.list 文件
+            > Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/SukkaW/LAN.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/Empty/Empty1.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/SukkaW/ChinaDownLoad.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/Empty/Empty2.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/SukkaW/China.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/Empty/Empty3.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/ChinaDomain/ChinaDomain.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/Empty/Empty4.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/China/China_All_No_Resolve.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/Empty/Empty5.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/ChinaMax/ChinaMax_All_No_Resolve.list >> Surge-repo/Ruleset/Own/China.list
+            # 使用awk进行去重, 保留注释行, 方便排查问题和反馈.
+            awk '!seen[$0]++' Surge-repo/Ruleset/Own/China.list > tmpfile && mv tmpfile Surge-repo/Ruleset/Own/China.list
+          else
+            echo "$file not found."
+          fi
+
+        # 自定义最终输出
+      - name: Final Edit
+        run: |
+          cd Surge-repo/Ruleset/Own
+          for file in *.list; do
+            # 比较文件内容是否有变化
+            if ! git diff --quiet "$file"; then
+              # 去掉文件中的空白行，但保留 # 开头的注释行
+              sed -i '/^\s*$/d' "$file"
+              # 获取文件名，不包括扩展名 .list
+              name=$(basename "$file" .list)
+              # 初始化头部内容
+              header="# NAME: $name"
+              # 初始化总计数
+              total_rules=0
+              # 定义规则类型数组及其对应的标签
+              declare -a rules=("AND" "DOMAIN" "DOMAIN-SUFFIX" "DOMAIN-KEYWORD" "IP-ASN" "IP-CIDR" "IP-CIDR6" "USER-AGENT" "URL-REGEX" "DEST-PORT" "PROTOCOL" "PROCESS-NAME")
+              declare -a labels=("AND" "DOMAIN" "DOMAIN-SUFFIX" "DOMAIN-KEYWORD" "IP-ASN" "IP-CIDR" "IP-CIDR6" "USER-AGENT" "URL-REGEX" "DEST-PORT" "PROTOCOL" "PROCESS-NAME")
+              # 迭代规则类型，进行匹配和计数
+              for i in "${!rules[@]}"; do
+                rule=${rules[$i]}
+                label=${labels[$i]}
+                count=$(grep -E "^$rule," "$file" | wc -l)
+                if [ "$count" -gt 0 ]; then
+                  header="$header\n# $label: $count"
+                  total_rules=$((total_rules + count))
+                fi
+              done
+              
+              # 使用匹配到的规则总和作为 TOTAL
+              header="$header\n# TOTAL: $total_rules"
+              # 获取文件的最后修改时间，格式为 YYYY-MM-DD HH:MM:SS
+              last_updated=$(git log -1 --format="%cd" --date=format:'%Y-%m-%d %H:%M:%S' "$file")
+              header="$header\n# UPDATED: $last_updated"
+              # 在头部末尾添加一个空行用于分割线
+              header="$header\n"
+              # 将统计信息添加到文件头部
+              sed -i "1i$header" "$file"
+            else
+              echo "No changes detected in $file."
+            fi
+          done
+      
+
+
+      - name: Commit和Push Changes
+        run: |
+          cd Surge-repo
+          if [[ -n $(git status -s) ]]; then
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add Ruleset/
+            git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
+            git push origin HEAD
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Cleanup Workflow
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 0
+          keep_minimum_runs: 1

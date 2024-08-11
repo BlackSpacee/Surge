@@ -1,0 +1,9 @@
+#!name = AppStore限免APP
+#!desc = 限免App面板。在appCount=后面填上想要显示的条数 不填默认8条
+#!homepage = https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/appsdoor.js
+
+[Panel]
+Gofans=script-name=Gofans
+
+[Script]
+Gofans=type=generic,script-path=https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/appsdoor.js, argument=icon=applelogo&color=#b8b8b8&appCount=

@@ -1,0 +1,23 @@
+#########################################
+# Sukka's Ruleset - LAN
+# Last Updated: 2024-03-08T08:50:38.702Z
+# Size: 12
+# License: AGPL 3.0
+# Homepage: https://ruleset.skk.moe
+# GitHub: https://github.com/SukkaW/Surge
+#
+# Includes rules for LAN IP addresses and .local suffix.
+#########################################
+DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+IP-CIDR,0.0.0.0/8
+IP-CIDR,10.0.0.0/8
+IP-CIDR,100.64.0.0/10
+IP-CIDR,127.0.0.0/8
+IP-CIDR,172.16.0.0/12
+IP-CIDR,169.254.0.0/16
+IP-CIDR,192.168.0.0/16
+IP-CIDR,224.0.0.0/4
+IP-CIDR6,::1/128
+IP-CIDR6,fc00::/7
+IP-CIDR6,fe80::/10
+################## EOF ##################

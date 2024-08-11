@@ -1,0 +1,20 @@
+#!name = QQ空间广告屏蔽
+#!desc = 屏蔽QQ空间广告 广告位仍存在
+#!homepage = https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/QzoneAdBlock.sgmodule
+#!author = @zqzess
+#!icon = https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/QQkongjian.png
+#!date = [2022/11/21]
+
+
+[Rule]
+DOMAIN,d3g.qq.com,REJECT
+DOMAIN,bsrv.qq.com,REJECT
+DOMAIN,sq.bls.mdt.qq.com,REJECT
+DOMAIN,adsmind.gdtimg.com,REJECT
+DOMAIN,xj-landing.gdtimg.com,REJECT
+
+[URL Rewrite]
+
+^http:\/\/(rpt|v|c)\.gdt\.qq\.com\/(creative_view|gdt_stats|gdt_clickwap)\/.+ - reject
+^http:\/\/pgdt\.gtimg\.cn\/gdt\/.+ - reject
+^http:\/\/pgdt\.gtimg\.cn\/.+\/snscosdownload\/SH\/reserved\/.+ - reject

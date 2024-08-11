@@ -1,0 +1,10 @@
+#!name = Surge Pro
+#!desc = Surge 订阅日期面板\n作者：@Nebulosa-Cat
+#!arguments = "licensesDate:2025-05-29"
+#!arguments-desc = 请严格按照 YYYY-MM-DD 格式填入授权到期日
+
+[Panel]
+SurgePro = script-name=licensesCheck,update-interval=1
+
+[Script]
+licensesCheck =script-path=https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Script/licensesCheck.js,type=generic,argument=licensesDate={{{licensesDate}}}
