@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Sogou Input
-# Last Updated: 2024-04-03T16:26:20.350Z
+# Last Updated: 2024-08-13T12:27:26.203Z
 # Size: 15
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -21,6 +21,6 @@ DOMAIN-SUFFIX,sginput.qq.com
 USER-AGENT,SogouInput
 USER-AGENT,com.sogou.sogouinput.BaseKeyboard
 PROCESS-NAME,SogouInput
-PROCESS-NAME,SOgouTaskManager
+PROCESS-NAME,SogouTaskManager
 PROCESS-NAME,SogouServices
 ################## EOF ##################
