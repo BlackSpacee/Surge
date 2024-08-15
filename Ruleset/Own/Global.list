@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 101
-# DOMAIN-SUFFIX: 25185
+# DOMAIN-SUFFIX: 25193
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 25499
-# UPDATED: 2024-08-15 14:28:55
+# TOTAL: 25507
+# UPDATED: 2024-08-15 20:39:33
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6498,14 +6498,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-08-06 02:11:33
+# UPDATED: 2024-08-16 02:12:36
 # DOMAIN: 12
 # DOMAIN-KEYWORD: 28
-# DOMAIN-SUFFIX: 5914
+# DOMAIN-SUFFIX: 5916
 # IP-CIDR: 96
 # IP-CIDR6: 4
 # USER-AGENT: 9
-# TOTAL: 6063
+# TOTAL: 6065
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6763,6 +6763,7 @@ DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,ssa.gov
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,st.luluku.pw
+DOMAIN-SUFFIX,storj.io
 DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,symauth.com
@@ -6809,6 +6810,7 @@ DOMAIN-SUFFIX,unfiltered.news
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,uploader.jp
 DOMAIN-SUFFIX,upwork.com
+DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,userapi.nytlog.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,usgs.gov
@@ -6883,14 +6885,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2024-08-12 02:12:40
+# UPDATED: 2024-08-16 02:12:18
 # DOMAIN: 82
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 24972
+# DOMAIN-SUFFIX: 24980
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 25253
+# TOTAL: 25261
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -8161,6 +8163,8 @@ DOMAIN-SUFFIX,anandtech.com
 DOMAIN-SUFFIX,anatomy.tv
 DOMAIN-SUFFIX,anb.org
 DOMAIN-SUFFIX,ancensored.com
+DOMAIN-SUFFIX,androidauthority.com
+DOMAIN-SUFFIX,androidpolice.com
 DOMAIN-SUFFIX,andysparis.com
 DOMAIN-SUFFIX,anfutong.com
 DOMAIN-SUFFIX,angel-gto.com
@@ -22470,6 +22474,7 @@ DOMAIN-SUFFIX,techhub.ms
 DOMAIN-SUFFIX,techliquidators.com
 DOMAIN-SUFFIX,technics.com
 DOMAIN-SUFFIX,technologyandsociety.org
+DOMAIN-SUFFIX,techradar.com
 DOMAIN-SUFFIX,techstreet.com
 DOMAIN-SUFFIX,techtimes.com
 DOMAIN-SUFFIX,ted.com
@@ -22811,6 +22816,7 @@ DOMAIN-SUFFIX,tokyotosho.info
 DOMAIN-SUFFIX,tokyotosho.se
 DOMAIN-SUFFIX,tomatespodres.com
 DOMAIN-SUFFIX,tomovie.net
+DOMAIN-SUFFIX,tomsguide.com
 DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,tonicmovies.com
 DOMAIN-SUFFIX,toolforge.org
@@ -25401,6 +25407,8 @@ DOMAIN-SUFFIX,zb.live
 DOMAIN-SUFFIX,zbporn.com
 DOMAIN-SUFFIX,zctb.buzz
 DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,zdnet.com
+DOMAIN-SUFFIX,zdnet.redvideo.io
 DOMAIN-SUFFIX,zdusercontent.com
 DOMAIN-SUFFIX,zee.com
 DOMAIN-SUFFIX,zee5.com
