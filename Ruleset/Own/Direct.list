@@ -1,12 +1,11 @@
 # NAME: Direct
-# AND: 1
 # DOMAIN: 52
 # DOMAIN-SUFFIX: 10
 # DOMAIN-KEYWORD: 25
 # IP-CIDR: 2
 # DEST-PORT: 1
-# TOTAL: 91
-# UPDATED: 2024-08-18 14:27:20
+# TOTAL: 90
+# UPDATED: 2024-08-18 20:38:35
 
 # Direct+
 DOMAIN,app.adjust.com
@@ -142,9 +141,9 @@ IP-CIDR,192.168.0.1/24,no-resolve
 # > 天翼网关
 IP-CIDR,192.168.1.1/24,no-resolve
 ############################################################# 这是第二条分割线 #############################################################
-# 2024-07-31 19:20
+# 2024-08-18 21:55
 # > NTP
-AND,((DEST-PORT,123),(PROTOCOL,UDP))
+# AND,((DEST-PORT,123),(PROTOCOL,UDP))
 # > VPS SSH
 DEST-PORT,22
 # > IPv4/IPv6 Test
