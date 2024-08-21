@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 447
-# DOMAIN-SUFFIX: 92919
+# DOMAIN-SUFFIX: 92920
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8080
 # IP-CIDR6: 11818
 # USER-AGENT: 69
 # PROCESS-NAME: 49
-# TOTAL: 113419
-# UPDATED: 2024-08-21 02:27:37
+# TOTAL: 113420
+# UPDATED: 2024-08-21 09:35:43
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -269,8 +269,8 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-08-20T13:50:06.890Z
-# Size: 776
+# Last Updated: 2024-08-21T05:57:25.630Z
+# Size: 781
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN,www.layuicdn.com
 DOMAIN,xboxlive.cn
@@ -580,12 +580,14 @@ DOMAIN-SUFFIX,bendibao.com
 DOMAIN-SUFFIX,benghuai.com
 DOMAIN-SUFFIX,bh3.com
 DOMAIN-SUFFIX,bosszhipin.com
+DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,camera360.com
 DOMAIN-SUFFIX,camscanner.com
 DOMAIN-SUFFIX,cdnjtzy.com
 DOMAIN-SUFFIX,cowcs.com
+DOMAIN-SUFFIX,cowtransfer.com
 DOMAIN-SUFFIX,changyan.com
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,chaoxing.com
@@ -608,6 +610,7 @@ DOMAIN-SUFFIX,csdnimg.cn
 DOMAIN-SUFFIX,ctfile.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,c-ctrip.com
+DOMAIN-SUFFIX,dancf.com
 DOMAIN-SUFFIX,dangdang.com
 DOMAIN-SUFFIX,dewu.com
 DOMAIN-SUFFIX,dfcfw.com
@@ -658,6 +661,7 @@ DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ithome.com
 DOMAIN-SUFFIX,jianshu.com
 DOMAIN-SUFFIX,jianshu.io
+DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,jb51.net
 DOMAIN-SUFFIX,jpush.cn
@@ -748,6 +752,7 @@ DOMAIN-SUFFIX,tianyancha.com
 DOMAIN-SUFFIX,tripcdn.cn
 DOMAIN-SUFFIX,tvmao.com
 DOMAIN-SUFFIX,tvzhe.com
+DOMAIN-SUFFIX,udesk.cn
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,weather.com.cn
@@ -1912,7 +1917,6 @@ DOMAIN-SUFFIX,bytehwm.com
 DOMAIN-SUFFIX,byteintl.net
 DOMAIN-SUFFIX,bytelb.net
 DOMAIN-SUFFIX,bytetcc.com
-DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,cabbagebox.com
 DOMAIN-SUFFIX,caijingwu.com
 DOMAIN-SUFFIX,cainiao-inc.com
@@ -2245,7 +2249,6 @@ DOMAIN-SUFFIX,cooldock.com
 DOMAIN-SUFFIX,coolsite.vip
 DOMAIN-SUFFIX,cootekservice.com
 DOMAIN-SUFFIX,cowlevel.net
-DOMAIN-SUFFIX,cowtransfer.com
 DOMAIN-SUFFIX,cppblog.com
 DOMAIN-SUFFIX,cpppf.org
 DOMAIN-SUFFIX,cqccn.com
@@ -3003,7 +3006,6 @@ DOMAIN-SUFFIX,jiazhao.com
 DOMAIN-SUFFIX,jibencaozuo.com
 DOMAIN-SUFFIX,jidian.im
 DOMAIN-SUFFIX,jiemeng8.com
-DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jikeiot.cloud
 DOMAIN-SUFFIX,jikexueyuan.com
 DOMAIN-SUFFIX,jikipedia.com
@@ -26854,7 +26856,6 @@ DOMAIN-SUFFIX,danbagui.com
 DOMAIN-SUFFIX,danbaodan.com
 DOMAIN-SUFFIX,dance365.com
 DOMAIN-SUFFIX,dancerspointewinchester.com
-DOMAIN-SUFFIX,dancf.com
 DOMAIN-SUFFIX,dancihu.com
 DOMAIN-SUFFIX,dancingcg.com
 DOMAIN-SUFFIX,dandaiqh.com
