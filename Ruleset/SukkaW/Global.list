@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-08-25T19:27:51.419Z
-# Size: 616
+# Last Updated: 2024-08-26T02:00:07.813Z
+# Size: 637
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -264,6 +264,22 @@ DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,annas-archive.gs
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,surfsharkdns.com
+DOMAIN-SUFFIX,xpressunblock.com
+DOMAIN-SUFFIX,dnsleak.asn247.net
+DOMAIN-SUFFIX,edns.ip-api.com
+DOMAIN-SUFFIX,dns-check.info
+DOMAIN-SUFFIX,dnsleaktest.org
+DOMAIN-SUFFIX,cyberghost.app
+DOMAIN-SUFFIX,strongleakstest.com
+DOMAIN-SUFFIX,ovpnleaktest.com
+DOMAIN-SUFFIX,mydnsleaktest.com
+DOMAIN-SUFFIX,360ssh.com
+DOMAIN-SUFFIX,dns.myipstack.com
+DOMAIN-SUFFIX,privacytest.info
+DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,fly.dev
@@ -347,6 +363,7 @@ DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,dish.com
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,dns-oarc.net
 DOMAIN-SUFFIX,doujins.com
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,dropbox.com
@@ -456,6 +473,7 @@ DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,nhentai.xxx
 DOMAIN-SUFFIX,noip.com
+DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,npm.io
@@ -489,6 +507,7 @@ DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,privateinternetaccess.com
 DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,phncdn.com
@@ -569,6 +588,7 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,viber.com
@@ -579,6 +599,7 @@ DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whoer.cc
+DOMAIN-SUFFIX,whoer.com
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikidot.com
