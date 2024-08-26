@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 101
-# DOMAIN-SUFFIX: 25200
+# DOMAIN-SUFFIX: 25205
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 25514
-# UPDATED: 2024-08-25 20:37:30
+# TOTAL: 25519
+# UPDATED: 2024-08-26 02:25:33
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-08-22T12:44:32.483Z
-# Size: 605
+# Last Updated: 2024-08-25T19:27:51.419Z
+# Size: 616
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -143,6 +143,9 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,githubpreview.dev
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,globo.com
 DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,cnn.com
@@ -270,6 +273,11 @@ DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,annas-archive.gs
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,eu.org
+DOMAIN-SUFFIX,edgecompute.app
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,shw.io
+DOMAIN-SUFFIX,edgeapp.net
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
@@ -372,6 +380,8 @@ DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlylb.net
+DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,flickr.com
@@ -382,7 +392,6 @@ DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,getchu.com
 DOMAIN-SUFFIX,gettyimages.com
-DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,ghostery.com
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,go.dev
@@ -396,6 +405,8 @@ DOMAIN-SUFFIX,hanime.tv
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,hentaifox.com
+DOMAIN-SUFFIX,herokuapp.com
+DOMAIN-SUFFIX,herokussl.com
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,homedepot.com
@@ -2058,7 +2069,6 @@ DOMAIN-SUFFIX,etowns.net
 DOMAIN-SUFFIX,etowns.org
 DOMAIN-SUFFIX,ettoday.net
 DOMAIN-SUFFIX,etvonline.hk
-DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,eucasino.com
 DOMAIN-SUFFIX,eulam.com
 DOMAIN-SUFFIX,eurekavpt.com
@@ -6335,7 +6345,6 @@ DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,elastic.co
 DOMAIN-SUFFIX,elastic.com
-DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,jitpack.io
 DOMAIN-SUFFIX,maven.org
 DOMAIN-SUFFIX,mvnrepository.com
@@ -13315,7 +13324,6 @@ DOMAIN-SUFFIX,fastlane.tools
 DOMAIN-SUFFIX,fastly-terrarium.com
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastlylabs.com
-DOMAIN-SUFFIX,fastlylb.net
 DOMAIN-SUFFIX,fasttext.cc
 DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,fatstube.com
@@ -14295,7 +14303,6 @@ DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubnext.com
-DOMAIN-SUFFIX,githubpreview.dev
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,gitlab.net
@@ -14857,10 +14864,8 @@ DOMAIN-SUFFIX,heroku-app.com
 DOMAIN-SUFFIX,heroku-charge.com
 DOMAIN-SUFFIX,heroku.co
 DOMAIN-SUFFIX,heroku.me
-DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,herokucdn.com
 DOMAIN-SUFFIX,herokucharge.com
-DOMAIN-SUFFIX,herokussl.com
 DOMAIN-SUFFIX,herringnetwork.com
 DOMAIN-SUFFIX,hetzner.cloud
 DOMAIN-SUFFIX,hetzner.de
