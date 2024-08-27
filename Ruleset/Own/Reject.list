@@ -1,13 +1,13 @@
 # NAME: Reject
 # AND: 2
-# DOMAIN: 445
-# DOMAIN-SUFFIX: 1035
-# DOMAIN-KEYWORD: 102
-# IP-CIDR: 60
+# DOMAIN: 441
+# DOMAIN-SUFFIX: 1034
+# DOMAIN-KEYWORD: 99
+# IP-CIDR: 12
 # IP-CIDR6: 2
 # USER-AGENT: 1
-# TOTAL: 1647
-# UPDATED: 2024-08-27 14:29:33
+# TOTAL: 1591
+# UPDATED: 2024-08-27 20:40:11
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1565,7 +1565,6 @@ AND,((USER-AGENT,bili*),(NOT,((OR,((DOMAIN-SUFFIX,bilibili.com),(DOMAIN-SUFFIX,h
 ################## EOF ##################
 ############################################################# 这是第五条分割线 #############################################################
 DOMAIN,25e87c0802f91cf8cgg.6uzxtlv.cn
-DOMAIN,adserviceretry.kglink.cn
 DOMAIN,apicdn.viglink.com
 DOMAIN,ark.letv.com
 DOMAIN,dagonghuzhu.com
@@ -1591,9 +1590,6 @@ DOMAIN,rthmnj.xyz
 DOMAIN,tc.vpubmi.com
 DOMAIN,tempest.services.disqus.com
 DOMAIN,tg.gtlpaj.com
-DOMAIN,wxsnsdy.wxs.qq.com
-DOMAIN,wxsnsdythumb.wxs.qq.com
-DOMAIN,xlog.jd.com
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,adform
@@ -1613,9 +1609,6 @@ DOMAIN-KEYWORD,histats
 DOMAIN-KEYWORD,in-page-push
 DOMAIN-KEYWORD,jads
 DOMAIN-KEYWORD,juruigj
-DOMAIN-KEYWORD,kc.saigmpl.com
-DOMAIN-KEYWORD,kcc.fwxhvvd.com
-DOMAIN-KEYWORD,kg.oiocklg.com
 DOMAIN-KEYWORD,lieyou
 DOMAIN-KEYWORD,mathtag
 DOMAIN-KEYWORD,mdapp09
@@ -1628,7 +1621,6 @@ DOMAIN-KEYWORD,toateeli
 DOMAIN-KEYWORD,trwl1
 DOMAIN-KEYWORD,xxshuyuan
 DOMAIN-SUFFIX,107iwh.cn
-DOMAIN-SUFFIX,163jiasu.com
 DOMAIN-SUFFIX,22c.in
 DOMAIN-SUFFIX,2700.5mgrgsc.cn
 DOMAIN-SUFFIX,2qpqwkx.cn
@@ -1799,51 +1791,3 @@ DOMAIN-SUFFIX,xxxjmp.com
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,youradexchange.com
 DOMAIN-SUFFIX,zprofuqkssny.com
-IP-CIDR,103.49.209.27/32,no-resolve
-IP-CIDR,106.75.231.48/32,no-resolve
-IP-CIDR,111.175.220.163/32,no-resolve
-IP-CIDR,111.175.220.164/32,no-resolve
-IP-CIDR,114.119.160.0/21,no-resolve
-IP-CIDR,114.247.28.96/32,no-resolve
-IP-CIDR,115.182.16.79/32,no-resolve
-IP-CIDR,118.144.88.126/32,no-resolve
-IP-CIDR,118.144.88.215/32,no-resolve
-IP-CIDR,118.144.88.216/32,no-resolve
-IP-CIDR,119.4.249.166/32,no-resolve
-IP-CIDR,120.240.95.37/32,no-resolve
-IP-CIDR,120.27.235.201/32,no-resolve
-IP-CIDR,120.76.189.132/32,no-resolve
-IP-CIDR,121.196.197.147/32,no-resolve
-IP-CIDR,122.229.29.89/32,no-resolve
-IP-CIDR,122.229.8.47/32,no-resolve
-IP-CIDR,123.56.152.96/32,no-resolve
-IP-CIDR,124.14.21.147/32,no-resolve
-IP-CIDR,124.14.21.151/32,no-resolve
-IP-CIDR,124.232.160.178/32,no-resolve
-IP-CIDR,175.6.223.15/32,no-resolve
-IP-CIDR,180.166.52.24/32,no-resolve
-IP-CIDR,183.59.53.237/32,no-resolve
-IP-CIDR,211.161.101.106/32,no-resolve
-IP-CIDR,211.161.101.110/32,no-resolve
-IP-CIDR,218.93.127.37/32,no-resolve
-IP-CIDR,220.115.251.25/32,no-resolve
-IP-CIDR,220.196.52.141/32,no-resolve
-IP-CIDR,221.179.131.72/32,no-resolve
-IP-CIDR,221.179.140.145/32,no-resolve
-IP-CIDR,221.228.17.152/32,no-resolve
-IP-CIDR,221.231.6.79/32,no-resolve
-IP-CIDR,221.6.4.148/32,no-resolve
-IP-CIDR,222.186.61.91/32,no-resolve
-IP-CIDR,222.186.61.95/32,no-resolve
-IP-CIDR,222.186.61.96/32,no-resolve
-IP-CIDR,222.186.61.97/32,no-resolve
-IP-CIDR,222.73.156.235/32,no-resolve
-IP-CIDR,39.107.15.115/32,no-resolve
-IP-CIDR,47.56.131.76/32,no-resolve
-IP-CIDR,47.89.59.182/32,no-resolve
-IP-CIDR,47.97.215.55/32,no-resolve
-IP-CIDR,47.99.42.29/32,no-resolve
-IP-CIDR,61.160.200.223/32,no-resolve
-IP-CIDR,61.160.200.242/32,no-resolve
-IP-CIDR,61.160.200.252/32,no-resolve
-IP-CIDR,61.174.50.214/32,no-resolve
