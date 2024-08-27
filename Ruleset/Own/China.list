@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 447
-# DOMAIN-SUFFIX: 92920
+# DOMAIN-SUFFIX: 92921
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8081
 # IP-CIDR6: 11847
 # USER-AGENT: 69
 # PROCESS-NAME: 49
-# TOTAL: 113450
-# UPDATED: 2024-08-27 02:27:52
+# TOTAL: 113451
+# UPDATED: 2024-08-27 09:37:59
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -1135,6 +1135,8 @@ DOMAIN-SUFFIX,zjbyte.com
 # ChinaNet
 # DiDi
 # Douyu 斗鱼
+DOMAIN-SUFFIX,bytefcdnrd.com
+DOMAIN-SUFFIX,edgesrv.com
 # Epic
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
@@ -1323,6 +1325,7 @@ DOMAIN-SUFFIX,jumei.com
 DOMAIN-SUFFIX,kaola.com
 DOMAIN-SUFFIX,knewone.com
 DOMAIN-SUFFIX,koowo.com
+DOMAIN-SUFFIX,koyso.com
 DOMAIN-SUFFIX,ksyungslb.com
 DOMAIN-SUFFIX,kuaidi100.com
 DOMAIN-SUFFIX,lancdns.com
@@ -20437,7 +20440,6 @@ DOMAIN-SUFFIX,byteedu.com
 DOMAIN-SUFFIX,byteeffecttos.com
 DOMAIN-SUFFIX,bytefae.com
 DOMAIN-SUFFIX,bytefast.net
-DOMAIN-SUFFIX,bytefcdnrd.com
 DOMAIN-SUFFIX,bytegeckoext.com
 DOMAIN-SUFFIX,bytegqpo.net
 DOMAIN-SUFFIX,bytegrowth.com
@@ -30323,7 +30325,6 @@ DOMAIN-SUFFIX,edgegslb.com
 DOMAIN-SUFFIX,edgekey88.net
 DOMAIN-SUFFIX,edgemec.com
 DOMAIN-SUFFIX,edgeonedy1.com
-DOMAIN-SUFFIX,edgesrv.com
 DOMAIN-SUFFIX,edhic.com
 DOMAIN-SUFFIX,edi198.com
 DOMAIN-SUFFIX,edianda.com
