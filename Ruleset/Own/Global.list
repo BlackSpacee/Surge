@@ -1,13 +1,13 @@
 # NAME: Global
-# DOMAIN: 101
-# DOMAIN-SUFFIX: 25223
+# DOMAIN: 102
+# DOMAIN-SUFFIX: 25224
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 25537
-# UPDATED: 2024-08-30 14:30:03
+# TOTAL: 25539
+# UPDATED: 2024-08-30 20:40:42
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6926,14 +6926,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2024-08-28 02:11:32
-# DOMAIN: 82
+# UPDATED: 2024-08-31 02:11:48
+# DOMAIN: 83
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 24980
+# DOMAIN-SUFFIX: 24981
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 25261
+# TOTAL: 25263
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -7000,6 +7000,7 @@ DOMAIN,practivate.adobe.ntp
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,push-apple.com.akadns.net
 DOMAIN,qualcomm.sc.omtrdc.net
+DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,tesla-cdn.thron.com
 DOMAIN,translomatic.foxfortmobile.com
 DOMAIN,vmware.tt.omtrdc.net
@@ -24440,6 +24441,7 @@ DOMAIN-SUFFIX,wzzyw.buzz
 DOMAIN-SUFFIX,x-artvideo.net
 DOMAIN-SUFFIX,x-caprice.com
 DOMAIN-SUFFIX,x-fetish.org
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.org
 DOMAIN-SUFFIX,x.team
 DOMAIN-SUFFIX,x0rd38.xyz
