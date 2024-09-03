@@ -2,12 +2,12 @@
 # AND: 2
 # DOMAIN: 441
 # DOMAIN-SUFFIX: 1038
-# DOMAIN-KEYWORD: 99
+# DOMAIN-KEYWORD: 98
 # IP-CIDR: 12
 # IP-CIDR6: 2
 # USER-AGENT: 1
-# TOTAL: 1595
-# UPDATED: 2024-09-03 14:29:51
+# TOTAL: 1594
+# UPDATED: 2024-09-03 20:41:17
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1485,8 +1485,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-07-31T16:04:39.434Z
-# Size: 73
+# Last Updated: 2024-09-03T18:18:55.308Z
+# Size: 72
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1519,7 +1519,6 @@ DOMAIN-KEYWORD,sunnimiq
 DOMAIN-KEYWORD,.nimiq.
 DOMAIN-KEYWORD,anybest.
 DOMAIN-KEYWORD,dubester.
-DOMAIN-KEYWORD,pancakeswap
 DOMAIN-KEYWORD,fb-restriction-case
 DOMAIN-KEYWORD,fb-restriction-appeal
 DOMAIN-KEYWORD,fb-community-standards
