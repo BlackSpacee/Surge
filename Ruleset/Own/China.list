@@ -8,11 +8,11 @@
 # USER-AGENT: 69
 # PROCESS-NAME: 49
 # TOTAL: 113297
-# UPDATED: 2024-09-03 20:41:17
+# UPDATED: 2024-09-04 02:28:47
 
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2024-06-15T16:58:36.303Z
+# Last Updated: 2024-09-03T18:39:36.883Z
 # Size: 24
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,254.169.in-addr.arpa
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
+# Last Updated: 2024-09-03T18:39:36.881Z
 # Size: 223
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,xunlei.com
@@ -269,7 +270,7 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-09-03T18:18:55.280Z
+# Last Updated: 2024-09-03T18:39:36.877Z
 # Size: 780
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN,www.layuicdn.com
