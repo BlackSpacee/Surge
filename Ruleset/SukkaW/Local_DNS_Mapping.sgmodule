@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-09-04T12:37:11.997Z
+#!desc=Last Updated: 2024-09-04T17:34:07.214Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -442,6 +442,8 @@ jomoxc.com = server:180.76.76.76
 *.jomoxc.com = server:180.76.76.76
 duapp.com = server:180.76.76.76
 *.duapp.com = server:180.76.76.76
+antpcdn.com = server:180.76.76.76
+*.antpcdn.com = server:180.76.76.76
 doh.360.cn = 101.198.198.198, 101.198.199.200
 dot.360.cn = 101.198.198.198, 101.198.199.200
 dns.360.cn = 101.198.198.198, 101.198.199.200
