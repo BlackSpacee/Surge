@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 25238
+# DOMAIN-SUFFIX: 25239
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 25553
-# UPDATED: 2024-09-06 14:29:57
+# TOTAL: 25554
+# UPDATED: 2024-09-06 20:40:31
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6936,14 +6936,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2024-09-05 02:12:15
+# UPDATED: 2024-09-07 02:10:53
 # DOMAIN: 83
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 24989
+# DOMAIN-SUFFIX: 24990
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 25271
+# TOTAL: 25272
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -17869,6 +17869,7 @@ DOMAIN-SUFFIX,mindgeek.com
 DOMAIN-SUFFIX,mindmeld.com
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraft.wiki
+DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mingky.org
 DOMAIN-SUFFIX,mingkyaa.com
