@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 101
-# DOMAIN-SUFFIX: 25240
+# DOMAIN-SUFFIX: 25242
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 25554
-# UPDATED: 2024-09-08 14:28:05
+# TOTAL: 25556
+# UPDATED: 2024-09-08 20:38:40
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-09-07T17:56:22.916Z
-# Size: 643
+# Last Updated: 2024-09-08T17:33:49.204Z
+# Size: 644
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -397,6 +397,7 @@ DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,fc2.com
+DOMAIN-SUFFIX,fastly-analytics.com
 DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,etsy.com
@@ -6936,14 +6937,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2024-09-07 02:10:53
+# UPDATED: 2024-09-09 02:11:06
 # DOMAIN: 83
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 24990
+# DOMAIN-SUFFIX: 24991
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 25272
+# TOTAL: 25273
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -14902,6 +14903,7 @@ DOMAIN-SUFFIX,herokucdn.com
 DOMAIN-SUFFIX,herokucharge.com
 DOMAIN-SUFFIX,herringnetwork.com
 DOMAIN-SUFFIX,hetzner.cloud
+DOMAIN-SUFFIX,hetzner.company
 DOMAIN-SUFFIX,hetzner.de
 DOMAIN-SUFFIX,hex.pm
 DOMAIN-SUFFIX,hexatronik.com
