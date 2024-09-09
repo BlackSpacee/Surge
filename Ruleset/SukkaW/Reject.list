@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-09-07T17:29:26.054Z
-# Size: 72
+# Last Updated: 2024-09-08T21:37:03.090Z
+# Size: 73
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -17,6 +17,7 @@ DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
 DOMAIN-SUFFIX,net.mydays.de
 DOMAIN-SUFFIX,telemetry.mozilla.org
 DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
+DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,notify6.com

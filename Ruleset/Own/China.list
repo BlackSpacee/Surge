@@ -8,7 +8,7 @@
 # USER-AGENT: 69
 # PROCESS-NAME: 49
 # TOTAL: 113670
-# UPDATED: 2024-09-08 20:38:40
+# UPDATED: 2024-09-09 02:27:55
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -270,8 +270,8 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-09-07T18:03:15.052Z
-# Size: 769
+# Last Updated: 2024-09-08T21:37:02.836Z
+# Size: 771
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN,www.intel.cn
 DOMAIN,lv.queniujq.cn
@@ -572,6 +572,8 @@ DOMAIN-SUFFIX,baidubce.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,91.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytetcc.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,baike.com
@@ -1111,7 +1113,6 @@ DOMAIN-SUFFIX,bdxiguastatic.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedns.net
-DOMAIN-SUFFIX,bytednsdoc.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,bytetos.com
@@ -1915,7 +1916,6 @@ DOMAIN-SUFFIX,bytegslb.com
 DOMAIN-SUFFIX,bytehwm.com
 DOMAIN-SUFFIX,byteintl.net
 DOMAIN-SUFFIX,bytelb.net
-DOMAIN-SUFFIX,bytetcc.com
 DOMAIN-SUFFIX,cabbagebox.com
 DOMAIN-SUFFIX,caijingwu.com
 DOMAIN-SUFFIX,cainiao-inc.com

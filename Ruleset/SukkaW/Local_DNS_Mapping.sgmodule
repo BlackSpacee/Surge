@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-09-08T14:39:08.429Z
+#!desc=Last Updated: 2024-09-08T21:37:02.857Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -396,6 +396,10 @@ zijieapi.com = server:180.184.2.2
 *.zijieapi.com = server:180.184.2.2
 feelgood.cn = server:180.184.2.2
 *.feelgood.cn = server:180.184.2.2
+bytetcc.com = server:180.184.2.2
+*.bytetcc.com = server:180.184.2.2
+bytednsdoc.com = server:180.184.2.2
+*.bytednsdoc.com = server:180.184.2.2
 91.com = server:180.76.76.76
 *.91.com = server:180.76.76.76
 hao123.com = server:180.76.76.76
