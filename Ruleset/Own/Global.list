@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 101
-# DOMAIN-SUFFIX: 25244
+# DOMAIN-SUFFIX: 25245
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 25558
-# UPDATED: 2024-09-15 14:29:24
+# TOTAL: 25559
+# UPDATED: 2024-09-15 20:39:48
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6939,14 +6939,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2024-09-15 02:11:11
+# UPDATED: 2024-09-16 02:12:29
 # DOMAIN: 83
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 24992
+# DOMAIN-SUFFIX: 24993
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 25274
+# TOTAL: 25275
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -17062,6 +17062,7 @@ DOMAIN-SUFFIX,littleasians.com
 DOMAIN-SUFFIX,littlesexdolls.com
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,liuhefabu.club
+DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,live.com.au
 DOMAIN-SUFFIX,live.eu
 DOMAIN-SUFFIX,liveauction.com
