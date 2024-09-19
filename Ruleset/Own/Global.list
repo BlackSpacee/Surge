@@ -7,12 +7,12 @@
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 25559
-# UPDATED: 2024-09-19 14:30:51
+# UPDATED: 2024-09-19 20:42:48
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-09-19T12:37:32.471Z
-# Size: 648
+# Last Updated: 2024-09-19T18:09:38.056Z
+# Size: 649
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -340,6 +340,7 @@ DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,nytco.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nypost.com
+DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,noip.com
@@ -6773,7 +6774,6 @@ DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,novafile.com
-DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,ooyala.com
