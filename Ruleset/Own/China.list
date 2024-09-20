@@ -8,11 +8,11 @@
 # USER-AGENT: 69
 # PROCESS-NAME: 49
 # TOTAL: 112770
-# UPDATED: 2024-09-20 09:43:04
+# UPDATED: 2024-09-20 14:30:51
 
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2024-09-07T17:29:25.825Z
+# Last Updated: 2024-09-20T08:19:59.052Z
 # Size: 24
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -46,7 +46,7 @@ DOMAIN-SUFFIX,lan
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2024-09-19T18:09:37.526Z
+# Last Updated: 2024-09-20T08:19:59.049Z
 # Size: 220
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,_hotspot_.m2m
@@ -270,7 +270,7 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-09-19T18:09:37.514Z
+# Last Updated: 2024-09-20T08:10:49.147Z
 # Size: 774
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN,www.intel.cn
