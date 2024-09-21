@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2024-09-20T08:19:59.502Z
-# Size: 33
+# Last Updated: 2024-09-20T20:16:55.019Z
+# Size: 32
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,37 +9,35 @@
 # This file contains domains of OpenAI, Claude.
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN,ai.google.dev
-DOMAIN,gateway.ai.cloudflare.com
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN-SUFFIX,clipdrop.co
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,openart.ai
-DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,generativeai.google
 DOMAIN-KEYWORD,openai
 ################## EOF ##################
-

@@ -7,7 +7,7 @@
 # IP-CIDR6: 2
 # USER-AGENT: 1
 # TOTAL: 1596
-# UPDATED: 2024-09-20 20:42:12
+# UPDATED: 2024-09-21 02:29:49
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1485,28 +1485,28 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-09-20T08:19:59.524Z
-# Size: 72
+# Last Updated: 2024-09-20T18:57:43.916Z
+# Size: 71
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # The ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
+DOMAIN-SUFFIX,net.mydays.de
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,telemetry.mozilla.org
+DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
+DOMAIN-SUFFIX,notify6.com
+DOMAIN-SUFFIX,crazyegg.com
 DOMAIN,js.iterable.com
 DOMAIN,api.iterable.com
 DOMAIN,api-js.mixpanel.com
-DOMAIN,stun.smartgslb.com
-DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
-DOMAIN-SUFFIX,net.mydays.de
-DOMAIN-SUFFIX,telemetry.mozilla.org
-DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
-DOMAIN-SUFFIX,notify6.com
-DOMAIN-SUFFIX,notifysrv.com
 DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,crazyegg.com
+DOMAIN-SUFFIX,notifysrv.com
+DOMAIN,stun.smartgslb.com
+DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
 DOMAIN-KEYWORD,.estream.
 DOMAIN-KEYWORD,jshosting
 DOMAIN-KEYWORD,hostingcloud

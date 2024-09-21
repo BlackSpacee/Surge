@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-09-20T08:19:59.524Z
-# Size: 72
+# Last Updated: 2024-09-20T18:57:43.916Z
+# Size: 71
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,22 +9,22 @@
 # The ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
+DOMAIN-SUFFIX,net.mydays.de
+DOMAIN-SUFFIX,openx.net
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,telemetry.mozilla.org
+DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
+DOMAIN-SUFFIX,notify6.com
+DOMAIN-SUFFIX,crazyegg.com
 DOMAIN,js.iterable.com
 DOMAIN,api.iterable.com
 DOMAIN,api-js.mixpanel.com
-DOMAIN,stun.smartgslb.com
-DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
-DOMAIN-SUFFIX,net.mydays.de
-DOMAIN-SUFFIX,telemetry.mozilla.org
-DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
-DOMAIN-SUFFIX,openx.net
-DOMAIN-SUFFIX,notify6.com
-DOMAIN-SUFFIX,notifysrv.com
-DOMAIN-SUFFIX,advertising.com
 DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,crazyegg.com
+DOMAIN-SUFFIX,notifysrv.com
+DOMAIN,stun.smartgslb.com
+DOMAIN-SUFFIX,advertising.com
+DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
 DOMAIN-KEYWORD,.estream.
 DOMAIN-KEYWORD,jshosting
 DOMAIN-KEYWORD,hostingcloud
@@ -51,7 +51,6 @@ DOMAIN-KEYWORD,adserver
 DOMAIN-KEYWORD,admaster
 DOMAIN-KEYWORD,adserve2
 DOMAIN-KEYWORD,admob
-DOMAIN-KEYWORD,adserver
 DOMAIN-KEYWORD,adspace
 DOMAIN-KEYWORD,advertmarket
 DOMAIN-KEYWORD,adsyndication
@@ -81,4 +80,3 @@ DOMAIN-WILDCARD,beacons*.gvt?.com
 DOMAIN-WILDCARD,*ad.ixigua.com
 AND,((USER-AGENT,bili*),(NOT,((OR,((DOMAIN-SUFFIX,bilibili.com),(DOMAIN-SUFFIX,hdslb.com),(DOMAIN-SUFFIX,wo.cn),(DOMAIN-SUFFIX,biligame.com),(DOMAIN-SUFFIX,bilivideo.com),(DOMAIN-SUFFIX,bilivideo.cn),(DOMAIN-SUFFIX,biliapi.com),(DOMAIN-SUFFIX,biliapi.net),(DOMAIN-SUFFIX,biliintl.com),(DOMAIN-SUFFIX,bstarstatic.com),(DOMAIN-SUFFIX,akamaized.net))))))
 ################## EOF ##################
-
