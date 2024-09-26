@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-09-22T10:15:43.107Z
-# Size: 619
+# Last Updated: 2024-09-26T17:23:21.982Z
+# Size: 623
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -305,6 +305,7 @@ DOMAIN-SUFFIX,bikaios.xyz
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,booklive.jp
+DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,doujins.com
 DOMAIN-SUFFIX,edgeapp.net
 DOMAIN-SUFFIX,firefox.com
@@ -342,6 +343,7 @@ DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vivaldi.com
+DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,workers.dev
@@ -362,6 +364,7 @@ DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,capitalg.com
+DOMAIN-SUFFIX,cbslocal.com
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,cloudapp.net
@@ -420,6 +423,7 @@ DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,wordtune.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,z-library.se
@@ -628,4 +632,3 @@ DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
 USER-AGENT,Roam*
 ################## EOF ##################
-

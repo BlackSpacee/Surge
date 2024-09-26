@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 30833
+# DOMAIN-SUFFIX: 30835
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31148
-# UPDATED: 2024-09-26 14:31:45
+# TOTAL: 31150
+# UPDATED: 2024-09-26 20:45:48
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-09-22T10:15:43.107Z
-# Size: 619
+# Last Updated: 2024-09-26T17:23:21.982Z
+# Size: 623
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -315,6 +315,7 @@ DOMAIN-SUFFIX,bikaios.xyz
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,booklive.jp
+DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,doujins.com
 DOMAIN-SUFFIX,edgeapp.net
 DOMAIN-SUFFIX,firefox.com
@@ -352,6 +353,7 @@ DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vivaldi.com
+DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,workers.dev
@@ -372,6 +374,7 @@ DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,capitalg.com
+DOMAIN-SUFFIX,cbslocal.com
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,cloudapp.net
@@ -430,6 +433,7 @@ DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,wordtune.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,z-library.se
@@ -1399,7 +1403,6 @@ DOMAIN-SUFFIX,catholic.org.tw
 DOMAIN-SUFFIX,cathvoice.org.tw
 DOMAIN-SUFFIX,cato.org
 DOMAIN-SUFFIX,cattt.com
-DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,cbtc.org.hk
 DOMAIN-SUFFIX,cc.com
 DOMAIN-SUFFIX,cccat.cc
@@ -6016,7 +6019,6 @@ DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikileaks.pl
 DOMAIN-SUFFIX,wikilivres.info
 DOMAIN-SUFFIX,wikimapia.org
-DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,wikiwiki.jp
 DOMAIN-SUFFIX,wildammo.com
 DOMAIN-SUFFIX,williamhill.com
