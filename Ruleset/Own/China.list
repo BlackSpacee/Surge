@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 445
-# DOMAIN-SUFFIX: 92843
+# DOMAIN-SUFFIX: 92844
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8077
 # IP-CIDR6: 11397
 # USER-AGENT: 69
 # PROCESS-NAME: 49
-# TOTAL: 112917
-# UPDATED: 2024-09-29 20:40:42
+# TOTAL: 112918
+# UPDATED: 2024-09-30 02:28:22
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -46,7 +46,8 @@ DOMAIN-SUFFIX,168.192.in-addr.arpa
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Size: 220
+# Last Updated: 2024-09-29T23:24:25.770Z
+# Size: 221
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,etxr
 DOMAIN-SUFFIX,unifi
@@ -214,6 +215,7 @@ DOMAIN-SUFFIX,setmeup.arubanetworks.com
 DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,securelogin.com.cn
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,steamloopback.host
 DOMAIN-SUFFIX,tplinkplclogin.net
