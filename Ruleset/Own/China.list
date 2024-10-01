@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 445
-# DOMAIN-SUFFIX: 92808
+# DOMAIN-SUFFIX: 92809
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8071
 # IP-CIDR6: 11397
 # USER-AGENT: 69
 # PROCESS-NAME: 49
-# TOTAL: 112876
-# UPDATED: 2024-09-30 20:47:24
+# TOTAL: 112877
+# UPDATED: 2024-10-01 02:30:38
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -46,8 +46,8 @@ DOMAIN-SUFFIX,168.192.in-addr.arpa
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2024-09-30T17:41:21.896Z
-# Size: 223
+# Last Updated: 2024-09-30T20:01:58.456Z
+# Size: 224
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,etxr
 DOMAIN-SUFFIX,unifi
@@ -78,6 +78,7 @@ DOMAIN-SUFFIX,j99.info
 DOMAIN-SUFFIX,ncore.cc
 DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,beitai.pt
 DOMAIN-SUFFIX,dxdhd.com
 DOMAIN-SUFFIX,fritz.box
@@ -273,6 +274,7 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
+# Last Updated: 2024-09-30T17:41:21.896Z
 # Size: 774
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,3.cn

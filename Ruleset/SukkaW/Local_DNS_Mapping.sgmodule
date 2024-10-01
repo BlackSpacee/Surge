@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-09-30T17:41:21.896Z
+#!desc=Last Updated: 2024-09-30T20:01:58.456Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -407,6 +407,8 @@ baomitu.com = server:https://dns.360.net/dns-query
 *.baomitu.com = server:https://dns.360.net/dns-query
 securelogin.com.cn = server:system
 *.securelogin.com.cn = server:system
+captive.apple.com = server:system
+*.captive.apple.com = server:system
 instant.arubanetworks.com = server:system
 *.instant.arubanetworks.com = server:system
 setmeup.arubanetworks.com = server:system
