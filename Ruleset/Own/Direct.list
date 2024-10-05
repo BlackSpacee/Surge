@@ -5,7 +5,7 @@
 # IP-CIDR: 2
 # DEST-PORT: 1
 # TOTAL: 91
-# UPDATED: 2024-10-04 20:43:50
+# UPDATED: 2024-10-05 02:30:21
 
 # Direct+
 DOMAIN,app.adjust.com
@@ -48,7 +48,7 @@ DOMAIN,msg.umengcloud.com
 ############################################################# 这是第一条分割线 #############################################################
 #!name=分流修正
 #!desc=修正某些被分流到外区的国内网站
-#!author=fmz200
+#!author=奶思
 #!homepage=https://github.com/fmz200/wool_scripts
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/NaiSi_01.png
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/fenliuxiuzheng.list
