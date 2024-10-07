@@ -1,5 +1,5 @@
 # NAME: China
-# DOMAIN: 445
+# DOMAIN: 447
 # DOMAIN-SUFFIX: 92959
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
@@ -7,8 +7,8 @@
 # IP-CIDR6: 12034
 # USER-AGENT: 69
 # PROCESS-NAME: 49
-# TOTAL: 113630
-# UPDATED: 2024-10-07 02:27:46
+# TOTAL: 113632
+# UPDATED: 2024-10-07 09:49:17
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -274,8 +274,8 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-10-05T15:54:17.224Z
-# Size: 775
+# Last Updated: 2024-10-07T03:58:04.972Z
+# Size: 777
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,t.cn
@@ -418,6 +418,8 @@ DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tmall.hk
+DOMAIN,dl.ubnt.com
+DOMAIN,config.ubnt.com
 DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,udesk.cn
 DOMAIN-SUFFIX,v-56.com
