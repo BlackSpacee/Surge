@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-10-07T19:20:32.639Z
+#!desc=Last Updated: 2024-10-08T11:28:12.979Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -217,6 +217,7 @@ upos-sz-estgoss.bilivideo.com = server:quic://dns.alidns.com:853
 upos-sz-mirrorbd.bilivideo.com = server:180.76.76.76
 upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76
 upos-sz-mirrorcoso1.bilivideo.com = server:https://doh.pub/dns-query
+upos-sz-mirrorcosbstar1.bilivideo.com = server:https://doh.pub/dns-query
 acg.tv = server:https://doh.pub/dns-query
 b23.tv = server:https://doh.pub/dns-query
 bilibili.cn = server:https://doh.pub/dns-query
