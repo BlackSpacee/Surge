@@ -8,7 +8,7 @@
 # USER-AGENT: 69
 # PROCESS-NAME: 49
 # TOTAL: 113640
-# UPDATED: 2024-10-07 20:46:03
+# UPDATED: 2024-10-08 02:28:51
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -274,8 +274,8 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-10-07T03:58:04.972Z
-# Size: 777
+# Last Updated: 2024-10-07T19:20:32.639Z
+# Size: 778
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,t.cn
@@ -336,6 +336,7 @@ DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cntv.cn
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,dot.pub
 DOMAIN-SUFFIX,id6.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,migu.cn
@@ -28973,7 +28974,6 @@ DOMAIN-SUFFIX,dossav.com
 DOMAIN-SUFFIX,dossen.com
 DOMAIN-SUFFIX,dostor.com
 DOMAIN-SUFFIX,dosxs.com
-DOMAIN-SUFFIX,dot.pub
 DOMAIN-SUFFIX,dota2rpg.com
 DOMAIN-SUFFIX,dotamax.com
 DOMAIN-SUFFIX,dotcpp.com
