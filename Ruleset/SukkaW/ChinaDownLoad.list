@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2024-10-11T12:06:44.333Z
-# Size: 195
+# Last Updated: 2024-10-11T13:35:01.273Z
+# Size: 198
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,11 +10,14 @@
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,m2m
+DOMAIN-SUFFIX,_tcp
 DOMAIN-SUFFIX,home
+DOMAIN-SUFFIX,bogon
 DOMAIN-SUFFIX,unifi
 DOMAIN-SUFFIX,bt.byr.cn
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,_msdcs
 DOMAIN-SUFFIX,router
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acm.org
@@ -64,6 +67,7 @@ DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,oppaiti.me
 DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,router.com
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,sdbits.org
 DOMAIN-SUFFIX,skyey2.com
@@ -154,7 +158,6 @@ DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,tplinkplclogin.net
 DOMAIN-SUFFIX,tplinkrepeater.net
 DOMAIN-SUFFIX,huaweimobilewifi.com
-DOMAIN-SUFFIX,_adb-tls-connect._tcp
 DOMAIN-SUFFIX,blackwell-synergy.com
 DOMAIN-SUFFIX,classix-unlimited.co.uk
 DOMAIN-KEYWORD,cnki.net

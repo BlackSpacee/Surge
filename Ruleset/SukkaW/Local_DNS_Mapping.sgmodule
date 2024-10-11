@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-10-11T12:06:44.333Z
+#!desc=Last Updated: 2024-10-11T13:35:01.273Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -390,9 +390,7 @@ captive.apple.com = server:system
 hotspot.cslwifi.com = server:system
 *.home = server:system
 instant.arubanetworks.com = server:system
-*.instant.arubanetworks.com = server:system
 setmeup.arubanetworks.com = server:system
-*.setmeup.arubanetworks.com = server:system
 router.asus.com = server:system
 repeater.asus.com = server:system
 asusrouter.com = server:system
@@ -417,6 +415,7 @@ tplinkrepeater.net = server:system
 *.tplinkrepeater.net = server:system
 *.ui.direct = server:system
 unifi = server:system
+router.com = server:system
 *.huaweimobilewifi.com = server:system
 *.router = server:system
 aterm.me = server:system
@@ -430,9 +429,9 @@ pi.hole = server:system
 *.ts.net = server:system
 injections.adguard.org = server:system
 local.adguard.org = server:system
-_adb-tls-connect._tcp = server:system
-*._adb-tls-connect._tcp = server:system
-lan = server:system
+*._tcp = server:system
+*.bogon = server:system
+*._msdcs = server:system
 *.lan = server:system
 localhost = server:system
 localdomain = server:system
