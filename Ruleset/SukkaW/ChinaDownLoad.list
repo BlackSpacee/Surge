@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2024-09-30T20:01:58.456Z
-# Size: 224
+# Last Updated: 2024-10-11T12:06:44.333Z
+# Size: 195
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,11 +9,13 @@
 # This file contains domains and process that should not be proxied.
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN-SUFFIX,etxr
+DOMAIN-SUFFIX,m2m
+DOMAIN-SUFFIX,home
 DOMAIN-SUFFIX,unifi
 DOMAIN-SUFFIX,bt.byr.cn
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,router
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,avgv.cc
@@ -21,29 +23,22 @@ DOMAIN-SUFFIX,doi.org
 DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,hd4.xyz
 DOMAIN-SUFFIX,hdbd.us
-DOMAIN-SUFFIX,hi.link
 DOMAIN-SUFFIX,lztr.me
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,pi.hole
-DOMAIN-SUFFIX,app.plex.tv
 DOMAIN-SUFFIX,router.asus.com
 DOMAIN-SUFFIX,repeater.asus.com
 DOMAIN-SUFFIX,aterm.me
 DOMAIN-SUFFIX,u2.dmhy.org
-DOMAIN-SUFFIX,easy.box
 DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,j99.info
 DOMAIN-SUFFIX,ncore.cc
-DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,beitai.pt
 DOMAIN-SUFFIX,dxdhd.com
-DOMAIN-SUFFIX,fritz.box
-DOMAIN-SUFFIX,fritz.nas
-DOMAIN-SUFFIX,giga.cube
 DOMAIN-SUFFIX,hdarea.co
 DOMAIN-SUFFIX,hdupt.com
 DOMAIN-SUFFIX,hdzone.me
@@ -52,15 +47,12 @@ DOMAIN-SUFFIX,hitpt.org
 DOMAIN-SUFFIX,joyhd.net
 DOMAIN-SUFFIX,jstor.org
 DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,my.router
 DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,ntt.setup
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,ui.direct
-DOMAIN-SUFFIX,web.setup
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,avistaz.to
-DOMAIN-SUFFIX,bthub.home
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,hdbits.org
@@ -68,29 +60,21 @@ DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,hdpost.top
 DOMAIN-SUFFIX,hdtime.org
-DOMAIN-SUFFIX,hiwifi.com
-DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,oppaiti.me
-DOMAIN-SUFFIX,phicomm.me
 DOMAIN-SUFFIX,pthome.net
-DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,sdbits.org
-DOMAIN-SUFFIX,web.setup.home
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,local.adguard.org
 DOMAIN-SUFFIX,injections.adguard.org
-DOMAIN-SUFFIX,airbox.home
-DOMAIN-SUFFIX,amplifi.lan
 DOMAIN-SUFFIX,ccfbits.org
 DOMAIN-SUFFIX,cgpeers.com
 DOMAIN-SUFFIX,comicat.org
-DOMAIN-SUFFIX,connect.box
 DOMAIN-SUFFIX,hotspot.cslwifi.com
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,exoticaz.to
@@ -105,7 +89,6 @@ DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,moecat.best
 DOMAIN-SUFFIX,morethan.tv
-DOMAIN-SUFFIX,myfritz.box
 DOMAIN-SUFFIX,bt.neu6.edu.cn
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,ptsbao.club
@@ -115,7 +98,6 @@ DOMAIN-SUFFIX,anthelion.me
 DOMAIN-SUFFIX,beyond-hd.me
 DOMAIN-SUFFIX,bibliotik.me
 DOMAIN-SUFFIX,blutopia.xyz
-DOMAIN-SUFFIX,congstar.box
 DOMAIN-SUFFIX,eastgame.org
 DOMAIN-SUFFIX,empornium.me
 DOMAIN-SUFFIX,gfxpeers.net
@@ -126,18 +108,13 @@ DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,leaguehd.com
 DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,pornbits.net
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,pterclub.com
-DOMAIN-SUFFIX,setapp.click
-DOMAIN-SUFFIX,speedport.ip
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,tplinkap.net
-DOMAIN-SUFFIX,_hotspot_.m2m
 DOMAIN-SUFFIX,alpharatio.cc
 DOMAIN-SUFFIX,animebytes.tv
-DOMAIN-SUFFIX,arcor.easybox
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,cabdirect.org
@@ -147,17 +124,12 @@ DOMAIN-SUFFIX,hdstreet.club
 DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,totheglory.im
-DOMAIN-SUFFIX,tplinkeap.net
 DOMAIN-SUFFIX,asiancinema.me
 DOMAIN-SUFFIX,asusrouter.com
-DOMAIN-SUFFIX,bthomehub.home
 DOMAIN-SUFFIX,concertos.live
-DOMAIN-SUFFIX,fritz.repeater
-DOMAIN-SUFFIX,hitronhub.home
 DOMAIN-SUFFIX,homerouter.cpe
 DOMAIN-SUFFIX,icetorrent.org
 DOMAIN-SUFFIX,mobile.hotspot
-DOMAIN-SUFFIX,samsung.router
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,tplinkwifi.net
@@ -179,7 +151,6 @@ DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,securelogin.com.cn
 DOMAIN-SUFFIX,springernature.com
-DOMAIN-SUFFIX,steamloopback.host
 DOMAIN-SUFFIX,tplinkplclogin.net
 DOMAIN-SUFFIX,tplinkrepeater.net
 DOMAIN-SUFFIX,huaweimobilewifi.com

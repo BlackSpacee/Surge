@@ -1,19 +1,19 @@
 # NAME: China
 # DOMAIN: 447
-# DOMAIN-SUFFIX: 92968
+# DOMAIN-SUFFIX: 92926
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8040
 # IP-CIDR6: 12049
 # USER-AGENT: 69
 # PROCESS-NAME: 49
-# TOTAL: 113659
-# UPDATED: 2024-10-11 09:45:42
+# TOTAL: 113617
+# UPDATED: 2024-10-11 14:31:34
 
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2024-09-20T19:37:17.593Z
-# Size: 24
+# Last Updated: 2024-10-11T11:15:55.354Z
+# Size: 16
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -30,30 +30,24 @@ DOMAIN-SUFFIX,16.172.in-addr.arpa
 DOMAIN-SUFFIX,17.172.in-addr.arpa
 DOMAIN-SUFFIX,18.172.in-addr.arpa
 DOMAIN-SUFFIX,19.172.in-addr.arpa
-DOMAIN-SUFFIX,20.172.in-addr.arpa
-DOMAIN-SUFFIX,21.172.in-addr.arpa
-DOMAIN-SUFFIX,22.172.in-addr.arpa
-DOMAIN-SUFFIX,23.172.in-addr.arpa
-DOMAIN-SUFFIX,24.172.in-addr.arpa
-DOMAIN-SUFFIX,25.172.in-addr.arpa
-DOMAIN-SUFFIX,26.172.in-addr.arpa
-DOMAIN-SUFFIX,27.172.in-addr.arpa
-DOMAIN-SUFFIX,28.172.in-addr.arpa
-DOMAIN-SUFFIX,29.172.in-addr.arpa
 DOMAIN-SUFFIX,30.172.in-addr.arpa
 DOMAIN-SUFFIX,31.172.in-addr.arpa
 DOMAIN-SUFFIX,168.192.in-addr.arpa
+DOMAIN-WILDCARD,2?.172.in-addr.arpa
+DOMAIN-WILDCARD,*.2?.172.in-addr.arpa
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2024-09-30T20:01:58.456Z
-# Size: 224
+# Last Updated: 2024-10-11T12:06:44.333Z
+# Size: 195
 # This file contains domains and process that should not be proxied.
-DOMAIN-SUFFIX,etxr
+DOMAIN-SUFFIX,m2m
+DOMAIN-SUFFIX,home
 DOMAIN-SUFFIX,unifi
 DOMAIN-SUFFIX,bt.byr.cn
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,router
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,avgv.cc
@@ -61,29 +55,22 @@ DOMAIN-SUFFIX,doi.org
 DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,hd4.xyz
 DOMAIN-SUFFIX,hdbd.us
-DOMAIN-SUFFIX,hi.link
 DOMAIN-SUFFIX,lztr.me
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,pi.hole
-DOMAIN-SUFFIX,app.plex.tv
 DOMAIN-SUFFIX,router.asus.com
 DOMAIN-SUFFIX,repeater.asus.com
 DOMAIN-SUFFIX,aterm.me
 DOMAIN-SUFFIX,u2.dmhy.org
-DOMAIN-SUFFIX,easy.box
 DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,j99.info
 DOMAIN-SUFFIX,ncore.cc
-DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,beitai.pt
 DOMAIN-SUFFIX,dxdhd.com
-DOMAIN-SUFFIX,fritz.box
-DOMAIN-SUFFIX,fritz.nas
-DOMAIN-SUFFIX,giga.cube
 DOMAIN-SUFFIX,hdarea.co
 DOMAIN-SUFFIX,hdupt.com
 DOMAIN-SUFFIX,hdzone.me
@@ -92,15 +79,12 @@ DOMAIN-SUFFIX,hitpt.org
 DOMAIN-SUFFIX,joyhd.net
 DOMAIN-SUFFIX,jstor.org
 DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,my.router
 DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,ntt.setup
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,ui.direct
-DOMAIN-SUFFIX,web.setup
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,avistaz.to
-DOMAIN-SUFFIX,bthub.home
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,hdbits.org
@@ -108,29 +92,21 @@ DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,hdpost.top
 DOMAIN-SUFFIX,hdtime.org
-DOMAIN-SUFFIX,hiwifi.com
-DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,oppaiti.me
-DOMAIN-SUFFIX,phicomm.me
 DOMAIN-SUFFIX,pthome.net
-DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,sdbits.org
-DOMAIN-SUFFIX,web.setup.home
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,local.adguard.org
 DOMAIN-SUFFIX,injections.adguard.org
-DOMAIN-SUFFIX,airbox.home
-DOMAIN-SUFFIX,amplifi.lan
 DOMAIN-SUFFIX,ccfbits.org
 DOMAIN-SUFFIX,cgpeers.com
 DOMAIN-SUFFIX,comicat.org
-DOMAIN-SUFFIX,connect.box
 DOMAIN-SUFFIX,hotspot.cslwifi.com
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,exoticaz.to
@@ -145,7 +121,6 @@ DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,moecat.best
 DOMAIN-SUFFIX,morethan.tv
-DOMAIN-SUFFIX,myfritz.box
 DOMAIN-SUFFIX,bt.neu6.edu.cn
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,ptsbao.club
@@ -155,7 +130,6 @@ DOMAIN-SUFFIX,anthelion.me
 DOMAIN-SUFFIX,beyond-hd.me
 DOMAIN-SUFFIX,bibliotik.me
 DOMAIN-SUFFIX,blutopia.xyz
-DOMAIN-SUFFIX,congstar.box
 DOMAIN-SUFFIX,eastgame.org
 DOMAIN-SUFFIX,empornium.me
 DOMAIN-SUFFIX,gfxpeers.net
@@ -166,18 +140,13 @@ DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,leaguehd.com
 DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,pornbits.net
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,pterclub.com
-DOMAIN-SUFFIX,setapp.click
-DOMAIN-SUFFIX,speedport.ip
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,tplinkap.net
-DOMAIN-SUFFIX,_hotspot_.m2m
 DOMAIN-SUFFIX,alpharatio.cc
 DOMAIN-SUFFIX,animebytes.tv
-DOMAIN-SUFFIX,arcor.easybox
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,cabdirect.org
@@ -187,17 +156,12 @@ DOMAIN-SUFFIX,hdstreet.club
 DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,totheglory.im
-DOMAIN-SUFFIX,tplinkeap.net
 DOMAIN-SUFFIX,asiancinema.me
 DOMAIN-SUFFIX,asusrouter.com
-DOMAIN-SUFFIX,bthomehub.home
 DOMAIN-SUFFIX,concertos.live
-DOMAIN-SUFFIX,fritz.repeater
-DOMAIN-SUFFIX,hitronhub.home
 DOMAIN-SUFFIX,homerouter.cpe
 DOMAIN-SUFFIX,icetorrent.org
 DOMAIN-SUFFIX,mobile.hotspot
-DOMAIN-SUFFIX,samsung.router
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,tplinkwifi.net
@@ -219,7 +183,6 @@ DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,securelogin.com.cn
 DOMAIN-SUFFIX,springernature.com
-DOMAIN-SUFFIX,steamloopback.host
 DOMAIN-SUFFIX,tplinkplclogin.net
 DOMAIN-SUFFIX,tplinkrepeater.net
 DOMAIN-SUFFIX,huaweimobilewifi.com
@@ -274,8 +237,7 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-10-07T19:20:32.639Z
-# Size: 778
+# Size: 763
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,t.cn
@@ -345,7 +307,6 @@ DOMAIN-SUFFIX,oppo.cn
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qcc.com
 DOMAIN-SUFFIX,qpic.cn
-DOMAIN-SUFFIX,qq.wang
 DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,t3go.cn
 DOMAIN-SUFFIX,vip.com
@@ -418,7 +379,6 @@ DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,tanx.com
-DOMAIN-SUFFIX,tmall.hk
 DOMAIN,dl.ubnt.com
 DOMAIN,config.ubnt.com
 DOMAIN-SUFFIX,uczzd.cn
@@ -430,7 +390,6 @@ DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,zdic.net
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,12306.com
-DOMAIN-SUFFIX,16888.com
 DOMAIN-SUFFIX,360in.com
 DOMAIN-SUFFIX,360os.com
 DOMAIN-SUFFIX,51cto.com
@@ -522,7 +481,6 @@ DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,tvmao.com
 DOMAIN-SUFFIX,tvzhe.com
-DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,ui.com.cn
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,vmall.com
@@ -641,13 +599,8 @@ DOMAIN-SUFFIX,pubyun.net
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,qh-cdn.com
-DOMAIN-SUFFIX,qhres0.com
-DOMAIN-SUFFIX,qhres1.com
+DOMAIN-SUFFIX,qhimgs.com
 DOMAIN-SUFFIX,qhres2.com
-DOMAIN-SUFFIX,qhres3.com
-DOMAIN-SUFFIX,qhres4.com
-DOMAIN-SUFFIX,qhres5.com
-DOMAIN-SUFFIX,qhres6.com
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,realme.com
@@ -764,13 +717,7 @@ DOMAIN-SUFFIX,oppopay.com
 DOMAIN-SUFFIX,opposhop.cn
 DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,oschina.net
-DOMAIN-SUFFIX,qhimgs0.com
-DOMAIN-SUFFIX,qhimgs1.com
-DOMAIN-SUFFIX,qhimgs2.com
-DOMAIN-SUFFIX,qhimgs3.com
-DOMAIN-SUFFIX,qhimgs4.com
-DOMAIN-SUFFIX,qhimgs5.com
-DOMAIN-SUFFIX,qhimgs6.com
+DOMAIN-SUFFIX,qhimgs?.com
 DOMAIN-SUFFIX,qihucdn.com
 DOMAIN-SUFFIX,qingcdn.com
 DOMAIN-SUFFIX,qiyipic.com
@@ -849,6 +796,7 @@ DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,myalicdn.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,oray-img.com
+DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,pingwest.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
@@ -1107,6 +1055,8 @@ DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,alisoft.com
 DOMAIN-SUFFIX,aliyuncdn.com
 DOMAIN-SUFFIX,tbcdn.com
+DOMAIN-SUFFIX,tmall.hk
+DOMAIN-SUFFIX,ucweb.com
 # Baidu
 DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,hao123img.com
@@ -1471,6 +1421,7 @@ DOMAIN-SUFFIX,163cn.tv
 DOMAIN-SUFFIX,163industry.com
 DOMAIN-SUFFIX,163mail.com
 DOMAIN-SUFFIX,163qiyukf.com
+DOMAIN-SUFFIX,16888.com
 DOMAIN-SUFFIX,16rd.com
 DOMAIN-SUFFIX,178linux.com
 DOMAIN-SUFFIX,17989.com
@@ -3332,6 +3283,7 @@ DOMAIN-SUFFIX,mipcdn.com
 DOMAIN-SUFFIX,mirrors.yun-idc.com
 DOMAIN-SUFFIX,missjia.net
 DOMAIN-SUFFIX,miusi.co
+DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mjia.cc
 DOMAIN-SUFFIX,mlt01.com
 DOMAIN-SUFFIX,mmarket.com
@@ -3541,6 +3493,13 @@ DOMAIN-SUFFIX,qdwebim.com
 DOMAIN-SUFFIX,qeodns.com
 DOMAIN-SUFFIX,qeodns.net
 DOMAIN-SUFFIX,qh24.com
+DOMAIN-SUFFIX,qhimgs0.com
+DOMAIN-SUFFIX,qhimgs1.com
+DOMAIN-SUFFIX,qhimgs2.com
+DOMAIN-SUFFIX,qhimgs3.com
+DOMAIN-SUFFIX,qhimgs4.com
+DOMAIN-SUFFIX,qhimgs5.com
+DOMAIN-SUFFIX,qhimgs6.com
 DOMAIN-SUFFIX,qiangbus.com
 DOMAIN-SUFFIX,qianjia.com
 DOMAIN-SUFFIX,qianlima.com
@@ -3575,6 +3534,7 @@ DOMAIN-SUFFIX,qnsdk.com
 DOMAIN-SUFFIX,qnssl.com
 DOMAIN-SUFFIX,qq.cn.com
 DOMAIN-SUFFIX,qq.design
+DOMAIN-SUFFIX,qq.wang
 DOMAIN-SUFFIX,qq.xn--fiqs8s
 DOMAIN-SUFFIX,qq163.com
 DOMAIN-SUFFIX,qq163.net
@@ -5007,7 +4967,6 @@ DOMAIN-SUFFIX,os-lb.com
 DOMAIN-SUFFIX,qh-dl.com
 DOMAIN-SUFFIX,qhcdn-lb.com
 DOMAIN-SUFFIX,qhdlcdn.com
-DOMAIN-SUFFIX,qhimgs.com
 DOMAIN-SUFFIX,qhtui.com
 DOMAIN-SUFFIX,qihu-lb.com
 DOMAIN-SUFFIX,qiyuns3.com
