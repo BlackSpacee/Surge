@@ -1,13 +1,13 @@
 # NAME: Reject
 # AND: 1
-# DOMAIN: 442
-# DOMAIN-SUFFIX: 1044
-# DOMAIN-KEYWORD: 98
-# IP-CIDR: 12
+# DOMAIN: 467
+# DOMAIN-SUFFIX: 1048
+# DOMAIN-KEYWORD: 99
+# IP-CIDR: 13
 # IP-CIDR6: 2
 # USER-AGENT: 1
-# TOTAL: 1600
-# UPDATED: 2024-10-14 14:32:58
+# TOTAL: 1631
+# UPDATED: 2024-10-14 20:45:39
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1567,35 +1567,61 @@ DOMAIN-WILDCARD,*ad.ixigua.com
 AND,((USER-AGENT,bili*),(NOT,((OR,((DOMAIN-SUFFIX,bilibili.com),(DOMAIN-SUFFIX,hdslb.com),(DOMAIN-SUFFIX,wo.cn),(DOMAIN-SUFFIX,biligame.com),(DOMAIN-SUFFIX,bilivideo.com),(DOMAIN-SUFFIX,bilivideo.cn),(DOMAIN-SUFFIX,biliapi.com),(DOMAIN-SUFFIX,biliapi.net),(DOMAIN-SUFFIX,biliintl.com),(DOMAIN-SUFFIX,bstarstatic.com),(DOMAIN-SUFFIX,akamaized.net))))))
 ################## EOF ##################
 ############################################################# 这是第五条分割线 #############################################################
+DOMAIN, api-adservices.apple.com
+DOMAIN, o33249.ingest.sentry.io
 DOMAIN,25e87c0802f91cf8cgg.6uzxtlv.cn
+DOMAIN,adservice.google.com
+DOMAIN,adstrategy.biz.weibo.com
 DOMAIN,apicdn.viglink.com
 DOMAIN,ark.letv.com
+DOMAIN,bravetense.com
+DOMAIN,cm-10-138.getui.com
 DOMAIN,dagonghuzhu.com
 DOMAIN,data-hoisin.coocaa.com
+DOMAIN,data.flurry.com
 DOMAIN,emma-414870e223.huodonghezi.com
 DOMAIN,fg.knlk2md.cn
+DOMAIN,furiousfar.com
 DOMAIN,g3.letv.com
+DOMAIN,gdt.qq.com
 DOMAIN,glitter.services.disqus.com
+DOMAIN,googleads.g.doubleclick-cn.net
+DOMAIN,googleads.g.doubleclick.net
 DOMAIN,hbftgh.ibjkqnhjwd.xyz
 DOMAIN,hnrtg.iujkegbpo.xyz
+DOMAIN,httpdns.n.netease.com
 DOMAIN,juggler.services.disqus.com
+DOMAIN,kadmimage.biz.weibo.com
 DOMAIN,kmef.ikjwmfeds.xyz
 DOMAIN,kmopoer.jkbuymjhp.xyz
 DOMAIN,koprtgh.omhoa.com
 DOMAIN,mc.viglink.com
+DOMAIN,mi.gdt.qq.com
 DOMAIN,n.mark.letv.com
 DOMAIN,nggfe.fdgem.com
 DOMAIN,ns2.viglink.com
 DOMAIN,ns3.viglink.com
 DOMAIN,ns4.viglink.com
+DOMAIN,proxy.safebrowsing.apple
+DOMAIN,pubads.g.doubleclick.net
 DOMAIN,qa.viglink.com
 DOMAIN,rthmnj.xyz
+DOMAIN,safebrowsing.g.applimg.com
+DOMAIN,sdk-conf.getui.com
+DOMAIN,sdk.open.talk.getui.net
+DOMAIN,sdkaction.biz.weibo.com
+DOMAIN,sdkclick.biz.weibo.com
+DOMAIN,sdkmonitor.biz.weibo.com
+DOMAIN,swallowcrockerybless.com
 DOMAIN,tc.vpubmi.com
 DOMAIN,tempest.services.disqus.com
 DOMAIN,tg.gtlpaj.com
+DOMAIN,tysdk.95516.com
+DOMAIN,vs6.bj2ct.u3.ucweb.com
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,adform
+DOMAIN-KEYWORD,adservice.google.com.
 DOMAIN-KEYWORD,asewlfjqwlflkew
 DOMAIN-KEYWORD,bngpt
 DOMAIN-KEYWORD,bongacash
@@ -1623,7 +1649,10 @@ DOMAIN-KEYWORD,stunninglover
 DOMAIN-KEYWORD,toateeli
 DOMAIN-KEYWORD,trwl1
 DOMAIN-KEYWORD,xxshuyuan
+DOMAIN-SUFFIX, iadsdk.apple.com
+DOMAIN-SUFFIX, pos.baidu.com
 DOMAIN-SUFFIX,107iwh.cn
+DOMAIN-SUFFIX,163jiasu.com
 DOMAIN-SUFFIX,22c.in
 DOMAIN-SUFFIX,2700.5mgrgsc.cn
 DOMAIN-SUFFIX,2qpqwkx.cn
@@ -1755,6 +1784,7 @@ DOMAIN-SUFFIX,run.haireig.com
 DOMAIN-SUFFIX,s.csyfe.com
 DOMAIN-SUFFIX,s10.histats.com
 DOMAIN-SUFFIX,s96.cnzz.com
+DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN-SUFFIX,server.mch3.com
 DOMAIN-SUFFIX,show.suning.beer
 DOMAIN-SUFFIX,solestudious.com
@@ -1800,3 +1830,4 @@ DOMAIN-SUFFIX,xxxjmp.com
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,youradexchange.com
 DOMAIN-SUFFIX,zprofuqkssny.com
+IP-CIDR, 180.76.76.200/32,no-resolve
