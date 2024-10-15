@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-10-07T03:58:05.384Z
+# Last Updated: 2024-10-15T10:37:07.536Z
 # Size: 72
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -9,23 +9,23 @@
 # The ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
-DOMAIN-SUFFIX,net.mydays.de
-DOMAIN-SUFFIX,openx.net
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,classify-client.services.mozilla.com
-DOMAIN-SUFFIX,telemetry.mozilla.org
-DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
 DOMAIN-SUFFIX,notify6.com
 DOMAIN-SUFFIX,crazyegg.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,notifysrv.com
+DOMAIN-SUFFIX,advertising.com
+DOMAIN-SUFFIX,openx.net
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,net.mydays.de
 DOMAIN,js.iterable.com
 DOMAIN,api.iterable.com
 DOMAIN,api-js.mixpanel.com
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,notifysrv.com
 DOMAIN,stun.smartgslb.com
-DOMAIN-SUFFIX,advertising.com
+DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
 DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
+DOMAIN-SUFFIX,telemetry.mozilla.org
+DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
+DOMAIN-SUFFIX,classify-client.services.mozilla.com
 DOMAIN-KEYWORD,.estream.
 DOMAIN-KEYWORD,jshosting
 DOMAIN-KEYWORD,hostingcloud
