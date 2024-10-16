@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2024-10-15T10:37:05.772Z
-# Size: 16
+# Last Updated: 2024-10-16T07:23:52.814Z
+# Size: 1
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,19 +9,4 @@
 # This file includes rules for LAN DOMAIN and reserved TLDs.
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN-SUFFIX,lan
-DOMAIN-SUFFIX,localhost
-DOMAIN-SUFFIX,localdomain
-DOMAIN-SUFFIX,home.arpa
-DOMAIN-SUFFIX,10.in-addr.arpa
-DOMAIN-SUFFIX,254.169.in-addr.arpa
-DOMAIN-SUFFIX,16.172.in-addr.arpa
-DOMAIN-SUFFIX,17.172.in-addr.arpa
-DOMAIN-SUFFIX,18.172.in-addr.arpa
-DOMAIN-SUFFIX,19.172.in-addr.arpa
-DOMAIN-SUFFIX,30.172.in-addr.arpa
-DOMAIN-SUFFIX,31.172.in-addr.arpa
-DOMAIN-SUFFIX,168.192.in-addr.arpa
-DOMAIN-WILDCARD,2?.172.in-addr.arpa
-DOMAIN-WILDCARD,*.2?.172.in-addr.arpa
 ################## EOF ##################

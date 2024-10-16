@@ -1,52 +1,40 @@
 # NAME: China
-# DOMAIN: 447
-# DOMAIN-SUFFIX: 93352
+# DOMAIN: 466
+# DOMAIN-SUFFIX: 93342
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8053
 # IP-CIDR6: 12081
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 114085
-# UPDATED: 2024-10-16 09:47:44
+# TOTAL: 114094
+# UPDATED: 2024-10-16 14:31:35
 
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2024-10-15T10:37:05.772Z
-# Size: 16
+# Last Updated: 2024-10-16T07:23:52.814Z
+# Size: 1
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file includes rules for LAN DOMAIN and reserved TLDs.
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN-SUFFIX,lan
-DOMAIN-SUFFIX,localhost
-DOMAIN-SUFFIX,localdomain
-DOMAIN-SUFFIX,home.arpa
-DOMAIN-SUFFIX,10.in-addr.arpa
-DOMAIN-SUFFIX,254.169.in-addr.arpa
-DOMAIN-SUFFIX,16.172.in-addr.arpa
-DOMAIN-SUFFIX,17.172.in-addr.arpa
-DOMAIN-SUFFIX,18.172.in-addr.arpa
-DOMAIN-SUFFIX,19.172.in-addr.arpa
-DOMAIN-SUFFIX,30.172.in-addr.arpa
-DOMAIN-SUFFIX,31.172.in-addr.arpa
-DOMAIN-SUFFIX,168.192.in-addr.arpa
-DOMAIN-WILDCARD,2?.172.in-addr.arpa
-DOMAIN-WILDCARD,*.2?.172.in-addr.arpa
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Size: 198
+# Last Updated: 2024-10-16T11:34:56.700Z
+# Size: 219
 # This file contains domains and process that should not be proxied.
+DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,m2m
 DOMAIN-SUFFIX,_tcp
 DOMAIN-SUFFIX,home
 DOMAIN-SUFFIX,bogon
-DOMAIN-SUFFIX,unifi
+DOMAIN,unifi
 DOMAIN-SUFFIX,_msdcs
 DOMAIN-SUFFIX,router
+DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,avgv.cc
 DOMAIN-SUFFIX,ncore.cc
 DOMAIN-SUFFIX,m-team.cc
@@ -62,7 +50,7 @@ DOMAIN-SUFFIX,karagarga.in
 DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,lztr.me
-DOMAIN-SUFFIX,aterm.me
+DOMAIN,aterm.me
 DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,hdzone.me
 DOMAIN-SUFFIX,oppaiti.me
@@ -90,7 +78,7 @@ DOMAIN-SUFFIX,hitpt.com
 DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,nature.com
-DOMAIN-SUFFIX,router.com
+DOMAIN,router.com
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,trontv.com
@@ -108,8 +96,7 @@ DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,huaweimobilewifi.com
 DOMAIN-SUFFIX,blackwell-synergy.com
-DOMAIN-SUFFIX,homerouter.cpe
-DOMAIN-SUFFIX,ts.net
+DOMAIN,homerouter.cpe
 DOMAIN-SUFFIX,joyhd.net
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,pthome.net
@@ -158,6 +145,7 @@ DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,hdpost.top
 DOMAIN-SUFFIX,hd4.xyz
 DOMAIN-SUFFIX,blutopia.xyz
+DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,moecat.best
 DOMAIN-SUFFIX,hdcity.city
 DOMAIN-SUFFIX,ptsbao.club
@@ -167,30 +155,49 @@ DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,dicmusic.club
 DOMAIN-SUFFIX,hdstreet.club
 DOMAIN-SUFFIX,soulvoice.club
-DOMAIN-SUFFIX,pi.hole
+DOMAIN,pi.hole
 DOMAIN-SUFFIX,j99.info
 DOMAIN-SUFFIX,concertos.live
 DOMAIN-SUFFIX,52pt.site
-DOMAIN-SUFFIX,ntt.setup
+DOMAIN,ntt.setup
 DOMAIN-SUFFIX,ui.direct
 DOMAIN-SUFFIX,plex.direct
-DOMAIN-SUFFIX,mobile.hotspot
+DOMAIN,mobile.hotspot
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,bt.byr.cn
 DOMAIN-SUFFIX,securelogin.com.cn
 DOMAIN-SUFFIX,classix-unlimited.co.uk
-DOMAIN-SUFFIX,router.asus.com
-DOMAIN-SUFFIX,repeater.asus.com
-DOMAIN-SUFFIX,captive.apple.com
-DOMAIN-SUFFIX,hotspot.cslwifi.com
-DOMAIN-SUFFIX,console.gl-inet.com
-DOMAIN-SUFFIX,instant.arubanetworks.com
-DOMAIN-SUFFIX,setmeup.arubanetworks.com
+DOMAIN,router.asus.com
+DOMAIN,repeater.asus.com
+DOMAIN,captive.apple.com
+DOMAIN,hotspot.cslwifi.com
+DOMAIN,console.gl-inet.com
+DOMAIN,instant.arubanetworks.com
+DOMAIN,setmeup.arubanetworks.com
 DOMAIN-SUFFIX,u2.dmhy.org
-DOMAIN-SUFFIX,local.adguard.org
-DOMAIN-SUFFIX,injections.adguard.org
+DOMAIN,local.adguard.org
+DOMAIN,injections.adguard.org
+DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,bt.neu6.edu.cn
+DOMAIN-SUFFIX,254.169.in-addr.arpa
+DOMAIN-SUFFIX,16.172.in-addr.arpa
+DOMAIN-SUFFIX,17.172.in-addr.arpa
+DOMAIN-SUFFIX,18.172.in-addr.arpa
+DOMAIN-SUFFIX,19.172.in-addr.arpa
+DOMAIN-SUFFIX,20.172.in-addr.arpa
+DOMAIN-SUFFIX,21.172.in-addr.arpa
+DOMAIN-SUFFIX,22.172.in-addr.arpa
+DOMAIN-SUFFIX,23.172.in-addr.arpa
+DOMAIN-SUFFIX,24.172.in-addr.arpa
+DOMAIN-SUFFIX,25.172.in-addr.arpa
+DOMAIN-SUFFIX,26.172.in-addr.arpa
+DOMAIN-SUFFIX,27.172.in-addr.arpa
+DOMAIN-SUFFIX,28.172.in-addr.arpa
+DOMAIN-SUFFIX,29.172.in-addr.arpa
+DOMAIN-SUFFIX,30.172.in-addr.arpa
+DOMAIN-SUFFIX,31.172.in-addr.arpa
+DOMAIN-SUFFIX,168.192.in-addr.arpa
 DOMAIN-KEYWORD,cnki.net
 DOMAIN-KEYWORD,wanfangdata
 DOMAIN-KEYWORD,pkulaw
@@ -239,7 +246,6 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-10-16T05:47:48.687Z
 # Size: 765
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,chaoxing.cc
@@ -263,7 +269,7 @@ DOMAIN-SUFFIX,itc.cn
 DOMAIN-SUFFIX,nmc.cn
 DOMAIN-SUFFIX,org.cn
 DOMAIN-SUFFIX,php.cn
-DOMAIN-SUFFIX,url.cn
+DOMAIN,url.cn
 DOMAIN-SUFFIX,wps.cn
 DOMAIN-SUFFIX,2144.cn
 DOMAIN-SUFFIX,cctv.cn
@@ -370,8 +376,8 @@ DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,oppoer.me
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,b23.tv
+DOMAIN,acg.tv
+DOMAIN,b23.tv
 DOMAIN-SUFFIX,fun.tv
 DOMAIN-SUFFIX,pps.tv
 DOMAIN-SUFFIX,douyu.tv
@@ -671,7 +677,6 @@ DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,oppopay.com
 DOMAIN-SUFFIX,orayimg.com
-DOMAIN-SUFFIX,qhimgs?.com
 DOMAIN-SUFFIX,qihucdn.com
 DOMAIN-SUFFIX,qingcdn.com
 DOMAIN-SUFFIX,qiyipic.com
@@ -1002,6 +1007,7 @@ DOMAIN-SUFFIX,dl.bscstorage.net
 DOMAIN,cn.download.nvidia.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-WILDCARD,*.qhimgs?.com
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
@@ -1066,6 +1072,8 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,hao123img.com
 # Bilibili
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,bigfun.cn
 DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,bilibili.co
