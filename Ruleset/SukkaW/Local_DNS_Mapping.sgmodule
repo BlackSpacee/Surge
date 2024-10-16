@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-10-15T10:37:05.772Z
+#!desc=Last Updated: 2024-10-16T05:47:48.687Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -128,12 +128,6 @@ hellobike.com = server:quic://dns.alidns.com:853
 dot.pub = 120.53.53.53, 1.12.12.12, 1.12.34.56
 doh.pub = 120.53.53.53, 1.12.12.12, 1.12.34.56
 dns.pub = 120.53.53.53, 1.12.12.12, 1.12.34.56
-dns.pub = server:https://doh.pub/dns-query
-*.dns.pub = server:https://doh.pub/dns-query
-doh.pub = server:https://doh.pub/dns-query
-*.doh.pub = server:https://doh.pub/dns-query
-dot.pub = server:https://doh.pub/dns-query
-*.dot.pub = server:https://doh.pub/dns-query
 *.qcloud.com = server:https://doh.pub/dns-query
 *.gtimg.cn = server:https://doh.pub/dns-query
 *.gtimg.com = server:https://doh.pub/dns-query
@@ -386,6 +380,8 @@ yunpan.com.cn = server:https://dns.360.net/dns-query
 *.qh-cdn.com = server:https://dns.360.net/dns-query
 baomitu.com = server:https://dns.360.net/dns-query
 *.baomitu.com = server:https://dns.360.net/dns-query
+qiku.com = server:https://dns.360.net/dns-query
+*.qiku.com = server:https://dns.360.net/dns-query
 securelogin.com.cn = server:system
 *.securelogin.com.cn = server:system
 captive.apple.com = server:system
