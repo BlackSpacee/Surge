@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-10-19T16:26:46.516Z
+#!desc=Last Updated: 2024-10-20T17:02:38.848Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -141,6 +141,7 @@ hellobike.com = server:quic://dns.alidns.com:853
 *.gtimg.com.cn = server:https://doh.pub/dns-query
 *.gdtimg.com = server:https://doh.pub/dns-query
 *.idqqimg.com = server:https://doh.pub/dns-query
+*.udqqimg.com = server:https://doh.pub/dns-query
 igamecj.com = server:https://doh.pub/dns-query
 *.igamecj.com = server:https://doh.pub/dns-query
 myapp.com = server:https://doh.pub/dns-query
