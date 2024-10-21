@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-10-15T10:37:07.536Z
-# Size: 72
+# Last Updated: 2024-10-21T14:26:18.035Z
+# Size: 127
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -16,16 +16,46 @@ DOMAIN-SUFFIX,notifysrv.com
 DOMAIN-SUFFIX,advertising.com
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,httpdns.pro
+DOMAIN,dns.weibo.cn
 DOMAIN-SUFFIX,net.mydays.de
+DOMAIN,dns.jd.com
+DOMAIN,httpdns.baidu.com
+DOMAIN,httpsdns.baidu.com
+DOMAIN,httpdns.alicdn.com
+DOMAIN,httpdns.meituan.com
+DOMAIN,httpdnsvip.meituan.com
+DOMAIN,httpdns-sc.aliyuncs.com
+DOMAIN,httpdns-api.aliyuncs.com
+DOMAIN,httpdns.baidubce.com
 DOMAIN,js.iterable.com
 DOMAIN,api.iterable.com
 DOMAIN,api-js.mixpanel.com
+DOMAIN,httpdns.bilivideo.com
 DOMAIN,stun.smartgslb.com
+DOMAIN,httpdns.yunxindns.com
+DOMAIN,hd.xiaojukeji.com
+DOMAIN,httpdns-push.heytapmobile.com
+DOMAIN,httpdns-ocloud.heytapmobile.com
+DOMAIN,httpdns-euex-push.heytapmobile.com
+DOMAIN,httpdns.volcengineapi.com
 DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
 DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,telemetry.mozilla.org
 DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
+DOMAIN,dns.weixin.qq.com
+DOMAIN,httpdns-v6.gslb.yy.com
+DOMAIN,union-httpdns.gslb.yy.com
+DOMAIN,yyapp-httpdns.gslb.yy.com
+DOMAIN-SUFFIX,httpdns.c.163.com
+DOMAIN,httpdns.music.163.com
+DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN-SUFFIX,classify-client.services.mozilla.com
+DOMAIN-SUFFIX,httpdns.n.netease.com
+DOMAIN,httpdns-sdk.n.netease.com
+DOMAIN,httpdns.push.heytapmobi.com
+DOMAIN,httpdns.push.oppomobile.com
+DOMAIN,dns.weixin.qq.com.cn
 DOMAIN-KEYWORD,.estream.
 DOMAIN-KEYWORD,jshosting
 DOMAIN-KEYWORD,hostingcloud
@@ -80,4 +110,29 @@ DOMAIN-WILDCARD,adv0*.msa.cdn.mediaset.net
 DOMAIN-WILDCARD,beacons*.gvt?.com
 DOMAIN-WILDCARD,*ad.ixigua.com
 AND,((USER-AGENT,bili*),(NOT,((OR,((DOMAIN-SUFFIX,bilibili.com),(DOMAIN-SUFFIX,hdslb.com),(DOMAIN-SUFFIX,wo.cn),(DOMAIN-SUFFIX,biligame.com),(DOMAIN-SUFFIX,bilivideo.com),(DOMAIN-SUFFIX,bilivideo.cn),(DOMAIN-SUFFIX,biliapi.com),(DOMAIN-SUFFIX,biliapi.net),(DOMAIN-SUFFIX,biliintl.com),(DOMAIN-SUFFIX,bstarstatic.com),(DOMAIN-SUFFIX,akamaized.net))))))
+IP-CIDR,39.97.128.148/32,no-resolve
+IP-CIDR,39.97.130.51/32,no-resolve
+IP-CIDR,42.81.232.18/32,no-resolve
+IP-CIDR,42.187.182.106/32,no-resolve
+IP-CIDR,42.187.182.123/32,no-resolve
+IP-CIDR,42.187.184.154/32,no-resolve
+IP-CIDR,59.111.239.61/32,no-resolve
+IP-CIDR,59.111.239.62/32,no-resolve
+IP-CIDR,101.124.19.122/32,no-resolve
+IP-CIDR,103.37.152.97/32,no-resolve
+IP-CIDR,103.224.222.208/32,no-resolve
+IP-CIDR,115.236.121.51/32,no-resolve
+IP-CIDR,115.236.121.195/32,no-resolve
+IP-CIDR,118.89.204.0/23,no-resolve
+IP-CIDR,119.29.29.98/31,no-resolve
+IP-CIDR,123.151.54.50/32,no-resolve
+IP-CIDR,182.254.116.117/32,no-resolve
+IP-CIDR,182.254.118.119/32,no-resolve
+IP-CIDR,186.76.76.200/32,no-resolve
+IP-CIDR,203.107.1.0/24,no-resolve
+IP-CIDR,203.119.204.66/32,no-resolve
+IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
+IP-CIDR6,2402:4e00:1900:1700:0:9554:1ad9:c3a/128,no-resolve
+IP-CIDR6,240e:928:1400:10::25/128,no-resolve
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 ################## EOF ##################

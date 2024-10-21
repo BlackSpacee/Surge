@@ -96,7 +96,7 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       '+gdtimg.com',
       '+idqqimg.com',
       '+udqqimg.com',
-      'igamecj.com',
+      '+igamecj.com', // apex domain no DNS resolution
       'myapp.com',
       '+myqcloud.com',
       'dnspod.com',
@@ -105,10 +105,11 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       'qq.com',
       'qq.com.cn',
       // 'qq.wang',
-      'qqmail.cn',
-      'qqmail.com',
+      // 'qqmail.cn', // not owned by QQ, is sold on hichina.com
+      '+qqmail.com',
       'qzone.com',
       '+tencent-cloud.net',
+      '+tencent-cloud.com', // apex doain resolve to 0.0.0.1 by DNSPod public DNS
       'tencent.com',
       'tencent.com.cn',
       'tencentmusic.com',
@@ -120,7 +121,7 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       'sogo.com',
       'sogou.com',
       '+sogoucdn.com',
-      'roblox.cn',
+      '+roblox.cn', // main domain is redirected to roblox.qq.com, only subdomain no redirect
       'robloxdev.cn',
       'wegame.com',
       'wegame.com.cn',
@@ -174,13 +175,13 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       '+biliimg.com',
       '+biliapi.com',
       '+biliapi.net',
-      'biligame.cn',
+      // 'biligame.cn', // not owned by bilibili, was put on sale by ename
       'biligame.com',
-      'biligame.net',
+      '+biligame.net', // subdomain only
       'bilicomic.com',
-      'bilicomics.com',
-      'bilibilipay.cn',
-      'bilibilipay.com',
+      'bilicomics.com', // m wap version of bilicomic
+      // 'bilibilipay.cn', // not owned by bilibili
+      // 'bilibilipay.com', // not owned by bilibili
       '+bilicdn1.com'
     ]
   },
@@ -193,8 +194,11 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       'duokan.com',
       '+mi-img.com',
       '+mi-idc.com',
-      'mi-fds.com',
+      '+xiaoaisound.com', // only subdomains
+      '+xiaomixiaoai.com', // only subdomains
+      '+mi-fds.com',
       '+mifile.cn',
+      '+mijia.tech', // only subdomains
       'miui.com',
       'xiaomi.com',
       'xiaomi.cn',
@@ -276,7 +280,7 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       '+shifen.com',
       '+jomodns.com',
       '+bdydns.com',
-      '+jomoxc.com',
+      '+jomoxc.com', // Baidu PCDN, of sort
       '+duapp.com',
       '+antpcdn.com' // Baidu PCDN
     ]
