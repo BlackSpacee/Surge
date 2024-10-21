@@ -1,13 +1,13 @@
 # NAME: Reject
 # AND: 1
-# DOMAIN: 374
-# DOMAIN-SUFFIX: 1034
-# DOMAIN-KEYWORD: 85
-# IP-CIDR: 8
+# DOMAIN: 324
+# DOMAIN-SUFFIX: 1029
+# DOMAIN-KEYWORD: 83
+# IP-CIDR: 5
 # IP-CIDR6: 1
 # USER-AGENT: 1
-# TOTAL: 1504
-# UPDATED: 2024-10-20 20:41:38
+# TOTAL: 1444
+# UPDATED: 2024-10-21 02:28:16
 
 404: Not Found
 ############################################################# 这是第一条分割线 #############################################################
@@ -1343,87 +1343,35 @@ DOMAIN-WILDCARD,*ad.ixigua.com
 AND,((USER-AGENT,bili*),(NOT,((OR,((DOMAIN-SUFFIX,bilibili.com),(DOMAIN-SUFFIX,hdslb.com),(DOMAIN-SUFFIX,wo.cn),(DOMAIN-SUFFIX,biligame.com),(DOMAIN-SUFFIX,bilivideo.com),(DOMAIN-SUFFIX,bilivideo.cn),(DOMAIN-SUFFIX,biliapi.com),(DOMAIN-SUFFIX,biliapi.net),(DOMAIN-SUFFIX,biliintl.com),(DOMAIN-SUFFIX,bstarstatic.com),(DOMAIN-SUFFIX,akamaized.net))))))
 ################## EOF ##################
 ############################################################# 这是第五条分割线 #############################################################
-DOMAIN, api-adservices.apple.com
-DOMAIN, o33249.ingest.sentry.io
 DOMAIN,25e87c0802f91cf8cgg.6uzxtlv.cn
-DOMAIN,aaid.uyunad.com
-DOMAIN,acdn.adnxs.com
-DOMAIN,ad.zijieapi.com
-DOMAIN,ads.95516.com
-DOMAIN,adservice.google.com
-DOMAIN,adstrategy.biz.weibo.com
-DOMAIN,api.helloclue.com
-DOMAIN,api.zuihuimai.com
 DOMAIN,apicdn.viglink.com
-DOMAIN,appcloud.zhihu.com
 DOMAIN,ark.letv.com
-DOMAIN,brahe.apptimize.com
-DOMAIN,bravetense.com
-DOMAIN,cm-10-138.getui.com
-DOMAIN,collector.clue.run
-DOMAIN,crash2.zhihu.com
 DOMAIN,dagonghuzhu.com
 DOMAIN,data-hoisin.coocaa.com
-DOMAIN,data.flurry.com
 DOMAIN,emma-414870e223.huodonghezi.com
 DOMAIN,fg.knlk2md.cn
-DOMAIN,furiousfar.com
 DOMAIN,g3.letv.com
-DOMAIN,gdt.qq.com
 DOMAIN,glitter.services.disqus.com
-DOMAIN,googleads.g.doubleclick-cn.net
-DOMAIN,googleads.g.doubleclick.net
 DOMAIN,hbftgh.ibjkqnhjwd.xyz
 DOMAIN,hnrtg.iujkegbpo.xyz
-DOMAIN,httpdns.n.netease.com
-DOMAIN,images.ctfassets.net
 DOMAIN,juggler.services.disqus.com
-DOMAIN,kadmimage.biz.weibo.com
 DOMAIN,kmef.ikjwmfeds.xyz
 DOMAIN,kmopoer.jkbuymjhp.xyz
 DOMAIN,koprtgh.omhoa.com
-DOMAIN,lookup.api.bsb.baidu.com
-DOMAIN,mapi.apptimize.com
 DOMAIN,mc.viglink.com
-DOMAIN,md-i-s.apptimize.com
-DOMAIN,mediation.adnxs.com
-DOMAIN,mi.gdt.qq.com
 DOMAIN,n.mark.letv.com
 DOMAIN,nggfe.fdgem.com
 DOMAIN,ns2.viglink.com
 DOMAIN,ns3.viglink.com
 DOMAIN,ns4.viglink.com
-DOMAIN,open.e.kuaishou.com
-DOMAIN,pagead2.googlesyndication.com
-DOMAIN,pageviewp.icbc.com.cn
-DOMAIN,proxy.safebrowsing.apple
-DOMAIN,pubads.g.doubleclick.net
 DOMAIN,qa.viglink.com
 DOMAIN,rthmnj.xyz
-DOMAIN,safebrowsing.g.applimg.com
-DOMAIN,sdk-conf.getui.com
-DOMAIN,sdk.open.talk.getui.net
-DOMAIN,sdkaction.biz.weibo.com
-DOMAIN,sdkclick.biz.weibo.com
-DOMAIN,sdkconfig.ad.xiaomi.com
-DOMAIN,sdkmonitor.biz.weibo.com
-DOMAIN,sin3-ib.adnxs.com
-DOMAIN,statics.woozooo.com
-DOMAIN,swallowcrockerybless.com
-DOMAIN,switch.cup.com.cn
 DOMAIN,tc.vpubmi.com
 DOMAIN,tempest.services.disqus.com
 DOMAIN,tg.gtlpaj.com
-DOMAIN,tmeadcomm.y.qq.com
-DOMAIN,tpns.qq.com
-DOMAIN,tysdk.95516.com
-DOMAIN,vs6.bj2ct.u3.ucweb.com
-DOMAIN,www.googleadservices.com
-DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,adform
-DOMAIN-KEYWORD,adservice.google.com.
 DOMAIN-KEYWORD,asewlfjqwlflkew
 DOMAIN-KEYWORD,bngpt
 DOMAIN-KEYWORD,bongacash
@@ -1451,10 +1399,7 @@ DOMAIN-KEYWORD,stunninglover
 DOMAIN-KEYWORD,toateeli
 DOMAIN-KEYWORD,trwl1
 DOMAIN-KEYWORD,xxshuyuan
-DOMAIN-SUFFIX, iadsdk.apple.com
-DOMAIN-SUFFIX, pos.baidu.com
 DOMAIN-SUFFIX,107iwh.cn
-DOMAIN-SUFFIX,163jiasu.com
 DOMAIN-SUFFIX,22c.in
 DOMAIN-SUFFIX,2700.5mgrgsc.cn
 DOMAIN-SUFFIX,2qpqwkx.cn
@@ -1587,7 +1532,6 @@ DOMAIN-SUFFIX,run.haireig.com
 DOMAIN-SUFFIX,s.csyfe.com
 DOMAIN-SUFFIX,s10.histats.com
 DOMAIN-SUFFIX,s96.cnzz.com
-DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN-SUFFIX,server.mch3.com
 DOMAIN-SUFFIX,show.suning.beer
 DOMAIN-SUFFIX,solestudious.com
@@ -1604,7 +1548,6 @@ DOMAIN-SUFFIX,tskdfjksldk.sdhsgcj.com
 DOMAIN-SUFFIX,tsyndicate.com
 DOMAIN-SUFFIX,tu.xasnjafnvn.com
 DOMAIN-SUFFIX,tyrantdb.com
-DOMAIN-SUFFIX,u3.ucweb.com
 DOMAIN-SUFFIX,unreshiramor.com
 DOMAIN-SUFFIX,uus52.com
 DOMAIN-SUFFIX,uus58.com
@@ -1634,6 +1577,3 @@ DOMAIN-SUFFIX,xxxjmp.com
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,youradexchange.com
 DOMAIN-SUFFIX,zprofuqkssny.com
-IP-CIDR, 180.76.76.200/32,no-resolve
-IP-CIDR,103.41.167.237/32,no-resolve
-IP-CIDR,203.107.1.1/24,no-resolve
