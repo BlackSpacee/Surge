@@ -1,24 +1,25 @@
 # NAME: Global
 # DOMAIN: 103
-# DOMAIN-SUFFIX: 30872
+# DOMAIN-SUFFIX: 30874
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31188
-# UPDATED: 2024-10-23 14:32:01
+# TOTAL: 31190
+# UPDATED: 2024-10-23 20:44:42
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-10-21T16:28:54.223Z
-# Size: 643
+# Last Updated: 2024-10-23T17:55:56.635Z
+# Size: 648
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are not available inside the Mainland China.
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,linkedin.at
@@ -79,6 +80,7 @@ DOMAIN-SUFFIX,libgen.is
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,pin.it
 DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,buyee.jp
 DOMAIN-SUFFIX,blogimg.jp
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,twitter.jp
@@ -270,6 +272,7 @@ DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,adguard.com
@@ -499,6 +502,7 @@ DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,dynu.net
+DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,whrq.net
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,fbcdn.net
@@ -548,6 +552,7 @@ DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,rfa.org
+DOMAIN-SUFFIX,4chan.org
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,scpdb.org
@@ -6559,7 +6564,6 @@ DOMAIN-SUFFIX,flzbcdn.xyz
 #华文电视
 DOMAIN-SUFFIX,ocnttv.com
 # VikACG
-DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,picjs.xyz
 ############################################################# 这是第二条分割线 #############################################################
 # NAME: Proxy
@@ -7300,7 +7304,6 @@ DOMAIN-SUFFIX,47gyosei.jp
 DOMAIN-SUFFIX,47news.jp
 DOMAIN-SUFFIX,4beatsbydre.com
 DOMAIN-SUFFIX,4cdn.org
-DOMAIN-SUFFIX,4chan.org
 DOMAIN-SUFFIX,4channel.org
 DOMAIN-SUFFIX,4club.com
 DOMAIN-SUFFIX,4ebaytraders.com
@@ -26567,7 +26570,6 @@ DOMAIN-SUFFIX,sony.kz
 DOMAIN-SUFFIX,sony.lt
 DOMAIN-SUFFIX,sony.lu
 DOMAIN-SUFFIX,sony.lv
-DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,sony.nl
 DOMAIN-SUFFIX,sony.no
 DOMAIN-SUFFIX,sony.pl
