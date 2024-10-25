@@ -3,12 +3,12 @@
 # DOMAIN: 351
 # DOMAIN-SUFFIX: 1032
 # DOMAIN-KEYWORD: 83
-# IP-CIDR: 26
+# IP-CIDR: 28
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 1
-# TOTAL: 1499
-# UPDATED: 2024-10-24 20:45:01
+# TOTAL: 1501
+# UPDATED: 2024-10-25 02:30:44
 
 404: Not Found
 ############################################################# 这是第一条分割线 #############################################################
@@ -1265,8 +1265,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-10-24T18:25:23.104Z
-# Size: 130
+# Last Updated: 2024-10-25T00:15:23.538Z
+# Size: 133
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1374,21 +1374,23 @@ DOMAIN-WILDCARD,*ad.ixigua.com
 DOMAIN-WILDCARD,tracking.*.miui.com
 DOMAIN-WILDCARD,*.tracking.*.miui.com
 AND,((USER-AGENT,bili*),(NOT,((OR,((DOMAIN-SUFFIX,bilibili.com),(DOMAIN-SUFFIX,hdslb.com),(DOMAIN-SUFFIX,wo.cn),(DOMAIN-SUFFIX,biligame.com),(DOMAIN-SUFFIX,bilivideo.com),(DOMAIN-SUFFIX,bilivideo.cn),(DOMAIN-SUFFIX,biliapi.com),(DOMAIN-SUFFIX,biliapi.net),(DOMAIN-SUFFIX,biliintl.com),(DOMAIN-SUFFIX,bstarstatic.com),(DOMAIN-SUFFIX,akamaized.net))))))
-URL-REGEX,^http://(.*)/sign_d\?host\=
+URL-REGEX,^http://(.*)/\d+/sign_d\?host\=
 IP-CIDR,39.97.128.148/32,no-resolve
 IP-CIDR,39.97.130.51/32,no-resolve
 IP-CIDR,42.81.232.18/32,no-resolve
 IP-CIDR,42.187.182.106/32,no-resolve
 IP-CIDR,42.187.182.123/32,no-resolve
 IP-CIDR,42.187.184.154/32,no-resolve
+IP-CIDR,59.82.99.47/32,no-resolve
 IP-CIDR,59.111.239.61/32,no-resolve
 IP-CIDR,59.111.239.62/32,no-resolve
+IP-CIDR,101.35.204.35/32,no-resolve
 IP-CIDR,101.124.19.122/32,no-resolve
 IP-CIDR,103.37.152.97/32,no-resolve
 IP-CIDR,103.224.222.208/32,no-resolve
+IP-CIDR,114.110.97.97/32,no-resolve
 IP-CIDR,115.236.121.51/32,no-resolve
 IP-CIDR,115.236.121.195/32,no-resolve
-IP-CIDR,118.89.204.0/23,no-resolve
 IP-CIDR,119.29.29.98/31,no-resolve
 IP-CIDR,123.151.54.50/32,no-resolve
 IP-CIDR,182.254.116.117/32,no-resolve
