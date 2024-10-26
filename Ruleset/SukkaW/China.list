@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-10-25T00:06:25.649Z
-# Size: 736
+# Last Updated: 2024-10-26T10:15:55.167Z
+# Size: 741
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -129,6 +129,7 @@ DOMAIN-SUFFIX,douban.fm
 DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,netease.im
+DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,jianshu.io
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,openinstall.io
@@ -455,6 +456,7 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tnkjmec.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,udqqimg.com
+DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,volccdn.com
 DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,xoyocdn.com
@@ -661,6 +663,7 @@ DOMAIN-SUFFIX,263.net
 DOMAIN-SUFFIX,360.net
 DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,cz88.net
 DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,jb51.net
@@ -711,6 +714,7 @@ DOMAIN-SUFFIX,8866.org
 DOMAIN-SUFFIX,9966.org
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,docschina.org
+DOMAIN-SUFFIX,miot-spec.org
 DOMAIN-SUFFIX,icourse163.org
 DOMAIN,dns.pub
 DOMAIN,doh.pub
@@ -735,6 +739,7 @@ DOMAIN-SUFFIX,steam.ksyna.com
 DOMAIN-SUFFIX,steam.clngaa.com
 DOMAIN-SUFFIX,dl.eccdnx.com
 DOMAIN,www.layuicdn.com
+DOMAIN,cdnstatic.tencentcs.com
 DOMAIN-SUFFIX,dl.pinyuncloud.com
 DOMAIN-SUFFIX,dl.bscstorage.net
 DOMAIN,cn.download.nvidia.com

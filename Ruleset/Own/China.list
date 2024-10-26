@@ -1,5 +1,5 @@
 # NAME: China
-# DOMAIN: 470
+# DOMAIN: 471
 # DOMAIN-SUFFIX: 93375
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
@@ -7,8 +7,8 @@
 # IP-CIDR6: 12430
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 114818
-# UPDATED: 2024-10-26 09:43:31
+# TOTAL: 114819
+# UPDATED: 2024-10-26 14:29:43
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,8 +244,8 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-10-25T00:06:25.649Z
-# Size: 736
+# Last Updated: 2024-10-26T10:15:55.167Z
+# Size: 741
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,3.cn
@@ -367,6 +367,7 @@ DOMAIN-SUFFIX,douban.fm
 DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,netease.im
+DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,jianshu.io
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,openinstall.io
@@ -692,6 +693,7 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tnkjmec.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,udqqimg.com
+DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,volccdn.com
 DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,xoyocdn.com
@@ -898,6 +900,7 @@ DOMAIN-SUFFIX,263.net
 DOMAIN-SUFFIX,360.net
 DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,cz88.net
 DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,jb51.net
@@ -948,6 +951,7 @@ DOMAIN-SUFFIX,8866.org
 DOMAIN-SUFFIX,9966.org
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,docschina.org
+DOMAIN-SUFFIX,miot-spec.org
 DOMAIN-SUFFIX,icourse163.org
 DOMAIN,dns.pub
 DOMAIN,doh.pub
@@ -972,6 +976,7 @@ DOMAIN-SUFFIX,steam.ksyna.com
 DOMAIN-SUFFIX,steam.clngaa.com
 DOMAIN-SUFFIX,dl.eccdnx.com
 DOMAIN,www.layuicdn.com
+DOMAIN,cdnstatic.tencentcs.com
 DOMAIN-SUFFIX,dl.pinyuncloud.com
 DOMAIN-SUFFIX,dl.bscstorage.net
 DOMAIN,cn.download.nvidia.com
@@ -1203,7 +1208,6 @@ IP-CIDR6,2a0b:b583::/48,no-resolve
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
-DOMAIN-SUFFIX,upaiyun.com
 # China DNS
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,dns.alidns.com
@@ -2242,7 +2246,6 @@ DOMAIN-SUFFIX,cyagen.com
 DOMAIN-SUFFIX,cybtc.com
 DOMAIN-SUFFIX,cyol.com
 DOMAIN-SUFFIX,cyts.com
-DOMAIN-SUFFIX,cz88.net
 DOMAIN-SUFFIX,cztv.com
 DOMAIN-SUFFIX,cztvcloud.com
 DOMAIN-SUFFIX,czybjz.com
@@ -2533,7 +2536,6 @@ DOMAIN-SUFFIX,gfan.com
 DOMAIN-SUFFIX,gfund.com
 DOMAIN-SUFFIX,giocdn.com
 DOMAIN-SUFFIX,gitcode.net
-DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,globrand.com
 DOMAIN-SUFFIX,gm86.com
@@ -57153,7 +57155,6 @@ DOMAIN-SUFFIX,minz.press
 DOMAIN-SUFFIX,minzu56.net
 DOMAIN-SUFFIX,miooku.com
 DOMAIN-SUFFIX,miospay.com
-DOMAIN-SUFFIX,miot-spec.org
 DOMAIN-SUFFIX,miotech.com
 DOMAIN-SUFFIX,mipa.fun
 DOMAIN-SUFFIX,mipacc.com

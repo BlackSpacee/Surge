@@ -6,9 +6,9 @@
 # IP-CIDR: 30
 # IP-CIDR6: 4
 # USER-AGENT: 1
-# URL-REGEX: 1
-# TOTAL: 1503
-# UPDATED: 2024-10-26 09:43:31
+# URL-REGEX: 2
+# TOTAL: 1504
+# UPDATED: 2024-10-26 14:29:43
 
 404: Not Found
 ############################################################# 这是第一条分割线 #############################################################
@@ -1265,8 +1265,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-10-25T12:21:24.776Z
-# Size: 135
+# Last Updated: 2024-10-26T07:11:39.357Z
+# Size: 136
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1374,7 +1374,8 @@ DOMAIN-WILDCARD,*ad.ixigua.com
 DOMAIN-WILDCARD,tracking.*.miui.com
 DOMAIN-WILDCARD,*.tracking.*.miui.com
 AND,((USER-AGENT,bili*),(NOT,((OR,((DOMAIN-SUFFIX,bilibili.com),(DOMAIN-SUFFIX,hdslb.com),(DOMAIN-SUFFIX,wo.cn),(DOMAIN-SUFFIX,biligame.com),(DOMAIN-SUFFIX,bilivideo.com),(DOMAIN-SUFFIX,bilivideo.cn),(DOMAIN-SUFFIX,biliapi.com),(DOMAIN-SUFFIX,biliapi.net),(DOMAIN-SUFFIX,biliintl.com),(DOMAIN-SUFFIX,bstarstatic.com),(DOMAIN-SUFFIX,akamaized.net))))))
-URL-REGEX,^http://.*/\d+/sign_d
+URL-REGEX,/\d+/resolve
+URL-REGEX,/\d+/sign_d
 IP-CIDR,39.97.128.148/32,no-resolve
 IP-CIDR,39.97.130.51/32,no-resolve
 IP-CIDR,42.81.232.18/32,no-resolve
