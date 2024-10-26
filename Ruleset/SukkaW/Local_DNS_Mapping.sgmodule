@@ -1,18 +1,12 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-10-21T16:28:53.839Z
+#!desc=Last Updated: 2024-10-26T14:37:42.473Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
 dot.pub = 120.53.53.53, 1.12.12.12
 doh.pub = 120.53.53.53, 1.12.12.12
 dns.pub = 120.53.53.53, 1.12.12.12
-dns.360.cn = server:https://101.198.198.198/dns-query
-dot.360.cn = server:https://101.198.198.198/dns-query
-doh.360.cn = server:https://101.198.198.198/dns-query
-sdns.360.net = server:https://101.198.198.198/dns-query
-dns.360.net = server:https://101.198.198.198/dns-query
-dot.360.net = server:https://101.198.198.198/dns-query
-doh.360.net = server:https://101.198.198.198/dns-query
+doh.360.cn = server:101.198.198.198
 uc.cn = server:quic://dns.alidns.com:853
 *.uc.cn = server:quic://dns.alidns.com:853
 alibaba.com = server:quic://dns.alidns.com:853
