@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 469
-# DOMAIN-SUFFIX: 93379
+# DOMAIN-SUFFIX: 93381
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8389
 # IP-CIDR6: 12434
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 114823
-# UPDATED: 2024-10-27 09:53:02
+# TOTAL: 114825
+# UPDATED: 2024-10-27 14:29:57
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,8 +244,8 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-10-26T14:37:42.473Z
-# Size: 739
+# Last Updated: 2024-10-27T12:36:17.878Z
+# Size: 742
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,3.cn
@@ -290,6 +290,7 @@ DOMAIN-SUFFIX,66law.cn
 DOMAIN-SUFFIX,9game.cn
 DOMAIN-SUFFIX,acfun.cn
 DOMAIN-SUFFIX,alios.cn
+DOMAIN-SUFFIX,aqara.cn
 DOMAIN-SUFFIX,baidu.cn
 DOMAIN-SUFFIX,cnnic.cn
 DOMAIN-SUFFIX,flyme.cn
@@ -300,6 +301,7 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,m1905.cn
 DOMAIN-SUFFIX,meizu.cn
 DOMAIN-SUFFIX,nubia.cn
+DOMAIN-SUFFIX,qiyou.cn
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,udesk.cn
@@ -955,6 +957,7 @@ DOMAIN-SUFFIX,miot-spec.org
 DOMAIN-SUFFIX,icourse163.org
 DOMAIN,doh.pub
 DOMAIN-SUFFIX,landian.vip
+DOMAIN-SUFFIX,gorouter.info
 DOMAIN-SUFFIX,126.link
 DOMAIN-SUFFIX,yqkk.link
 DOMAIN-SUFFIX,haowu.link
@@ -35634,7 +35637,6 @@ DOMAIN-SUFFIX,gorebuy.com
 DOMAIN-SUFFIX,goregxa.com
 DOMAIN-SUFFIX,gorelay.xyz
 DOMAIN-SUFFIX,gorichox.com
-DOMAIN-SUFFIX,gorouter.info
 DOMAIN-SUFFIX,gorse.com
 DOMAIN-SUFFIX,gosailgis.com
 DOMAIN-SUFFIX,goshijia.com

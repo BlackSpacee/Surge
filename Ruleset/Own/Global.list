@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 103
-# DOMAIN-SUFFIX: 30874
+# DOMAIN-SUFFIX: 30876
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31190
-# UPDATED: 2024-10-27 09:53:02
+# TOTAL: 31192
+# UPDATED: 2024-10-27 14:29:57
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-10-26T10:15:55.532Z
-# Size: 649
+# Last Updated: 2024-10-27T12:36:18.346Z
+# Size: 652
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -117,6 +117,7 @@ DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,libgen.st
 DOMAIN-SUFFIX,ping.sx
+DOMAIN-SUFFIX,7mmtv.sx
 DOMAIN-SUFFIX,dev.to
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,muku.tv
@@ -134,6 +135,7 @@ DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,ajay.app
+DOMAIN-SUFFIX,grep.app
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,cyberghost.app
 DOMAIN-SUFFIX,istatmenus.app
@@ -176,6 +178,7 @@ DOMAIN-SUFFIX,gvt7.com
 DOMAIN-SUFFIX,gvt9.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,ixxx.com
+DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,kagi.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,kwai.com
@@ -267,6 +270,7 @@ DOMAIN-SUFFIX,replit.com
 DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,sketch.com
+DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,tumblr.com
@@ -663,7 +667,6 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
 USER-AGENT,Roam*
@@ -7415,7 +7418,6 @@ DOMAIN-SUFFIX,777tv.net
 DOMAIN-SUFFIX,777xporn.com
 DOMAIN-SUFFIX,77maott.com
 DOMAIN-SUFFIX,7mm.tv
-DOMAIN-SUFFIX,7mmtv.sx
 DOMAIN-SUFFIX,7mmtv.tv
 DOMAIN-SUFFIX,7tb.cc
 DOMAIN-SUFFIX,8008206616.com
@@ -27185,7 +27187,6 @@ DOMAIN-SUFFIX,superstation.com.tw
 DOMAIN-SUFFIX,superstem.ac.uk
 DOMAIN-SUFFIX,supertop.co
 DOMAIN-SUFFIX,superuser.com
-DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,supply-chain.ac.uk
 DOMAIN-SUFFIX,supplybestjerseys.com
 DOMAIN-SUFFIX,supportfacebook.com
@@ -31208,6 +31209,7 @@ DOMAIN-SUFFIX,zzycdz.com
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,twimg
 DOMAIN-KEYWORD,voddazn
 DOMAIN-KEYWORD,wikileaks

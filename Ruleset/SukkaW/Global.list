@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-10-26T10:15:55.532Z
-# Size: 649
+# Last Updated: 2024-10-27T12:36:18.346Z
+# Size: 652
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,libgen.st
 DOMAIN-SUFFIX,ping.sx
+DOMAIN-SUFFIX,7mmtv.sx
 DOMAIN-SUFFIX,dev.to
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,muku.tv
@@ -124,6 +125,7 @@ DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,ajay.app
+DOMAIN-SUFFIX,grep.app
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,cyberghost.app
 DOMAIN-SUFFIX,istatmenus.app
@@ -166,6 +168,7 @@ DOMAIN-SUFFIX,gvt7.com
 DOMAIN-SUFFIX,gvt9.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,ixxx.com
+DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,kagi.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,kwai.com
@@ -257,6 +260,7 @@ DOMAIN-SUFFIX,replit.com
 DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,sketch.com
+DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,tumblr.com
@@ -653,7 +657,6 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
 USER-AGENT,Roam*
