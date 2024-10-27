@@ -20,20 +20,20 @@ jobs:
       - name: Fork files to Ruleset
         run: |
           # Apple
-          curl -L -o Surge-repo/Ruleset/APNs.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/ApplePushNotificationService.list"
+          curl -L -o Surge-repo/Ruleset/APNs.list "https://proxyresource.pages.dev/Tool/Loon/Rule/ApplePushNotificationService.list"
           curl -L -o Surge-repo/Ruleset/Apple.list "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Apple.list"
 
           # OoklaSpeedtest
-          curl -L -o Surge-repo/Ruleset/Speedtest.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/OoklaSpeedtest.list"
+          curl -L -o Surge-repo/Ruleset/Speedtest.list "https://proxyresource.pages.dev/Tool/Loon/Rule/OoklaSpeedtest.list"
 
           # OpenAI
-          curl -L -o Surge-repo/Ruleset/OpenAI.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/OpenAI.list"
+          curl -L -o Surge-repo/Ruleset/OpenAI.list "https://proxyresource.pages.dev/Tool/Loon/Rule/OpenAI.list"
 
           # AIGC(SukkaW&KELI) (ChatGPT, Copilot, Gemini, Claude...)
           mkdir -p Surge-repo/Ruleset/AIGC
           curl -L -o Surge-repo/Ruleset/AIGC/Claude.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Claude.list"
           curl -L -o Surge-repo/Ruleset/AIGC/AI_SukkaW.list "https://ruleset.skk.moe/List/non_ip/ai.conf"
-          curl -L -o Surge-repo/Ruleset/AIGC/AI_KELI.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list"
+          curl -L -o Surge-repo/Ruleset/AIGC/AI_KELI.list "https://proxyresource.pages.dev/Tool/Loon/Rule/AI.list"
 
           # 社交媒体
           curl -L -o Surge-repo/Ruleset/Telegram.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Telegram.list"
@@ -50,7 +50,7 @@ jobs:
           curl -L -o Surge-repo/Ruleset/ProxyMedia/ProxyMedia.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list"
 
           mkdir -p Surge-repo/Ruleset/TikTok
-          curl -L -o Surge-repo/Ruleset/TikTok/TikTok.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/TikTok.list"
+          curl -L -o Surge-repo/Ruleset/TikTok/TikTok.list "https://proxyresource.pages.dev/Tool/Loon/Rule/TikTok.list"
           mkdir -p Surge-repo/Ruleset/Netflix
           curl -L -o Surge-repo/Ruleset/Netflix/Netflix.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list"
 
@@ -98,7 +98,6 @@ jobs:
           mkdir -p Surge-repo/Ruleset/fmz200
           curl -L -o Surge-repo/Ruleset/fmz200/Direct_fmz200.list "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list"
           curl -L -o Surge-repo/Ruleset/fmz200/Ads_fmz200.list "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list"
-          curl -L -o Surge-repo/Ruleset/fmz200/Ads_RuCu6.list "https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
 
           # LucY
           mkdir -p Surge-repo/Ruleset/LucY

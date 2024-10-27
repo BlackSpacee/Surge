@@ -1,13 +1,13 @@
 #!name = JD Price comparison
-#!desc = 京东比价
-#!homepage = https://service.2ti.st/QuanX/Script/jd_tb_price/main.js
-#!author = @yichahucha @Small
+#!desc = 京东比价≤12.4.3
+#!homepage = https://github.com/wf021325
+#!author = @灰灰
 #!icon = https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/JD.png
-#!date = [2021/6/25]
+#!date = [2024/9/18]
 
 
 [Script]
-京东比价 = type=http-response, pattern=^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig), script-path=https://service.2ti.st/QuanX/Script/jd_tb_price/main.js, requires-body=true
+京东比价 = type=http-response, pattern=^https?:\/\/api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig), script-path=https://raw.githubusercontent.com/wf021325/qx/master/js/jd_price.js, requires-body=true, max-size=-1, timeout=60
 
 [MITM]
 hostname = %APPEND% api.m.jd.com
