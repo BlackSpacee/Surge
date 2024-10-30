@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-10-29T13:36:16.411Z
+#!desc=Last Updated: 2024-10-29T18:44:17.273Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -161,8 +161,6 @@ weixinbridge.com = server:https://doh.pub/dns-query
 *.weixinbridge.com = server:https://doh.pub/dns-query
 weixin.com = server:https://doh.pub/dns-query
 *.weixin.com = server:https://doh.pub/dns-query
-wechat.com = server:https://doh.pub/dns-query
-*.wechat.com = server:https://doh.pub/dns-query
 weiyun.com = server:https://doh.pub/dns-query
 *.weiyun.com = server:https://doh.pub/dns-query
 soso.com = server:https://doh.pub/dns-query

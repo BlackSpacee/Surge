@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 469
-# DOMAIN-SUFFIX: 93365
+# DOMAIN-SUFFIX: 93366
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8399
 # IP-CIDR6: 12436
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 114821
-# UPDATED: 2024-10-29 20:46:04
+# TOTAL: 114822
+# UPDATED: 2024-10-30 02:31:22
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,7 +244,7 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-10-29T13:36:16.411Z
+# Last Updated: 2024-10-29T19:31:24.747Z
 # Size: 744
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,chaoxing.cc
@@ -278,6 +278,7 @@ DOMAIN-SUFFIX,didi.cn
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,neea.cn
+DOMAIN-SUFFIX,news.cn
 DOMAIN-SUFFIX,oppo.cn
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,sina.cn
@@ -612,7 +613,6 @@ DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,udache.com
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,wangsu.com
-DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wegame.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
@@ -1165,6 +1165,7 @@ DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,tencentmind.com
 DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,wechat.com
 # Vip 唯品会
 DOMAIN-SUFFIX,appvipshop.com
 DOMAIN-SUFFIX,vipstatic.com
