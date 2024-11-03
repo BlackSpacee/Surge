@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 470
-# DOMAIN-SUFFIX: 93322
+# DOMAIN-SUFFIX: 93321
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8388
 # IP-CIDR6: 12437
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 114769
-# UPDATED: 2024-11-02 20:40:51
+# TOTAL: 114768
+# UPDATED: 2024-11-03 02:28:05
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,8 +244,8 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-11-02T14:41:44.190Z
-# Size: 747
+# Last Updated: 2024-11-02T18:52:30.547Z
+# Size: 749
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,3.cn
@@ -350,7 +350,6 @@ DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,feelgood.cn
 DOMAIN-SUFFIX,iconfont.cn
 DOMAIN-SUFFIX,leetcode.cn
-DOMAIN-SUFFIX,linkedin.cn
 DOMAIN-SUFFIX,opposhop.cn
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,blzstatic.cn
@@ -495,6 +494,7 @@ DOMAIN-SUFFIX,ksord.com
 DOMAIN-SUFFIX,ksyun.com
 DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,lagou.com
+DOMAIN-SUFFIX,ljcdn.com
 DOMAIN-SUFFIX,m1905.com
 DOMAIN-SUFFIX,meitu.com
 DOMAIN-SUFFIX,meizu.com
@@ -678,6 +678,7 @@ DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,ksosoft.com
 DOMAIN-SUFFIX,kwaicdn.com
 DOMAIN-SUFFIX,leiniao.com
+DOMAIN-SUFFIX,lianjia.com
 DOMAIN-SUFFIX,ludashi.com
 DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,myzaker.com
@@ -720,6 +721,7 @@ DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,changyan.com
 DOMAIN-SUFFIX,chaoxing.com
+DOMAIN-SUFFIX,chiphell.com
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmfchina.com
 DOMAIN-SUFFIX,dangdang.com
@@ -2019,7 +2021,6 @@ DOMAIN-SUFFIX,chinaweiyu.com
 DOMAIN-SUFFIX,chinawutong.com
 DOMAIN-SUFFIX,chinazns.com
 DOMAIN-SUFFIX,chinesemooc.org
-DOMAIN-SUFFIX,chiphell.com
 DOMAIN-SUFFIX,chntel.com
 DOMAIN-SUFFIX,chongdiantou.com
 DOMAIN-SUFFIX,chouti.com
@@ -3133,7 +3134,6 @@ DOMAIN-SUFFIX,letvcdn.com
 DOMAIN-SUFFIX,lf-rc1.yhgfb-cn-static.com
 DOMAIN-SUFFIX,lhzq.com
 DOMAIN-SUFFIX,liangxinyao.com
-DOMAIN-SUFFIX,lianjia.com
 DOMAIN-SUFFIX,lianmishu.com
 DOMAIN-SUFFIX,liantu.com
 DOMAIN-SUFFIX,lianzhuli.com
@@ -3160,7 +3160,6 @@ DOMAIN-SUFFIX,liuxiaoer.com
 DOMAIN-SUFFIX,live800.com
 DOMAIN-SUFFIX,liweijia.com
 DOMAIN-SUFFIX,lixinger.com
-DOMAIN-SUFFIX,ljcdn.com
 DOMAIN-SUFFIX,lkcoffee.com
 DOMAIN-SUFFIX,lkkbrand.com
 DOMAIN-SUFFIX,llsapp.com
