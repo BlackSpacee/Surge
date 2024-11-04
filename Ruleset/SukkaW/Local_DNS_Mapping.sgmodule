@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-10-29T18:44:17.273Z
+#!desc=Last Updated: 2024-11-04T03:17:56.799Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -241,7 +241,10 @@ xiaomiev.com = server:https://doh.pub/dns-query
 *.xiaomiev.com = server:https://doh.pub/dns-query
 xiaomiyoupin.com = server:https://doh.pub/dns-query
 *.xiaomiyoupin.com = server:https://doh.pub/dns-query
+bytedance.com.com = server:180.184.2.2
+*.bytedance.com.com = server:180.184.2.2
 *.bytecdn.cn = server:180.184.2.2
+*.volccdn.com = server:180.184.2.2
 *.toutiaoimg.com = server:180.184.2.2
 *.toutiaoimg.cn = server:180.184.2.2
 *.toutiaostatic.com = server:180.184.2.2
@@ -281,7 +284,6 @@ ixigua.com = server:180.184.2.2
 *.ixigua.com = server:180.184.2.2
 *.ixiguavideo.com = server:180.184.2.2
 *.ixgvideo.com = server:180.184.2.2
-*.volccdn.com = server:180.184.2.2
 *.byted-static.com = server:180.184.2.2
 volces.com = server:180.184.2.2
 *.volces.com = server:180.184.2.2
