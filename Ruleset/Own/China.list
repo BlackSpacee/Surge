@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 114901
-# UPDATED: 2024-11-06 09:44:16
+# UPDATED: 2024-11-06 14:31:10
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,8 +244,8 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-11-05T08:40:51.419Z
-# Size: 751
+# Last Updated: 2024-11-06T08:09:09.424Z
+# Size: 755
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,3.cn
@@ -393,6 +393,7 @@ DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,88.com
 DOMAIN-SUFFIX,91.com
 DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,so.com
@@ -416,6 +417,7 @@ DOMAIN-SUFFIX,zui.com
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,1905.com
 DOMAIN-SUFFIX,21cn.com
+DOMAIN-SUFFIX,25pp.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,4399.com
 DOMAIN-SUFFIX,9xiu.com
@@ -679,6 +681,7 @@ DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,ksosoft.com
 DOMAIN-SUFFIX,kwaicdn.com
 DOMAIN-SUFFIX,leiniao.com
+DOMAIN-SUFFIX,letvimg.com
 DOMAIN-SUFFIX,lianjia.com
 DOMAIN-SUFFIX,ludashi.com
 DOMAIN-SUFFIX,meituan.com
@@ -708,6 +711,7 @@ DOMAIN-SUFFIX,zhangzs.com
 DOMAIN-SUFFIX,163jiasu.com
 DOMAIN-SUFFIX,360tpcdn.com
 DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,baidubce.com
@@ -1119,11 +1123,9 @@ DOMAIN-SUFFIX,paipai.com
 # Kuaishou 快手
 # Meitu
 # LeTV 乐视
-DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,letvcloud.com
-DOMAIN-SUFFIX,letvimg.com
 DOMAIN-SUFFIX,letvlive.com
 DOMAIN-SUFFIX,letvstore.com
 # MGTV 芒果TV
@@ -1443,7 +1445,6 @@ DOMAIN-SUFFIX,21jingji.com
 DOMAIN-SUFFIX,2265.com
 DOMAIN-SUFFIX,2345.com
 DOMAIN-SUFFIX,258.com
-DOMAIN-SUFFIX,25pp.com
 DOMAIN-SUFFIX,289.com
 DOMAIN-SUFFIX,2cto.com
 DOMAIN-SUFFIX,3000.com
@@ -15265,7 +15266,6 @@ DOMAIN-SUFFIX,alientek.com
 DOMAIN-SUFFIX,aliexpress-media.com
 DOMAIN-SUFFIX,aliexpress.us
 DOMAIN-SUFFIX,alifabu.com
-DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,aligaofang.com
 DOMAIN-SUFFIX,aligenie.com
 DOMAIN-SUFFIX,aligfwaf.com

@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-11-04T03:17:56.799Z
+#!desc=Last Updated: 2024-11-06T08:09:09.424Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -120,6 +120,10 @@ alios.cn = server:quic://dns.alidns.com:853
 *.alios.cn = server:quic://dns.alidns.com:853
 wandoujia.com = server:quic://dns.alidns.com:853
 *.wandoujia.com = server:quic://dns.alidns.com:853
+aligames.com = server:quic://dns.alidns.com:853
+*.aligames.com = server:quic://dns.alidns.com:853
+25pp.com = server:quic://dns.alidns.com:853
+*.25pp.com = server:quic://dns.alidns.com:853
 *.aliapp.org = server:quic://dns.alidns.com:853
 tanx.com = server:quic://dns.alidns.com:853
 *.tanx.com = server:quic://dns.alidns.com:853
