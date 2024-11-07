@@ -7,12 +7,12 @@
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 31252
-# UPDATED: 2024-11-07 14:30:38
+# UPDATED: 2024-11-07 20:42:22
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-11-05T15:40:24.631Z
-# Size: 718
+# Last Updated: 2024-11-07T15:52:03.870Z
+# Size: 719
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -713,6 +713,7 @@ DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,line.naver.jp
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,ithome.com.tw
 DOMAIN-SUFFIX,linefriends.com.tw
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,dailymail.co.uk
@@ -3381,7 +3382,6 @@ DOMAIN-SUFFIX,itaiwan.gov.tw
 DOMAIN-SUFFIX,italiatibet.org
 DOMAIN-SUFFIX,itemdb.com
 DOMAIN-SUFFIX,itemfix.com
-DOMAIN-SUFFIX,ithome.com.tw
 DOMAIN-SUFFIX,itsaol.com
 DOMAIN-SUFFIX,itshidden.com
 DOMAIN-SUFFIX,itsky.it
