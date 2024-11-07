@@ -8,25 +8,46 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 114900
-# UPDATED: 2024-11-07 09:44:32
+# UPDATED: 2024-11-07 14:30:38
 
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2024-10-16T07:23:52.814Z
-# Size: 1
+# Last Updated: 2024-11-07T11:56:46.528Z
+# Size: 23
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file includes rules for LAN DOMAIN and reserved TLDs.
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN-SUFFIX,lan
+DOMAIN-SUFFIX,localdomain
+DOMAIN-SUFFIX,home.arpa
+DOMAIN-SUFFIX,10.in-addr.arpa
+DOMAIN-SUFFIX,254.169.in-addr.arpa
+DOMAIN-SUFFIX,16.172.in-addr.arpa
+DOMAIN-SUFFIX,17.172.in-addr.arpa
+DOMAIN-SUFFIX,18.172.in-addr.arpa
+DOMAIN-SUFFIX,19.172.in-addr.arpa
+DOMAIN-SUFFIX,20.172.in-addr.arpa
+DOMAIN-SUFFIX,21.172.in-addr.arpa
+DOMAIN-SUFFIX,22.172.in-addr.arpa
+DOMAIN-SUFFIX,23.172.in-addr.arpa
+DOMAIN-SUFFIX,24.172.in-addr.arpa
+DOMAIN-SUFFIX,25.172.in-addr.arpa
+DOMAIN-SUFFIX,26.172.in-addr.arpa
+DOMAIN-SUFFIX,27.172.in-addr.arpa
+DOMAIN-SUFFIX,28.172.in-addr.arpa
+DOMAIN-SUFFIX,29.172.in-addr.arpa
+DOMAIN-SUFFIX,30.172.in-addr.arpa
+DOMAIN-SUFFIX,31.172.in-addr.arpa
+DOMAIN-SUFFIX,168.192.in-addr.arpa
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
 # Last Updated: 2024-10-19T16:38:53.164Z
 # Size: 217
 # This file contains domains and process that should not be proxied.
-DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,m2m
 DOMAIN-SUFFIX,_tcp
 DOMAIN-SUFFIX,home
@@ -34,7 +55,6 @@ DOMAIN-SUFFIX,bogon
 DOMAIN,unifi
 DOMAIN-SUFFIX,_msdcs
 DOMAIN-SUFFIX,router
-DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,avgv.cc
 DOMAIN-SUFFIX,ncore.cc
 DOMAIN-SUFFIX,m-team.cc
@@ -143,7 +163,6 @@ DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,hdpost.top
 DOMAIN-SUFFIX,hd4.xyz
 DOMAIN-SUFFIX,blutopia.xyz
-DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,moecat.best
 DOMAIN-SUFFIX,hdcity.city
 DOMAIN-SUFFIX,ptsbao.club
@@ -175,27 +194,8 @@ DOMAIN,setmeup.arubanetworks.com
 DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN,local.adguard.org
 DOMAIN,injections.adguard.org
-DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,bt.neu6.edu.cn
-DOMAIN-SUFFIX,254.169.in-addr.arpa
-DOMAIN-SUFFIX,16.172.in-addr.arpa
-DOMAIN-SUFFIX,17.172.in-addr.arpa
-DOMAIN-SUFFIX,18.172.in-addr.arpa
-DOMAIN-SUFFIX,19.172.in-addr.arpa
-DOMAIN-SUFFIX,20.172.in-addr.arpa
-DOMAIN-SUFFIX,21.172.in-addr.arpa
-DOMAIN-SUFFIX,22.172.in-addr.arpa
-DOMAIN-SUFFIX,23.172.in-addr.arpa
-DOMAIN-SUFFIX,24.172.in-addr.arpa
-DOMAIN-SUFFIX,25.172.in-addr.arpa
-DOMAIN-SUFFIX,26.172.in-addr.arpa
-DOMAIN-SUFFIX,27.172.in-addr.arpa
-DOMAIN-SUFFIX,28.172.in-addr.arpa
-DOMAIN-SUFFIX,29.172.in-addr.arpa
-DOMAIN-SUFFIX,30.172.in-addr.arpa
-DOMAIN-SUFFIX,31.172.in-addr.arpa
-DOMAIN-SUFFIX,168.192.in-addr.arpa
 DOMAIN-KEYWORD,cnki.net
 DOMAIN-KEYWORD,wanfangdata
 DOMAIN-KEYWORD,pkulaw
