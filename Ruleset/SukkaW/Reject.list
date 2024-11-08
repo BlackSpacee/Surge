@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-11-05T17:20:45.535Z
-# Size: 137
+# Last Updated: 2024-11-08T05:58:39.443Z
+# Size: 139
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,httpdns.pro
 DOMAIN,dns.weibo.cn
+DOMAIN,ttnet-dig.feishu.cn
+DOMAIN,ttnet-doh.feishu.cn
 DOMAIN-SUFFIX,net.mydays.de
 DOMAIN,dns.jd.com
 DOMAIN,httpdns.baidu.com

@@ -1,14 +1,14 @@
 # NAME: Reject
 # AND: 1
-# DOMAIN: 467
+# DOMAIN: 469
 # DOMAIN-SUFFIX: 1048
 # DOMAIN-KEYWORD: 98
 # IP-CIDR: 36
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 2
-# TOTAL: 1657
-# UPDATED: 2024-11-08 02:29:47
+# TOTAL: 1659
+# UPDATED: 2024-11-08 09:45:00
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1489,8 +1489,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-11-05T17:20:45.535Z
-# Size: 137
+# Last Updated: 2024-11-08T05:58:39.443Z
+# Size: 139
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1505,6 +1505,8 @@ DOMAIN-SUFFIX,notifysrv.com
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,httpdns.pro
 DOMAIN,dns.weibo.cn
+DOMAIN,ttnet-dig.feishu.cn
+DOMAIN,ttnet-doh.feishu.cn
 DOMAIN-SUFFIX,net.mydays.de
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpsdns.baidu.com
