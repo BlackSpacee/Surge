@@ -7,12 +7,12 @@
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 31254
-# UPDATED: 2024-11-08 14:31:00
+# UPDATED: 2024-11-08 20:42:39
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-11-08T05:58:39.426Z
-# Size: 721
+# Last Updated: 2024-11-08T16:49:43.590Z
+# Size: 723
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -145,6 +145,7 @@ DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,ajay.app
+DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,grep.app
 DOMAIN-SUFFIX,knock.app
 DOMAIN-SUFFIX,linear.app
@@ -707,6 +708,7 @@ DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,x.company
+DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,news.com.au
 DOMAIN-SUFFIX,abc.net.au
@@ -11299,8 +11301,6 @@ DOMAIN-SUFFIX,bsix.ac.uk
 DOMAIN-SUFFIX,bsixbrookehouse.ac.uk
 DOMAIN-SUFFIX,bsixbrookehousesixthformcollege.ac.uk
 DOMAIN-SUFFIX,bsixcollege.ac.uk
-DOMAIN-SUFFIX,bsky.app
-DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bsls.ac.uk
 DOMAIN-SUFFIX,bsmb.ac.uk
