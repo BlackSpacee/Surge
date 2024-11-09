@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 103
-# DOMAIN-SUFFIX: 30938
+# DOMAIN-SUFFIX: 30936
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31254
-# UPDATED: 2024-11-08 20:42:39
+# TOTAL: 31252
+# UPDATED: 2024-11-09 02:29:53
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-11-08T16:49:43.590Z
-# Size: 723
+# Last Updated: 2024-11-08T18:39:13.520Z
+# Size: 719
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -109,15 +109,11 @@ DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,jav.pw
-DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,libgen.rs
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,tgstat.ru
 DOMAIN-SUFFIX,yandex.ru
-DOMAIN-SUFFIX,z-library.se
-DOMAIN-SUFFIX,singlelogin.se
 DOMAIN-SUFFIX,annas-archive.se
-DOMAIN-SUFFIX,zlibrary-global.se
 DOMAIN-SUFFIX,ouo.si
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,notion.so
@@ -26329,6 +26325,7 @@ DOMAIN-SUFFIX,sing4.lat
 DOMAIN-SUFFIX,sing68.com
 DOMAIN-SUFFIX,singlelogin.app
 DOMAIN-SUFFIX,singlelogin.me
+DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,singlelogin.site
 DOMAIN-SUFFIX,singtaobooks.com
 DOMAIN-SUFFIX,singtaola.com
@@ -31131,6 +31128,7 @@ DOMAIN-SUFFIX,yy7y.com
 DOMAIN-SUFFIX,yy8y.com
 DOMAIN-SUFFIX,yyfb.cyou
 DOMAIN-SUFFIX,yzld188.top
+DOMAIN-SUFFIX,z-library.se
 DOMAIN-SUFFIX,z00.world
 DOMAIN-SUFFIX,z18r.co
 DOMAIN-SUFFIX,z18r.com

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-11-08T05:58:39.443Z
-# Size: 139
+# Last Updated: 2024-11-08T18:39:13.535Z
+# Size: 146
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19,13 +19,17 @@ DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,httpdns.pro
 DOMAIN,dns.weibo.cn
+DOMAIN,doh.zjurl.cn
 DOMAIN,ttnet-dig.feishu.cn
 DOMAIN,ttnet-doh.feishu.cn
 DOMAIN-SUFFIX,net.mydays.de
 DOMAIN,dns.jd.com
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpsdns.baidu.com
+DOMAIN,doh.iqiyi.com
+DOMAIN,hdns.ksyun.com
 DOMAIN,httpdns.alicdn.com
+DOMAIN,httpdns.bcelive.com
 DOMAIN,httpdns.meituan.com
 DOMAIN,httpdnsvip.meituan.com
 DOMAIN,httpdns-sc.aliyuncs.com
@@ -47,11 +51,14 @@ DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,telemetry.mozilla.org
 DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
 DOMAIN,dns.weixin.qq.com
+DOMAIN,aedns.weixin.qq.com
+DOMAIN,httpdns.gslb.yy.com
 DOMAIN,httpdns-v6.gslb.yy.com
 DOMAIN,union-httpdns.gslb.yy.com
 DOMAIN,yyapp-httpdns.gslb.yy.com
 DOMAIN-SUFFIX,httpdns.c.163.com
 DOMAIN,httpdns.music.163.com
+DOMAIN,httpdns.kwd.inkuai.com
 DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN-SUFFIX,classify-client.services.mozilla.com
 DOMAIN-SUFFIX,httpdns.n.netease.com
