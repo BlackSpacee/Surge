@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 103
-# DOMAIN-SUFFIX: 30936
+# DOMAIN-SUFFIX: 30937
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31252
-# UPDATED: 2024-11-10 14:28:43
+# TOTAL: 31253
+# UPDATED: 2024-11-10 20:39:10
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-11-08T18:39:13.520Z
-# Size: 719
+# Last Updated: 2024-11-10T13:07:12.974Z
+# Size: 720
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -631,6 +631,7 @@ DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,schema.org
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,webrtc.org
+DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,astrill.org
 DOMAIN-SUFFIX,f-droid.org
@@ -741,7 +742,6 @@ USER-AGENT,Roam*
 ############################################################# 这是第一条分割线 #############################################################
 # 代理列表
 # MyList && Other
-DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,btlibrary.me
 DOMAIN-SUFFIX,cccat.io
@@ -7005,14 +7005,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2024-11-06 02:12:16
+# UPDATED: 2024-11-11 02:11:21
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30650
+# DOMAIN-SUFFIX: 30651
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 30933
+# TOTAL: 30934
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -20275,6 +20275,7 @@ DOMAIN-SUFFIX,m5ir5np1.shop
 DOMAIN-SUFFIX,m5servicedesk.ac.uk
 DOMAIN-SUFFIX,m5universities.ac.uk
 DOMAIN-SUFFIX,ma1lib.org
+DOMAIN-SUFFIX,maa.plus
 DOMAIN-SUFFIX,mabbank.com
 DOMAIN-SUFFIX,mablethorpe.ac.uk
 DOMAIN-SUFFIX,mac-migs.ac.uk
