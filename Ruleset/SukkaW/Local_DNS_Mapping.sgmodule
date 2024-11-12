@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-11-07T13:17:34.932Z
+#!desc=Last Updated: 2024-11-12T14:49:14.175Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -31,6 +31,8 @@ alibaba-inc.com = server:quic://dns.alidns.com:853
 *.alibaba-inc.com = server:quic://dns.alidns.com:853
 *.alibabausercontent.com = server:quic://dns.alidns.com:853
 *.alibabadns.com = server:quic://dns.alidns.com:853
+alibabachengdun.com = server:quic://dns.alidns.com:853
+*.alibabachengdun.com = server:quic://dns.alidns.com:853
 alicloudccp.com = server:quic://dns.alidns.com:853
 *.alicloudccp.com = server:quic://dns.alidns.com:853
 alipan.com = server:quic://dns.alidns.com:853
@@ -73,6 +75,8 @@ taobao.com = server:quic://dns.alidns.com:853
 *.tbcache.com = server:quic://dns.alidns.com:853
 tmall.com = server:quic://dns.alidns.com:853
 *.tmall.com = server:quic://dns.alidns.com:853
+goofish.com = server:quic://dns.alidns.com:853
+*.goofish.com = server:quic://dns.alidns.com:853
 xiami.com = server:quic://dns.alidns.com:853
 *.xiami.com = server:quic://dns.alidns.com:853
 xiami.net = server:quic://dns.alidns.com:853
@@ -199,7 +203,6 @@ upos-sz-mirrorali.bilivideo.com = server:quic://dns.alidns.com:853
 upos-sz-estgoss.bilivideo.com = server:quic://dns.alidns.com:853
 upos-sz-mirrorbd.bilivideo.com = server:180.76.76.76
 upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76
-upos-sz-mirrorcosbstar1.bilivideo.com = server:https://doh.pub/dns-query
 acg.tv = server:https://doh.pub/dns-query
 b23.tv = server:https://doh.pub/dns-query
 bilibili.cn = server:https://doh.pub/dns-query

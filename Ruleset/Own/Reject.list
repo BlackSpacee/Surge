@@ -1,14 +1,14 @@
 # NAME: Reject
 # AND: 1
-# DOMAIN: 476
+# DOMAIN: 489
 # DOMAIN-SUFFIX: 1048
 # DOMAIN-KEYWORD: 98
 # IP-CIDR: 36
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 2
-# TOTAL: 1666
-# UPDATED: 2024-11-12 14:30:57
+# TOTAL: 1679
+# UPDATED: 2024-11-12 20:44:39
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1489,8 +1489,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-11-11T01:35:52.581Z
-# Size: 147
+# Last Updated: 2024-11-12T14:16:01.329Z
+# Size: 160
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1509,10 +1509,12 @@ DOMAIN,doh.zjurl.cn
 DOMAIN,ttnet-dig.feishu.cn
 DOMAIN,ttnet-doh.feishu.cn
 DOMAIN-SUFFIX,net.mydays.de
+DOMAIN,httpdns.cctv.com
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpsdns.baidu.com
 DOMAIN,doh.iqiyi.com
 DOMAIN,httpdns.alicdn.com
+DOMAIN,httpdns.zybang.com
 DOMAIN,httpdns.bcelive.com
 DOMAIN,httpdns.meituan.com
 DOMAIN,httpdnsvip.meituan.com
@@ -1527,6 +1529,7 @@ DOMAIN,stun.smartgslb.com
 DOMAIN,httpdns.yunxindns.com
 DOMAIN,hd.xiaojukeji.com
 DOMAIN,httpdns.calorietech.com
+DOMAIN,httpdns.huaweicloud.com
 DOMAIN,httpdns-push.heytapmobile.com
 DOMAIN,httpdns-ocloud.heytapmobile.com
 DOMAIN,httpdns-euex-push.heytapmobile.com
@@ -1535,6 +1538,9 @@ DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
 DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,telemetry.mozilla.org
 DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
+DOMAIN,httpdns-browser.platform.dbankcloud.cn
+DOMAIN,doh.ptqy.gitv.tv
+DOMAIN,httpdns.kg.qq.com
 DOMAIN,dns.weixin.qq.com
 DOMAIN,aedns.weixin.qq.com
 DOMAIN,httpdns.gslb.yy.com
@@ -1543,13 +1549,20 @@ DOMAIN,union-httpdns.gslb.yy.com
 DOMAIN,yyapp-httpdns.gslb.yy.com
 DOMAIN-SUFFIX,httpdns.c.163.com
 DOMAIN,httpdns.music.163.com
+DOMAIN,httpdns.browser.miui.com
 DOMAIN,httpdns.kwd.inkuai.com
+DOMAIN,httpdns.n.shifen.com
 DOMAIN,httpdns.c.cdnhwc2.com
+DOMAIN,httpdns1.cc.cdnhwc5.com
 DOMAIN-SUFFIX,classify-client.services.mozilla.com
 DOMAIN-SUFFIX,httpdns.n.netease.com
 DOMAIN,httpdns-sdk.n.netease.com
+DOMAIN,httpdns.danuoyi.tbcache.com
+DOMAIN,httpdns.platform.dbankcloud.com
 DOMAIN,httpdns.push.heytapmobi.com
+DOMAIN,httpdns.ocloud.heytapmobi.com
 DOMAIN,httpdns.push.oppomobile.com
+DOMAIN,httpdns.ocloud.oppomobile.com
 DOMAIN-KEYWORD,.estream.
 DOMAIN-KEYWORD,jshosting
 DOMAIN-KEYWORD,hostingcloud

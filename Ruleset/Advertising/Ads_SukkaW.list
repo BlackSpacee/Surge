@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-11-12T12:39:15.313Z
-# Size: 109211
+# Last Updated: 2024-11-12T14:49:14.110Z
+# Size: 109225
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -67096,6 +67096,7 @@ DOMAIN-SUFFIX,saa.cbsi.com
 DOMAIN-SUFFIX,som.cbsi.com
 DOMAIN-SUFFIX,intent.cbsi.com
 DOMAIN-SUFFIX,ad.cctv.com
+DOMAIN-SUFFIX,httpdns.cctv.com
 DOMAIN-SUFFIX,mdws.cdcu.com
 DOMAIN-SUFFIX,smetrics.cfox.com
 DOMAIN-SUFFIX,analytic.cibc.com
@@ -71889,6 +71890,7 @@ DOMAIN-SUFFIX,rmxhti.zpacks.com
 DOMAIN-SUFFIX,ssp.zryydi.com
 DOMAIN-SUFFIX,link.zulily.com
 DOMAIN-SUFFIX,cdn.zxclan.com
+DOMAIN-SUFFIX,httpdns.zybang.com
 DOMAIN-SUFFIX,ck.zzipps.com
 DOMAIN-SUFFIX,asg.zzipps.com
 DOMAIN-SUFFIX,cdn.007moms.com
@@ -83658,6 +83660,7 @@ DOMAIN-SUFFIX,static.houseofpubs.com
 DOMAIN-SUFFIX,rtb-apac.houseofpubs.com
 DOMAIN-SUFFIX,rtb-useast.houseofpubs.com
 DOMAIN-SUFFIX,smetrics.howifightms.com
+DOMAIN-SUFFIX,httpdns.huaweicloud.com
 DOMAIN-SUFFIX,cdn.hunteryvely.com
 DOMAIN-SUFFIX,emma-414870e223.huodonghezi.com
 DOMAIN-SUFFIX,nzqrfa.hushpuppies.com
@@ -85597,6 +85600,7 @@ DOMAIN-SUFFIX,marketing.leading-edge.com
 DOMAIN-SUFFIX,ukaxwr.leastedisoha.com
 DOMAIN-SUFFIX,ioxqdp.leatherology.com
 DOMAIN-SUFFIX,analytics.leavemanager.com
+DOMAIN-SUFFIX,stats.leavemealone.com
 DOMAIN-SUFFIX,zodxgk.lecoqsportif.com
 DOMAIN-SUFFIX,wallaby.legendkeeper.com
 DOMAIN-SUFFIX,smetrics.lenscrafters.com
@@ -100387,6 +100391,7 @@ DOMAIN-SUFFIX,adx-drcn.op.dbankcloud.cn
 DOMAIN-SUFFIX,ubacollect-drcn.cloud.dbankcloud.cn
 DOMAIN-SUFFIX,dnkeeper.platform.dbankcloud.cn
 DOMAIN-SUFFIX,logservice-dre.platform.dbankcloud.cn
+DOMAIN-SUFFIX,httpdns-browser.platform.dbankcloud.cn
 DOMAIN-SUFFIX,cookies.jll.com.co
 DOMAIN-SUFFIX,email-am.jll.com.co
 DOMAIN-SUFFIX,email-em.jll.com.co
@@ -103030,6 +103035,7 @@ DOMAIN-SUFFIX,zhcmli.ayakkabidunyasi.com.tr
 DOMAIN-SUFFIX,analitik.bik.gov.tr
 DOMAIN-SUFFIX,tr.email.d8.tv
 DOMAIN-SUFFIX,tr.email.d17.tv
+DOMAIN-SUFFIX,doh.ptqy.gitv.tv
 DOMAIN-SUFFIX,cupid.ptqy.gitv.tv
 DOMAIN-SUFFIX,streamstats.prd.dlive.tv
 DOMAIN-SUFFIX,api.cid.samba.tv
@@ -104212,6 +104218,7 @@ DOMAIN-SUFFIX,tools.3g.qq.com
 DOMAIN-SUFFIX,up-hl.3g.qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
 DOMAIN-SUFFIX,activeqq.3g.qq.com
+DOMAIN-SUFFIX,httpdns.kg.qq.com
 DOMAIN-SUFFIX,adv.app.qq.com
 DOMAIN-SUFFIX,adpm.app.qq.com
 DOMAIN-SUFFIX,beacon.cdn.qq.com
@@ -104555,6 +104562,7 @@ DOMAIN-SUFFIX,tracking.india.miui.com
 DOMAIN-SUFFIX,r.browser.miui.com
 DOMAIN-SUFFIX,hot.browser.miui.com
 DOMAIN-SUFFIX,qsb.browser.miui.com
+DOMAIN-SUFFIX,httpdns.browser.miui.com
 DOMAIN-SUFFIX,security.browser.miui.com
 DOMAIN-SUFFIX,mp.huangye.miui.com
 DOMAIN-SUFFIX,images.fans.mlse.com
@@ -105104,6 +105112,7 @@ DOMAIN-SUFFIX,a8clk.shop.saraya.com
 DOMAIN-SUFFIX,images.stanleyhealthcare.sbdinc.com
 DOMAIN-SUFFIX,tr.recouvrement.seeric.com
 DOMAIN-SUFFIX,jpaasne.e.shifen.com
+DOMAIN-SUFFIX,httpdns.n.shifen.com
 DOMAIN-SUFFIX,click.em.soothe.com
 DOMAIN-SUFFIX,link.email.soothe.com
 DOMAIN-SUFFIX,t2.click.subway.com
@@ -105296,6 +105305,7 @@ DOMAIN-SUFFIX,links.email.bravotv.com
 DOMAIN-SUFFIX,images.e.brother.com
 DOMAIN-SUFFIX,tracking.server.bytecon.com
 DOMAIN-SUFFIX,httpdns.c.cdnhwc2.com
+DOMAIN-SUFFIX,httpdns1.cc.cdnhwc5.com
 DOMAIN-SUFFIX,s.info.cemexgo.com
 DOMAIN-SUFFIX,app.global.certain.com
 DOMAIN-SUFFIX,tr.newsletter.chandon.com
@@ -105549,6 +105559,7 @@ DOMAIN-SUFFIX,19035955.loyalty.tajawal.com
 DOMAIN-SUFFIX,6519114.automated.tajawal.com
 DOMAIN-SUFFIX,19035955.automated.tajawal.com
 DOMAIN-SUFFIX,a8cv.store.tavenal.com
+DOMAIN-SUFFIX,httpdns.danuoyi.tbcache.com
 DOMAIN-SUFFIX,images.info.telogis.com
 DOMAIN-SUFFIX,content.wire.telstra.com
 DOMAIN-SUFFIX,forms.businessnews.telstra.com
@@ -106411,6 +106422,7 @@ DOMAIN-SUFFIX,images.informador.davivienda.com
 DOMAIN-SUFFIX,adx-dra.op.dbankcloud.com
 DOMAIN-SUFFIX,adx-dre.op.dbankcloud.com
 DOMAIN-SUFFIX,adx-drru.op.dbankcloud.com
+DOMAIN-SUFFIX,httpdns.platform.dbankcloud.com
 DOMAIN-SUFFIX,openlocation-drcn.platform.dbankcloud.com
 DOMAIN-SUFFIX,mit.researchlog.dbresearch.com
 DOMAIN-SUFFIX,trck.internalnews.dbschenker.com
@@ -106450,6 +106462,7 @@ DOMAIN-SUFFIX,app.go.healthways.com
 DOMAIN-SUFFIX,tms.hft.hellofresh.com
 DOMAIN-SUFFIX,trk.discover.herculesrx.com
 DOMAIN-SUFFIX,httpdns.push.heytapmobi.com
+DOMAIN-SUFFIX,httpdns.ocloud.heytapmobi.com
 DOMAIN-SUFFIX,pages.feedback.hofvillage.com
 DOMAIN-SUFFIX,images.mailaway.homelidays.com
 DOMAIN-SUFFIX,data.emails.imaginbank.com
@@ -106523,6 +106536,7 @@ DOMAIN-SUFFIX,conff.dc.oppomobile.com
 DOMAIN-SUFFIX,dragate.dc.oppomobile.com
 DOMAIN-SUFFIX,stat-in.dc.oppomobile.com
 DOMAIN-SUFFIX,httpdns.push.oppomobile.com
+DOMAIN-SUFFIX,httpdns.ocloud.oppomobile.com
 DOMAIN-SUFFIX,a8clk.cart.ordersupli.com
 DOMAIN-SUFFIX,tracking.ent.oviahealth.com
 DOMAIN-SUFFIX,images.link.pentonauto.com
