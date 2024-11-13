@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 103
-# DOMAIN-SUFFIX: 30941
+# DOMAIN-SUFFIX: 30943
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31257
-# UPDATED: 2024-11-13 14:31:12
+# TOTAL: 31259
+# UPDATED: 2024-11-13 20:44:31
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7009,14 +7009,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2024-11-11 02:11:21
+# UPDATED: 2024-11-14 02:12:13
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30651
+# DOMAIN-SUFFIX: 30653
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 30934
+# TOTAL: 30936
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -12013,6 +12013,7 @@ DOMAIN-SUFFIX,charteredcollegeofteaching.ac.uk
 DOMAIN-SUFFIX,charticulator.com
 DOMAIN-SUFFIX,chase.ac.uk
 DOMAIN-SUFFIX,chasestudy.ac.uk
+DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatango.com
 DOMAIN-SUFFIX,chatgptvideo.xyz
 DOMAIN-SUFFIX,chatgptvideob.buzz
@@ -17888,6 +17889,7 @@ DOMAIN-SUFFIX,icif.ac.uk
 DOMAIN-SUFFIX,icit.ac.uk
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
+DOMAIN-SUFFIX,icloud-sandbox.com
 DOMAIN-SUFFIX,icloud.ch
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.de
