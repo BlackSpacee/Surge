@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 103
-# DOMAIN-SUFFIX: 30944
+# DOMAIN-SUFFIX: 30947
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31260
-# UPDATED: 2024-11-17 09:56:34
+# TOTAL: 31263
+# UPDATED: 2024-11-17 14:31:19
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-11-14T07:44:36.607Z
-# Size: 725
+# Last Updated: 2024-11-17T10:32:56.840Z
+# Size: 729
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,imo.im
 DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,gh.io
+DOMAIN-SUFFIX,cnn.io
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,npm.io
@@ -116,6 +117,7 @@ DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,tgstat.ru
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,annas-archive.se
+DOMAIN-SUFFIX,crt.sh
 DOMAIN-SUFFIX,ouo.si
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,notion.so
@@ -309,6 +311,7 @@ DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,vikacg.com
+DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,adguard.com
@@ -702,6 +705,7 @@ DOMAIN-SUFFIX,privacytest.info
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,sketch.cloud
+DOMAIN-SUFFIX,discourse.group
 DOMAIN-SUFFIX,spankbang.party
 DOMAIN-SUFFIX,javhd.today
 DOMAIN-SUFFIX,archive.today
@@ -29258,7 +29262,6 @@ DOMAIN-SUFFIX,vmtestdrive.com
 DOMAIN-SUFFIX,vmw.com
 DOMAIN-SUFFIX,vmware-cloudmanagement.com
 DOMAIN-SUFFIX,vmware-techcenter.com
-DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,vmware20mosaic.com
 DOMAIN-SUFFIX,vmwareausnews.com
 DOMAIN-SUFFIX,vmwarecertificationvideos.com
