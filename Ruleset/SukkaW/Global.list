@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-11-22T17:46:27.807Z
-# Size: 658
+# Last Updated: 2024-11-24T04:59:12.459Z
+# Size: 659
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,6 +10,7 @@
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,ai
+DOMAIN-SUFFIX,at
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,be
 DOMAIN-SUFFIX,ca
@@ -17,7 +18,10 @@ DOMAIN-SUFFIX,ee
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,fm
 DOMAIN-SUFFIX,fo
+DOMAIN-SUFFIX,fr
+DOMAIN-SUFFIX,gd
 DOMAIN-SUFFIX,gl
+DOMAIN-SUFFIX,gs
 DOMAIN-SUFFIX,in
 DOMAIN-SUFFIX,io
 DOMAIN-SUFFIX,is
@@ -51,13 +55,18 @@ DOMAIN-SUFFIX,app
 DOMAIN-SUFFIX,dev
 DOMAIN-SUFFIX,gle
 DOMAIN-SUFFIX,gov
+DOMAIN-SUFFIX,lol
 DOMAIN-SUFFIX,mil
 DOMAIN-SUFFIX,moe
 DOMAIN-SUFFIX,rip
 DOMAIN-SUFFIX,xxx
 DOMAIN-SUFFIX,blog
 DOMAIN-SUFFIX,goog
-DOMAIN-SUFFIX,linkedin.at
+DOMAIN-SUFFIX,party
+DOMAIN-SUFFIX,tools
+DOMAIN-SUFFIX,watch
+DOMAIN-SUFFIX,network
+DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,520cc.cc
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,whoer.cc
@@ -71,8 +80,6 @@ DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,xchina.co
 DOMAIN-SUFFIX,snapkit.co
 DOMAIN-SUFFIX,huggingface.co
-DOMAIN-SUFFIX,dis.gd
-DOMAIN-SUFFIX,annas-archive.gs
 DOMAIN-SUFFIX,imo.im
 DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,m.me
@@ -364,6 +371,7 @@ DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,gcld-line.com
+DOMAIN-SUFFIX,geekbench.com
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,gitkraken.com
 DOMAIN-SUFFIX,goodreads.com
@@ -491,7 +499,6 @@ DOMAIN-SUFFIX,returnyoutubedislike.com
 DOMAIN-SUFFIX,privateinternetaccess.com
 DOMAIN-SUFFIX,returnyoutubedislikeapi.com
 DOMAIN-SUFFIX,libgen.fun
-DOMAIN-SUFFIX,libgen.lol
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,sf.net
 DOMAIN-SUFFIX,arc.net
@@ -635,17 +642,11 @@ DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,vercel.live
 DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,discourse.group
-DOMAIN-SUFFIX,spankbang.party
 DOMAIN-SUFFIX,javhd.today
 DOMAIN-SUFFIX,archive.today
-DOMAIN-SUFFIX,bgp.tools
-DOMAIN-SUFFIX,dnscheck.tools
-DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,ant.design
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,bsky.network
-DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,c.mi.com
 DOMAIN,wego.here.com
 DOMAIN,ccmdl.adobe.com
