@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 30954
+# DOMAIN-SUFFIX: 30955
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31269
-# UPDATED: 2024-11-25 02:29:12
+# TOTAL: 31270
+# UPDATED: 2024-11-25 09:54:06
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-11-24T04:59:12.459Z
-# Size: 659
+# Last Updated: 2024-11-25T03:39:07.803Z
+# Size: 661
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -329,6 +329,7 @@ DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blogblog.com
+DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,capitalg.com
 DOMAIN-SUFFIX,cbslocal.com
 DOMAIN-SUFFIX,coinbase.com
@@ -650,6 +651,7 @@ DOMAIN-SUFFIX,privacytest.info
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,vercel.live
+DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,discourse.group
 DOMAIN-SUFFIX,javhd.today
@@ -22737,7 +22739,6 @@ DOMAIN-SUFFIX,norwichresearchpark.ac.uk
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
-DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,notredamecoll.ac.uk
 DOMAIN-SUFFIX,nott.ac.uk
