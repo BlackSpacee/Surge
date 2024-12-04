@@ -1,13 +1,13 @@
 # NAME: Reject
-# DOMAIN: 489
+# DOMAIN: 490
 # DOMAIN-SUFFIX: 1048
 # DOMAIN-KEYWORD: 98
 # IP-CIDR: 36
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 2
-# TOTAL: 1678
-# UPDATED: 2024-12-04 09:56:19
+# TOTAL: 1679
+# UPDATED: 2024-12-04 14:34:27
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1488,8 +1488,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-11-14T14:40:56.964Z
-# Size: 159
+# Last Updated: 2024-12-04T06:38:16.526Z
+# Size: 160
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1562,6 +1562,7 @@ DOMAIN,httpdns.push.heytapmobi.com
 DOMAIN,httpdns.ocloud.heytapmobi.com
 DOMAIN,httpdns.push.oppomobile.com
 DOMAIN,httpdns.ocloud.oppomobile.com
+DOMAIN,resolver.msg.xiaomi.net
 DOMAIN-KEYWORD,.estream.
 DOMAIN-KEYWORD,jshosting
 DOMAIN-KEYWORD,hostingcloud

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-11-14T14:40:56.964Z
-# Size: 159
+# Last Updated: 2024-12-04T06:38:16.526Z
+# Size: 160
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -79,6 +79,7 @@ DOMAIN,httpdns.push.heytapmobi.com
 DOMAIN,httpdns.ocloud.heytapmobi.com
 DOMAIN,httpdns.push.oppomobile.com
 DOMAIN,httpdns.ocloud.oppomobile.com
+DOMAIN,resolver.msg.xiaomi.net
 DOMAIN,dns.weixin.qq.com.cn
 DOMAIN-KEYWORD,.estream.
 DOMAIN-KEYWORD,jshosting
