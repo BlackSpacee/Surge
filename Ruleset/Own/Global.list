@@ -1,18 +1,18 @@
 # NAME: Global
-# DOMAIN: 102
-# DOMAIN-SUFFIX: 30959
+# DOMAIN: 103
+# DOMAIN-SUFFIX: 30960
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31274
-# UPDATED: 2024-12-05 09:56:18
+# TOTAL: 31276
+# UPDATED: 2024-12-05 14:34:20
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-12-04T06:38:16.514Z
-# Size: 671
+# Last Updated: 2024-12-05T09:50:46.516Z
+# Size: 676
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -272,6 +272,7 @@ DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,sketch.com
 DOMAIN-SUFFIX,sophos.com
 DOMAIN-SUFFIX,supjav.com
+DOMAIN-SUFFIX,talkcc.com
 DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,tumblr.com
@@ -454,6 +455,7 @@ DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,javtrailers.com
 DOMAIN-SUFFIX,jumpdesktop.com
 DOMAIN-SUFFIX,linefriends.com
+DOMAIN-SUFFIX,list-manage.com
 DOMAIN-SUFFIX,raspberrypi.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditspace.com
@@ -462,6 +464,7 @@ DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,updownradar.com
 DOMAIN-SUFFIX,uptimerobot.com
+DOMAIN-SUFFIX,usertesting.com
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,browserleaks.com
@@ -619,6 +622,7 @@ DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wireshark.org
+DOMAIN-SUFFIX,wordpress.org
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,greasyfork.org
@@ -671,6 +675,7 @@ DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,c.mi.com
 DOMAIN,wego.here.com
+DOMAIN,help.ubnt.com
 DOMAIN,ccmdl.adobe.com
 DOMAIN-SUFFIX,edns.ip-api.com
 DOMAIN,ees.elsevier.com
@@ -3652,7 +3657,6 @@ DOMAIN-SUFFIX,lionsroar.com
 DOMAIN-SUFFIX,lipuman.com
 DOMAIN-SUFFIX,liquiditytp.com
 DOMAIN-SUFFIX,liquidvpn.com
-DOMAIN-SUFFIX,list-manage.com
 DOMAIN-SUFFIX,listennotes.com
 DOMAIN-SUFFIX,listentoyoutube.com
 DOMAIN-SUFFIX,listorious.com
@@ -5284,7 +5288,6 @@ DOMAIN-SUFFIX,taiwanus.net
 DOMAIN-SUFFIX,taiwanyes.com
 DOMAIN-SUFFIX,talk853.com
 DOMAIN-SUFFIX,talkboxapp.com
-DOMAIN-SUFFIX,talkcc.com
 DOMAIN-SUFFIX,talkonly.net
 DOMAIN-SUFFIX,tamiaode.tk
 DOMAIN-SUFFIX,tampabay.com
@@ -30000,7 +30003,6 @@ DOMAIN-SUFFIX,woolite.us
 DOMAIN-SUFFIX,woolitecarpet.com
 DOMAIN-SUFFIX,worc.ac.uk
 DOMAIN-SUFFIX,worcester.ac.uk
-DOMAIN-SUFFIX,wordpress.org
 DOMAIN-SUFFIX,wordpress.tv
 DOMAIN-SUFFIX,workandhome.ac.uk
 DOMAIN-SUFFIX,workingclasswriting.ac.uk
