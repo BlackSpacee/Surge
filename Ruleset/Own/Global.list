@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 103
-# DOMAIN-SUFFIX: 30960
+# DOMAIN-SUFFIX: 30962
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31276
-# UPDATED: 2024-12-05 14:34:20
+# TOTAL: 31278
+# UPDATED: 2024-12-05 20:49:33
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-12-05T09:50:46.516Z
-# Size: 676
+# Last Updated: 2024-12-05T14:09:31.616Z
+# Size: 679
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -511,6 +511,7 @@ DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,elasticbeanstalk.com
 DOMAIN-SUFFIX,fastly-analytics.com
+DOMAIN-SUFFIX,smashingmagazine.com
 DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,chromeexperiments.com
@@ -668,9 +669,11 @@ DOMAIN-SUFFIX,vercel.live
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,discourse.group
+DOMAIN-SUFFIX,smashing.media
 DOMAIN-SUFFIX,javhd.today
 DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,ant.design
+DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,c.mi.com
@@ -11291,7 +11294,6 @@ DOMAIN-SUFFIX,bsixbrookehousesixthformcollege.ac.uk
 DOMAIN-SUFFIX,bsixcollege.ac.uk
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,bsky.network
-DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bsls.ac.uk
 DOMAIN-SUFFIX,bsmb.ac.uk
 DOMAIN-SUFFIX,bsms.ac.uk
