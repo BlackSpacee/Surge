@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 472
-# DOMAIN-SUFFIX: 98280
+# DOMAIN-SUFFIX: 98279
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8388
 # IP-CIDR6: 12587
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 119879
-# UPDATED: 2024-12-09 09:59:32
+# TOTAL: 119878
+# UPDATED: 2024-12-09 14:35:14
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -249,7 +249,7 @@ PROCESS-NAME,Logi Options Daemon
 ## JSTOR 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-12-02T15:51:00.495Z
+# Last Updated: 2024-12-09T10:19:27.834Z
 # Size: 762
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,chaoxing.cc
@@ -793,6 +793,7 @@ DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,bilicomic.com
 DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,camera360.com
@@ -992,7 +993,6 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
 DOMAIN-SUFFIX,71.am.com
-DOMAIN-SUFFIX,bytedance.com.com
 DOMAIN,dl.ubnt.com
 DOMAIN,config.ubnt.com
 DOMAIN-SUFFIX,steam.ksyna.com
@@ -1085,7 +1085,6 @@ DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bdxiguaimg.com
 DOMAIN-SUFFIX,bdxiguastatic.com
-DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedns.net
 DOMAIN-SUFFIX,bytescm.com
