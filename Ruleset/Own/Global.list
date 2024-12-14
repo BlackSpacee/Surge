@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 103
-# DOMAIN-SUFFIX: 30968
+# DOMAIN-SUFFIX: 30969
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31284
-# UPDATED: 2024-12-14 02:33:08
+# TOTAL: 31285
+# UPDATED: 2024-12-14 09:52:31
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -2182,6 +2182,7 @@ DOMAIN-SUFFIX,f2pool.com
 DOMAIN-SUFFIX,fa.gov.tw
 DOMAIN-SUFFIX,facebook.br
 DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.de
 DOMAIN-SUFFIX,facebook.design
 DOMAIN-SUFFIX,facebook.hu
 DOMAIN-SUFFIX,facebook.in
@@ -3375,6 +3376,7 @@ DOMAIN-SUFFIX,iuhrdf.org
 DOMAIN-SUFFIX,iuksky.com
 DOMAIN-SUFFIX,ivacy.com
 DOMAIN-SUFFIX,iverycd.com
+DOMAIN-SUFFIX,ivonblog.com
 DOMAIN-SUFFIX,ivpn.net
 DOMAIN-SUFFIX,ixquick.com
 DOMAIN-SUFFIX,iyouport.com
@@ -3388,6 +3390,7 @@ DOMAIN-SUFFIX,jackjia.com
 DOMAIN-SUFFIX,jamaat.org
 DOMAIN-SUFFIX,jamestown.org
 DOMAIN-SUFFIX,jamyangnorbu.com
+DOMAIN-SUFFIX,jan.ai
 DOMAIN-SUFFIX,jandyx.com
 DOMAIN-SUFFIX,janwongphoto.com
 DOMAIN-SUFFIX,japan-whores.com
@@ -4421,6 +4424,7 @@ DOMAIN-SUFFIX,partycasino.com
 DOMAIN-SUFFIX,partypoker.com
 DOMAIN-SUFFIX,passion.com
 DOMAIN-SUFFIX,passiontimes.hk
+DOMAIN-SUFFIX,passwords.google
 DOMAIN-SUFFIX,paste.ee
 DOMAIN-SUFFIX,pastie.org
 DOMAIN-SUFFIX,pathtosharepoint.com
@@ -4452,8 +4456,6 @@ DOMAIN-SUFFIX,pemulihan.or.id
 DOMAIN-SUFFIX,pen.io
 DOMAIN-SUFFIX,penchinese.com
 DOMAIN-SUFFIX,penchinese.net
-DOMAIN-SUFFIX,pengyulong.com
-DOMAIN-SUFFIX,penisbot.com
 DOMAIN-SUFFIX,pentalogic.net
 DOMAIN-SUFFIX,penthouse.com
 DOMAIN-SUFFIX,pentoy.hk
@@ -4468,7 +4470,6 @@ DOMAIN-SUFFIX,persiankitty.com
 DOMAIN-SUFFIX,phapluan.org
 DOMAIN-SUFFIX,phayul.com
 DOMAIN-SUFFIX,philborges.com
-DOMAIN-SUFFIX,philly.com
 DOMAIN-SUFFIX,phmsociety.org
 DOMAIN-SUFFIX,phonegap.com
 DOMAIN-SUFFIX,photodharma.net
@@ -4604,7 +4605,6 @@ DOMAIN-SUFFIX,provideocoalition.com
 DOMAIN-SUFFIX,provpnaccounts.com
 DOMAIN-SUFFIX,proxfree.com
 DOMAIN-SUFFIX,proxifier.com
-DOMAIN-SUFFIX,proxlet.com
 DOMAIN-SUFFIX,proxomitron.info
 DOMAIN-SUFFIX,proxpn.com
 DOMAIN-SUFFIX,proxyanonimo.es
@@ -4669,7 +4669,6 @@ DOMAIN-SUFFIX,qixianglu.cn
 DOMAIN-SUFFIX,qkshare.com
 DOMAIN-SUFFIX,qmzdd.com
 DOMAIN-SUFFIX,qoos.com
-DOMAIN-SUFFIX,qooza.hk
 DOMAIN-SUFFIX,qpoe.com
 DOMAIN-SUFFIX,qq.co.za
 DOMAIN-SUFFIX,qstatus.com
@@ -4709,13 +4708,11 @@ DOMAIN-SUFFIX,raindrop.io
 DOMAIN-SUFFIX,raizoji.or.jp
 DOMAIN-SUFFIX,ramcity.com.au
 DOMAIN-SUFFIX,rangwang.biz
-DOMAIN-SUFFIX,rangzen.com
 DOMAIN-SUFFIX,rangzen.net
 DOMAIN-SUFFIX,rangzen.org
 DOMAIN-SUFFIX,ranxiang.com
 DOMAIN-SUFFIX,ranyunfei.com
 DOMAIN-SUFFIX,rapbull.net
-DOMAIN-SUFFIX,rapidgator.net
 DOMAIN-SUFFIX,rapidmoviez.com
 DOMAIN-SUFFIX,rapidvpn.com
 DOMAIN-SUFFIX,rarbgprx.org
@@ -5514,6 +5511,7 @@ DOMAIN-SUFFIX,tibetwrites.org
 DOMAIN-SUFFIX,ticket.com.tw
 DOMAIN-SUFFIX,tigervpn.com
 DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,timdir.com
 DOMAIN-SUFFIX,timesnownews.com
 DOMAIN-SUFFIX,timsah.com
@@ -5569,6 +5567,7 @@ DOMAIN-SUFFIX,torrentprivacy.com
 DOMAIN-SUFFIX,torrentproject.se
 DOMAIN-SUFFIX,torrenty.org
 DOMAIN-SUFFIX,torrentz.eu
+DOMAIN-SUFFIX,tortoisesvn.net
 DOMAIN-SUFFIX,torvpn.com
 DOMAIN-SUFFIX,totalvpn.com
 DOMAIN-SUFFIX,toutiaoabc.com
@@ -6787,8 +6786,6 @@ DOMAIN-SUFFIX,ipn.li
 DOMAIN-SUFFIX,ishowsapp.com
 DOMAIN-SUFFIX,itgonglun.com
 DOMAIN-SUFFIX,itun.es
-DOMAIN-SUFFIX,ivonblog.com
-DOMAIN-SUFFIX,jan.ai
 DOMAIN-SUFFIX,jetbra.in
 DOMAIN-SUFFIX,jiehua.tv
 DOMAIN-SUFFIX,jp.hao123.com
@@ -6857,6 +6854,9 @@ DOMAIN-SUFFIX,paoluz.com
 DOMAIN-SUFFIX,paoluz.link
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,pdfexpert.com
+DOMAIN-SUFFIX,pengyulong.com
+DOMAIN-SUFFIX,penisbot.com
+DOMAIN-SUFFIX,philly.com
 DOMAIN-SUFFIX,phobos.apple.com
 DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,pinboard.in
@@ -6866,8 +6866,12 @@ DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,pp.ua
+DOMAIN-SUFFIX,proxlet.com
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,qooza.hk
+DOMAIN-SUFFIX,rangzen.com
+DOMAIN-SUFFIX,rapidgator.net
 DOMAIN-SUFFIX,rime.im
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
@@ -6902,7 +6906,6 @@ DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,textnow.com
 DOMAIN-SUFFIX,th.hao123.com
-DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,timeinc.net
 DOMAIN-SUFFIX,tinder.com
 DOMAIN-SUFFIX,tinypic.com
@@ -6912,7 +6915,6 @@ DOMAIN-SUFFIX,todoist.com
 DOMAIN-SUFFIX,toggleable.com
 DOMAIN-SUFFIX,tomshardware.com
 DOMAIN-SUFFIX,torrentmac.net
-DOMAIN-SUFFIX,tortoisesvn.net
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trustasiassl.com
@@ -14929,7 +14931,6 @@ DOMAIN-SUFFIX,facebook-texas-holdem.com
 DOMAIN-SUFFIX,facebook-texas-holdem.net
 DOMAIN-SUFFIX,facebook.ca
 DOMAIN-SUFFIX,facebook.cc
-DOMAIN-SUFFIX,facebook.de
 DOMAIN-SUFFIX,facebook.org
 DOMAIN-SUFFIX,facebook.shop
 DOMAIN-SUFFIX,facebook.tv
