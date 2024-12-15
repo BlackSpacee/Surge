@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-12-14T14:46:16.084Z
-# Size: 687
+# Last Updated: 2024-12-15T16:58:17.734Z
+# Size: 702
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -116,6 +116,7 @@ DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,ui.com
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,aaa.com
+DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,ask.com
 DOMAIN-SUFFIX,avg.com
@@ -124,6 +125,7 @@ DOMAIN-SUFFIX,cal.com
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,fc2.com
+DOMAIN-SUFFIX,fuq.com
 DOMAIN-SUFFIX,hbg.com
 DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,kik.com
@@ -131,6 +133,7 @@ DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,one.com
 DOMAIN-SUFFIX,sex.com
+DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,wix.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,xxx.com
@@ -149,6 +152,7 @@ DOMAIN-SUFFIX,gvt5.com
 DOMAIN-SUFFIX,gvt6.com
 DOMAIN-SUFFIX,gvt7.com
 DOMAIN-SUFFIX,gvt9.com
+DOMAIN-SUFFIX,hk01.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,ixxx.com
 DOMAIN-SUFFIX,java.com
@@ -167,6 +171,7 @@ DOMAIN-SUFFIX,time.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,xing.com
 DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,3movs.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,axios.com
@@ -193,9 +198,11 @@ DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javhd.com
 DOMAIN-SUFFIX,jsbin.com
 DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,lihkg.com
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,nytco.com
+DOMAIN-SUFFIX,plurk.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,tenor.com
@@ -207,10 +214,12 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,whoer.com
 DOMAIN-SUFFIX,windy.com
+DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,360ssh.com
+DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,adidas.com
 DOMAIN-SUFFIX,aicoin.com
@@ -325,6 +334,7 @@ DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,workday.com
 DOMAIN-SUFFIX,xfinity.com
+DOMAIN-SUFFIX,xgroovy.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,zendesk.com
@@ -545,6 +555,7 @@ DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,apkpure.net
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,edgeapp.net
 DOMAIN-SUFFIX,jkforum.net
@@ -599,6 +610,7 @@ DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,matrix.org
+DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,schema.org
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,webrtc.org
@@ -612,6 +624,7 @@ DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,sagernet.org
+DOMAIN-SUFFIX,tronscan.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,toolforge.org
@@ -648,6 +661,7 @@ DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,whispersystems.org
 DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,polymer-project.org
+DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,huobi.pro
 DOMAIN-SUFFIX,18comic.vip
@@ -664,6 +678,7 @@ DOMAIN-SUFFIX,privacytest.info
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,vercel.live
+DOMAIN-SUFFIX,bad.news
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,discourse.group
