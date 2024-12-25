@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 118395
-# UPDATED: 2024-12-25 09:44:59
+# UPDATED: 2024-12-25 14:31:35
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -249,8 +249,8 @@ PROCESS-NAME,Logi Options Daemon
 ## JSTOR 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-12-09T10:19:27.834Z
-# Size: 762
+# Last Updated: 2024-12-25T09:26:58.655Z
+# Size: 763
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,3.cn
@@ -954,6 +954,7 @@ DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,kdslife.net
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,oschina.net
+DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,dizzylab.net
 DOMAIN-SUFFIX,staticdn.net
@@ -1080,7 +1081,6 @@ DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,bilibili.co
 DOMAIN-SUFFIX,biliintl.co
 DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,smtcdns.net
 # ByteDance
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bdxiguaimg.com

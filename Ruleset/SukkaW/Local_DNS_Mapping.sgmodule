@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-12-09T10:19:27.834Z
+#!desc=Last Updated: 2024-12-25T09:26:58.655Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -199,6 +199,7 @@ url.cn = server:https://doh.pub/dns-query
 *.qlivecdn.com = server:https://doh.pub/dns-query
 *.tcdnlive.com = server:https://doh.pub/dns-query
 *.dnsv1.com = server:https://doh.pub/dns-query
+*.smtcdns.net = server:https://doh.pub/dns-query
 upos-sz-mirrorali.bilivideo.com = server:quic://dns.alidns.com:853
 upos-sz-estgoss.bilivideo.com = server:quic://dns.alidns.com:853
 upos-sz-mirrorbd.bilivideo.com = server:180.76.76.76
