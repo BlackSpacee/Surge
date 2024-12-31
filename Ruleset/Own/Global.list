@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 103
-# DOMAIN-SUFFIX: 31068
+# DOMAIN-SUFFIX: 31070
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31384
-# UPDATED: 2024-12-31 14:31:21
+# TOTAL: 31386
+# UPDATED: 2024-12-31 20:42:36
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6641,14 +6641,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-12-15 02:12:13
+# UPDATED: 2025-01-01 02:12:14
 # DOMAIN: 12
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 5909
+# DOMAIN-SUFFIX: 5919
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6052
+# TOTAL: 6062
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6705,6 +6705,7 @@ DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,blogsmithmedia.com
 DOMAIN-SUFFIX,br.hao123.com
+DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,celestrak.com
@@ -6730,6 +6731,7 @@ DOMAIN-SUFFIX,danilo.to
 DOMAIN-SUFFIX,dartlang.org
 DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,dayone.me
+DOMAIN-SUFFIX,deepai.org
 DOMAIN-SUFFIX,deskconnect.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digitaltrends.com
@@ -6739,6 +6741,7 @@ DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,dnsimple.com
 DOMAIN-SUFFIX,dockerhub.com
+DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,droplr.com
 DOMAIN-SUFFIX,dueapp.com
 DOMAIN-SUFFIX,east-plus.net
@@ -6771,6 +6774,7 @@ DOMAIN-SUFFIX,gmocloud.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,go.jp
 DOMAIN-SUFFIX,gosetsuden.jp
+DOMAIN-SUFFIX,haijiao.com
 DOMAIN-SUFFIX,help.linksalpha.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,hicairo.com
@@ -6886,10 +6890,13 @@ DOMAIN-SUFFIX,sciencedaily.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,shadowverse.jp
 DOMAIN-SUFFIX,shazam.com
+DOMAIN-SUFFIX,sheets.new
 DOMAIN-SUFFIX,simp.ly
 DOMAIN-SUFFIX,simplenote.com
 DOMAIN-SUFFIX,slack-edge.com
 DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-SUFFIX,slides.new
+DOMAIN-SUFFIX,snapseed.com
 DOMAIN-SUFFIX,speedsmart.net
 DOMAIN-SUFFIX,spring-plus.net
 DOMAIN-SUFFIX,squarespace.com
@@ -6951,10 +6958,12 @@ DOMAIN-SUFFIX,verizonwireless.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vn.hao123.com
 DOMAIN-SUFFIX,vox-cdn.com
+DOMAIN-SUFFIX,vrchat.com
 DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,webtype.com
+DOMAIN-SUFFIX,whats.new
 DOMAIN-SUFFIX,wikileaks.info
 DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,workflowy.com
@@ -7006,14 +7015,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2024-12-23 02:11:47
+# UPDATED: 2025-01-01 02:11:56
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30748
+# DOMAIN-SUFFIX: 30750
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31031
+# TOTAL: 31033
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -11307,7 +11316,6 @@ DOMAIN-SUFFIX,bsix.ac.uk
 DOMAIN-SUFFIX,bsixbrookehouse.ac.uk
 DOMAIN-SUFFIX,bsixbrookehousesixthformcollege.ac.uk
 DOMAIN-SUFFIX,bsixcollege.ac.uk
-DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsls.ac.uk
 DOMAIN-SUFFIX,bsmb.ac.uk
@@ -13609,7 +13617,6 @@ DOMAIN-SUFFIX,dockerizer.com
 DOMAIN-SUFFIX,docleradn.com
 DOMAIN-SUFFIX,doclercdn.com
 DOMAIN-SUFFIX,docs.com
-DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,doctor-videos.com
 DOMAIN-SUFFIX,documentforce.com
@@ -16792,7 +16799,6 @@ DOMAIN-SUFFIX,hadlowgroup.ac.uk
 DOMAIN-SUFFIX,hae-acl.ac.uk
 DOMAIN-SUFFIX,haha888.xyz
 DOMAIN-SUFFIX,haho.moe
-DOMAIN-SUFFIX,haijiao.com
 DOMAIN-SUFFIX,hairdressing.ac.uk
 DOMAIN-SUFFIX,hairy-amateurs.com
 DOMAIN-SUFFIX,hairy-beauty.com
@@ -26254,7 +26260,6 @@ DOMAIN-SUFFIX,shc.ac.uk
 DOMAIN-SUFFIX,shdd.ink
 DOMAIN-SUFFIX,shdf.ac.uk
 DOMAIN-SUFFIX,sheef.ac.uk
-DOMAIN-SUFFIX,sheets.new
 DOMAIN-SUFFIX,shef.ac.uk
 DOMAIN-SUFFIX,shefc.ac.uk
 DOMAIN-SUFFIX,sheffcol.ac.uk
@@ -26534,7 +26539,6 @@ DOMAIN-SUFFIX,sleazyneasy.com
 DOMAIN-SUFFIX,sleepandwakefulnessresearch.ac.uk
 DOMAIN-SUFFIX,slg.ac.uk
 DOMAIN-SUFFIX,sli-institute.ac.uk
-DOMAIN-SUFFIX,slides.new
 DOMAIN-SUFFIX,slideshare.com
 DOMAIN-SUFFIX,slidesharecdn.com
 DOMAIN-SUFFIX,sling.com
@@ -26601,7 +26605,6 @@ DOMAIN-SUFFIX,snap-telemetry.io
 DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,snapcraft.io
 DOMAIN-SUFFIX,snapdragonbooth.com
-DOMAIN-SUFFIX,snapseed.com
 DOMAIN-SUFFIX,snapstore.io
 DOMAIN-SUFFIX,snapvolumes.com
 DOMAIN-SUFFIX,snapwebcams.com
@@ -29888,7 +29891,6 @@ DOMAIN-SUFFIX,what-fan.net
 DOMAIN-SUFFIX,whatboyswant.com
 DOMAIN-SUFFIX,whatisairwatch.com
 DOMAIN-SUFFIX,whatisworkspaceone.com
-DOMAIN-SUFFIX,whats.new
 DOMAIN-SUFFIX,whatsapp-plus.info
 DOMAIN-SUFFIX,whatsapp-plus.me
 DOMAIN-SUFFIX,whatsapp-plus.net
