@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 118154
-# UPDATED: 2024-12-31 02:30:22
+# UPDATED: 2024-12-31 09:45:58
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -249,8 +249,8 @@ PROCESS-NAME,Logi Options Daemon
 ## JSTOR 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-12-25T09:26:58.655Z
-# Size: 763
+# Last Updated: 2024-12-31T04:15:49.279Z
+# Size: 765
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,3.cn
@@ -831,6 +831,7 @@ DOMAIN-SUFFIX,soufunimg.com
 DOMAIN-SUFFIX,takungpao.com
 DOMAIN-SUFFIX,tantanapp.com
 DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-SUFFIX,volcvideo.com
 DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,weathercn.com
 DOMAIN-SUFFIX,wmsjsteam.com
@@ -846,6 +847,7 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,dbankcloud.com
 DOMAIN-SUFFIX,didiglobal.com
 DOMAIN-SUFFIX,didistatic.com
+DOMAIN-SUFFIX,edge-byted.com
 DOMAIN-SUFFIX,fqnovelpic.com
 DOMAIN-SUFFIX,guoguo-app.com
 DOMAIN-SUFFIX,heytapmobi.com
@@ -31348,7 +31350,6 @@ DOMAIN-SUFFIX,ede35.com
 DOMAIN-SUFFIX,edefang.net
 DOMAIN-SUFFIX,edenblis.com
 DOMAIN-SUFFIX,edesson.com
-DOMAIN-SUFFIX,edge-byted.com
 DOMAIN-SUFFIX,edgegslb.com
 DOMAIN-SUFFIX,edgekey88.net
 DOMAIN-SUFFIX,edgemec.com
@@ -80538,7 +80539,6 @@ DOMAIN-SUFFIX,volctracer.com
 DOMAIN-SUFFIX,volctrack.com
 DOMAIN-SUFFIX,volctraffic.com
 DOMAIN-SUFFIX,volctranscdn.com
-DOMAIN-SUFFIX,volcvideo.com
 DOMAIN-SUFFIX,volcvideos.com
 DOMAIN-SUFFIX,volcvms.com
 DOMAIN-SUFFIX,volcwaf.com
