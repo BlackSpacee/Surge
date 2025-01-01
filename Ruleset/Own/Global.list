@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 103
-# DOMAIN-SUFFIX: 31070
+# DOMAIN-SUFFIX: 31074
 # DOMAIN-KEYWORD: 38
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31386
-# UPDATED: 2025-01-01 14:32:23
+# TOTAL: 31390
+# UPDATED: 2025-01-01 20:42:11
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6641,14 +6641,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-01 02:12:14
+# UPDATED: 2025-01-02 02:12:35
 # DOMAIN: 12
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 5919
+# DOMAIN-SUFFIX: 5924
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6062
+# TOTAL: 6067
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6774,6 +6774,7 @@ DOMAIN-SUFFIX,gmocloud.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,go.jp
 DOMAIN-SUFFIX,gosetsuden.jp
+DOMAIN-SUFFIX,ground.news
 DOMAIN-SUFFIX,haijiao.com
 DOMAIN-SUFFIX,help.linksalpha.com
 DOMAIN-SUFFIX,helpshift.com
@@ -6782,7 +6783,9 @@ DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,hk.hao123img.com
 DOMAIN-SUFFIX,home.sina.com
 DOMAIN-SUFFIX,hotbak.net
+DOMAIN-SUFFIX,hpjav.com
 DOMAIN-SUFFIX,hrtsea.com
+DOMAIN-SUFFIX,iavian.net
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,id.hao123.com
 DOMAIN-SUFFIX,ifttt.com
@@ -6868,6 +6871,7 @@ DOMAIN-SUFFIX,paddleapi.com
 DOMAIN-SUFFIX,paoluz.com
 DOMAIN-SUFFIX,paoluz.link
 DOMAIN-SUFFIX,parallels.com
+DOMAIN-SUFFIX,pcgamestorrents.com
 DOMAIN-SUFFIX,pdfexpert.com
 DOMAIN-SUFFIX,phobos.apple.com
 DOMAIN-SUFFIX,piaotian.net
@@ -7015,14 +7019,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-01-01 02:11:56
+# UPDATED: 2025-01-02 02:12:17
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30750
+# DOMAIN-SUFFIX: 30754
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31033
+# TOTAL: 31037
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
