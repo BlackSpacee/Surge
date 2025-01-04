@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-12-20T14:24:56.412Z
-# Size: 161
+# Last Updated: 2025-01-03T19:26:02.321Z
+# Size: 169
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -123,7 +123,15 @@ DOMAIN-KEYWORD,-spiky.clevertap-prod.com
 DOMAIN-KEYWORD,.engage.3m.
 DOMAIN-KEYWORD,telemetry.officeapps.live.com
 DOMAIN-KEYWORD,-launches.appsflyersdk.com
+DOMAIN-KEYWORD,-attr.appsflyersdk.com
 DOMAIN-KEYWORD,-s2s.sensic.net
+DOMAIN-KEYWORD,-rtb.gravite.net
+DOMAIN-KEYWORD,analytics-cdn.
+DOMAIN-KEYWORD,backstory.ebay.
+DOMAIN-KEYWORD,click.rum.
+DOMAIN-KEYWORD,cmpworker.
+DOMAIN-KEYWORD,insights-collector.
+DOMAIN-KEYWORD,track.opentable.
 DOMAIN-KEYWORD,.net.daraz.
 DOMAIN-KEYWORD,.zooplus.
 DOMAIN-KEYWORD,smetrics.marketing.
