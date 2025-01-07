@@ -1,14 +1,14 @@
 # NAME: Reject
 # AND: 1
 # DOMAIN: 465
-# DOMAIN-SUFFIX: 6418
+# DOMAIN-SUFFIX: 6419
 # DOMAIN-KEYWORD: 76
 # IP-CIDR: 41
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 2
-# TOTAL: 7008
-# UPDATED: 2025-01-07 14:32:22
+# TOTAL: 7009
+# UPDATED: 2025-01-07 20:45:35
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1489,8 +1489,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-01-03T19:26:02.321Z
-# Size: 169
+# Last Updated: 2025-01-07T15:31:18.322Z
+# Size: 170
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1498,6 +1498,7 @@ DOMAIN,track.tenjin.io
 # The ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,histats.com
+DOMAIN-SUFFIX,minexmr.com
 DOMAIN-SUFFIX,notify6.com
 DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,amplitude.com

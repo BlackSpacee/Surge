@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-01-03T19:26:02.321Z
-# Size: 169
+# Last Updated: 2025-01-07T15:31:18.322Z
+# Size: 170
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,6 +10,7 @@
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,histats.com
+DOMAIN-SUFFIX,minexmr.com
 DOMAIN-SUFFIX,notify6.com
 DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,amplitude.com
