@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-01-07T15:31:18.322Z
-# Size: 170
+# Last Updated: 2025-01-09T02:36:43.826Z
+# Size: 171
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -25,6 +25,7 @@ DOMAIN,doh.zjurl.cn
 DOMAIN,ttnet-dig.feishu.cn
 DOMAIN,ttnet-doh.feishu.cn
 DOMAIN-SUFFIX,net.mydays.de
+DOMAIN-SUFFIX,adtech.redventures.io
 DOMAIN,dns.jd.com
 DOMAIN,httpdns.cctv.com
 DOMAIN,httpdns.baidu.com
