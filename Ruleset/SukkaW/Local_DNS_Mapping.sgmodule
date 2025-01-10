@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2025-01-09T02:36:43.588Z
+#!desc=Last Updated: 2025-01-10T15:40:10.920Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -389,6 +389,4 @@ hotspot.cslwifi.com = server:system
 *.m2m = server:system
 injections.adguard.org = server:system
 local.adguard.org = server:system
-*._tcp = server:system
 *.bogon = server:system
-*._msdcs = server:system

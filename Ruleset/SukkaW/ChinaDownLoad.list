@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2025-01-05T16:22:51.344Z
-# Size: 220
+# Last Updated: 2025-01-10T15:40:10.920Z
+# Size: 218
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11,11 +11,9 @@
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,m2m
-DOMAIN-SUFFIX,_tcp
 DOMAIN-SUFFIX,home
 DOMAIN-SUFFIX,bogon
 DOMAIN,unifi
-DOMAIN-SUFFIX,_msdcs
 DOMAIN-SUFFIX,router
 DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,avgv.cc
