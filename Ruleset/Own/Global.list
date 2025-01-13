@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 103
-# DOMAIN-SUFFIX: 31077
+# DOMAIN-SUFFIX: 31088
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31394
-# UPDATED: 2025-01-13 14:33:09
+# TOTAL: 31405
+# UPDATED: 2025-01-13 20:47:31
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-01-13T02:07:45.048Z
-# Size: 721
+# Last Updated: 2025-01-13T14:15:06.933Z
+# Size: 723
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -282,6 +282,7 @@ DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,pusher.com
 DOMAIN-SUFFIX,rawgit.com
+DOMAIN-SUFFIX,readme.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,render.com
 DOMAIN-SUFFIX,replit.com
@@ -316,6 +317,7 @@ DOMAIN-SUFFIX,doujins.com
 DOMAIN-SUFFIX,eporner.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,foxnews.com
+DOMAIN-SUFFIX,gartner.com
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gumroad.com
@@ -6650,14 +6652,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-06 02:11:55
+# UPDATED: 2025-01-14 02:13:02
 # DOMAIN: 12
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 5925
+# DOMAIN-SUFFIX: 5940
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6068
+# TOTAL: 6083
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6669,6 +6671,7 @@ DOMAIN,login.microsoftonline.com
 DOMAIN,self.events.data.microsoft.com
 DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
+DOMAIN-SUFFIX,1point3acres.com
 DOMAIN-SUFFIX,abpchina.org
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,adobe.com
@@ -6696,6 +6699,7 @@ DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,async.be
 DOMAIN-SUFFIX,att.com
+DOMAIN-SUFFIX,audacy.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
@@ -6716,6 +6720,7 @@ DOMAIN-SUFFIX,br.hao123.com
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
+DOMAIN-SUFFIX,cdpuk.co.uk
 DOMAIN-SUFFIX,celestrak.com
 DOMAIN-SUFFIX,census.gov
 DOMAIN-SUFFIX,cl.ly
@@ -6740,6 +6745,7 @@ DOMAIN-SUFFIX,danilo.to
 DOMAIN-SUFFIX,dartlang.org
 DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,dayone.me
+DOMAIN-SUFFIX,deadhouse.org
 DOMAIN-SUFFIX,deepai.org
 DOMAIN-SUFFIX,deskconnect.com
 DOMAIN-SUFFIX,digicert.com
@@ -6764,6 +6770,7 @@ DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,feedsportal.com
 DOMAIN-SUFFIX,fiftythree.com
+DOMAIN-SUFFIX,fish.audio
 DOMAIN-SUFFIX,flexibits.com
 DOMAIN-SUFFIX,freeopenproxy.com
 DOMAIN-SUFFIX,freezhihu.org
@@ -6794,6 +6801,7 @@ DOMAIN-SUFFIX,home.sina.com
 DOMAIN-SUFFIX,hotbak.net
 DOMAIN-SUFFIX,hpjav.com
 DOMAIN-SUFFIX,hrtsea.com
+DOMAIN-SUFFIX,hsex.men
 DOMAIN-SUFFIX,iavian.net
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,id.hao123.com
@@ -6802,6 +6810,7 @@ DOMAIN-SUFFIX,imore.com
 DOMAIN-SUFFIX,imtoken.fans
 DOMAIN-SUFFIX,inf.news
 DOMAIN-SUFFIX,ingress.com
+DOMAIN-SUFFIX,inherit.live
 DOMAIN-SUFFIX,insder.co
 DOMAIN-SUFFIX,instapaper.com
 DOMAIN-SUFFIX,instructables.com
@@ -6849,9 +6858,11 @@ DOMAIN-SUFFIX,microsoft-falcon.io
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,mindnode.com
+DOMAIN-SUFFIX,miraheze.org
 DOMAIN-SUFFIX,mixin.one
 DOMAIN-SUFFIX,mlssoccer.com
 DOMAIN-SUFFIX,modmyi.com
+DOMAIN-SUFFIX,momoshop.com.tw
 DOMAIN-SUFFIX,moves-export.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,mx.hao123.com
@@ -6893,6 +6904,7 @@ DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,pp.ua
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,radio-en-ligne.fr
 DOMAIN-SUFFIX,rime.im
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
@@ -6911,6 +6923,7 @@ DOMAIN-SUFFIX,slack-msgs.com
 DOMAIN-SUFFIX,slides.new
 DOMAIN-SUFFIX,snapseed.com
 DOMAIN-SUFFIX,speedsmart.net
+DOMAIN-SUFFIX,spreaker.com
 DOMAIN-SUFFIX,spring-plus.net
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,ssa.gov
@@ -6930,6 +6943,8 @@ DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,textnow.com
 DOMAIN-SUFFIX,th.hao123.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,timeinc.net
 DOMAIN-SUFFIX,tinder.com
 DOMAIN-SUFFIX,tinypic.com
@@ -6990,6 +7005,7 @@ DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,yoyo.org
+DOMAIN-SUFFIX,z-lib.io
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoomgov.com
 DOMAIN-KEYWORD,dlercloud
@@ -7028,14 +7044,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-01-12 02:11:53
+# UPDATED: 2025-01-14 02:12:45
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30754
+# DOMAIN-SUFFIX: 30764
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31037
+# TOTAL: 31047
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -17731,7 +17747,6 @@ DOMAIN-SUFFIX,hsbctrinkaus.de
 DOMAIN-SUFFIX,hsdc.ac.uk
 DOMAIN-SUFFIX,hsdp.ac.uk
 DOMAIN-SUFFIX,hsex.icu
-DOMAIN-SUFFIX,hsex.men
 DOMAIN-SUFFIX,hsex.tv
 DOMAIN-SUFFIX,hsfacebook.com
 DOMAIN-SUFFIX,hshsxkj.com
@@ -21422,7 +21437,6 @@ DOMAIN-SUFFIX,minneapolisbmw.net
 DOMAIN-SUFFIX,minstercentre.ac.uk
 DOMAIN-SUFFIX,minuporno.com
 DOMAIN-SUFFIX,miohentai.com
-DOMAIN-SUFFIX,miraheze.org
 DOMAIN-SUFFIX,mirailab.tech
 DOMAIN-SUFFIX,mirandanet.ac.uk
 DOMAIN-SUFFIX,mirror.ac.uk
@@ -21554,7 +21568,6 @@ DOMAIN-SUFFIX,momo5188.com
 DOMAIN-SUFFIX,momomall.com.tw
 DOMAIN-SUFFIX,momon-ga.com
 DOMAIN-SUFFIX,momoniji.com
-DOMAIN-SUFFIX,momoshop.com.tw
 DOMAIN-SUFFIX,momotk.com
 DOMAIN-SUFFIX,moms-sex-videos.com
 DOMAIN-SUFFIX,momsbangteens.com
@@ -28021,10 +28034,8 @@ DOMAIN-SUFFIX,tig-ol-bitties.live
 DOMAIN-SUFFIX,tiipple.ac.uk
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktokcdn-eu.com
-DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.eu
-DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
 DOMAIN-SUFFIX,tilehill.ac.uk
