@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-01-10T12:03:27.991Z
-# Size: 717
+# Last Updated: 2025-01-13T02:07:45.048Z
+# Size: 721
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,tools
 DOMAIN-SUFFIX,watch
 DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,community
+DOMAIN-SUFFIX,ipx.ac
 DOMAIN-SUFFIX,520cc.cc
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,whoer.cc
@@ -355,6 +356,7 @@ DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coindesk.com
 DOMAIN-SUFFIX,dashlane.com
 DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,dns-leak.com
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,euronews.com
@@ -416,6 +418,7 @@ DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,myipstack.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,peeringdb.com
@@ -483,7 +486,6 @@ DOMAIN-SUFFIX,usertesting.com
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,9to5terminal.com
-DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,clubhouseapi.com
@@ -572,6 +574,7 @@ DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,edgeapp.net
 DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,kisscos.net
+DOMAIN-SUFFIX,mullvad.net
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,waifu2x.net
@@ -667,7 +670,6 @@ DOMAIN-SUFFIX,signalusers.org
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,whatbrowser.org
 DOMAIN-SUFFIX,wikiversity.org
-DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,annas-archive.org
@@ -688,6 +690,7 @@ DOMAIN-SUFFIX,bikaios.xyz
 DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,picacomic.xyz
 DOMAIN-SUFFIX,jav.guru
+DOMAIN-SUFFIX,justdns.info
 DOMAIN-SUFFIX,dns-check.info
 DOMAIN-SUFFIX,privacytest.info
 DOMAIN-SUFFIX,dweb.link
@@ -710,7 +713,7 @@ DOMAIN,help.ubnt.com
 DOMAIN,ccmdl.adobe.com
 DOMAIN-SUFFIX,edns.ip-api.com
 DOMAIN,ees.elsevier.com
-DOMAIN-SUFFIX,dns.myipstack.com
+DOMAIN-SUFFIX,dnsleak.privadovpn.com
 DOMAIN-SUFFIX,majsoul.union-game.com
 DOMAIN,media.steampowered.com
 DOMAIN-SUFFIX,dnsleak.asn247.net
@@ -722,6 +725,7 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,sci-hub
+DOMAIN-KEYWORD,browserleaks
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,pinterest
 USER-AGENT,Roam*
