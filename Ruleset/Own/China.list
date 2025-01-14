@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 472
-# DOMAIN-SUFFIX: 97569
+# DOMAIN-SUFFIX: 97568
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8354
 # IP-CIDR6: 11952
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 118499
-# UPDATED: 2025-01-14 09:42:12
+# TOTAL: 118498
+# UPDATED: 2025-01-14 14:29:44
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -245,7 +245,7 @@ PROCESS-NAME,Logi Options Daemon
 ## JSTOR 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-01-09T02:36:43.588Z
+# Last Updated: 2025-01-14T12:37:58.117Z
 # Size: 764
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,chaoxing.cc
@@ -682,6 +682,7 @@ DOMAIN-SUFFIX,jdcloud.com
 DOMAIN-SUFFIX,jianshu.com
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jomodns.com
+DOMAIN-SUFFIX,kdslife.com
 DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,ksosoft.com
 DOMAIN-SUFFIX,kwaicdn.com
@@ -949,7 +950,6 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaote.net
 DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,kdslife.net
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,smtcdns.net
@@ -52464,7 +52464,6 @@ DOMAIN-SUFFIX,kdpt.net
 DOMAIN-SUFFIX,kdrmd.com
 DOMAIN-SUFFIX,kdroid.club
 DOMAIN-SUFFIX,kdshuimeishi.com
-DOMAIN-SUFFIX,kdslife.com
 DOMAIN-SUFFIX,kdt.im
 DOMAIN-SUFFIX,kdued.com
 DOMAIN-SUFFIX,kdun.com
