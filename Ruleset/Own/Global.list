@@ -7,12 +7,12 @@
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 31405
-# UPDATED: 2025-01-17 02:29:21
+# UPDATED: 2025-01-17 09:42:57
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-01-16T06:18:16.699Z
-# Size: 724
+# Last Updated: 2025-01-17T02:07:23.690Z
+# Size: 725
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -711,6 +711,7 @@ DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,vercel.live
 DOMAIN-SUFFIX,bad.news
 DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,discourse.group
 DOMAIN-SUFFIX,smashing.media
@@ -3824,7 +3825,6 @@ DOMAIN-SUFFIX,matome-plus.com
 DOMAIN-SUFFIX,matome-plus.net
 DOMAIN-SUFFIX,matsushimakaede.com
 DOMAIN-SUFFIX,matters.news
-DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,mattwilcox.net
 DOMAIN-SUFFIX,maturejp.com
 DOMAIN-SUFFIX,maxing.jp
