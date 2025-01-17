@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-01-09T02:36:43.826Z
-# Size: 171
+# Last Updated: 2025-01-17T17:24:18.089Z
+# Size: 173
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -147,6 +147,8 @@ DOMAIN-WILDCARD,beacons*.gvt?.com
 DOMAIN-WILDCARD,*ad.ixigua.com
 DOMAIN-WILDCARD,tracking.*.miui.com
 DOMAIN-WILDCARD,*.tracking.*.miui.com
+.juejin.im
+.juejin.cn
 URL-REGEX,/\d+/resolve
 URL-REGEX,/\d+/sign_d
 IP-CIDR,39.97.128.148/32,no-resolve
