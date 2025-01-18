@@ -1,14 +1,14 @@
 # NAME: Reject
 # AND: 1
 # DOMAIN: 465
-# DOMAIN-SUFFIX: 6420
+# DOMAIN-SUFFIX: 6422
 # DOMAIN-KEYWORD: 76
 # IP-CIDR: 41
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 2
-# TOTAL: 7010
-# UPDATED: 2025-01-17 20:41:46
+# TOTAL: 7012
+# UPDATED: 2025-01-18 02:29:25
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1489,7 +1489,7 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-01-17T17:24:18.089Z
+# Last Updated: 2025-01-17T18:47:54.268Z
 # Size: 173
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -1497,6 +1497,8 @@ DOMAIN,track.tenjin.io
 #
 # The ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN-SUFFIX,juejin.cn
+DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,histats.com
 DOMAIN-SUFFIX,minexmr.com
 DOMAIN-SUFFIX,notify6.com
@@ -1629,8 +1631,6 @@ DOMAIN-WILDCARD,beacons*.gvt?.com
 DOMAIN-WILDCARD,*ad.ixigua.com
 DOMAIN-WILDCARD,tracking.*.miui.com
 DOMAIN-WILDCARD,*.tracking.*.miui.com
-.juejin.im
-.juejin.cn
 URL-REGEX,/\d+/resolve
 URL-REGEX,/\d+/sign_d
 IP-CIDR,39.97.128.148/32,no-resolve

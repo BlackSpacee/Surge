@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-01-17T17:24:18.089Z
+# Last Updated: 2025-01-17T18:47:54.268Z
 # Size: 173
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -9,6 +9,8 @@
 # The ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN-SUFFIX,juejin.cn
+DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,histats.com
 DOMAIN-SUFFIX,minexmr.com
 DOMAIN-SUFFIX,notify6.com
@@ -147,8 +149,6 @@ DOMAIN-WILDCARD,beacons*.gvt?.com
 DOMAIN-WILDCARD,*ad.ixigua.com
 DOMAIN-WILDCARD,tracking.*.miui.com
 DOMAIN-WILDCARD,*.tracking.*.miui.com
-.juejin.im
-.juejin.cn
 URL-REGEX,/\d+/resolve
 URL-REGEX,/\d+/sign_d
 IP-CIDR,39.97.128.148/32,no-resolve
