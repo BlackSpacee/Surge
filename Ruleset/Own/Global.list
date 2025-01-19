@@ -1,13 +1,13 @@
 # NAME: Global
-# DOMAIN: 103
-# DOMAIN-SUFFIX: 31089
+# DOMAIN: 102
+# DOMAIN-SUFFIX: 31094
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31406
-# UPDATED: 2025-01-19 14:28:27
+# TOTAL: 31410
+# UPDATED: 2025-01-19 20:38:40
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6654,18 +6654,17 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-14 02:13:02
-# DOMAIN: 12
+# UPDATED: 2025-01-20 02:11:49
+# DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 5940
+# DOMAIN-SUFFIX: 5947
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6083
+# TOTAL: 6089
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
-DOMAIN,copilot.microsoft.com
 DOMAIN,cvws.icloud-content.com
 DOMAIN,developer.apple.com
 DOMAIN,location.microsoft.com
@@ -6674,6 +6673,7 @@ DOMAIN,self.events.data.microsoft.com
 DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,1point3acres.com
+DOMAIN-SUFFIX,abebooks.co.uk
 DOMAIN-SUFFIX,abpchina.org
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,adobe.com
@@ -6720,11 +6720,13 @@ DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,blogsmithmedia.com
 DOMAIN-SUFFIX,br.hao123.com
 DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,carousell.com.hk
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdpuk.co.uk
 DOMAIN-SUFFIX,celestrak.com
 DOMAIN-SUFFIX,census.gov
+DOMAIN-SUFFIX,chanworld.org
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,clien.net
 DOMAIN-SUFFIX,cloud.cupronickel.goog
@@ -6736,6 +6738,7 @@ DOMAIN-SUFFIX,cocoapods.org
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,content.office.net
+DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,crittercism.com
 DOMAIN-SUFFIX,culturalspot.org
@@ -6902,6 +6905,7 @@ DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,pokemon.com
+DOMAIN-SUFFIX,popai.pro
 DOMAIN-SUFFIX,pp.ua
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pythonhosted.org
@@ -6987,6 +6991,7 @@ DOMAIN-SUFFIX,verizonwireless.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vn.hao123.com
 DOMAIN-SUFFIX,vox-cdn.com
+DOMAIN-SUFFIX,vpl.bibliocommons.com
 DOMAIN-SUFFIX,vrchat.com
 DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vultr.com
@@ -7045,14 +7050,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-01-14 02:12:45
+# UPDATED: 2025-01-20 02:11:32
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30764
+# DOMAIN-SUFFIX: 30770
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31047
+# TOTAL: 31053
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -12646,7 +12651,6 @@ DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
 DOMAIN-SUFFIX,copac.ac.uk
-DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,copim.ac.uk
 DOMAIN-SUFFIX,copior.ac.uk
 DOMAIN-SUFFIX,copro.pw
