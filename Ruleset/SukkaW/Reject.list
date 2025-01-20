@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-01-17T18:47:54.268Z
+# Last Updated: 2025-01-20T09:28:23.950Z
 # Size: 173
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -142,11 +142,11 @@ DOMAIN-KEYWORD,smetrics.marketing.
 DOMAIN-KEYWORD,wxsnsdy
 DOMAIN-KEYWORD,adwords
 DOMAIN-KEYWORD,-tracker.biliapi.net
+DOMAIN-KEYWORD,ad.ixigua.com
 DOMAIN-WILDCARD,f-log*.grammarly.io
 DOMAIN-WILDCARD,*.ad.*.prod.hosts.ooklaserver.net
 DOMAIN-WILDCARD,adv0*.msa.cdn.mediaset.net
 DOMAIN-WILDCARD,beacons*.gvt?.com
-DOMAIN-WILDCARD,*ad.ixigua.com
 DOMAIN-WILDCARD,tracking.*.miui.com
 DOMAIN-WILDCARD,*.tracking.*.miui.com
 URL-REGEX,/\d+/resolve

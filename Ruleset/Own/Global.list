@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 31096
+# DOMAIN-SUFFIX: 31098
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31412
-# UPDATED: 2025-01-20 09:45:30
+# TOTAL: 31414
+# UPDATED: 2025-01-20 14:31:18
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-01-20T05:29:59.832Z
-# Size: 729
+# Last Updated: 2025-01-20T09:28:23.940Z
+# Size: 733
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -331,6 +331,7 @@ DOMAIN-SUFFIX,jotform.com
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,nbcnews.com
 DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,nsfwr34.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,patreon.com
@@ -369,6 +370,7 @@ DOMAIN-SUFFIX,cbslocal.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coindesk.com
 DOMAIN-SUFFIX,dashlane.com
+DOMAIN-SUFFIX,debuggex.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,dns-leak.com
 DOMAIN-SUFFIX,dribbble.com
@@ -492,6 +494,7 @@ DOMAIN-SUFFIX,producthunt.com
 DOMAIN-SUFFIX,raspberrypi.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,rule34video.com
 DOMAIN-SUFFIX,serverfault.com
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,tradingview.com
@@ -705,6 +708,7 @@ DOMAIN-SUFFIX,picacn.xyz
 DOMAIN-SUFFIX,bikaios.xyz
 DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,picacomic.xyz
+DOMAIN-SUFFIX,sfmcompile.club
 DOMAIN-SUFFIX,jav.guru
 DOMAIN-SUFFIX,justdns.info
 DOMAIN-SUFFIX,dns-check.info
@@ -25585,7 +25589,6 @@ DOMAIN-SUFFIX,rule34.world
 DOMAIN-SUFFIX,rule34.xyz
 DOMAIN-SUFFIX,rule34h.com
 DOMAIN-SUFFIX,rule34pornvids.com
-DOMAIN-SUFFIX,rule34video.com
 DOMAIN-SUFFIX,ruleporn.com
 DOMAIN-SUFFIX,rumah123.com
 DOMAIN-SUFFIX,rumporn.com
@@ -26235,7 +26238,6 @@ DOMAIN-SUFFIX,sfdcstatic.com
 DOMAIN-SUFFIX,sfefc.ac.uk
 DOMAIN-SUFFIX,sfeu.ac.uk
 DOMAIN-SUFFIX,sfhub.ac.uk
-DOMAIN-SUFFIX,sfmcompile.club
 DOMAIN-SUFFIX,sforce.com
 DOMAIN-SUFFIX,sfps.ac.uk
 DOMAIN-SUFFIX,sfra.ac.uk
