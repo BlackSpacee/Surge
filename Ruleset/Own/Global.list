@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 31134
+# DOMAIN-SUFFIX: 31145
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31450
-# UPDATED: 2025-01-22 14:31:18
+# TOTAL: 31461
+# UPDATED: 2025-01-22 20:43:34
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6661,14 +6661,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-22 02:13:08
+# UPDATED: 2025-01-23 02:12:42
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 5989
+# DOMAIN-SUFFIX: 6004
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6131
+# TOTAL: 6146
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6731,6 +6731,7 @@ DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,blogsmithmedia.com
+DOMAIN-SUFFIX,bmdru.com
 DOMAIN-SUFFIX,bookwalker.com.tw
 DOMAIN-SUFFIX,br.hao123.com
 DOMAIN-SUFFIX,bsky.app
@@ -6862,6 +6863,7 @@ DOMAIN-SUFFIX,jshint.com
 DOMAIN-SUFFIX,justgetflux.com
 DOMAIN-SUFFIX,kat.cr
 DOMAIN-SUFFIX,keyhole.com
+DOMAIN-SUFFIX,kindle4rss.com
 DOMAIN-SUFFIX,krypt.com
 DOMAIN-SUFFIX,kuaichedao.co
 DOMAIN-SUFFIX,ld.hao123img.com
@@ -6898,6 +6900,7 @@ DOMAIN-SUFFIX,miraheze.org
 DOMAIN-SUFFIX,mixin.one
 DOMAIN-SUFFIX,mlssoccer.com
 DOMAIN-SUFFIX,modmyi.com
+DOMAIN-SUFFIX,moeshare.cc
 DOMAIN-SUFFIX,momoshop.com.tw
 DOMAIN-SUFFIX,moneydj.com
 DOMAIN-SUFFIX,moves-export.com
@@ -6936,6 +6939,8 @@ DOMAIN-SUFFIX,phobos.apple.com
 DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,pinboard.in
 DOMAIN-SUFFIX,pixelmator.com
+DOMAIN-SUFFIX,pixivsketch.net
+DOMAIN-SUFFIX,pkqjiasu.com
 DOMAIN-SUFFIX,play-asia.com
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
@@ -6946,10 +6951,13 @@ DOMAIN-SUFFIX,pp.ua
 DOMAIN-SUFFIX,ppy.sh
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,qianglie.com
 DOMAIN-SUFFIX,radio-en-ligne.fr
+DOMAIN-SUFFIX,reabble.com
 DOMAIN-SUFFIX,rime.im
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,rocket.chat
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,sa.hao123.com
 DOMAIN-SUFFIX,scdn.co
@@ -6997,6 +7005,7 @@ DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,timeinc.net
 DOMAIN-SUFFIX,tinder.com
+DOMAIN-SUFFIX,tingtalk.me
 DOMAIN-SUFFIX,tinypic.com
 DOMAIN-SUFFIX,tmblr.co
 DOMAIN-SUFFIX,tmdb.org
@@ -7029,6 +7038,7 @@ DOMAIN-SUFFIX,userapi.nytlog.com
 DOMAIN-SUFFIX,usercontent.goog
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,usgs.gov
+DOMAIN-SUFFIX,uujiasu.com
 DOMAIN-SUFFIX,v.gd
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,vbstatic.co
@@ -7038,11 +7048,13 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vn.hao123.com
 DOMAIN-SUFFIX,vox-cdn.com
 DOMAIN-SUFFIX,vpl.bibliocommons.com
+DOMAIN-SUFFIX,vpn.net
 DOMAIN-SUFFIX,vrchat.com
 DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,webtype.com
+DOMAIN-SUFFIX,weebly.com
 DOMAIN-SUFFIX,whats.new
 DOMAIN-SUFFIX,wikileaks.info
 DOMAIN-SUFFIX,wikiunblocked.org
@@ -7052,6 +7064,8 @@ DOMAIN-SUFFIX,www.linksalpha.com
 DOMAIN-SUFFIX,x3guide.com
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xeeno.com
+DOMAIN-SUFFIX,xfxssr.me
+DOMAIN-SUFFIX,xn--noss43i.com
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
 DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,yahooapis.com
@@ -7097,14 +7111,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-01-22 02:12:48
+# UPDATED: 2025-01-23 02:12:24
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30805
+# DOMAIN-SUFFIX: 30816
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31088
+# TOTAL: 31099
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -19574,7 +19588,6 @@ DOMAIN-SUFFIX,kindle.fr
 DOMAIN-SUFFIX,kindle.in
 DOMAIN-SUFFIX,kindle.it
 DOMAIN-SUFFIX,kindle.jp
-DOMAIN-SUFFIX,kindle4rss.com
 DOMAIN-SUFFIX,kindleoasis.com
 DOMAIN-SUFFIX,kindleoasis.info
 DOMAIN-SUFFIX,kindleoasis.jp
@@ -25197,7 +25210,6 @@ DOMAIN-SUFFIX,rea.design
 DOMAIN-SUFFIX,rea.global
 DOMAIN-SUFFIX,rea.io
 DOMAIN-SUFFIX,rea.tech
-DOMAIN-SUFFIX,reabble.com
 DOMAIN-SUFFIX,reach.ac.uk
 DOMAIN-SUFFIX,reachingwider.ac.uk
 DOMAIN-SUFFIX,reachporn.com
@@ -29741,7 +29753,6 @@ DOMAIN-SUFFIX,wacc.ac.uk
 DOMAIN-SUFFIX,waes.ac.uk
 DOMAIN-SUFFIX,waf.ac.uk
 DOMAIN-SUFFIX,waisongcha.com
-DOMAIN-SUFFIX,waittingfor001.weebly.com
 DOMAIN-SUFFIX,wakcoll.ac.uk
 DOMAIN-SUFFIX,wakefield.ac.uk
 DOMAIN-SUFFIX,wal-mart.com
