@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 31133
+# DOMAIN-SUFFIX: 31134
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31449
-# UPDATED: 2025-01-22 09:45:55
+# TOTAL: 31450
+# UPDATED: 2025-01-22 14:31:18
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-01-20T09:28:23.940Z
-# Size: 733
+# Last Updated: 2025-01-22T12:10:53.022Z
+# Size: 734
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -546,6 +546,7 @@ DOMAIN-SUFFIX,perfect-privacy.com
 DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,strongleakstest.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,bleepingcomputer.com
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,elasticbeanstalk.com
