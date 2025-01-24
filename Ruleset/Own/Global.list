@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 31145
+# DOMAIN-SUFFIX: 31152
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31461
-# UPDATED: 2025-01-24 09:44:06
+# TOTAL: 31468
+# UPDATED: 2025-01-24 14:30:40
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-01-22T12:10:53.022Z
-# Size: 734
+# Last Updated: 2025-01-24T09:15:44.274Z
+# Size: 733
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -24,12 +24,17 @@ DOMAIN-SUFFIX,at
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,be
 DOMAIN-SUFFIX,ca
+DOMAIN-SUFFIX,ch
+DOMAIN-SUFFIX,cy
+DOMAIN-SUFFIX,cz
+DOMAIN-SUFFIX,de
 DOMAIN-SUFFIX,ee
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,fm
 DOMAIN-SUFFIX,fo
 DOMAIN-SUFFIX,fr
 DOMAIN-SUFFIX,gd
+DOMAIN-SUFFIX,gg
 DOMAIN-SUFFIX,gl
 DOMAIN-SUFFIX,gs
 DOMAIN-SUFFIX,in
@@ -58,12 +63,16 @@ DOMAIN-SUFFIX,st
 DOMAIN-SUFFIX,su
 DOMAIN-SUFFIX,sx
 DOMAIN-SUFFIX,to
+DOMAIN-SUFFIX,tv
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,us
+DOMAIN-SUFFIX,vn
 DOMAIN-SUFFIX,ws
 DOMAIN-SUFFIX,app
+DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,dev
+DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,gle
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,lol
@@ -108,16 +117,6 @@ DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,line-beta.me
 DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,jav.pw
-DOMAIN-SUFFIX,bgm.tv
-DOMAIN-SUFFIX,muku.tv
-DOMAIN-SUFFIX,njav.tv
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,iwara.tv
-DOMAIN-SUFFIX,jable.tv
-DOMAIN-SUFFIX,hanime.tv
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,cableav.tv
-DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,signal.art
 DOMAIN-SUFFIX,line.biz
 DOMAIN-SUFFIX,x.com
@@ -1450,6 +1449,7 @@ DOMAIN-SUFFIX,c-span.org
 DOMAIN-SUFFIX,c-spanvideo.org
 DOMAIN-SUFFIX,c100tibet.org
 DOMAIN-SUFFIX,c2cx.com
+DOMAIN-SUFFIX,cableav.tv
 DOMAIN-SUFFIX,cablegatesearch.net
 DOMAIN-SUFFIX,cachinese.com
 DOMAIN-SUFFIX,cacnw.com
@@ -2993,6 +2993,7 @@ DOMAIN-SUFFIX,hackthatphone.net
 DOMAIN-SUFFIX,hahlo.com
 DOMAIN-SUFFIX,hakkatv.org.tw
 DOMAIN-SUFFIX,handcraftedsoftware.org
+DOMAIN-SUFFIX,hanime.tv
 DOMAIN-SUFFIX,hanminzu.org
 DOMAIN-SUFFIX,hanunyi.com
 DOMAIN-SUFFIX,hao.news
@@ -3418,6 +3419,7 @@ DOMAIN-SUFFIX,ivacy.com
 DOMAIN-SUFFIX,iverycd.com
 DOMAIN-SUFFIX,ivonblog.com
 DOMAIN-SUFFIX,ivpn.net
+DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,ixquick.com
 DOMAIN-SUFFIX,iyouport.com
 DOMAIN-SUFFIX,iyouport.org
@@ -3426,6 +3428,7 @@ DOMAIN-SUFFIX,izihost.org
 DOMAIN-SUFFIX,izles.net
 DOMAIN-SUFFIX,izlesem.org
 DOMAIN-SUFFIX,j.mp
+DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,jackjia.com
 DOMAIN-SUFFIX,jamaat.org
 DOMAIN-SUFFIX,jamestown.org
@@ -4501,6 +4504,7 @@ DOMAIN-SUFFIX,peoplenews.tw
 DOMAIN-SUFFIX,peopo.org
 DOMAIN-SUFFIX,percy.in
 DOMAIN-SUFFIX,perfectgirls.net
+DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,persecutionblog.com
 DOMAIN-SUFFIX,persiankitty.com
@@ -4653,6 +4657,7 @@ DOMAIN-SUFFIX,proxytunnel.net
 DOMAIN-SUFFIX,proyectoclubes.com
 DOMAIN-SUFFIX,prozz.net
 DOMAIN-SUFFIX,psblog.name
+DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,pshvpn.com
 DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,psiphon3.com
@@ -5741,6 +5746,7 @@ DOMAIN-SUFFIX,twistory.net
 DOMAIN-SUFFIX,twit2d.com
 DOMAIN-SUFFIX,twitbrowser.net
 DOMAIN-SUFFIX,twitcause.com
+DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitgether.com
 DOMAIN-SUFFIX,twitgoo.com
@@ -22830,6 +22836,7 @@ DOMAIN-SUFFIX,nivodi.tv
 DOMAIN-SUFFIX,nivodz.com
 DOMAIN-SUFFIX,nixos.org
 DOMAIN-SUFFIX,niziero.info
+DOMAIN-SUFFIX,njav.tv
 DOMAIN-SUFFIX,njncscotlandscolleges.ac.uk
 DOMAIN-SUFFIX,nkc.ac.uk
 DOMAIN-SUFFIX,nke6.com
