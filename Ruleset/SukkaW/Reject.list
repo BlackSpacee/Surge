@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-01-24T06:22:36.667Z
-# Size: 174
+# Last Updated: 2025-01-26T04:13:18.101Z
+# Size: 182
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,7 +10,13 @@
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,juejin.cn
+DOMAIN-SUFFIX,bgp.co
 DOMAIN-SUFFIX,juejin.im
+DOMAIN-SUFFIX,kimo.tw
+DOMAIN-SUFFIX,august.tw
+DOMAIN-SUFFIX,pgi.com
+DOMAIN-SUFFIX,esgltc.com
+DOMAIN-SUFFIX,moebgp.com
 DOMAIN-SUFFIX,histats.com
 DOMAIN-SUFFIX,minexmr.com
 DOMAIN-SUFFIX,notify6.com
@@ -21,6 +27,7 @@ DOMAIN-SUFFIX,advertising.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,lambda-ix.net
 DOMAIN-SUFFIX,httpdns.pro
 DOMAIN,dns.weibo.cn
 DOMAIN,doh.zjurl.cn
@@ -28,6 +35,7 @@ DOMAIN,ttnet-dig.feishu.cn
 DOMAIN,ttnet-doh.feishu.cn
 DOMAIN-SUFFIX,net.mydays.de
 DOMAIN-SUFFIX,adtech.redventures.io
+DOMAIN-SUFFIX,wakuwaku.ne.jp
 DOMAIN,dns.jd.com
 DOMAIN,httpdns.cctv.com
 DOMAIN,httpdns.baidu.com

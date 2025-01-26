@@ -1,14 +1,14 @@
 # NAME: Reject
 # AND: 1
 # DOMAIN: 466
-# DOMAIN-SUFFIX: 6422
+# DOMAIN-SUFFIX: 6430
 # DOMAIN-KEYWORD: 77
 # IP-CIDR: 41
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 2
-# TOTAL: 7014
-# UPDATED: 2025-01-26 02:26:54
+# TOTAL: 7022
+# UPDATED: 2025-01-26 09:46:43
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1489,8 +1489,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-01-24T06:22:36.667Z
-# Size: 174
+# Last Updated: 2025-01-26T04:13:18.101Z
+# Size: 182
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1498,7 +1498,13 @@ DOMAIN,track.tenjin.io
 # The ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,juejin.cn
+DOMAIN-SUFFIX,bgp.co
 DOMAIN-SUFFIX,juejin.im
+DOMAIN-SUFFIX,kimo.tw
+DOMAIN-SUFFIX,august.tw
+DOMAIN-SUFFIX,pgi.com
+DOMAIN-SUFFIX,esgltc.com
+DOMAIN-SUFFIX,moebgp.com
 DOMAIN-SUFFIX,histats.com
 DOMAIN-SUFFIX,minexmr.com
 DOMAIN-SUFFIX,notify6.com
@@ -1506,6 +1512,7 @@ DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,notifysrv.com
 DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,lambda-ix.net
 DOMAIN-SUFFIX,httpdns.pro
 DOMAIN,dns.weibo.cn
 DOMAIN,doh.zjurl.cn
@@ -1513,6 +1520,7 @@ DOMAIN,ttnet-dig.feishu.cn
 DOMAIN,ttnet-doh.feishu.cn
 DOMAIN-SUFFIX,net.mydays.de
 DOMAIN-SUFFIX,adtech.redventures.io
+DOMAIN-SUFFIX,wakuwaku.ne.jp
 DOMAIN,httpdns.cctv.com
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpsdns.baidu.com
