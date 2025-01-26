@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 31192
+# DOMAIN-SUFFIX: 31204
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31508
-# UPDATED: 2025-01-26 14:28:28
+# TOTAL: 31520
+# UPDATED: 2025-01-26 20:38:37
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-01-24T13:13:24.636Z
-# Size: 734
+# Last Updated: 2025-01-26T16:06:42.688Z
+# Size: 738
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -253,6 +253,7 @@ DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,fandom.com
 DOMAIN-SUFFIX,feedly.com
+DOMAIN-SUFFIX,fixupx.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,genius.com
@@ -347,6 +348,7 @@ DOMAIN-SUFFIX,thisvid.com
 DOMAIN-SUFFIX,tinypng.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twittpr.com
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,weather.com
@@ -422,6 +424,7 @@ DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,fxtwitter.com
 DOMAIN-SUFFIX,gcld-line.com
 DOMAIN-SUFFIX,geekbench.com
 DOMAIN-SUFFIX,githubapp.com
@@ -449,6 +452,7 @@ DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,tmagazine.com
 DOMAIN-SUFFIX,travis-ci.com
+DOMAIN-SUFFIX,vxtwitter.com
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wireguard.com
@@ -571,7 +575,6 @@ DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,dynu.net
 DOMAIN-SUFFIX,ripe.net
 DOMAIN-SUFFIX,sony.net
-DOMAIN-SUFFIX,whrq.net
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,dmcdn.net
@@ -586,6 +589,7 @@ DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,nitter.net
 DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,apkpure.net
@@ -4220,7 +4224,6 @@ DOMAIN-SUFFIX,ninjaproxy.ninja
 DOMAIN-SUFFIX,nintendium.com
 DOMAIN-SUFFIX,ninth.biz
 DOMAIN-SUFFIX,nitter.cc
-DOMAIN-SUFFIX,nitter.net
 DOMAIN-SUFFIX,niu.moe
 DOMAIN-SUFFIX,niusnews.com
 DOMAIN-SUFFIX,njactb.org
@@ -6668,14 +6671,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-26 02:11:47
+# UPDATED: 2025-01-27 02:12:20
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6037
+# DOMAIN-SUFFIX: 6046
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6179
+# TOTAL: 6188
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6748,6 +6751,7 @@ DOMAIN-SUFFIX,bmdru.com
 DOMAIN-SUFFIX,bookwalker.com.tw
 DOMAIN-SUFFIX,br.hao123.com
 DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,btguard.com
 DOMAIN-SUFFIX,carousell.com.hk
 DOMAIN-SUFFIX,caus.com
 DOMAIN-SUFFIX,cdn.angruo.com
@@ -6792,6 +6796,7 @@ DOMAIN-SUFFIX,disq.us
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,diyin.org
 DOMAIN-SUFFIX,dler.io
+DOMAIN-SUFFIX,dma.mil
 DOMAIN-SUFFIX,dnsimple.com
 DOMAIN-SUFFIX,dockerhub.com
 DOMAIN-SUFFIX,docs.new
@@ -6966,7 +6971,6 @@ DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,patreonusercontent.com
 DOMAIN-SUFFIX,pcgamestorrents.com
 DOMAIN-SUFFIX,pdfexpert.com
-DOMAIN-SUFFIX,phobos.apple.com
 DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,pigav.com
 DOMAIN-SUFFIX,pinboard.in
@@ -7063,8 +7067,11 @@ DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,typcn.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,typography.com
+DOMAIN-SUFFIX,ua5v.com
 DOMAIN-SUFFIX,ublock.org
 DOMAIN-SUFFIX,ubnt.com
+DOMAIN-SUFFIX,ultrasurf.us
+DOMAIN-SUFFIX,ultravpn.com
 DOMAIN-SUFFIX,ulyssesapp.com
 DOMAIN-SUFFIX,unblocksites.co
 DOMAIN-SUFFIX,unfiltered.news
@@ -7072,6 +7079,7 @@ DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,unwire.hk
 DOMAIN-SUFFIX,uploader.jp
 DOMAIN-SUFFIX,upwork.com
+DOMAIN-SUFFIX,uscg.mil
 DOMAIN-SUFFIX,userapi.nytlog.com
 DOMAIN-SUFFIX,usercontent.goog
 DOMAIN-SUFFIX,usertrust.com
@@ -7087,6 +7095,7 @@ DOMAIN-SUFFIX,vn.hao123.com
 DOMAIN-SUFFIX,vox-cdn.com
 DOMAIN-SUFFIX,vpl.bibliocommons.com
 DOMAIN-SUFFIX,vpn.net
+DOMAIN-SUFFIX,vpnproxymaster.com
 DOMAIN-SUFFIX,vrchat.com
 DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vultr.com
@@ -7097,6 +7106,7 @@ DOMAIN-SUFFIX,weebly.com
 DOMAIN-SUFFIX,whats.new
 DOMAIN-SUFFIX,wikileaks.info
 DOMAIN-SUFFIX,wikiunblocked.org
+DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,wr.pvp.net
 DOMAIN-SUFFIX,www.linksalpha.com
@@ -7109,8 +7119,10 @@ DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
 DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,yasukuni.or.jp
 DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,yoyo.org
+DOMAIN-SUFFIX,yunomi.tokyo
 DOMAIN-SUFFIX,z-lib.io
 DOMAIN-SUFFIX,zmedia.com.tw
 DOMAIN-SUFFIX,zoom.us
@@ -7151,14 +7163,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-01-26 02:11:29
+# UPDATED: 2025-01-27 02:12:02
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30854
+# DOMAIN-SUFFIX: 30864
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31137
+# TOTAL: 31147
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -16725,6 +16737,7 @@ DOMAIN-SUFFIX,googleoptimize-cn.com
 DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,googlephotos.com
 DOMAIN-SUFFIX,googleplex.com
+DOMAIN-SUFFIX,googlescholar.com
 DOMAIN-SUFFIX,googlescholar.comusa
 DOMAIN-SUFFIX,googlestore.com
 DOMAIN-SUFFIX,googlesverige.com
@@ -30192,7 +30205,6 @@ DOMAIN-SUFFIX,wmcc.ac.uk
 DOMAIN-SUFFIX,wmcloud.org
 DOMAIN-SUFFIX,wmcollege.ac.uk
 DOMAIN-SUFFIX,wmcu.ac.uk
-DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,wmhea.ac.uk
 DOMAIN-SUFFIX,wmin.ac.uk
 DOMAIN-SUFFIX,wmsf.ac.uk
