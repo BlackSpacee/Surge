@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-01-26T04:13:18.101Z
-# Size: 182
+# Last Updated: 2025-01-30T10:41:00.091Z
+# Size: 185
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -147,7 +147,10 @@ DOMAIN-KEYWORD,insights-collector.
 DOMAIN-KEYWORD,track.opentable.
 DOMAIN-KEYWORD,.net.daraz.
 DOMAIN-KEYWORD,.zooplus.
-DOMAIN-KEYWORD,smetrics.marketing.
+DOMAIN-KEYWORD,smetrics.
+DOMAIN-KEYWORD,a8clk.
+DOMAIN-KEYWORD,a8cv.
+DOMAIN-KEYWORD,plausible.
 DOMAIN-KEYWORD,wxsnsdy
 DOMAIN-KEYWORD,adwords
 DOMAIN-KEYWORD,-tracker.biliapi.net
