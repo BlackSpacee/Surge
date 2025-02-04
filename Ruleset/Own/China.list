@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 463
-# DOMAIN-SUFFIX: 97226
+# DOMAIN-SUFFIX: 97227
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8330
 # IP-CIDR6: 12139
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 118310
-# UPDATED: 2025-02-04 09:44:27
+# TOTAL: 118311
+# UPDATED: 2025-02-04 14:31:07
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,8 +244,8 @@ PROCESS-NAME,Logi Options Daemon
 ## JSTOR 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-01-31T15:08:27.989Z
-# Size: 764
+# Last Updated: 2025-02-04T12:38:43.231Z
+# Size: 772
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,3.cn
@@ -267,6 +267,7 @@ DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,itc.cn
 DOMAIN-SUFFIX,mcd.cn
+DOMAIN-SUFFIX,nga.cn
 DOMAIN-SUFFIX,nmc.cn
 DOMAIN-SUFFIX,org.cn
 DOMAIN-SUFFIX,php.cn
@@ -405,6 +406,7 @@ DOMAIN-SUFFIX,127.com
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,166.com
+DOMAIN-SUFFIX,178.com
 DOMAIN-SUFFIX,188.com
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,bh3.com
@@ -557,6 +559,7 @@ DOMAIN-SUFFIX,chuimg.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,ctfile.com
 DOMAIN-SUFFIX,dnspod.com
+DOMAIN-SUFFIX,donews.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,dpfile.com
@@ -592,6 +595,7 @@ DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,myoppo.com
+DOMAIN-SUFFIX,ngabbs.com
 DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,pddugc.com
@@ -1005,6 +1009,10 @@ DOMAIN,cn.download.nvidia.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN,media.cdn.queniuqe.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-WILDCARD,*.ffzy-online?.com
+DOMAIN-WILDCARD,*.ffzy-play?.com
+DOMAIN-WILDCARD,*.lz-cdn?.com
+DOMAIN-WILDCARD,*.lz-cdn??.com
 DOMAIN-WILDCARD,*.qhimgs?.com
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
@@ -1234,7 +1242,6 @@ DOMAIN-SUFFIX,doh.360.cn
 IP-CIDR,1.12.12.12/32,no-resolve
 # AccelerateDirectSites
 DOMAIN-SUFFIX,17173.com
-DOMAIN-SUFFIX,178.com
 DOMAIN-SUFFIX,17k.com
 DOMAIN-SUFFIX,51job.com
 DOMAIN-SUFFIX,51jobcdn.com
@@ -2347,7 +2354,6 @@ DOMAIN-SUFFIX,dockerone.com
 DOMAIN-SUFFIX,dockone.io
 DOMAIN-SUFFIX,doctoryou.ai
 DOMAIN-SUFFIX,dogedoge.com
-DOMAIN-SUFFIX,donews.com
 DOMAIN-SUFFIX,dongao.com
 DOMAIN-SUFFIX,dongchedi.com
 DOMAIN-SUFFIX,dongchediapp.com
@@ -3358,7 +3364,6 @@ DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
 DOMAIN-SUFFIX,nffund.com
 DOMAIN-SUFFIX,nfoservers.com
-DOMAIN-SUFFIX,ngabbs.com
 DOMAIN-SUFFIX,ngacn.cc
 DOMAIN-SUFFIX,nic.xin
 DOMAIN-SUFFIX,nicaifu.com
