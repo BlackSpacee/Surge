@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2024-12-14T11:39:57.287Z
+# Last Updated: 2025-02-06T14:31:09.400Z
 # Size: 35
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -9,38 +9,38 @@
 # This file contains domains of OpenAI, Claude.
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,dify.ai
-DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,jasper.ai
-DOMAIN-SUFFIX,openart.ai
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,clipdrop.co
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,chat.com
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,generativeai.google
-DOMAIN,api.github.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,deepmind.google
 DOMAIN,ai.google.dev
-DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN,api.github.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
 ################## EOF ##################
