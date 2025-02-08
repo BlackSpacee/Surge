@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 31228
+# DOMAIN-SUFFIX: 31231
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31544
-# UPDATED: 2025-02-08 14:28:41
+# TOTAL: 31547
+# UPDATED: 2025-02-08 20:39:23
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6679,14 +6679,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-27 02:12:20
+# UPDATED: 2025-02-09 02:11:45
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6046
+# DOMAIN-SUFFIX: 6051
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6188
+# TOTAL: 6193
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6762,6 +6762,7 @@ DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,btguard.com
 DOMAIN-SUFFIX,carousell.com.hk
 DOMAIN-SUFFIX,caus.com
+DOMAIN-SUFFIX,ccfd.org.tw
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdpuk.co.uk
@@ -6882,6 +6883,7 @@ DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,io.io
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipaddress.com
+DOMAIN-SUFFIX,ipdefenseforum.com
 DOMAIN-SUFFIX,ipn.li
 DOMAIN-SUFFIX,ishowsapp.com
 DOMAIN-SUFFIX,ishr.ch
@@ -6971,6 +6973,7 @@ DOMAIN-SUFFIX,orkut.com
 DOMAIN-SUFFIX,osha.gov
 DOMAIN-SUFFIX,osxdaily.com
 DOMAIN-SUFFIX,ouo.io
+DOMAIN-SUFFIX,pacom.mil
 DOMAIN-SUFFIX,paddle.com
 DOMAIN-SUFFIX,paddleapi.com
 DOMAIN-SUFFIX,paoluz.com
@@ -7171,14 +7174,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-02-08 02:13:09
+# UPDATED: 2025-02-09 02:11:27
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30882
+# DOMAIN-SUFFIX: 30887
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31165
+# TOTAL: 31170
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
