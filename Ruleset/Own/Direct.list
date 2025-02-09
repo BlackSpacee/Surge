@@ -1,11 +1,11 @@
 # NAME: Direct
 # DOMAIN: 52
-# DOMAIN-SUFFIX: 11
+# DOMAIN-SUFFIX: 10
 # DOMAIN-KEYWORD: 25
 # IP-CIDR: 2
 # DEST-PORT: 1
-# TOTAL: 91
-# UPDATED: 2025-02-09 14:28:48
+# TOTAL: 90
+# UPDATED: 2025-02-09 20:38:54
 
 # Direct+
 DOMAIN,app.adjust.com
@@ -142,12 +142,11 @@ IP-CIDR,192.168.0.1/24,no-resolve
 IP-CIDR,192.168.1.1/24,no-resolve
 ############################################################# 这是第二条分割线 #############################################################
 # 规则名称: Direct
-# 规则统计: 37
+# 规则统计: 36
 DOMAIN,api.goodnotescloud.com
 DOMAIN,ifconfig.me/ip
 DOMAIN-SUFFIX,fileball.app
 DOMAIN-SUFFIX,goodnotesapp.com.cn
-DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,test-ipv6.com
