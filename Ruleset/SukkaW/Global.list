@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-02-11T09:42:10.826Z
-# Size: 748
+# Last Updated: 2025-02-14T07:39:44.116Z
+# Size: 752
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12,8 +12,7 @@ DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,mastodon.social
-DOMAIN-SUFFIX,bsky.social
+DOMAIN-SUFFIX,social
 DOMAIN-SUFFIX,ant.design
 DOMAIN-SUFFIX,watch
 DOMAIN-SUFFIX,tools
@@ -100,6 +99,7 @@ DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,astrill.org
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,18comic.org
 DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,schema.org
@@ -258,6 +258,7 @@ DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,1point3acres.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,usertesting.com
@@ -624,6 +625,7 @@ DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,fide.com
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,dynu.com
+DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,dish.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bang.com
@@ -684,6 +686,7 @@ DOMAIN-SUFFIX,se
 DOMAIN-SUFFIX,sb
 DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,rs
+DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,jav.pw
 DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,ph
@@ -739,6 +742,7 @@ DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,whoer.cc
 DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,airav.cc
 DOMAIN-SUFFIX,520cc.cc
 DOMAIN-SUFFIX,ca
 DOMAIN-SUFFIX,be

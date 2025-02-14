@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 31232
+# DOMAIN-SUFFIX: 31233
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31548
-# UPDATED: 2025-02-14 09:45:53
+# TOTAL: 31549
+# UPDATED: 2025-02-14 14:30:46
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-02-11T09:42:10.826Z
-# Size: 748
+# Last Updated: 2025-02-14T07:39:44.116Z
+# Size: 752
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -22,8 +22,7 @@ DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,mastodon.social
-DOMAIN-SUFFIX,bsky.social
+DOMAIN-SUFFIX,social
 DOMAIN-SUFFIX,ant.design
 DOMAIN-SUFFIX,watch
 DOMAIN-SUFFIX,tools
@@ -110,6 +109,7 @@ DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,astrill.org
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,18comic.org
 DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,schema.org
@@ -268,6 +268,7 @@ DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,1point3acres.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,usertesting.com
@@ -634,6 +635,7 @@ DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,fide.com
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,dynu.com
+DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,dish.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bang.com
@@ -694,6 +696,7 @@ DOMAIN-SUFFIX,se
 DOMAIN-SUFFIX,sb
 DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,rs
+DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,jav.pw
 DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,ph
@@ -749,6 +752,7 @@ DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,whoer.cc
 DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,airav.cc
 DOMAIN-SUFFIX,520cc.cc
 DOMAIN-SUFFIX,ca
 DOMAIN-SUFFIX,be
@@ -2042,7 +2046,6 @@ DOMAIN-SUFFIX,dtiblog.com
 DOMAIN-SUFFIX,dtic.mil
 DOMAIN-SUFFIX,dtwang.org
 DOMAIN-SUFFIX,duanzhihu.com
-DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,duckload.com
 DOMAIN-SUFFIX,duckmylife.com
@@ -3843,6 +3846,7 @@ DOMAIN-SUFFIX,mash.to
 DOMAIN-SUFFIX,maskedip.com
 DOMAIN-SUFFIX,mastodon.cloud
 DOMAIN-SUFFIX,mastodon.host
+DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,mastodon.xyz
 DOMAIN-SUFFIX,matainja.com
 DOMAIN-SUFFIX,material.io
@@ -6314,7 +6318,6 @@ DOMAIN-SUFFIX,yahoo.net
 DOMAIN-SUFFIX,yakbutterblues.com
 DOMAIN-SUFFIX,yam.com
 DOMAIN-SUFFIX,yam.org.tw
-DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yanghengjun.com
 DOMAIN-SUFFIX,yangjianli.com
@@ -6698,7 +6701,6 @@ DOMAIN,login.microsoftonline.com
 DOMAIN,self.events.data.microsoft.com
 DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
-DOMAIN-SUFFIX,1point3acres.com
 DOMAIN-SUFFIX,500px.com
 DOMAIN-SUFFIX,500px.org
 DOMAIN-SUFFIX,6do.world
@@ -6760,6 +6762,7 @@ DOMAIN-SUFFIX,bmdru.com
 DOMAIN-SUFFIX,bookwalker.com.tw
 DOMAIN-SUFFIX,br.hao123.com
 DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,btguard.com
 DOMAIN-SUFFIX,carousell.com.hk
 DOMAIN-SUFFIX,caus.com
@@ -7363,7 +7366,6 @@ DOMAIN-SUFFIX,18comic-god.club
 DOMAIN-SUFFIX,18comic-god.xyz
 DOMAIN-SUFFIX,18comic.cc
 DOMAIN-SUFFIX,18comic.company
-DOMAIN-SUFFIX,18comic.org
 DOMAIN-SUFFIX,18commic.com
 DOMAIN-SUFFIX,18doujin.com
 DOMAIN-SUFFIX,18doujinshi.xyz
@@ -8182,7 +8184,6 @@ DOMAIN-SUFFIX,aimsciences.org
 DOMAIN-SUFFIX,aipa553.com
 DOMAIN-SUFFIX,air-nike-shoes.com
 DOMAIN-SUFFIX,air-watch.com
-DOMAIN-SUFFIX,airav.cc
 DOMAIN-SUFFIX,airav.wiki
 DOMAIN-SUFFIX,aire-wharf-coll.ac.uk
 DOMAIN-SUFFIX,airgonetworks.com
