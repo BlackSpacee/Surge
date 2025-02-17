@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 31240
+# DOMAIN-SUFFIX: 31245
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31556
-# UPDATED: 2025-02-17 14:32:27
+# TOTAL: 31561
+# UPDATED: 2025-02-17 20:46:15
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7178,14 +7178,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-02-17 02:11:13
+# UPDATED: 2025-02-18 02:12:22
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30893
+# DOMAIN-SUFFIX: 30898
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31176
+# TOTAL: 31181
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -22001,7 +22001,12 @@ DOMAIN-SUFFIX,mwdbank.com
 DOMAIN-SUFFIX,mwell.ac.uk
 DOMAIN-SUFFIX,mwhentai.net
 DOMAIN-SUFFIX,mwrc.ac.uk
+DOMAIN-SUFFIX,mxlogin.com
 DOMAIN-SUFFIX,mxmcdn.net
+DOMAIN-SUFFIX,mxroute.com
+DOMAIN-SUFFIX,mxroutedocs.com
+DOMAIN-SUFFIX,mxroutehelp.com
+DOMAIN-SUFFIX,mxrouting.net
 DOMAIN-SUFFIX,mxshm.site
 DOMAIN-SUFFIX,my-enema.com
 DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com
