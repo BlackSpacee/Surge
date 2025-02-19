@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 31247
+# DOMAIN-SUFFIX: 31250
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31563
-# UPDATED: 2025-02-19 14:31:50
+# TOTAL: 31566
+# UPDATED: 2025-02-19 20:42:08
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6685,14 +6685,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-02-09 02:11:45
+# UPDATED: 2025-02-20 02:13:09
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6051
+# DOMAIN-SUFFIX: 6054
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6193
+# TOTAL: 6196
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6705,6 +6705,7 @@ DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,500px.com
 DOMAIN-SUFFIX,500px.org
+DOMAIN-SUFFIX,611study.icu
 DOMAIN-SUFFIX,6do.world
 DOMAIN-SUFFIX,abebooks.co.uk
 DOMAIN-SUFFIX,abpchina.org
@@ -6963,6 +6964,7 @@ DOMAIN-SUFFIX,myjs.tw
 DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,netmarble.com
+DOMAIN-SUFFIX,news1.kr
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,nih.gov
 DOMAIN-SUFFIX,nikonpc.com
@@ -6989,6 +6991,7 @@ DOMAIN-SUFFIX,patreonusercontent.com
 DOMAIN-SUFFIX,pcgamestorrents.com
 DOMAIN-SUFFIX,pdfexpert.com
 DOMAIN-SUFFIX,piaotian.net
+DOMAIN-SUFFIX,picuki.com
 DOMAIN-SUFFIX,pigav.com
 DOMAIN-SUFFIX,pinboard.in
 DOMAIN-SUFFIX,pixelmator.com
@@ -7180,14 +7183,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-02-18 02:12:22
+# UPDATED: 2025-02-20 02:12:50
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30898
+# DOMAIN-SUFFIX: 30901
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31181
+# TOTAL: 31184
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
