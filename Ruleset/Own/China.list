@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 463
-# DOMAIN-SUFFIX: 97246
+# DOMAIN-SUFFIX: 97247
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8292
 # IP-CIDR6: 12185
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 118338
-# UPDATED: 2025-02-18 20:43:18
+# TOTAL: 118339
+# UPDATED: 2025-02-19 02:31:44
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,8 +244,8 @@ PROCESS-NAME,Logi Options Daemon
 ## JSTOR 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-02-18T16:54:02.818Z
-# Size: 777
+# Last Updated: 2025-02-19T01:17:55.469Z
+# Size: 779
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -488,6 +488,7 @@ DOMAIN-SUFFIX,lenovomm.com
 DOMAIN,www.layuicdn.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,ksmobile.com
+DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,jstarkan.com
 DOMAIN-SUFFIX,ixgvideo.com
 DOMAIN-SUFFIX,iqiyipic.com
@@ -955,6 +956,7 @@ DOMAIN-SUFFIX,qiyou.cn
 DOMAIN-SUFFIX,nubia.cn
 DOMAIN-SUFFIX,meizu.cn
 DOMAIN-SUFFIX,m1905.cn
+DOMAIN-SUFFIX,ksurl.cn
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN,www.intel.cn
 DOMAIN-SUFFIX,infoq.cn
@@ -3068,7 +3070,6 @@ DOMAIN-SUFFIX,koudai.com
 DOMAIN-SUFFIX,koudai8.com
 DOMAIN-SUFFIX,kq7.com
 DOMAIN-SUFFIX,ks-cdn1.com
-DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,ksyuncdn.com
 DOMAIN-SUFFIX,ku6cdn.com
 DOMAIN-SUFFIX,ku6img.com
