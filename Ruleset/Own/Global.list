@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 102
-# DOMAIN-SUFFIX: 31260
+# DOMAIN-SUFFIX: 31261
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31576
-# UPDATED: 2025-02-23 14:29:19
+# TOTAL: 31577
+# UPDATED: 2025-02-23 20:40:52
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6686,14 +6686,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-02-20 02:13:09
+# UPDATED: 2025-02-24 02:11:35
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6054
+# DOMAIN-SUFFIX: 6056
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6196
+# TOTAL: 6198
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6788,6 +6788,7 @@ DOMAIN-SUFFIX,cloudmagic.com
 DOMAIN-SUFFIX,cmail19.com
 DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,cocoapods.org
+DOMAIN-SUFFIX,cofacts.tw
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,content.office.net
@@ -6862,6 +6863,7 @@ DOMAIN-SUFFIX,go.jp
 DOMAIN-SUFFIX,good.news
 DOMAIN-SUFFIX,goodnewsnetwork.org
 DOMAIN-SUFFIX,gosetsuden.jp
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,ground.news
 DOMAIN-SUFFIX,haijiao.com
 DOMAIN-SUFFIX,help.linksalpha.com
@@ -7184,14 +7186,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-02-23 02:11:07
+# UPDATED: 2025-02-24 02:11:17
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30910
+# DOMAIN-SUFFIX: 30911
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31193
+# TOTAL: 31194
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -16893,7 +16895,6 @@ DOMAIN-SUFFIX,gridpp.ac.uk
 DOMAIN-SUFFIX,grids.ac.uk
 DOMAIN-SUFFIX,grimsby.ac.uk
 DOMAIN-SUFFIX,grimsbytec.ac.uk
-DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grooby.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,groupfun.com
