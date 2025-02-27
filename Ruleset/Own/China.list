@@ -8,46 +8,27 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 118195
-# UPDATED: 2025-02-26 20:46:31
+# UPDATED: 2025-02-27 02:31:56
 
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2024-11-07T13:17:34.932Z
-# Size: 1
+# Last Updated: 2025-02-27T01:24:41.079Z
+# Size: 48
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file includes rules for LAN DOMAIN and reserved TLDs.
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-################## EOF ##################
-############################################################# 这是第一条分割线 #############################################################
-# Sukka's Ruleset - Direct Rules
-# Last Updated: 2025-02-06T14:31:09.079Z
-# Size: 217
-# This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,localdomain
-DOMAIN-SUFFIX,orpheus.network
 DOMAIN,mobile.hotspot
 DOMAIN-SUFFIX,router
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,ui.direct
 DOMAIN,unifi
 DOMAIN,ntt.setup
-DOMAIN-SUFFIX,bogon
-DOMAIN-SUFFIX,52pt.site
-DOMAIN-SUFFIX,concertos.live
-DOMAIN-SUFFIX,j99.info
 DOMAIN-SUFFIX,home
 DOMAIN,pi.hole
-DOMAIN-SUFFIX,soulvoice.club
-DOMAIN-SUFFIX,dicmusic.club
-DOMAIN-SUFFIX,btschool.club
-DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,hdatmos.club
-DOMAIN-SUFFIX,ptsbao.club
-DOMAIN-SUFFIX,hdcity.city
-DOMAIN-SUFFIX,moecat.best
 DOMAIN-SUFFIX,168.192.in-addr.arpa
 DOMAIN-SUFFIX,31.172.in-addr.arpa
 DOMAIN-SUFFIX,30.172.in-addr.arpa
@@ -68,6 +49,43 @@ DOMAIN-SUFFIX,16.172.in-addr.arpa
 DOMAIN-SUFFIX,254.169.in-addr.arpa
 DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,home.arpa
+DOMAIN-SUFFIX,tplinkrepeater.net
+DOMAIN-SUFFIX,tplinkplclogin.net
+DOMAIN-SUFFIX,tplinkmodem.net
+DOMAIN-SUFFIX,routerlogin.net
+DOMAIN-SUFFIX,tplinkwifi.net
+DOMAIN-SUFFIX,tplinkap.net
+DOMAIN-SUFFIX,lan
+DOMAIN,homerouter.cpe
+DOMAIN-SUFFIX,huaweimobilewifi.com
+DOMAIN,setmeup.arubanetworks.com
+DOMAIN,instant.arubanetworks.com
+DOMAIN-SUFFIX,routerlogin.com
+DOMAIN-SUFFIX,asusrouter.com
+DOMAIN,console.gl-inet.com
+DOMAIN,repeater.asus.com
+DOMAIN,router.asus.com
+DOMAIN,aterm.me
+DOMAIN-SUFFIX,tplogin.cn
+################## EOF ##################
+############################################################# 这是第一条分割线 #############################################################
+# Sukka's Ruleset - Direct Rules
+# Last Updated: 2025-02-06T14:31:09.079Z
+# Size: 217
+# This file contains domains and process that should not be proxied.
+DOMAIN-SUFFIX,orpheus.network
+DOMAIN-SUFFIX,bogon
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,concertos.live
+DOMAIN-SUFFIX,j99.info
+DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,dicmusic.club
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,ptsbao.club
+DOMAIN-SUFFIX,hdcity.city
+DOMAIN-SUFFIX,moecat.best
 DOMAIN-SUFFIX,blutopia.xyz
 DOMAIN-SUFFIX,hd4.xyz
 DOMAIN-SUFFIX,hdpost.top
@@ -98,20 +116,14 @@ DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,doi.org
 DOMAIN-SUFFIX,acm.org
-DOMAIN-SUFFIX,tplinkrepeater.net
-DOMAIN-SUFFIX,tplinkplclogin.net
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,myanonamouse.net
 DOMAIN-SUFFIX,gazellegames.net
 DOMAIN-SUFFIX,cinemageddon.net
-DOMAIN-SUFFIX,tplinkmodem.net
-DOMAIN-SUFFIX,routerlogin.net
 DOMAIN-SUFFIX,broadcasthe.net
-DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,cinematik.net
-DOMAIN-SUFFIX,tplinkap.net
 DOMAIN-SUFFIX,pornbits.net
 DOMAIN-SUFFIX,gfxpeers.net
 DOMAIN-SUFFIX,discfan.net
@@ -119,22 +131,14 @@ DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,joyhd.net
 DOMAIN-SUFFIX,m2m
-DOMAIN-SUFFIX,lan
-DOMAIN,homerouter.cpe
 DOMAIN-SUFFIX,blackwell-synergy.com
-DOMAIN-SUFFIX,huaweimobilewifi.com
 DOMAIN-SUFFIX,springernature.com
-DOMAIN,setmeup.arubanetworks.com
-DOMAIN,instant.arubanetworks.com
-DOMAIN-SUFFIX,routerlogin.com
-DOMAIN-SUFFIX,asusrouter.com
 DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,leaguehd.com
 DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,hddolby.com
-DOMAIN,console.gl-inet.com
 DOMAIN,hotspot.cslwifi.com
 DOMAIN-SUFFIX,cgpeers.com
 DOMAIN-SUFFIX,xunlei.com
@@ -148,8 +152,6 @@ DOMAIN-SUFFIX,hitpt.com
 DOMAIN-SUFFIX,hdupt.com
 DOMAIN-SUFFIX,dxdhd.com
 DOMAIN,captive.apple.com
-DOMAIN,repeater.asus.com
-DOMAIN,router.asus.com
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,hdbd.us
@@ -171,7 +173,6 @@ DOMAIN-SUFFIX,anthelion.me
 DOMAIN-SUFFIX,oppaiti.me
 DOMAIN-SUFFIX,hdzone.me
 DOMAIN-SUFFIX,hdsky.me
-DOMAIN,aterm.me
 DOMAIN-SUFFIX,lztr.me
 DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,filelist.io
@@ -180,7 +181,6 @@ DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,hdarea.co
-DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,bt.neu6.edu.cn
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,securelogin.com.cn
