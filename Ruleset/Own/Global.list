@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 115
-# DOMAIN-SUFFIX: 31364
+# DOMAIN-SUFFIX: 31367
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31693
-# UPDATED: 2025-02-28 14:32:03
+# TOTAL: 31696
+# UPDATED: 2025-02-28 20:45:09
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7188,14 +7188,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-02-28 02:12:51
+# UPDATED: 2025-03-01 02:12:43
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31012
+# DOMAIN-SUFFIX: 31015
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31308
+# TOTAL: 31311
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -22570,6 +22570,7 @@ DOMAIN-SUFFIX,netarabic.com
 DOMAIN-SUFFIX,netcup-news.de
 DOMAIN-SUFFIX,netcup-sonderangebote.de
 DOMAIN-SUFFIX,netcup-wiki.de
+DOMAIN-SUFFIX,netcup.cafe
 DOMAIN-SUFFIX,netcup.com
 DOMAIN-SUFFIX,netcup.de
 DOMAIN-SUFFIX,netcup.eu
@@ -28653,7 +28654,9 @@ DOMAIN-SUFFIX,tubev.pro
 DOMAIN-SUFFIX,tubev.sex
 DOMAIN-SUFFIX,tubevintageporn.com
 DOMAIN-SUFFIX,tubexclips.com
+DOMAIN-SUFFIX,tubi.io
 DOMAIN-SUFFIX,tubinge.com
+DOMAIN-SUFFIX,tubitv.com
 DOMAIN-SUFFIX,tubous.com
 DOMAIN-SUFFIX,tubsexer.com
 DOMAIN-SUFFIX,tubxporn.com
