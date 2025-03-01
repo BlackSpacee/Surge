@@ -2,13 +2,13 @@
 # AND: 1
 # DOMAIN: 466
 # DOMAIN-SUFFIX: 6430
-# DOMAIN-KEYWORD: 80
+# DOMAIN-KEYWORD: 82
 # IP-CIDR: 41
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 2
-# TOTAL: 7025
-# UPDATED: 2025-03-01 14:31:22
+# TOTAL: 7027
+# UPDATED: 2025-03-01 20:41:20
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1489,8 +1489,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-02-06T14:31:09.421Z
-# Size: 185
+# Last Updated: 2025-03-01T16:54:11.412Z
+# Size: 187
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1612,6 +1612,8 @@ DOMAIN-KEYWORD,appsflyer
 DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,marketing.net
 DOMAIN-KEYWORD,adktrack
+DOMAIN-KEYWORD,track.msadcenter
+DOMAIN-KEYWORD,dc.pimentaafricana
 DOMAIN-KEYWORD,_vmind.qqvideo.tc.qq.com
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com

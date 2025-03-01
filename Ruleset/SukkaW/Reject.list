@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-02-06T14:31:09.421Z
-# Size: 185
+# Last Updated: 2025-03-01T16:54:11.412Z
+# Size: 187
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -130,6 +130,8 @@ DOMAIN-KEYWORD,appsflyer
 DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,marketing.net
 DOMAIN-KEYWORD,adktrack
+DOMAIN-KEYWORD,track.msadcenter
+DOMAIN-KEYWORD,dc.pimentaafricana
 DOMAIN-KEYWORD,_vmind.qqvideo.tc.qq.com
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com
