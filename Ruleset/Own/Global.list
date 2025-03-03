@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 115
-# DOMAIN-SUFFIX: 31368
+# DOMAIN-SUFFIX: 31389
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31697
-# UPDATED: 2025-03-03 14:33:55
+# TOTAL: 31718
+# UPDATED: 2025-03-03 20:47:26
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6689,14 +6689,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-02 02:11:45
+# UPDATED: 2025-03-04 02:13:27
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6057
+# DOMAIN-SUFFIX: 6080
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6199
+# TOTAL: 6222
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6713,6 +6713,7 @@ DOMAIN-SUFFIX,611study.icu
 DOMAIN-SUFFIX,6do.world
 DOMAIN-SUFFIX,abebooks.co.uk
 DOMAIN-SUFFIX,abpchina.org
+DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
@@ -6729,6 +6730,7 @@ DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,androidapksfree.com
+DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.linksalpha.com
@@ -6749,6 +6751,7 @@ DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,b.hatena.ne.jp
 DOMAIN-SUFFIX,bandisoft.com
+DOMAIN-SUFFIX,bangumi.moe
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,bbs.nyinfor.com
@@ -6767,6 +6770,7 @@ DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,blogsmithmedia.com
 DOMAIN-SUFFIX,bmdru.com
 DOMAIN-SUFFIX,bookwalker.com.tw
+DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,br.hao123.com
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,bsky.network
@@ -6784,6 +6788,7 @@ DOMAIN-SUFFIX,chanworld.org
 DOMAIN-SUFFIX,chaos.social
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,chinademocrats.org
+DOMAIN-SUFFIX,ci-en.jp
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,clien.net
 DOMAIN-SUFFIX,cloud.cupronickel.goog
@@ -6822,6 +6827,7 @@ DOMAIN-SUFFIX,dma.mil
 DOMAIN-SUFFIX,dnsimple.com
 DOMAIN-SUFFIX,dockerhub.com
 DOMAIN-SUFFIX,docs.new
+DOMAIN-SUFFIX,doosho.com
 DOMAIN-SUFFIX,doourbest.org
 DOMAIN-SUFFIX,droplr.com
 DOMAIN-SUFFIX,dueapp.com
@@ -6845,6 +6851,7 @@ DOMAIN-SUFFIX,flexibits.com
 DOMAIN-SUFFIX,flowhongkong.net
 DOMAIN-SUFFIX,fountmedia.io
 DOMAIN-SUFFIX,frank2019.me
+DOMAIN-SUFFIX,free.bg
 DOMAIN-SUFFIX,freeopenproxy.com
 DOMAIN-SUFFIX,freezhihu.org
 DOMAIN-SUFFIX,fubo.tv
@@ -6875,8 +6882,10 @@ DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,hicairo.com
 DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,hk.hao123img.com
+DOMAIN-SUFFIX,hole.thu.monster
 DOMAIN-SUFFIX,home.sina.com
 DOMAIN-SUFFIX,hotbak.net
+DOMAIN-SUFFIX,hoy.tv
 DOMAIN-SUFFIX,hpjav.com
 DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,hsex.men
@@ -6916,6 +6925,7 @@ DOMAIN-SUFFIX,justgetflux.com
 DOMAIN-SUFFIX,kat.cr
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,kindle4rss.com
+DOMAIN-SUFFIX,kpkuang.org
 DOMAIN-SUFFIX,krypt.com
 DOMAIN-SUFFIX,kuaichedao.co
 DOMAIN-SUFFIX,kzaobao.com
@@ -6940,6 +6950,7 @@ DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,mailfence.com
 DOMAIN-SUFFIX,main-ecnpaper-economist.content.pugpig.com
+DOMAIN-SUFFIX,mangabz.com
 DOMAIN-SUFFIX,mangaup.jp
 DOMAIN-SUFFIX,mangmang.run
 DOMAIN-SUFFIX,manhuaren.com
@@ -6972,6 +6983,7 @@ DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,netmarble.com
 DOMAIN-SUFFIX,news1.kr
+DOMAIN-SUFFIX,newthuhole.com
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,nih.gov
 DOMAIN-SUFFIX,nikonpc.com
@@ -6991,12 +7003,15 @@ DOMAIN-SUFFIX,ouo.io
 DOMAIN-SUFFIX,pacom.mil
 DOMAIN-SUFFIX,paddle.com
 DOMAIN-SUFFIX,paddleapi.com
+DOMAIN-SUFFIX,paimon.moe
 DOMAIN-SUFFIX,paoluz.com
 DOMAIN-SUFFIX,paoluz.link
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,patreonusercontent.com
 DOMAIN-SUFFIX,pcgamestorrents.com
 DOMAIN-SUFFIX,pdfexpert.com
+DOMAIN-SUFFIX,pendrivelinux.com
+DOMAIN-SUFFIX,photonmedia.net
 DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,picuki.com
 DOMAIN-SUFFIX,pigav.com
@@ -7004,10 +7019,12 @@ DOMAIN-SUFFIX,pinboard.in
 DOMAIN-SUFFIX,pixelmator.com
 DOMAIN-SUFFIX,pixivsketch.net
 DOMAIN-SUFFIX,pkqjiasu.com
+DOMAIN-SUFFIX,pkuanvil.com
 DOMAIN-SUFFIX,play-asia.com
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,points-media.com
 DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,popai.pro
 DOMAIN-SUFFIX,pp.ua
@@ -7055,6 +7072,7 @@ DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,syosetu.com
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
 DOMAIN-SUFFIX,tbskkinabalu.page.tl
@@ -7065,9 +7083,11 @@ DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,textnow.com
 DOMAIN-SUFFIX,tfc-taiwan.org.tw
 DOMAIN-SUFFIX,th.hao123.com
+DOMAIN-SUFFIX,thechasernews.co.uk
 DOMAIN-SUFFIX,thehindu.com
 DOMAIN-SUFFIX,thewirechina.com
 DOMAIN-SUFFIX,thirdmill.org
+DOMAIN-SUFFIX,thuhole.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,timeinc.net
@@ -7131,8 +7151,10 @@ DOMAIN-SUFFIX,waybig.com
 DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,weebly.com
 DOMAIN-SUFFIX,whats.new
+DOMAIN-SUFFIX,wiki.metacubex.one
 DOMAIN-SUFFIX,wikileaks.info
 DOMAIN-SUFFIX,wikiunblocked.org
+DOMAIN-SUFFIX,wilsoncenter.org
 DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,wr.pvp.net
@@ -7190,14 +7212,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-03-02 02:11:27
+# UPDATED: 2025-03-04 02:13:08
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31015
+# DOMAIN-SUFFIX: 31036
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31311
+# TOTAL: 31332
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -11251,7 +11273,6 @@ DOMAIN-SUFFIX,boomba.club
 DOMAIN-SUFFIX,boomerang.com
 DOMAIN-SUFFIX,boomtrain.com
 DOMAIN-SUFFIX,booru.org
-DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,bootyliciousmag.com
 DOMAIN-SUFFIX,bootysource.com
 DOMAIN-SUFFIX,bopcris.ac.uk
@@ -11345,6 +11366,7 @@ DOMAIN-SUFFIX,bravoerotica.com
 DOMAIN-SUFFIX,bravoporn.com
 DOMAIN-SUFFIX,bravoteens.com
 DOMAIN-SUFFIX,bravotube.tv
+DOMAIN-SUFFIX,brawlstarsgame.com
 DOMAIN-SUFFIX,brazilpartneruniversity.com
 DOMAIN-SUFFIX,brazzer.com
 DOMAIN-SUFFIX,brazzers-porno.online
@@ -12417,7 +12439,6 @@ DOMAIN-SUFFIX,chutuno.fun
 DOMAIN-SUFFIX,chuzs2.xyz
 DOMAIN-SUFFIX,chwr7s8u.com
 DOMAIN-SUFFIX,chyoa.com
-DOMAIN-SUFFIX,ci-en.jp
 DOMAIN-SUFFIX,ci-en.net
 DOMAIN-SUFFIX,cia.ac.uk
 DOMAIN-SUFFIX,cias.ac.uk
@@ -13013,6 +13034,7 @@ DOMAIN-SUFFIX,crucible-cetl.ac.uk
 DOMAIN-SUFFIX,cruel-furies.com
 DOMAIN-SUFFIX,cruisse.ac.uk
 DOMAIN-SUFFIX,crustwebsites.net
+DOMAIN-SUFFIX,cryptomus.com
 DOMAIN-SUFFIX,crypton.co.jp
 DOMAIN-SUFFIX,crysis.jp
 DOMAIN-SUFFIX,crystalgunnsworld.com
@@ -27819,7 +27841,6 @@ DOMAIN-SUFFIX,synologydownload.com
 DOMAIN-SUFFIX,synologyupdate.com
 DOMAIN-SUFFIX,synsym.ac.uk
 DOMAIN-SUFFIX,syntheticbiology.ac.uk
-DOMAIN-SUFFIX,syosetu.com
 DOMAIN-SUFFIX,sysinternals.com
 DOMAIN-SUFFIX,sysmic.ac.uk
 DOMAIN-SUFFIX,systemicrisk.ac.uk
