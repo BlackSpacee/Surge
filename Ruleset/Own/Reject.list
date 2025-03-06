@@ -3,12 +3,12 @@
 # DOMAIN: 466
 # DOMAIN-SUFFIX: 6430
 # DOMAIN-KEYWORD: 84
-# IP-CIDR: 41
+# IP-CIDR: 42
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 2
-# TOTAL: 7029
-# UPDATED: 2025-03-06 14:32:36
+# TOTAL: 7030
+# UPDATED: 2025-03-06 20:47:25
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1489,8 +1489,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-03-02T08:03:40.393Z
-# Size: 189
+# Last Updated: 2025-03-06T14:03:15.600Z
+# Size: 191
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1669,7 +1669,8 @@ IP-CIDR,119.29.29.98/31,no-resolve
 IP-CIDR,123.151.54.50/32,no-resolve
 IP-CIDR,182.254.116.117/32,no-resolve
 IP-CIDR,182.254.118.119/32,no-resolve
-IP-CIDR,186.76.76.200/32,no-resolve
+IP-CIDR,202.90.108.13/32,no-resolve
+IP-CIDR,202.90.110.46/32,no-resolve
 IP-CIDR,203.107.1.0/24,no-resolve
 IP-CIDR,203.119.204.66/32,no-resolve
 IP-CIDR,203.119.238.194/32,no-resolve

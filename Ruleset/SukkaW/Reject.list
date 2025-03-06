@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-03-02T08:03:40.393Z
-# Size: 189
+# Last Updated: 2025-03-06T14:03:15.600Z
+# Size: 191
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -187,9 +187,11 @@ IP-CIDR,115.236.121.195/32,no-resolve
 IP-CIDR,118.89.204.198/32,no-resolve
 IP-CIDR,119.29.29.98/31,no-resolve
 IP-CIDR,123.151.54.50/32,no-resolve
+IP-CIDR,180.76.76.200/32,no-resolve
 IP-CIDR,182.254.116.117/32,no-resolve
 IP-CIDR,182.254.118.119/32,no-resolve
-IP-CIDR,186.76.76.200/32,no-resolve
+IP-CIDR,202.90.108.13/32,no-resolve
+IP-CIDR,202.90.110.46/32,no-resolve
 IP-CIDR,203.107.1.0/24,no-resolve
 IP-CIDR,203.119.204.66/32,no-resolve
 IP-CIDR,203.119.238.194/32,no-resolve
