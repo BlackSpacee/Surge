@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 115
-# DOMAIN-SUFFIX: 31553
+# DOMAIN-SUFFIX: 31554
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31882
-# UPDATED: 2025-03-09 14:25:26
+# TOTAL: 31883
+# UPDATED: 2025-03-09 20:33:44
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6691,14 +6691,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-09 02:11:23
+# UPDATED: 2025-03-10 02:11:41
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6248
+# DOMAIN-SUFFIX: 6250
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6390
+# TOTAL: 6392
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7067,6 +7067,7 @@ DOMAIN-SUFFIX,moresci.sale
 DOMAIN-SUFFIX,moves-export.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,mstdn.social
+DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,mx.hao123.com
 DOMAIN-SUFFIX,myfontastic.com
 DOMAIN-SUFFIX,myjs.tw
@@ -7251,6 +7252,7 @@ DOMAIN-SUFFIX,tumblr.co
 DOMAIN-SUFFIX,tunein.streamguys1.com
 DOMAIN-SUFFIX,tw.hao123.com
 DOMAIN-SUFFIX,tweetmarker.net
+DOMAIN-SUFFIX,twkan.com
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,typcn.com
@@ -7376,14 +7378,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-03-09 02:11:04
+# UPDATED: 2025-03-10 02:11:22
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31196
+# DOMAIN-SUFFIX: 31197
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31492
+# TOTAL: 31493
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -22264,7 +22266,6 @@ DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,musiche.ac.uk
 DOMAIN-SUFFIX,musickit.net
 DOMAIN-SUFFIX,musiconline.ac.uk
-DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,muslimcollege.ac.uk
 DOMAIN-SUFFIX,mut.ch
 DOMAIN-SUFFIX,muthead.com
