@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/fenliu.list
 #!tg-group=https://t.me/lanjieguanggao
-#!date=2024-10-18 23:10:00
+#!date=2025-03-10 11:10:00
 #!support=约9392行
 #!proxy-select=reject
 #############################################
@@ -968,6 +968,10 @@ DOMAIN-SUFFIX,android.rqd.qq.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,v.gdt.qq.com
+DOMAIN,amsweb-cdn-gz-1258344696.file.myqcloud.com
+DOMAIN,wallpaper-1258344696.file.myqcloud.com
+DOMAIN,xs.gdt.qq.com
+IP-CIDR,120.222.240.171/32,no-resolve
 
 # > 蜻蜓FM
 DOMAIN,ad.qingting.fm
@@ -1573,6 +1577,7 @@ DOMAIN,cm-10-138.getui.com
 DOMAIN,sdk.open.talk.getui.net
 DOMAIN,sdk-conf.getui.com
 DOMAIN,switch.cup.com.cn
+DOMAIN,ads.cup.com.cn
 
 # > 雅虎
 DOMAIN-SUFFIX,adserver.yahoo.com
@@ -1586,12 +1591,27 @@ DOMAIN,ads.yahoo.com
 DOMAIN,ads.yahoo.de
 
 # > 优酷
+DOMAIN-SUFFIX,sm.cn
+DOMAIN-SUFFIX,acz.youku.com
+DOMAIN-SUFFIX,adx-core.youku.com
+DOMAIN-SUFFIX,adx-open-service.youku.com
+DOMAIN-SUFFIX,rhdc-acs.youku.com
+DOMAIN-SUFFIX,partner.uc.cn
+DOMAIN-SUFFIX,ubixioe.com
+DOMAIN-SUFFIX,uczzd.cn
+DOMAIN-SUFFIX,ranfenghd.com
+DOMAIN-SUFFIX,zconfig.alibabausercontent.com
+DOMAIN-SUFFIX,bgg.baidu.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,sdk.e.qq.com
+DOMAIN-SUFFIX,mazu.m.qq.com
+DOMAIN-SUFFIX,snowflake.qq.com
+DOMAIN-SUFFIX,cad.youku.com
+DOMAIN-SUFFIX,sjarvis.taobao.com
 DOMAIN,adsmind.ugdtimg.com
 DOMAIN,amdc.m.youku.com
 DOMAIN,apiv4-iyes.youku.com
 DOMAIN,httpdns.alicdn.com
-DOMAIN,huichuan-mc.sm.cn
-DOMAIN,huichuan.sm.cn
 DOMAIN,iyes.youku.com
 DOMAIN,m-vali.cp31.ott.cibntv.net
 DOMAIN,mc.atm.youku.com
@@ -1644,6 +1664,7 @@ DOMAIN-SUFFIX,val.api.youku.com
 DOMAIN-SUFFIX,wan.youku.com
 DOMAIN-SUFFIX,ykatr.youku.com
 DOMAIN-SUFFIX,ykrec.youku.com
+IP-CIDR,223.111.27.248/32,no-resolve
 
 # > 易车
 DOMAIN,adx.yiche.com
