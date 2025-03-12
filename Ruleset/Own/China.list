@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 117598
-# UPDATED: 2025-03-12 09:51:02
+# UPDATED: 2025-03-12 14:33:14
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,8 +244,8 @@ PROCESS-NAME,Logi Options Daemon
 ## JSTOR 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-03-10T06:40:05.928Z
-# Size: 780
+# Last Updated: 2025-03-12T07:02:06.804Z
+# Size: 781
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -718,6 +718,7 @@ DOMAIN-SUFFIX,yunos.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,yitao.com
+DOMAIN-SUFFIX,yicai.com
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,xiniu.com
@@ -4212,7 +4213,6 @@ DOMAIN-SUFFIX,yfdts.net
 DOMAIN-SUFFIX,yfp2p.net
 DOMAIN-SUFFIX,yfscdn.net
 DOMAIN-SUFFIX,yh31.com
-DOMAIN-SUFFIX,yicai.com
 DOMAIN-SUFFIX,yiche.com
 DOMAIN-SUFFIX,yigao.com
 DOMAIN-SUFFIX,yigoonet.com
