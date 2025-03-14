@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 115
-# DOMAIN-SUFFIX: 31555
+# DOMAIN-SUFFIX: 31563
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31884
-# UPDATED: 2025-03-14 14:32:26
+# TOTAL: 31892
+# UPDATED: 2025-03-14 20:45:18
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6693,14 +6693,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-10 02:11:41
+# UPDATED: 2025-03-15 02:13:11
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6250
+# DOMAIN-SUFFIX: 6261
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6392
+# TOTAL: 6403
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6711,6 +6711,7 @@ DOMAIN,login.microsoftonline.com
 DOMAIN,self.events.data.microsoft.com
 DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
+DOMAIN-SUFFIX,2047.one
 DOMAIN-SUFFIX,2049bbs.xyz
 DOMAIN-SUFFIX,500px.com
 DOMAIN-SUFFIX,500px.org
@@ -6769,6 +6770,7 @@ DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,bbs.nyinfor.com
 DOMAIN-SUFFIX,bbs.sina.com
+DOMAIN-SUFFIX,bearteach.com
 DOMAIN-SUFFIX,beepool.com
 DOMAIN-SUFFIX,beepool.org
 DOMAIN-SUFFIX,bestvpnforchina.net
@@ -6801,6 +6803,7 @@ DOMAIN-SUFFIX,btbtt.me
 DOMAIN-SUFFIX,btc.com
 DOMAIN-SUFFIX,btguard.com
 DOMAIN-SUFFIX,c3pool.com
+DOMAIN-SUFFIX,cachefly.com
 DOMAIN-SUFFIX,campaign-archive.com
 DOMAIN-SUFFIX,carousell.com.hk
 DOMAIN-SUFFIX,catbox.moe
@@ -6842,6 +6845,7 @@ DOMAIN-SUFFIX,crosswall.org
 DOMAIN-SUFFIX,cruxpool.com
 DOMAIN-SUFFIX,culturalspot.org
 DOMAIN-SUFFIX,culturedcode.com
+DOMAIN-SUFFIX,cutout.pro
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,d.cash
 DOMAIN-SUFFIX,d.pr
@@ -6890,9 +6894,9 @@ DOMAIN-SUFFIX,evernote.com
 DOMAIN-SUFFIX,exam.gov.tw
 DOMAIN-SUFFIX,ey.gov.tw
 DOMAIN-SUFFIX,fabric.io
+DOMAIN-SUFFIX,factchecklab.org
 DOMAIN-SUFFIX,fastgpt.run
 DOMAIN-SUFFIX,fastmail.com
-DOMAIN-SUFFIX,feedly.comfastgpt.run
 DOMAIN-SUFFIX,feedsportal.com
 DOMAIN-SUFFIX,fiftythree.com
 DOMAIN-SUFFIX,fireofliberty.info
@@ -6912,14 +6916,17 @@ DOMAIN-SUFFIX,freess.org
 DOMAIN-SUFFIX,freezhihu.org
 DOMAIN-SUFFIX,fril.jp
 DOMAIN-SUFFIX,froth.zone
+DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,fubo.tv
 DOMAIN-SUFFIX,fuchsia.dev
 DOMAIN-SUFFIX,fullservicegame.com
 DOMAIN-SUFFIX,fzlm.net
 DOMAIN-SUFFIX,gabia.net
+DOMAIN-SUFFIX,gdaily.org
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,getcloudapp.com
 DOMAIN-SUFFIX,getpricetag.com
+DOMAIN-SUFFIX,getsession.org
 DOMAIN-SUFFIX,gfwatch.org
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,ghcr.io
@@ -7078,6 +7085,7 @@ DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,nanopool.org
 DOMAIN-SUFFIX,nbyy.tv
 DOMAIN-SUFFIX,netdna-cdn.com
+DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,netmarble.com
 DOMAIN-SUFFIX,news1.kr
 DOMAIN-SUFFIX,newthuhole.com
@@ -7183,6 +7191,7 @@ DOMAIN-SUFFIX,snapseed.com
 DOMAIN-SUFFIX,social.datalabour.com
 DOMAIN-SUFFIX,social.edu.ci
 DOMAIN-SUFFIX,sosad.fun
+DOMAIN-SUFFIX,soundon.fm
 DOMAIN-SUFFIX,southmongolia.org
 DOMAIN-SUFFIX,sparkpool.com
 DOMAIN-SUFFIX,spatial.io
@@ -7219,6 +7228,7 @@ DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,textnow.com
 DOMAIN-SUFFIX,tfc-taiwan.org.tw
+DOMAIN-SUFFIX,tg-me.com
 DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,thechasernews.co.uk
 DOMAIN-SUFFIX,thehindu.com
@@ -7318,6 +7328,7 @@ DOMAIN-SUFFIX,wr.pvp.net
 DOMAIN-SUFFIX,wunderground.com
 DOMAIN-SUFFIX,www.linksalpha.com
 DOMAIN-SUFFIX,www.lorenzetti.com.br
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x3guide.com
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xeeno.com
@@ -7380,14 +7391,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-03-14 02:13:09
+# UPDATED: 2025-03-15 02:12:51
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31197
+# DOMAIN-SUFFIX: 31205
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31493
+# TOTAL: 31501
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -16359,7 +16370,6 @@ DOMAIN-SUFFIX,fsmone.com.my
 DOMAIN-SUFFIX,fssta.com
 DOMAIN-SUFFIX,fst.ac.uk
 DOMAIN-SUFFIX,fstopimages.com
-DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,ftadviser.com
 DOMAIN-SUFFIX,ftcdn.net
 DOMAIN-SUFFIX,fteproxy.org
@@ -22781,7 +22791,6 @@ DOMAIN-SUFFIX,netflixdnstest9.com
 DOMAIN-SUFFIX,netflixinvestor.com
 DOMAIN-SUFFIX,netflixtechblog.com
 DOMAIN-SUFFIX,netlab.ac.uk
-DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,netlifystatus.com
 DOMAIN-SUFFIX,netlock.hu
@@ -30734,7 +30743,6 @@ DOMAIN-SUFFIX,wzzyw.buzz
 DOMAIN-SUFFIX,x-artvideo.net
 DOMAIN-SUFFIX,x-caprice.com
 DOMAIN-SUFFIX,x-fetish.org
-DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.org
 DOMAIN-SUFFIX,x.team
 DOMAIN-SUFFIX,x0rd38.xyz
