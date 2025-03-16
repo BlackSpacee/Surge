@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 319
-# DOMAIN-SUFFIX: 97021
+# DOMAIN-SUFFIX: 97022
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8351
 # IP-CIDR6: 12203
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 118046
-# UPDATED: 2025-03-15 20:41:32
+# TOTAL: 118047
+# UPDATED: 2025-03-16 02:29:33
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,8 +244,8 @@ PROCESS-NAME,Logi Options Daemon
 ## JSTOR 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-03-12T07:02:06.804Z
-# Size: 781
+# Last Updated: 2025-03-15T19:30:46.501Z
+# Size: 782
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -890,6 +890,7 @@ DOMAIN-SUFFIX,douban.fm
 DOMAIN-SUFFIX,authing.co
 DOMAIN-SUFFIX,officewebapps.cn
 DOMAIN-SUFFIX,mobileservice.cn
+DOMAIN-SUFFIX,elseviercdn.cn
 DOMAIN-SUFFIX,cnspeedtest.cn
 DOMAIN-SUFFIX,chinaunicom.cn
 DOMAIN-SUFFIX,baishancdnx.cn
