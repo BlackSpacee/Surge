@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 115
-# DOMAIN-SUFFIX: 31501
+# DOMAIN-SUFFIX: 31503
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31830
-# UPDATED: 2025-03-17 14:34:03
+# TOTAL: 31832
+# UPDATED: 2025-03-17 20:49:48
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-03-17T09:22:02.696Z
-# Size: 762
+# Last Updated: 2025-03-17T14:23:05.007Z
+# Size: 765
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -133,6 +133,7 @@ DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,kde.org
 DOMAIN-SUFFIX,eu.org
+DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,azure-mobile.net
@@ -146,6 +147,7 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,pixelscan.net
+DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,eroterest.net
 DOMAIN-SUFFIX,bloomberg.net
@@ -212,6 +214,7 @@ DOMAIN-SUFFIX,returnyoutubedislikeapi.com
 DOMAIN-SUFFIX,privateinternetaccess.com
 DOMAIN-SUFFIX,returnyoutubedislike.com
 DOMAIN-SUFFIX,lineshoppingseller.com
+DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,chromeexperiments.com
@@ -6693,14 +6696,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-16 02:12:29
+# UPDATED: 2025-03-18 02:13:52
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6260
+# DOMAIN-SUFFIX: 6262
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6402
+# TOTAL: 6404
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6744,6 +6747,7 @@ DOMAIN-SUFFIX,androidapksfree.com
 DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,antpool.com
 DOMAIN-SUFFIX,aolcdn.com
+DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.linksalpha.com
 DOMAIN-SUFFIX,api.mixpanel.com
@@ -7143,6 +7147,7 @@ DOMAIN-SUFFIX,popai.pro
 DOMAIN-SUFFIX,potatso.com
 DOMAIN-SUFFIX,pp.ua
 DOMAIN-SUFFIX,ppy.sh
+DOMAIN-SUFFIX,prcleader.org
 DOMAIN-SUFFIX,presentation.new
 DOMAIN-SUFFIX,proxz.com
 DOMAIN-SUFFIX,ptwxz.com
@@ -7390,14 +7395,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-03-17 02:12:08
+# UPDATED: 2025-03-18 02:13:33
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31142
+# DOMAIN-SUFFIX: 31143
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31438
+# TOTAL: 31439
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -8949,7 +8954,6 @@ DOMAIN-SUFFIX,aoc.ac.uk
 DOMAIN-SUFFIX,aoc.cat
 DOMAIN-SUFFIX,aocc.ac.uk
 DOMAIN-SUFFIX,aokwholesale.net
-DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,aopcuk.ac.uk
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,aoxx69.net
@@ -21575,9 +21579,7 @@ DOMAIN-SUFFIX,mimizy-go.buzz
 DOMAIN-SUFFIX,minbrowser.org
 DOMAIN-SUFFIX,mindgeek.com
 DOMAIN-SUFFIX,mindmeld.com
-DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraft.wiki
-DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mineofinfo.ac.uk
 DOMAIN-SUFFIX,minerva.ac.uk
