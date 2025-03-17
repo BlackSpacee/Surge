@@ -2,13 +2,13 @@
 # AND: 1
 # DOMAIN: 467
 # DOMAIN-SUFFIX: 6430
-# DOMAIN-KEYWORD: 87
+# DOMAIN-KEYWORD: 92
 # IP-CIDR: 42
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 2
-# TOTAL: 7034
-# UPDATED: 2025-03-17 09:55:26
+# TOTAL: 7039
+# UPDATED: 2025-03-17 14:34:03
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1489,8 +1489,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-03-10T06:40:05.838Z
-# Size: 195
+# Last Updated: 2025-03-17T09:22:02.709Z
+# Size: 200
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1645,6 +1645,11 @@ DOMAIN-KEYWORD,wxsnsdy
 DOMAIN-KEYWORD,adwords
 DOMAIN-KEYWORD,-tracker.biliapi.net
 DOMAIN-KEYWORD,ad.ixigua.com
+DOMAIN-KEYWORD,trksvg.business.hsbc.
+DOMAIN-KEYWORD,trkgbm.business.hsbc.
+DOMAIN-KEYWORD,trkhinv.business.hsbc.
+DOMAIN-KEYWORD,trkcmb.business.hsbc.
+DOMAIN-KEYWORD,-analytics-events.apple.com
 DOMAIN-WILDCARD,f-log*.grammarly.io
 DOMAIN-WILDCARD,*.ad.*.prod.hosts.ooklaserver.net
 DOMAIN-WILDCARD,adv0*.msa.cdn.mediaset.net

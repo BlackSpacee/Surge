@@ -8,11 +8,11 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 118044
-# UPDATED: 2025-03-17 09:55:26
+# UPDATED: 2025-03-17 14:34:03
 
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2025-02-27T01:24:41.079Z
+# Last Updated: 2025-03-17T09:22:02.826Z
 # Size: 48
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -70,7 +70,6 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2025-02-06T14:31:09.079Z
 # Size: 217
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
@@ -244,7 +243,6 @@ PROCESS-NAME,Logi Options Daemon
 ## JSTOR 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-03-15T19:30:46.501Z
 # Size: 782
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
