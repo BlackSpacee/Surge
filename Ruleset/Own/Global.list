@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 115
-# DOMAIN-SUFFIX: 31499
+# DOMAIN-SUFFIX: 31498
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31828
-# UPDATED: 2025-03-21 14:34:27
+# TOTAL: 31827
+# UPDATED: 2025-03-21 20:47:18
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-03-20T13:54:36.119Z
-# Size: 766
+# Last Updated: 2025-03-21T13:43:53.561Z
+# Size: 767
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,whispersystems.org
+DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,waveprotocol.org
@@ -7396,14 +7397,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-03-20 02:13:37
+# UPDATED: 2025-03-22 02:12:44
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31137
+# DOMAIN-SUFFIX: 31136
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31433
+# TOTAL: 31432
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -25107,7 +25108,6 @@ DOMAIN-SUFFIX,printspots.com
 DOMAIN-SUFFIX,printspots.net
 DOMAIN-SUFFIX,prioned.ac.uk
 DOMAIN-SUFFIX,prism.ac.uk
-DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,prismlive.com
 DOMAIN-SUFFIX,privacysandbox.com
 DOMAIN-SUFFIX,privacysimplified.com
@@ -30954,7 +30954,6 @@ DOMAIN-SUFFIX,xtegvk.xyz
 DOMAIN-SUFFIX,xtracloud.net
 DOMAIN-SUFFIX,xtubebdsm.com
 DOMAIN-SUFFIX,xtubezoo.com
-DOMAIN-SUFFIX,xu97.vip
 DOMAIN-SUFFIX,xujan.com
 DOMAIN-SUFFIX,xv1.monster
 DOMAIN-SUFFIX,xvds.tv
