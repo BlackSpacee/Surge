@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 115
-# DOMAIN-SUFFIX: 31498
+# DOMAIN-SUFFIX: 31499
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31827
-# UPDATED: 2025-03-22 14:30:55
+# TOTAL: 31828
+# UPDATED: 2025-03-22 20:41:53
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-03-21T13:43:53.561Z
-# Size: 767
+# Last Updated: 2025-03-22T16:30:01.569Z
+# Size: 769
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -126,9 +126,11 @@ DOMAIN-SUFFIX,afraid.org
 DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,scpdb.org
 DOMAIN-SUFFIX,pixiv.org
+DOMAIN-SUFFIX,icann.org
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,4chan.org
 DOMAIN-SUFFIX,ietf.org
+DOMAIN-SUFFIX,iana.org
 DOMAIN-SUFFIX,4cdn.org
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,npr.org
@@ -18301,7 +18303,6 @@ DOMAIN-SUFFIX,ials.ac.uk
 DOMAIN-SUFFIX,iamakamai.com
 DOMAIN-SUFFIX,iamakamai.net
 DOMAIN-SUFFIX,iamremarkable.org
-DOMAIN-SUFFIX,iana.org
 DOMAIN-SUFFIX,iapetus.ac.uk
 DOMAIN-SUFFIX,iapetus2.ac.uk
 DOMAIN-SUFFIX,iat.ac.uk
