@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 115
-# DOMAIN-SUFFIX: 31491
+# DOMAIN-SUFFIX: 31493
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31820
-# UPDATED: 2025-03-24 14:34:29
+# TOTAL: 31822
+# UPDATED: 2025-03-24 20:50:07
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -6700,14 +6700,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-24 02:12:41
+# UPDATED: 2025-03-25 02:13:45
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6263
+# DOMAIN-SUFFIX: 6267
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6405
+# TOTAL: 6409
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6841,6 +6841,7 @@ DOMAIN-SUFFIX,cmail19.com
 DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,cocoapods.org
 DOMAIN-SUFFIX,cofacts.tw
+DOMAIN-SUFFIX,coincarp.com
 DOMAIN-SUFFIX,colacloud.net
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,compose-spec.io
@@ -6931,6 +6932,7 @@ DOMAIN-SUFFIX,fullservicegame.com
 DOMAIN-SUFFIX,fzlm.net
 DOMAIN-SUFFIX,gabia.net
 DOMAIN-SUFFIX,gdaily.org
+DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,getcloudapp.com
 DOMAIN-SUFFIX,getpricetag.com
@@ -7110,6 +7112,7 @@ DOMAIN-SUFFIX,o3o.ca
 DOMAIN-SUFFIX,okpool.me
 DOMAIN-SUFFIX,olelive.com
 DOMAIN-SUFFIX,omnigroup.com
+DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onevps.com
 DOMAIN-SUFFIX,ooyala.com
@@ -7400,14 +7403,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-03-24 02:12:22
+# UPDATED: 2025-03-25 02:13:25
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31128
+# DOMAIN-SUFFIX: 31129
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31424
+# TOTAL: 31425
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -16641,7 +16644,6 @@ DOMAIN-SUFFIX,gelbooru.wjcodes.com
 DOMAIN-SUFFIX,gem.ac.uk
 DOMAIN-SUFFIX,gemfire.net
 DOMAIN-SUFFIX,gemfury.com
-DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,gen.lib.rus.ec
 DOMAIN-SUFFIX,gen2.ac.uk
 DOMAIN-SUFFIX,gendai.net
