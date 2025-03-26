@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 115
-# DOMAIN-SUFFIX: 31495
+# DOMAIN-SUFFIX: 31515
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31824
-# UPDATED: 2025-03-26 14:33:46
+# TOTAL: 31844
+# UPDATED: 2025-03-26 20:49:40
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-03-26T11:05:26.614Z
-# Size: 771
+# Last Updated: 2025-03-26T15:40:35.087Z
+# Size: 805
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -137,6 +137,7 @@ DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,kde.org
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,minecraftforum.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,azure-mobile.net
@@ -740,7 +741,40 @@ DOMAIN-SUFFIX,la
 DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,it
 DOMAIN-SUFFIX,is
-DOMAIN-SUFFIX,io
+DOMAIN-SUFFIX,azurecontainer.io
+DOMAIN-SUFFIX,codesandbox.io
+DOMAIN-SUFFIX,greenhouse.io
+DOMAIN-SUFFIX,globalping.io
+DOMAIN-SUFFIX,shattered.io
+DOMAIN-SUFFIX,grammarly.io
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,coveralls.io
+DOMAIN-SUFFIX,bitbucket.io
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,material.io
+DOMAIN-SUFFIX,urlscan.io
+DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,misskey.io
+DOMAIN-SUFFIX,codepen.io
+DOMAIN-SUFFIX,codecov.io
+DOMAIN-SUFFIX,apernet.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,short.io
+DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,cuty.io
+DOMAIN-SUFFIX,cdpn.io
+DOMAIN-SUFFIX,shw.io
+DOMAIN-SUFFIX,npm.io
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,in
 DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,imo.im
@@ -2223,7 +2257,6 @@ DOMAIN-SUFFIX,etadult.com
 DOMAIN-SUFFIX,etaiwannews.com
 DOMAIN-SUFFIX,etherdelta.com
 DOMAIN-SUFFIX,ethermine.org
-DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,etizer.org
 DOMAIN-SUFFIX,etokki.com
 DOMAIN-SUFFIX,etowns.net
@@ -2576,7 +2609,6 @@ DOMAIN-SUFFIX,gardennetworks.com
 DOMAIN-SUFFIX,gardennetworks.org
 DOMAIN-SUFFIX,gartlive.com
 DOMAIN-SUFFIX,gate-project.com
-DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,gatecoin.com
 DOMAIN-SUFFIX,gather.com
 DOMAIN-SUFFIX,gatherproxy.com
@@ -2594,7 +2626,6 @@ DOMAIN-SUFFIX,gclooney.com
 DOMAIN-SUFFIX,gclubs.com
 DOMAIN-SUFFIX,gcmasia.com
 DOMAIN-SUFFIX,gcpnews.com
-DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gdbt.net
 DOMAIN-SUFFIX,gdzf.org
 DOMAIN-SUFFIX,geek-art.net
@@ -2622,7 +2653,6 @@ DOMAIN-SUFFIX,getiton.com
 DOMAIN-SUFFIX,getjetso.com
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getmalus.com
-DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getsocialscope.com
 DOMAIN-SUFFIX,getsync.com
 DOMAIN-SUFFIX,gettr.com
@@ -2645,11 +2675,9 @@ DOMAIN-SUFFIX,gigacircle.com
 DOMAIN-SUFFIX,giganews.com
 DOMAIN-SUFFIX,gigporno.ru
 DOMAIN-SUFFIX,girlbanker.com
-DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitbooks.io
 DOMAIN-SUFFIX,githack.com
 DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,gizlen.net
 DOMAIN-SUFFIX,gjczz.com
 DOMAIN-SUFFIX,glass8.eu
@@ -3396,7 +3424,6 @@ DOMAIN-SUFFIX,iownyour.biz
 DOMAIN-SUFFIX,iownyour.org
 DOMAIN-SUFFIX,ipalter.com
 DOMAIN-SUFFIX,ipfire.org
-DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,iphone4hongkong.com
 DOMAIN-SUFFIX,iphonehacks.com
 DOMAIN-SUFFIX,iphonetaiwan.org
@@ -3868,7 +3895,6 @@ DOMAIN-SUFFIX,mastodon.host
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,mastodon.xyz
 DOMAIN-SUFFIX,matainja.com
-DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,mathable.io
 DOMAIN-SUFFIX,mathiew-badimon.com
 DOMAIN-SUFFIX,matome-plus.com
@@ -3895,7 +3921,6 @@ DOMAIN-SUFFIX,mefeedia.com
 DOMAIN-SUFFIX,meforum.org
 DOMAIN-SUFFIX,mefound.com
 DOMAIN-SUFFIX,mega.co.nz
-DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,megaproxy.com
 DOMAIN-SUFFIX,megarotic.com
@@ -4415,7 +4440,6 @@ DOMAIN-SUFFIX,opendn.xyz
 DOMAIN-SUFFIX,openervpn.in
 DOMAIN-SUFFIX,openid.net
 DOMAIN-SUFFIX,openleaks.org
-DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,opensource.google
 DOMAIN-SUFFIX,opentech.fund
 DOMAIN-SUFFIX,openvpn.net
@@ -5031,7 +5055,6 @@ DOMAIN-SUFFIX,sharpdaily.com.hk
 DOMAIN-SUFFIX,sharpdaily.hk
 DOMAIN-SUFFIX,sharpdaily.tw
 DOMAIN-SUFFIX,shat-tibet.com
-DOMAIN-SUFFIX,shattered.io
 DOMAIN-SUFFIX,sheikyermami.com
 DOMAIN-SUFFIX,shellfire.de
 DOMAIN-SUFFIX,shemalez.com
@@ -6527,7 +6550,6 @@ DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,elastic.co
 DOMAIN-SUFFIX,elastic.com
-DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,jitpack.io
 DOMAIN-SUFFIX,maven.org
 DOMAIN-SUFFIX,mvnrepository.com
@@ -7405,14 +7427,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-03-26 02:13:19
+# UPDATED: 2025-03-27 02:13:39
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31129
+# DOMAIN-SUFFIX: 31130
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31425
+# TOTAL: 31426
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -9005,6 +9027,7 @@ DOMAIN-SUFFIX,apollocrewe.ac.uk
 DOMAIN-SUFFIX,apornotube.net
 DOMAIN-SUFFIX,aporntv.com
 DOMAIN-SUFFIX,apornvideo.com
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-dynamics.com
 DOMAIN-SUFFIX,app-measurement-cn.com
 DOMAIN-SUFFIX,app-store.wang
@@ -9901,7 +9924,6 @@ DOMAIN-SUFFIX,azure-test.net
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azurecomcdn.net
 DOMAIN-SUFFIX,azurecomm.net
-DOMAIN-SUFFIX,azurecontainer.io
 DOMAIN-SUFFIX,azurecosmos.net
 DOMAIN-SUFFIX,azurecosmosdb.com
 DOMAIN-SUFFIX,azurecosmosdb.info
@@ -10772,7 +10794,6 @@ DOMAIN-SUFFIX,bisq.network
 DOMAIN-SUFFIX,bisyoujyogyaruge.topaz.ne.jp
 DOMAIN-SUFFIX,bitballoon.com
 DOMAIN-SUFFIX,bitbank.cc
-DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bitchesgirls.com
 DOMAIN-SUFFIX,bitchmomporn.com
 DOMAIN-SUFFIX,bitcoin.org
@@ -21855,7 +21876,6 @@ DOMAIN-SUFFIX,misskey.design
 DOMAIN-SUFFIX,misskey.flowers
 DOMAIN-SUFFIX,misskey.gamelore.fun
 DOMAIN-SUFFIX,misskey.gg
-DOMAIN-SUFFIX,misskey.io
 DOMAIN-SUFFIX,misskey.noellabo.jp
 DOMAIN-SUFFIX,misskey.ranranhome.info
 DOMAIN-SUFFIX,misskey.stream

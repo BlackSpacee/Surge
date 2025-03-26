@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2025-03-17T09:22:02.826Z
-# Size: 217
+# Last Updated: 2025-03-26T15:40:35.208Z
+# Size: 218
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -183,6 +183,8 @@ DOMAIN-KEYWORD,sciencedirect
 DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,deepdyve
 DOMAIN-KEYWORD,els-cdn
+DOMAIN-WILDCARD,2?.172.in-addr.arpa
+DOMAIN-WILDCARD,*.2?.172.in-addr.arpa
 USER-AGENT,%E8%BF%85%E9%9B%B7
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
@@ -224,5 +226,4 @@ PROCESS-NAME,Logi Options Daemon
 ## Elsevier 旗下
 ## Oxford 出版系列
 ## Springer 旗下
-## JSTOR 旗下
 ################## EOF ##################

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-03-26T11:05:26.614Z
-# Size: 771
+# Last Updated: 2025-03-26T15:40:35.087Z
+# Size: 805
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -127,6 +127,7 @@ DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,kde.org
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,minecraftforum.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,azure-mobile.net
@@ -730,7 +731,40 @@ DOMAIN-SUFFIX,la
 DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,it
 DOMAIN-SUFFIX,is
-DOMAIN-SUFFIX,io
+DOMAIN-SUFFIX,azurecontainer.io
+DOMAIN-SUFFIX,codesandbox.io
+DOMAIN-SUFFIX,greenhouse.io
+DOMAIN-SUFFIX,globalping.io
+DOMAIN-SUFFIX,shattered.io
+DOMAIN-SUFFIX,grammarly.io
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,coveralls.io
+DOMAIN-SUFFIX,bitbucket.io
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,material.io
+DOMAIN-SUFFIX,urlscan.io
+DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,misskey.io
+DOMAIN-SUFFIX,codepen.io
+DOMAIN-SUFFIX,codecov.io
+DOMAIN-SUFFIX,apernet.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,short.io
+DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,cuty.io
+DOMAIN-SUFFIX,cdpn.io
+DOMAIN-SUFFIX,shw.io
+DOMAIN-SUFFIX,npm.io
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,in
 DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,imo.im
