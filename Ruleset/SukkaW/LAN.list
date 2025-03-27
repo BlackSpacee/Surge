@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2025-03-26T15:40:35.208Z
-# Size: 50
+# Last Updated: 2025-03-27T01:25:11.139Z
+# Size: 48
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -56,6 +56,4 @@ DOMAIN,repeater.asus.com
 DOMAIN,router.asus.com
 DOMAIN,aterm.me
 DOMAIN-SUFFIX,tplogin.cn
-DOMAIN-WILDCARD,2?.172.in-addr.arpa
-DOMAIN-WILDCARD,*.2?.172.in-addr.arpa
 ################## EOF ##################

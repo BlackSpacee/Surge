@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 115
-# DOMAIN-SUFFIX: 31515
+# DOMAIN-SUFFIX: 31530
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31844
-# UPDATED: 2025-03-26 20:49:40
+# TOTAL: 31859
+# UPDATED: 2025-03-27 02:33:28
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-03-26T15:40:35.087Z
-# Size: 805
+# Last Updated: 2025-03-27T01:25:10.993Z
+# Size: 825
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -42,7 +42,7 @@ DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,privacytest.info
 DOMAIN-SUFFIX,dns-check.info
 DOMAIN-SUFFIX,justdns.info
-DOMAIN-SUFFIX,jav.guru
+DOMAIN-SUFFIX,guru
 DOMAIN-SUFFIX,goog
 DOMAIN-SUFFIX,sfmcompile.club
 DOMAIN-SUFFIX,cafe
@@ -154,6 +154,7 @@ DOMAIN-SUFFIX,pixelscan.net
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,eroterest.net
+DOMAIN-SUFFIX,dialgrams.net
 DOMAIN-SUFFIX,bloomberg.net
 DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,turbobit.net
@@ -506,6 +507,7 @@ DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,tindie.com
 DOMAIN-SUFFIX,thisav.com
+DOMAIN-SUFFIX,tgstat.com
 DOMAIN-SUFFIX,talkcc.com
 DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,strava.com
@@ -622,6 +624,7 @@ DOMAIN,ccmdl.adobe.com
 DOMAIN-SUFFIX,3movs.com
 DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xing.com
+DOMAIN-SUFFIX,vjav.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN,help.ubnt.com
 DOMAIN-SUFFIX,time.com
@@ -742,7 +745,14 @@ DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,it
 DOMAIN-SUFFIX,is
 DOMAIN-SUFFIX,azurecontainer.io
+DOMAIN-SUFFIX,cla-assistant.io
+DOMAIN-SUFFIX,ubuntu-touch.io
+DOMAIN-SUFFIX,readthedocs.io
+DOMAIN-SUFFIX,explainthis.io
 DOMAIN-SUFFIX,codesandbox.io
+DOMAIN-SUFFIX,adguard-dns.io
+DOMAIN-SUFFIX,statuspage.io
+DOMAIN-SUFFIX,prometheus.io
 DOMAIN-SUFFIX,greenhouse.io
 DOMAIN-SUFFIX,globalping.io
 DOMAIN-SUFFIX,shattered.io
@@ -752,27 +762,37 @@ DOMAIN-SUFFIX,coveralls.io
 DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,material.io
+DOMAIN-SUFFIX,imagekit.io
 DOMAIN-SUFFIX,urlscan.io
 DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,nextdns.io
 DOMAIN-SUFFIX,misskey.io
+DOMAIN-SUFFIX,holopin.io
+DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,codepen.io
 DOMAIN-SUFFIX,codecov.io
 DOMAIN-SUFFIX,apernet.io
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,prisma.io
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,fydeos.io
 DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,short.io
+DOMAIN-SUFFIX,logto.io
+DOMAIN-SUFFIX,airav.io
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,draw.io
 DOMAIN-SUFFIX,cuty.io
 DOMAIN-SUFFIX,cdpn.io
 DOMAIN-SUFFIX,shw.io
 DOMAIN-SUFFIX,npm.io
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,fly.io
 DOMAIN-SUFFIX,cnn.io
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,in
@@ -6006,7 +6026,6 @@ DOMAIN-SUFFIX,vivahentai4u.net
 DOMAIN-SUFFIX,vivatube.com
 DOMAIN-SUFFIX,vivthomas.com
 DOMAIN-SUFFIX,vizvaz.com
-DOMAIN-SUFFIX,vjav.com
 DOMAIN-SUFFIX,vjmedia.com.hk
 DOMAIN-SUFFIX,vllcs.org
 DOMAIN-SUFFIX,vmixcore.com
@@ -6966,7 +6985,6 @@ DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,ghostnoteapp.com
 DOMAIN-SUFFIX,gitbook.com
-DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,glarity.app
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,gmauthority.com
@@ -8182,7 +8200,6 @@ DOMAIN-SUFFIX,adelaidenow.com.au
 DOMAIN-SUFFIX,adeptt.ac.uk
 DOMAIN-SUFFIX,adgoogle.net
 DOMAIN-SUFFIX,adguard-dns.com
-DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN-SUFFIX,adguard-mail.com
 DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,adguard-vpn.online
@@ -19422,6 +19439,7 @@ DOMAIN-SUFFIX,jav-subtitles.com
 DOMAIN-SUFFIX,jav-vr.net
 DOMAIN-SUFFIX,jav.dog
 DOMAIN-SUFFIX,jav.gallery
+DOMAIN-SUFFIX,jav.guru
 DOMAIN-SUFFIX,jav.la
 DOMAIN-SUFFIX,jav.land
 DOMAIN-SUFFIX,jav.place
@@ -25577,7 +25595,6 @@ DOMAIN-SUFFIX,reading.ac.uk
 DOMAIN-SUFFIX,readingosi.ac.uk
 DOMAIN-SUFFIX,readthedocs-hosted.com
 DOMAIN-SUFFIX,readthedocs.com
-DOMAIN-SUFFIX,readthedocs.io
 DOMAIN-SUFFIX,readthedocs.org
 DOMAIN-SUFFIX,readyatdawn.com
 DOMAIN-SUFFIX,readytoresearch.ac.uk
@@ -27572,7 +27589,6 @@ DOMAIN-SUFFIX,static9.net.au
 DOMAIN-SUFFIX,statistics.ac.uk
 DOMAIN-SUFFIX,statsmakemecry.com
 DOMAIN-SUFFIX,statstutor.ac.uk
-DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,staugustinescollege.ac.uk
 DOMAIN-SUFFIX,staxus.com
 DOMAIN-SUFFIX,stbr.ac.uk
@@ -28943,7 +28959,6 @@ DOMAIN-SUFFIX,ubisoftconnect.com
 DOMAIN-SUFFIX,ubn.ac.uk
 DOMAIN-SUFFIX,ubncloud.com
 DOMAIN-SUFFIX,ubnw.net
-DOMAIN-SUFFIX,ubuntu-touch.io
 DOMAIN-SUFFIX,ubuntu.net
 DOMAIN-SUFFIX,ubuntuforums.org
 DOMAIN-SUFFIX,uc-scarborough.ac.uk
