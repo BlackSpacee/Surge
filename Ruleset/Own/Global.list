@@ -7,12 +7,12 @@
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 31875
-# UPDATED: 2025-03-31 14:35:13
+# UPDATED: 2025-03-31 20:50:16
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-03-27T01:25:10.993Z
-# Size: 825
+# Last Updated: 2025-03-31T14:47:17.585Z
+# Size: 826
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -126,6 +126,7 @@ DOMAIN-SUFFIX,afraid.org
 DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,scpdb.org
 DOMAIN-SUFFIX,pixiv.org
+DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,icann.org
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,4chan.org
@@ -23313,7 +23314,6 @@ DOMAIN-SUFFIX,npcrdc.ac.uk
 DOMAIN-SUFFIX,nphcardiac-research.ac.uk
 DOMAIN-SUFFIX,npm.ac.uk
 DOMAIN-SUFFIX,npm.community
-DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,nps.gov
 DOMAIN-SUFFIX,npsc.ac.uk
 DOMAIN-SUFFIX,nptc.ac.uk
