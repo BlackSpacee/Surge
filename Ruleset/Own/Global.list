@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 105
-# DOMAIN-SUFFIX: 31564
+# DOMAIN-SUFFIX: 31565
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31883
-# UPDATED: 2025-04-03 14:34:13
+# TOTAL: 31884
+# UPDATED: 2025-04-03 20:50:08
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7383,14 +7383,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-04-03 02:13:12
+# UPDATED: 2025-04-04 02:13:33
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31169
+# DOMAIN-SUFFIX: 31170
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31455
+# TOTAL: 31456
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -11713,6 +11713,7 @@ DOMAIN-SUFFIX,btrp-hyperpolarised.ac.uk
 DOMAIN-SUFFIX,btt804.com
 DOMAIN-SUFFIX,btt904.com
 DOMAIN-SUFFIX,bttzyw.com
+DOMAIN-SUFFIX,bttzyw.net
 DOMAIN-SUFFIX,btwrdn.com
 DOMAIN-SUFFIX,buba.ac.uk
 DOMAIN-SUFFIX,bubbaporn.com
