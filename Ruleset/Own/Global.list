@@ -1,18 +1,18 @@
 # NAME: Global
-# DOMAIN: 105
-# DOMAIN-SUFFIX: 31564
+# DOMAIN: 106
+# DOMAIN-SUFFIX: 31567
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31883
-# UPDATED: 2025-04-05 14:31:23
+# TOTAL: 31887
+# UPDATED: 2025-04-05 20:42:59
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-04-01T09:14:47.298Z
-# Size: 828
+# Last Updated: 2025-04-05T15:43:01.029Z
+# Size: 830
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -412,6 +412,7 @@ DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,instatus.com
 DOMAIN-SUFFIX,iloveimg.com
+DOMAIN-SUFFIX,iboysoft.com
 DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,ghostery.com
@@ -502,6 +503,7 @@ DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,yandex.com
+DOMAIN,sgminorshort.wechat.com
 DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,vercel.com
@@ -7025,14 +7027,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-28 02:13:24
+# UPDATED: 2025-04-06 02:12:38
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6201
+# DOMAIN-SUFFIX: 6203
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6341
+# TOTAL: 6343
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7068,6 +7070,7 @@ DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,async.be
 DOMAIN-SUFFIX,att.com
+DOMAIN-SUFFIX,auth.openai.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
@@ -7232,6 +7235,7 @@ DOMAIN-SUFFIX,novafile.com
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,ooyala.com
+DOMAIN-SUFFIX,opendesktop.org
 DOMAIN-SUFFIX,orkut.com
 DOMAIN-SUFFIX,osha.gov
 DOMAIN-SUFFIX,osxdaily.com
@@ -7383,14 +7387,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-04-05 02:13:04
+# UPDATED: 2025-04-06 02:12:18
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31169
+# DOMAIN-SUFFIX: 31170
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31455
+# TOTAL: 31456
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
