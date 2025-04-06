@@ -1,18 +1,18 @@
 # NAME: Global
-# DOMAIN: 106
-# DOMAIN-SUFFIX: 31567
+# DOMAIN: 108
+# DOMAIN-SUFFIX: 31569
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 31887
-# UPDATED: 2025-04-06 10:00:47
+# TOTAL: 31891
+# UPDATED: 2025-04-06 14:32:17
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-04-05T15:43:01.029Z
-# Size: 830
+# Last Updated: 2025-04-06T09:30:17.400Z
+# Size: 835
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -111,6 +111,7 @@ DOMAIN-SUFFIX,astrill.org
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,18comic.org
+DOMAIN-SUFFIX,xhlive.org
 DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,schema.org
@@ -504,6 +505,8 @@ DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,yandex.com
 DOMAIN,sgminorshort.wechat.com
+DOMAIN,sgshort.wechat.com
+DOMAIN,sglong.wechat.com
 DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,vercel.com
@@ -568,6 +571,7 @@ DOMAIN-SUFFIX,coinex.com
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bet365.com
+DOMAIN-SUFFIX,apnews.com
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,aimoon.com
@@ -692,6 +696,7 @@ DOMAIN-SUFFIX,aaa.com
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,ui.com
+DOMAIN-SUFFIX,nj.com
 DOMAIN-SUFFIX,c.mi.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,g2.com
@@ -8976,7 +8981,6 @@ DOMAIN-SUFFIX,aple.com
 DOMAIN-SUFFIX,aplestore.com
 DOMAIN-SUFFIX,aplleipods.com
 DOMAIN-SUFFIX,aplustraining.ac.uk
-DOMAIN-SUFFIX,apnews.com
 DOMAIN-SUFFIX,apole.com
 DOMAIN-SUFFIX,apollo.ac.uk
 DOMAIN-SUFFIX,apollocampus.ac.uk
