@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 127961
-# UPDATED: 2025-04-06 20:43:12
+# UPDATED: 2025-04-07 02:30:13
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -242,8 +242,8 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-03-25T17:13:17.698Z
-# Size: 788
+# Last Updated: 2025-04-07T01:50:49.127Z
+# Size: 790
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -282,6 +282,7 @@ DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,baixing.net
 DOMAIN-SUFFIX,xiaote.net
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,sandai.net
@@ -599,6 +600,7 @@ DOMAIN-SUFFIX,biliimg.com
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,bcelive.com
 DOMAIN-SUFFIX,baomitu.com
+DOMAIN-SUFFIX,baixing.com
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,antpcdn.com
 DOMAIN-SUFFIX,alibaba.com
@@ -1799,8 +1801,6 @@ DOMAIN-SUFFIX,baifubao.com
 DOMAIN-SUFFIX,baihe.com
 DOMAIN-SUFFIX,baijiayun.com
 DOMAIN-SUFFIX,baitiao.com
-DOMAIN-SUFFIX,baixing.com
-DOMAIN-SUFFIX,baixing.net
 DOMAIN-SUFFIX,baltamatica.com
 DOMAIN-SUFFIX,bamenzhushou.com
 DOMAIN-SUFFIX,bangongziyuan.com
