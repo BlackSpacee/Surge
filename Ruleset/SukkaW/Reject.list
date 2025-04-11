@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-04-09T04:01:41.581Z
-# Size: 202
+# Last Updated: 2025-04-11T01:52:30.272Z
+# Size: 203
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,6 +9,7 @@
 # The ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN-SUFFIX,data
 DOMAIN-SUFFIX,httpdns.pro
 DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
 DOMAIN-SUFFIX,telemetry.mozilla.org
