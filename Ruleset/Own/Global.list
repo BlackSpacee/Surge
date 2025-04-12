@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 108
-# DOMAIN-SUFFIX: 31740
+# DOMAIN-SUFFIX: 31742
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32062
-# UPDATED: 2025-04-12 14:31:27
+# TOTAL: 32064
+# UPDATED: 2025-04-12 20:43:12
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7291,14 +7291,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-06 02:12:38
+# UPDATED: 2025-04-13 02:13:06
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6203
+# DOMAIN-SUFFIX: 6448
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6343
+# TOTAL: 6588
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7316,12 +7316,12 @@ DOMAIN-SUFFIX,adult.friendfinder.com
 DOMAIN-SUFFIX,ae.hao123.com
 DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,airtable.com
+DOMAIN-SUFFIX,aiss.anws.gov.tw
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,amazon.co
 DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
 DOMAIN-SUFFIX,anaconda.com
-DOMAIN-SUFFIX,anws.gov.tw
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.linksalpha.com
@@ -7373,7 +7373,6 @@ DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,crittercism.com
 DOMAIN-SUFFIX,culturalspot.org
 DOMAIN-SUFFIX,culturedcode.com
-DOMAIN-SUFFIX,cwb.gov.tw
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,dailynews.sina.com
@@ -7575,6 +7574,7 @@ DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,tacc.cwb.gov.tw
 DOMAIN-SUFFIX,taipei.gov.tw
 DOMAIN-SUFFIX,taiwanjobs.gov.tw
 DOMAIN-SUFFIX,tapbots.com
@@ -7680,14 +7680,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-04-09 02:12:31
+# UPDATED: 2025-04-13 02:12:46
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31174
+# DOMAIN-SUFFIX: 31295
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31460
+# TOTAL: 31581
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -9212,6 +9212,7 @@ DOMAIN-SUFFIX,antiquity.ac.uk
 DOMAIN-SUFFIX,antislavery.ac.uk
 DOMAIN-SUFFIX,antislaverylaw.ac.uk
 DOMAIN-SUFFIX,anudetube.com
+DOMAIN-SUFFIX,anws.gov.tw
 DOMAIN-SUFFIX,anxiangxing.com
 DOMAIN-SUFFIX,anybunny.org
 DOMAIN-SUFFIX,anybunny.tv
@@ -13605,6 +13606,7 @@ DOMAIN-SUFFIX,cvr.ac.uk
 DOMAIN-SUFFIX,cvs.ac.uk
 DOMAIN-SUFFIX,cvu.ac.uk
 DOMAIN-SUFFIX,cwa.ac.uk
+DOMAIN-SUFFIX,cwb.gov.tw
 DOMAIN-SUFFIX,cwc.ac.uk
 DOMAIN-SUFFIX,cwcams.com
 DOMAIN-SUFFIX,cwcfe.ac.uk
