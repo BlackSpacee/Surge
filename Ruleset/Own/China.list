@@ -1,14 +1,14 @@
 # NAME: China
-# DOMAIN: 324
-# DOMAIN-SUFFIX: 118864
+# DOMAIN: 335
+# DOMAIN-SUFFIX: 118866
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8336
 # IP-CIDR6: 12487
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 140163
-# UPDATED: 2025-04-13 11:22:17
+# TOTAL: 140176
+# UPDATED: 2025-04-13 14:32:34
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -1123,6 +1123,21 @@ DOMAIN-SUFFIX,wukong.com
 DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
 # CCTV
+# ChinaOneKeyLogin 运营商一键登录
+DOMAIN,auth.wosms.cn
+DOMAIN,config.cmpassport.com
+DOMAIN,enrichgw.10010.com
+DOMAIN,hmrz.wo.cn
+DOMAIN,id.mail.wo.cn
+DOMAIN,log.cmpassport.com
+DOMAIN,log1.cmpassport.com
+DOMAIN,mdn.open.wo.cn
+DOMAIN,nishub1.10010.com
+DOMAIN,opencloud.wostore.cn
+DOMAIN,ye.dun.163yun.com
+DOMAIN-SUFFIX,auth.wo.cn
+DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,open.e.189.cn
 # ChinaNet
 # DiDi
 # Douyu 斗鱼
@@ -3315,7 +3330,6 @@ DOMAIN-SUFFIX,mmarket6.com
 DOMAIN-SUFFIX,mmbang.com
 DOMAIN-SUFFIX,mmbang.info
 DOMAIN-SUFFIX,mndqlib.net
-DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,mobmore.com
 DOMAIN-SUFFIX,mofang.com
 DOMAIN-SUFFIX,mofazhu.com
