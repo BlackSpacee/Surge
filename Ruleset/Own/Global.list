@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 108
-# DOMAIN-SUFFIX: 31743
+# DOMAIN-SUFFIX: 31744
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32065
-# UPDATED: 2025-04-13 14:32:34
+# TOTAL: 32066
+# UPDATED: 2025-04-13 20:44:15
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-04-09T06:42:27.168Z
-# Size: 844
+# Last Updated: 2025-04-13T13:14:50.244Z
+# Size: 847
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -150,6 +150,7 @@ DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,trustpilot.net
 DOMAIN-SUFFIX,south-plus.net
 DOMAIN-SUFFIX,slideshare.net
+DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,deviantart.net
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,speedtest.net
@@ -585,6 +586,7 @@ DOMAIN-SUFFIX,adidas.com
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,360ssh.com
+DOMAIN-SUFFIX,zndsk.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,xhcdn.com
@@ -625,6 +627,7 @@ DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,cpuid.com
 DOMAIN-SUFFIX,cisco.com
+DOMAIN-SUFFIX,chess.com
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,brave.com
@@ -7292,14 +7295,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-13 02:13:06
+# UPDATED: 2025-04-14 02:12:40
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6448
+# DOMAIN-SUFFIX: 6449
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6588
+# TOTAL: 6589
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7681,14 +7684,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-04-13 02:12:46
+# UPDATED: 2025-04-14 02:12:20
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31295
+# DOMAIN-SUFFIX: 31296
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31581
+# TOTAL: 31582
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -20685,7 +20688,6 @@ DOMAIN-SUFFIX,liuhefabu.club
 DOMAIN-SUFFIX,liv-coll.ac.uk
 DOMAIN-SUFFIX,liv-e.ac.uk
 DOMAIN-SUFFIX,liv.ac.uk
-DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,live.ac.uk
 DOMAIN-SUFFIX,live.com.au
 DOMAIN-SUFFIX,live.eu
@@ -32006,7 +32008,6 @@ DOMAIN-SUFFIX,zishy.com
 DOMAIN-SUFFIX,zlib.life
 DOMAIN-SUFFIX,zlibcdn.com
 DOMAIN-SUFFIX,zlibcdn2.com
-DOMAIN-SUFFIX,zndsk.com
 DOMAIN-SUFFIX,zobry.site
 DOMAIN-SUFFIX,zoho.com.au
 DOMAIN-SUFFIX,zoho.eu
