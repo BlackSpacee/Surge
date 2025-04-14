@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 108
-# DOMAIN-SUFFIX: 31745
+# DOMAIN-SUFFIX: 31754
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32067
-# UPDATED: 2025-04-14 14:36:01
+# TOTAL: 32076
+# UPDATED: 2025-04-14 20:50:45
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7296,14 +7296,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-14 02:12:40
+# UPDATED: 2025-04-15 02:13:46
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6449
+# DOMAIN-SUFFIX: 6459
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6589
+# TOTAL: 6599
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7408,7 +7408,9 @@ DOMAIN-SUFFIX,exam.gov.tw
 DOMAIN-SUFFIX,ey.gov.tw
 DOMAIN-SUFFIX,fa.gov.tw
 DOMAIN-SUFFIX,fabric.io
+DOMAIN-SUFFIX,fani.com
 DOMAIN-SUFFIX,fastmail.com
+DOMAIN-SUFFIX,favcomic.com
 DOMAIN-SUFFIX,fda.gov.tw
 DOMAIN-SUFFIX,feedsportal.com
 DOMAIN-SUFFIX,fiftythree.com
@@ -7430,6 +7432,7 @@ DOMAIN-SUFFIX,gmocloud.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,go.jp
 DOMAIN-SUFFIX,gosetsuden.jp
+DOMAIN-SUFFIX,h-ciyuan.com
 DOMAIN-SUFFIX,help.linksalpha.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,hicairo.com
@@ -7488,6 +7491,7 @@ DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,mailfence.com
 DOMAIN-SUFFIX,mangaup.jp
 DOMAIN-SUFFIX,manhuaren.com
+DOMAIN-SUFFIX,manwa.me
 DOMAIN-SUFFIX,marketwatch.com
 DOMAIN-SUFFIX,mashable.com
 DOMAIN-SUFFIX,mathjax.org
@@ -7564,12 +7568,15 @@ DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,simp.ly
 DOMAIN-SUFFIX,simplecd.me
 DOMAIN-SUFFIX,simplenote.com
+DOMAIN-SUFFIX,sing-box.sagernet.org
 DOMAIN-SUFFIX,slack-edge.com
 DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-SUFFIX,sotwe.com
 DOMAIN-SUFFIX,speedsmart.net
 DOMAIN-SUFFIX,spring-plus.net
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,ssa.gov
+DOMAIN-SUFFIX,ssm.fun
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,st.luluku.pw
 DOMAIN-SUFFIX,stat.gov.tw
@@ -7591,6 +7598,7 @@ DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,thb.gov.tw
+DOMAIN-SUFFIX,thotsbay.tv
 DOMAIN-SUFFIX,timeinc.net
 DOMAIN-SUFFIX,tinder.com
 DOMAIN-SUFFIX,tinypic.com
@@ -7623,6 +7631,7 @@ DOMAIN-SUFFIX,userapi.nytlog.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,usgs.gov
 DOMAIN-SUFFIX,v.gd
+DOMAIN-SUFFIX,v2.hysteria.network
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,vbstatic.co
 DOMAIN-SUFFIX,venturebeat.com
@@ -7685,14 +7694,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-04-14 02:12:20
+# UPDATED: 2025-04-15 02:13:26
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31296
+# DOMAIN-SUFFIX: 31304
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31582
+# TOTAL: 31590
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
