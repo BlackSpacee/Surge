@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 108
-# DOMAIN-SUFFIX: 31754
+# DOMAIN-SUFFIX: 31755
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32076
-# UPDATED: 2025-04-15 09:58:55
+# TOTAL: 32077
+# UPDATED: 2025-04-15 14:34:46
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-04-14T10:31:57.446Z
-# Size: 848
+# Last Updated: 2025-04-15T12:43:34.577Z
+# Size: 850
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,rip
 DOMAIN-SUFFIX,huobi.pro
 DOMAIN-SUFFIX,certificate-transparency.org
+DOMAIN-SUFFIX,freedownloadmanager.org
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,archiveofourown.org
@@ -443,6 +444,7 @@ DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,autodraw.com
+DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,9to5toys.com
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,youtube.com
@@ -9928,7 +9930,6 @@ DOMAIN-SUFFIX,autodesk-services.com
 DOMAIN-SUFFIX,autodesk-support.com
 DOMAIN-SUFFIX,autodesk-university.com
 DOMAIN-SUFFIX,autodesk-usability.com
-DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,autodesk.dev
 DOMAIN-SUFFIX,autodesk.net
 DOMAIN-SUFFIX,autodesk123d.com
