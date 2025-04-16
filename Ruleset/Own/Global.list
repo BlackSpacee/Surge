@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 108
-# DOMAIN-SUFFIX: 31772
+# DOMAIN-SUFFIX: 31775
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32094
-# UPDATED: 2025-04-16 14:34:44
+# TOTAL: 32097
+# UPDATED: 2025-04-16 20:50:48
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-04-16T06:42:57.862Z
-# Size: 852
+# Last Updated: 2025-04-16T16:25:23.850Z
+# Size: 854
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -291,6 +291,7 @@ DOMAIN-SUFFIX,usertesting.com
 DOMAIN-SUFFIX,uptimerobot.com
 DOMAIN-SUFFIX,updownradar.com
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,thingiverse.com
 DOMAIN-SUFFIX,theregister.com
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,tailwindcss.com
@@ -385,6 +386,7 @@ DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,askubuntu.com
 DOMAIN-SUFFIX,apkmirror.com
+DOMAIN-SUFFIX,amplience.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,xhamster.com
@@ -7697,14 +7699,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-04-16 02:12:36
+# UPDATED: 2025-04-17 02:13:26
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31320
+# DOMAIN-SUFFIX: 31321
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31606
+# TOTAL: 31607
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -17933,6 +17935,7 @@ DOMAIN-SUFFIX,heswbusnet.ac.uk
 DOMAIN-SUFFIX,hetzner.cloud
 DOMAIN-SUFFIX,hetzner.company
 DOMAIN-SUFFIX,hetzner.de
+DOMAIN-SUFFIX,hetzner.social
 DOMAIN-SUFFIX,hew.ac.uk
 DOMAIN-SUFFIX,hewit.ac.uk
 DOMAIN-SUFFIX,hewlett-packard.asia
