@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 108
-# DOMAIN-SUFFIX: 31771
+# DOMAIN-SUFFIX: 31772
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32093
-# UPDATED: 2025-04-16 09:59:08
+# TOTAL: 32094
+# UPDATED: 2025-04-16 14:34:44
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-04-15T12:43:34.577Z
-# Size: 850
+# Last Updated: 2025-04-16T06:42:57.862Z
+# Size: 852
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -682,6 +682,7 @@ DOMAIN-SUFFIX,dish.com
 DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bang.com
+DOMAIN-SUFFIX,atom.com
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,xxx.com
 DOMAIN-SUFFIX,wsj.com
@@ -822,6 +823,7 @@ DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,in
 DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,imo.im
+DOMAIN-SUFFIX,hk
 DOMAIN-SUFFIX,gs
 DOMAIN-SUFFIX,gl
 DOMAIN-SUFFIX,gg
@@ -892,7 +894,6 @@ DOMAIN-SUFFIX,twdvd.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,buzzsprout.com
 # 国外域名
-DOMAIN-SUFFIX,hk
 DOMAIN-SUFFIX,kr
 # 国外域名关键字
 DOMAIN-KEYWORD,1e100
