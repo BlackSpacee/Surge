@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-04-11T01:52:30.272Z
-# Size: 203
+# Last Updated: 2025-04-19T13:02:04.171Z
+# Size: 257
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11,8 +11,12 @@
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,data
 DOMAIN-SUFFIX,httpdns.pro
+DOMAIN-SUFFIX,holashop.org
 DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
 DOMAIN-SUFFIX,telemetry.mozilla.org
+DOMAIN-SUFFIX,h-vpn.org
+DOMAIN-SUFFIX,hola.org
+DOMAIN-SUFFIX,luminatichina.net
 DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,lambda-ix.net
 DOMAIN,resolver.msg.xiaomi.net
@@ -20,11 +24,19 @@ DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,openx.net
 DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
 DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,brightinitiative.com
 DOMAIN-SUFFIX,rubiconproject.com
+DOMAIN-SUFFIX,kanuassociates.com
+DOMAIN-SUFFIX,whatismyippro.com
 DOMAIN,httpdns.volcengineapi.com
+DOMAIN-SUFFIX,hola-shopping.com
+DOMAIN-SUFFIX,binaryoptionz.com
+DOMAIN-SUFFIX,zon-networks.com
+DOMAIN-SUFFIX,proxy-review.com
 DOMAIN,httpdns-euex-push.heytapmobile.com
 DOMAIN,httpdns-ocloud.heytapmobile.com
 DOMAIN,httpdns-push.heytapmobile.com
+DOMAIN-SUFFIX,luminatinet.com
 DOMAIN,httpdns.huaweicloud.com
 DOMAIN,httpdns.calorietech.com
 DOMAIN-SUFFIX,advertising.com
@@ -34,19 +46,30 @@ DOMAIN,httpdns.push.oppomobile.com
 DOMAIN,httpdns.ocloud.heytapmobi.com
 DOMAIN,httpdns.push.heytapmobi.com
 DOMAIN,httpdns.platform.dbankcloud.com
+DOMAIN-SUFFIX,brightdata.com
+DOMAIN-SUFFIX,bright-sdk.com
 DOMAIN,httpdns.yunxindns.com
+DOMAIN-SUFFIX,thecodeil.com
 DOMAIN,stun.smartgslb.com
 DOMAIN-SUFFIX,notifysrv.com
+DOMAIN-SUFFIX,newzgames.com
+DOMAIN-SUFFIX,brightvpn.com
 DOMAIN,httpdns.bilivideo.com
 DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,taxility.com
+DOMAIN-SUFFIX,proxyway.com
 DOMAIN,api-js.mixpanel.com
+DOMAIN-SUFFIX,lum-bext.com
 DOMAIN,api.iterable.com
 DOMAIN,js.iterable.com
 DOMAIN-SUFFIX,crazyegg.com
 DOMAIN,httpdns.baidubce.com
 DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns-sc.aliyuncs.com
+DOMAIN-SUFFIX,adincube.com
 DOMAIN,httpdns.danuoyi.tbcache.com
+DOMAIN-SUFFIX,svd-cdn.com
 DOMAIN-SUFFIX,notify6.com
 DOMAIN,httpdns-sdk.n.netease.com
 DOMAIN-SUFFIX,httpdns.n.netease.com
@@ -54,9 +77,16 @@ DOMAIN-SUFFIX,classify-client.services.mozilla.com
 DOMAIN-SUFFIX,minexmr.com
 DOMAIN,httpdnsvip.meituan.com
 DOMAIN,httpdns.meituan.com
+DOMAIN-SUFFIX,luxxeeu.com
+DOMAIN-SUFFIX,lumtest.com
+DOMAIN-SUFFIX,lum-lpm.com
+DOMAIN-SUFFIX,holacdn.com
 DOMAIN-SUFFIX,histats.com
+DOMAIN-SUFFIX,earnapp.com
+DOMAIN-SUFFIX,choyoga.com
 DOMAIN,httpdns1.cc.cdnhwc5.com
 DOMAIN,httpdns.c.cdnhwc2.com
+DOMAIN-SUFFIX,brdtest.com
 DOMAIN,httpdns.bcelive.com
 DOMAIN,httpdns.zybang.com
 DOMAIN,dns.wechat.com
@@ -66,6 +96,9 @@ DOMAIN-SUFFIX,moebgp.com
 DOMAIN,httpdns.kwd.inkuai.com
 DOMAIN-SUFFIX,esgltc.com
 DOMAIN,httpdns.alicdn.com
+DOMAIN-SUFFIX,tukif.com
+DOMAIN-SUFFIX,optmd.com
+DOMAIN-SUFFIX,l-cdn.com
 DOMAIN,hdns.ksyun.com
 DOMAIN,doh.iqiyi.com
 DOMAIN,httpsdns.baidu.com
@@ -83,13 +116,34 @@ DOMAIN,aedns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com
 DOMAIN,httpdns.kg.qq.com
 DOMAIN,dns.jd.com
+DOMAIN-SUFFIX,luminati-china.biz
+DOMAIN-SUFFIX,l-err.biz
 DOMAIN-SUFFIX,august.tw
 DOMAIN-SUFFIX,kimo.tw
 DOMAIN,doh.ptqy.gitv.tv
+DOMAIN-SUFFIX,hola.sk
+DOMAIN-SUFFIX,hola.com.sg
+DOMAIN-SUFFIX,shengen.ru
+DOMAIN-SUFFIX,hut1.ru
+DOMAIN-SUFFIX,hola.ph
+DOMAIN-SUFFIX,l-agent.me
 DOMAIN-SUFFIX,wakuwaku.ne.jp
+DOMAIN-SUFFIX,luminati-china.io
 DOMAIN-SUFFIX,adtech.redventures.io
+DOMAIN-SUFFIX,mynextphone.io
+DOMAIN-SUFFIX,luminati.io
+DOMAIN-SUFFIX,lum-sdk.io
+DOMAIN-SUFFIX,lum-int.io
+DOMAIN-SUFFIX,lum-ext.io
+DOMAIN-SUFFIX,lum-api.io
+DOMAIN-SUFFIX,topvpn.io
+DOMAIN-SUFFIX,lum-cn.io
 DOMAIN-SUFFIX,juejin.im
+DOMAIN-SUFFIX,hola.hk
 DOMAIN-SUFFIX,net.mydays.de
+DOMAIN-SUFFIX,luminati-china.co
+DOMAIN-SUFFIX,whoisit.co
+DOMAIN-SUFFIX,brdtest.co
 DOMAIN-SUFFIX,bgp.co
 DOMAIN,httpdns-browser.platform.dbankcloud.cn
 DOMAIN-SUFFIX,juejin.cn
