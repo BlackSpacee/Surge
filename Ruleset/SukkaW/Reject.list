@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-04-20T11:14:23.417Z
-# Size: 256
+# Last Updated: 2025-04-21T14:47:29.307Z
+# Size: 257
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -92,6 +92,7 @@ DOMAIN,dns.wechat.com
 DOMAIN,httpdns.volces.com
 DOMAIN,httpdns.n.shifen.com
 DOMAIN-SUFFIX,moebgp.com
+DOMAIN,log.mmstat.com
 DOMAIN,httpdns.kwd.inkuai.com
 DOMAIN-SUFFIX,esgltc.com
 DOMAIN,httpdns.alicdn.com
