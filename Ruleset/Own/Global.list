@@ -1,18 +1,18 @@
 # NAME: Global
-# DOMAIN: 108
-# DOMAIN-SUFFIX: 31810
+# DOMAIN: 109
+# DOMAIN-SUFFIX: 31817
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32132
-# UPDATED: 2025-04-22 14:34:45
+# TOTAL: 32140
+# UPDATED: 2025-04-22 20:50:14
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-04-22T11:55:25.084Z
-# Size: 866
+# Last Updated: 2025-04-22T15:02:47.921Z
+# Size: 867
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,javhd.today
 DOMAIN-SUFFIX,party
 DOMAIN-SUFFIX,smashing.media
+DOMAIN-SUFFIX,github.media
 DOMAIN-SUFFIX,discourse.group
 DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,matters.town
@@ -7367,14 +7368,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-19 02:13:40
+# UPDATED: 2025-04-23 02:13:52
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6506
+# DOMAIN-SUFFIX: 6507
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6646
+# TOTAL: 6647
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7412,7 +7413,6 @@ DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,async.be
 DOMAIN-SUFFIX,att.com
-DOMAIN-SUFFIX,auth.openai.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
@@ -7501,6 +7501,7 @@ DOMAIN-SUFFIX,gmocloud.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,go.jp
 DOMAIN-SUFFIX,gosetsuden.jp
+DOMAIN-SUFFIX,gotquestions.org
 DOMAIN-SUFFIX,help.linksalpha.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,hicairo.com
@@ -7512,6 +7513,7 @@ DOMAIN-SUFFIX,hpa.gov.tw
 DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,id.hao123.com
+DOMAIN-SUFFIX,idope.se
 DOMAIN-SUFFIX,ifttt.com
 DOMAIN-SUFFIX,immigration.gov.tw
 DOMAIN-SUFFIX,imore.com
@@ -7645,6 +7647,7 @@ DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,st.luluku.pw
 DOMAIN-SUFFIX,stat.gov.tw
 DOMAIN-SUFFIX,state.gov
+DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,symauth.com
@@ -7756,14 +7759,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-04-21 02:12:31
-# DOMAIN: 88
+# UPDATED: 2025-04-23 02:13:32
+# DOMAIN: 89
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31347
+# DOMAIN-SUFFIX: 31354
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31634
+# TOTAL: 31642
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -7807,6 +7810,7 @@ DOMAIN,gog.qtlglb.com
 DOMAIN,hpstore.corpmerchandise.com
 DOMAIN,i.jeded.com
 DOMAIN,imperial.insendi.com
+DOMAIN,ingest.apple-studies.com
 DOMAIN,lgelectronics.122.2o7.net
 DOMAIN,linkedin.sc.omtrdc.net
 DOMAIN,live-patreon-marketing.pantheonsite.io
@@ -8250,6 +8254,7 @@ DOMAIN-SUFFIX,8muses.xxx
 DOMAIN-SUFFIX,8thstreetlatinas.com
 DOMAIN-SUFFIX,8xxx.net
 DOMAIN-SUFFIX,90seconds.asia
+DOMAIN-SUFFIX,91-cg.com
 DOMAIN-SUFFIX,91av.one
 DOMAIN-SUFFIX,91avfuli.com
 DOMAIN-SUFFIX,91beiyong.com
@@ -14682,6 +14687,7 @@ DOMAIN-SUFFIX,dwgtrueconvert.com
 DOMAIN-SUFFIX,dwgtrueview.com
 DOMAIN-SUFFIX,dwl.ac.uk
 DOMAIN-SUFFIX,dx9527.cc
+DOMAIN-SUFFIX,dxk4h.com
 DOMAIN-SUFFIX,dxyav.co
 DOMAIN-SUFFIX,dydx.exchange
 DOMAIN-SUFFIX,dyfl1.pw
@@ -17557,6 +17563,7 @@ DOMAIN-SUFFIX,handjobtube4free.com
 DOMAIN-SUFFIX,handsworth.ac.uk
 DOMAIN-SUFFIX,hanime.me
 DOMAIN-SUFFIX,hanime.xxx
+DOMAIN-SUFFIX,hanime.xyz
 DOMAIN-SUFFIX,hannah.ac.uk
 DOMAIN-SUFFIX,hanr-bao.mom
 DOMAIN-SUFFIX,hanzhen.xmulib.org
@@ -25276,6 +25283,7 @@ DOMAIN-SUFFIX,pornvideos.casa
 DOMAIN-SUFFIX,pornvideotop.com
 DOMAIN-SUFFIX,pornvideotube.online
 DOMAIN-SUFFIX,pornvidhd.club
+DOMAIN-SUFFIX,pornvr.me
 DOMAIN-SUFFIX,pornwatchers.com
 DOMAIN-SUFFIX,pornwebmasters.com
 DOMAIN-SUFFIX,pornwhite.com
