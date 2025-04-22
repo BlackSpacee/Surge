@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 108
-# DOMAIN-SUFFIX: 31806
+# DOMAIN-SUFFIX: 31810
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32128
-# UPDATED: 2025-04-22 09:57:46
+# TOTAL: 32132
+# UPDATED: 2025-04-22 14:34:45
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-04-20T23:23:29.758Z
-# Size: 861
+# Last Updated: 2025-04-22T11:55:25.084Z
+# Size: 866
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -23,7 +23,9 @@ DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,social
+DOMAIN-SUFFIX,animes.garden
 DOMAIN-SUFFIX,ant.design
+DOMAIN-SUFFIX,chrome
 DOMAIN-SUFFIX,watch
 DOMAIN-SUFFIX,tools
 DOMAIN-SUFFIX,archive.today
@@ -198,6 +200,7 @@ DOMAIN-SUFFIX,dnsleak.asn247.net
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,tfbnw.net
+DOMAIN-SUFFIX,reimu.net
 DOMAIN-SUFFIX,quad9.net
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,pixiv.net
@@ -216,6 +219,7 @@ DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,sf.net
 DOMAIN-SUFFIX,he.net
+DOMAIN-SUFFIX,ddys.mov
 DOMAIN-SUFFIX,moe
 DOMAIN-SUFFIX,mil
 DOMAIN-SUFFIX,lol
@@ -647,6 +651,7 @@ DOMAIN-SUFFIX,bblmw.com
 DOMAIN-SUFFIX,axios.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,photoshop.adobe.com
 DOMAIN,ccmdl.adobe.com
 DOMAIN-SUFFIX,500px.com
 DOMAIN-SUFFIX,3movs.com
@@ -5319,7 +5324,6 @@ DOMAIN-SUFFIX,redhotlabs.com
 DOMAIN-SUFFIX,referer.us
 DOMAIN-SUFFIX,reflectivecode.com
 DOMAIN-SUFFIX,registry.google
-DOMAIN-SUFFIX,reimu.net
 DOMAIN-SUFFIX,relaxbbs.com
 DOMAIN-SUFFIX,relay.com.tw
 DOMAIN-SUFFIX,releaseinternational.org
