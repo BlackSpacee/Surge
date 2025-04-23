@@ -7,7 +7,7 @@
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 32139
-# UPDATED: 2025-04-23 14:34:48
+# UPDATED: 2025-04-23 20:51:18
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7367,14 +7367,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-23 02:13:52
+# UPDATED: 2025-04-24 02:13:59
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6507
+# DOMAIN-SUFFIX: 6508
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6647
+# TOTAL: 6648
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7758,7 +7758,7 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-04-23 02:13:32
+# UPDATED: 2025-04-24 02:13:38
 # DOMAIN: 89
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 31354
