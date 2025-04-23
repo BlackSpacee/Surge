@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 315
-# DOMAIN-SUFFIX: 118660
+# DOMAIN-SUFFIX: 118661
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8338
 # IP-CIDR6: 12683
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 140148
-# UPDATED: 2025-04-23 02:34:03
+# TOTAL: 140149
+# UPDATED: 2025-04-23 09:58:28
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -242,8 +242,8 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-04-10T15:34:02.749Z
-# Size: 792
+# Last Updated: 2025-04-23T06:01:08.012Z
+# Size: 794
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -554,6 +554,7 @@ DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,oppopay.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,myzaker.com
+DOMAIN-SUFFIX,mojicdn.com
 DOMAIN-SUFFIX,meituan.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN-SUFFIX,ludashi.com
@@ -880,6 +881,7 @@ DOMAIN-SUFFIX,pps.tv
 DOMAIN-SUFFIX,fun.tv
 DOMAIN,b23.tv
 DOMAIN,acg.tv
+DOMAIN-SUFFIX,mrw.so
 DOMAIN-SUFFIX,oppoer.me
 DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,qbox.me
@@ -71683,7 +71685,6 @@ DOMAIN-SUFFIX,moimg.net
 DOMAIN-SUFFIX,moith.com
 DOMAIN-SUFFIX,moji001.com
 DOMAIN-SUFFIX,moji002.com
-DOMAIN-SUFFIX,mojicdn.com
 DOMAIN-SUFFIX,mojichina.net
 DOMAIN-SUFFIX,mojie.app
 DOMAIN-SUFFIX,mojie.co
