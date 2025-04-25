@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 109
-# DOMAIN-SUFFIX: 31828
+# DOMAIN-SUFFIX: 31827
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32151
-# UPDATED: 2025-04-25 14:34:48
+# TOTAL: 32150
+# UPDATED: 2025-04-25 20:50:41
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7387,7 +7387,7 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-24 02:13:59
+# UPDATED: 2025-04-26 02:14:19
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
 # DOMAIN-SUFFIX: 6508
@@ -7432,6 +7432,7 @@ DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,async.be
 DOMAIN-SUFFIX,att.com
+DOMAIN-SUFFIX,auth.openai.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
@@ -7520,7 +7521,6 @@ DOMAIN-SUFFIX,gmocloud.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,go.jp
 DOMAIN-SUFFIX,gosetsuden.jp
-DOMAIN-SUFFIX,gotquestions.org
 DOMAIN-SUFFIX,help.linksalpha.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,hicairo.com
@@ -7532,7 +7532,6 @@ DOMAIN-SUFFIX,hpa.gov.tw
 DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,id.hao123.com
-DOMAIN-SUFFIX,idope.se
 DOMAIN-SUFFIX,ifttt.com
 DOMAIN-SUFFIX,immigration.gov.tw
 DOMAIN-SUFFIX,imore.com
@@ -7604,6 +7603,7 @@ DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,nat.gov.tw
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,netmarble.com
+DOMAIN-SUFFIX,news.mt.co.kr
 DOMAIN-SUFFIX,nhi.gov.tw
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,nih.gov
@@ -7646,6 +7646,7 @@ DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,rime.im
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,sa.hao123.com
 DOMAIN-SUFFIX,scdn.co
@@ -7666,7 +7667,6 @@ DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,st.luluku.pw
 DOMAIN-SUFFIX,stat.gov.tw
 DOMAIN-SUFFIX,state.gov
-DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,symauth.com
@@ -7778,14 +7778,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-04-24 02:13:38
+# UPDATED: 2025-04-26 02:13:59
 # DOMAIN: 89
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31354
+# DOMAIN-SUFFIX: 31352
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31642
+# TOTAL: 31640
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -26337,7 +26337,6 @@ DOMAIN-SUFFIX,rutracker.cc
 DOMAIN-SUFFIX,rutracker.cr
 DOMAIN-SUFFIX,rutracker.me
 DOMAIN-SUFFIX,rutracker.nl
-DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,rutrecker.net
 DOMAIN-SUFFIX,ruvideos.net
 DOMAIN-SUFFIX,rvc.ac.uk
