@@ -1,14 +1,14 @@
 # NAME: Reject
 # AND: 1
 # DOMAIN: 469
-# DOMAIN-SUFFIX: 5142
+# DOMAIN-SUFFIX: 5143
 # DOMAIN-KEYWORD: 93
 # IP-CIDR: 42
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 2
-# TOTAL: 5754
-# UPDATED: 2025-04-27 02:30:35
+# TOTAL: 5755
+# UPDATED: 2025-04-27 10:04:43
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1489,8 +1489,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-04-26T18:40:49.541Z
-# Size: 259
+# Last Updated: 2025-04-27T04:04:05.022Z
+# Size: 260
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1577,6 +1577,7 @@ DOMAIN,dns.wechat.com
 DOMAIN,httpdns.volces.com
 DOMAIN,httpdns.n.shifen.com
 DOMAIN-SUFFIX,moebgp.com
+DOMAIN-SUFFIX,cnzz.mmstat.com
 DOMAIN,log.mmstat.com
 DOMAIN-SUFFIX,resolver.gslb.mi-idc.com
 DOMAIN,httpdns.kwd.inkuai.com
