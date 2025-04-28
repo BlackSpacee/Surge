@@ -1,19 +1,19 @@
 # NAME: China
 # DOMAIN: 315
-# DOMAIN-SUFFIX: 118503
+# DOMAIN-SUFFIX: 118504
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8334
 # IP-CIDR6: 12724
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 140028
-# UPDATED: 2025-04-28 10:02:43
+# TOTAL: 140029
+# UPDATED: 2025-04-28 14:41:50
 
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2025-03-27T01:25:11.139Z
-# Size: 48
+# Last Updated: 2025-04-28T12:38:39.171Z
+# Size: 49
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,ui.direct
 DOMAIN,unifi
 DOMAIN,ntt.setup
+DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,home
 DOMAIN,pi.hole
 DOMAIN-SUFFIX,168.192.in-addr.arpa
@@ -70,7 +71,7 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Size: 216
+# Size: 217
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,bogon
