@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-05-03T02:19:56.088Z
-# Size: 1013
+# Last Updated: 2025-05-03T12:17:03.508Z
+# Size: 1026
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,travis-ci.org
 DOMAIN-SUFFIX,toolforge.org
@@ -148,6 +149,7 @@ DOMAIN-SUFFIX,minecraftforum.net
 DOMAIN-SUFFIX,hubspotstarter.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,reutersmedia.net
 DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,tokyomotion.net
 DOMAIN-SUFFIX,sourceforge.net
@@ -174,6 +176,7 @@ DOMAIN-SUFFIX,sendgrid.net
 DOMAIN-SUFFIX,scp-wiki.net
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,jsfiddle.net
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,fastlylb.net
 DOMAIN-SUFFIX,dns-oarc.net
@@ -256,6 +259,7 @@ DOMAIN-SUFFIX,victoriassecret.com
 DOMAIN-SUFFIX,verizonwireless.com
 DOMAIN-SUFFIX,strongleakstest.com
 DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN-SUFFIX,spankinglibrary.com
 DOMAIN-SUFFIX,perfect-privacy.com
 DOMAIN-SUFFIX,downdetectorapi.com
 DOMAIN-SUFFIX,businessinsider.com
@@ -286,6 +290,7 @@ DOMAIN-SUFFIX,androidpolice.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,surfsharkdns.com
+DOMAIN-SUFFIX,spankingtube.com
 DOMAIN-SUFFIX,shutterstock.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,ovpnleaktest.com
@@ -365,9 +370,11 @@ DOMAIN-SUFFIX,livejasmin.com
 DOMAIN-SUFFIX,linemyshop.com
 DOMAIN-SUFFIX,linemobile.com
 DOMAIN-SUFFIX,javtsunami.com
+DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,influxdata.com
 DOMAIN-SUFFIX,imagevenue.com
 DOMAIN-SUFFIX,iconfinder.com
+DOMAIN-SUFFIX,happy-porn.com
 DOMAIN-SUFFIX,fxnetworks.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,feedburner.com
@@ -451,6 +458,7 @@ DOMAIN-SUFFIX,saucenao.com
 DOMAIN-SUFFIX,recombee.com
 DOMAIN-SUFFIX,quillbot.com
 DOMAIN-SUFFIX,porntube.com
+DOMAIN-SUFFIX,porntrex.com
 DOMAIN-SUFFIX,pornpics.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,nytstyle.com
@@ -589,11 +597,13 @@ DOMAIN-SUFFIX,astrill.com
 DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,anyporn.com
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,91porny.com
 DOMAIN-SUFFIX,4shared.com
+DOMAIN-SUFFIX,zbporn.com
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,y2mate.com
 DOMAIN-SUFFIX,weebly.com
@@ -655,6 +665,7 @@ DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,idrive.com
 DOMAIN-SUFFIX,hwinfo.com
 DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,hclips.com
 DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,glitch.com
 DOMAIN-SUFFIX,gitlab.com
@@ -883,6 +894,7 @@ DOMAIN-SUFFIX,nz
 DOMAIN-SUFFIX,no
 DOMAIN-SUFFIX,nl
 DOMAIN-SUFFIX,my
+DOMAIN-SUFFIX,mx
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,mn
 DOMAIN-SUFFIX,line-beta.me
@@ -998,6 +1010,7 @@ DOMAIN-SUFFIX,g.co
 DOMAIN,store.ui.com.cn
 DOMAIN-SUFFIX,ch
 DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,pttweb.cc
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,whoer.cc
 DOMAIN-SUFFIX,ping0.cc
