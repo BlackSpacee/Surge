@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 110
-# DOMAIN-SUFFIX: 31872
+# DOMAIN-SUFFIX: 31869
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32196
-# UPDATED: 2025-05-04 14:33:31
+# TOTAL: 32193
+# UPDATED: 2025-05-04 20:47:04
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7445,14 +7445,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-26 02:14:19
+# UPDATED: 2025-05-05 02:13:15
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6508
+# DOMAIN-SUFFIX: 6512
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6648
+# TOTAL: 6652
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7490,7 +7490,6 @@ DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,async.be
 DOMAIN-SUFFIX,att.com
-DOMAIN-SUFFIX,auth.openai.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
@@ -7579,6 +7578,7 @@ DOMAIN-SUFFIX,gmocloud.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,go.jp
 DOMAIN-SUFFIX,gosetsuden.jp
+DOMAIN-SUFFIX,gotquestions.org
 DOMAIN-SUFFIX,help.linksalpha.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,hicairo.com
@@ -7590,6 +7590,7 @@ DOMAIN-SUFFIX,hpa.gov.tw
 DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,id.hao123.com
+DOMAIN-SUFFIX,idope.se
 DOMAIN-SUFFIX,immigration.gov.tw
 DOMAIN-SUFFIX,imore.com
 DOMAIN-SUFFIX,imtoken.fans
@@ -7668,6 +7669,7 @@ DOMAIN-SUFFIX,nikonpc.com
 DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nodeloc.com
 DOMAIN-SUFFIX,novafile.com
 DOMAIN-SUFFIX,npa.gov.tw
 DOMAIN-SUFFIX,npm.gov.tw
@@ -7724,6 +7726,7 @@ DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,st.luluku.pw
 DOMAIN-SUFFIX,stat.gov.tw
 DOMAIN-SUFFIX,state.gov
+DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,symauth.com
@@ -7741,6 +7744,7 @@ DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,thb.gov.tw
+DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,timeinc.net
 DOMAIN-SUFFIX,tinder.com
 DOMAIN-SUFFIX,tinypic.com
@@ -7834,14 +7838,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-05-02 02:13:50
+# UPDATED: 2025-05-05 02:12:54
 # DOMAIN: 89
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31356
+# DOMAIN-SUFFIX: 31354
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31644
+# TOTAL: 31642
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -20432,7 +20436,6 @@ DOMAIN-SUFFIX,kubernetes.io
 DOMAIN-SUFFIX,kucoin.plus
 DOMAIN-SUFFIX,kum.com
 DOMAIN-SUFFIX,kumo.com
-DOMAIN-SUFFIX,kun66.xyz
 DOMAIN-SUFFIX,kundun1069.com
 DOMAIN-SUFFIX,kusugurizanmai.com
 DOMAIN-SUFFIX,kutjeporno.com
@@ -25668,7 +25671,6 @@ DOMAIN-SUFFIX,qattdh6.top
 DOMAIN-SUFFIX,qbmengmei6.mom
 DOMAIN-SUFFIX,qbsc.ac.uk
 DOMAIN-SUFFIX,qckprn.com
-DOMAIN-SUFFIX,qcmod.xyz
 DOMAIN-SUFFIX,qctconnect.com
 DOMAIN-SUFFIX,qdiehzz7.me
 DOMAIN-SUFFIX,qdmomentum.com
@@ -26178,7 +26180,6 @@ DOMAIN-SUFFIX,richuish.ac.uk
 DOMAIN-SUFFIX,ridepenguin.com
 DOMAIN-SUFFIX,riding.ac.uk
 DOMAIN-SUFFIX,right-2.ac.uk
-DOMAIN-SUFFIX,rigums.xyz
 DOMAIN-SUFFIX,rimg.com.tw
 DOMAIN-SUFFIX,rin.ac.uk
 DOMAIN-SUFFIX,riot-games.com
@@ -27036,7 +27037,6 @@ DOMAIN-SUFFIX,sgspt.buzz
 DOMAIN-SUFFIX,sgsss.ac.uk
 DOMAIN-SUFFIX,sgul.ac.uk
 DOMAIN-SUFFIX,sh-xuxingda.com
-DOMAIN-SUFFIX,sh83.xyz
 DOMAIN-SUFFIX,shadbase.com
 DOMAIN-SUFFIX,shadowcomplex.com
 DOMAIN-SUFFIX,shadowslaves.com
@@ -28801,7 +28801,6 @@ DOMAIN-SUFFIX,thothub.ru
 DOMAIN-SUFFIX,thothub.to
 DOMAIN-SUFFIX,thottok.com
 DOMAIN-SUFFIX,thotvids.com
-DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,thri.xxx
 DOMAIN-SUFFIX,thrixxx.com
 DOMAIN-SUFFIX,thtmod1.com
@@ -31163,7 +31162,6 @@ DOMAIN-SUFFIX,xiaoou.io
 DOMAIN-SUFFIX,xiaoou.tv
 DOMAIN-SUFFIX,xiaoshuobb.life
 DOMAIN-SUFFIX,xiaoyaoge.xyz
-DOMAIN-SUFFIX,xin21.xyz
 DOMAIN-SUFFIX,xinaia-av.buzz
 DOMAIN-SUFFIX,xindelu.com
 DOMAIN-SUFFIX,xinfhw.com
@@ -32041,7 +32039,6 @@ DOMAIN-SUFFIX,ysmany.com
 DOMAIN-SUFFIX,ysmass.com
 DOMAIN-SUFFIX,ysmeal.com
 DOMAIN-SUFFIX,ysmeat.com
-DOMAIN-SUFFIX,ysmeet.com
 DOMAIN-SUFFIX,ysmelf.com
 DOMAIN-SUFFIX,ysmere.com
 DOMAIN-SUFFIX,ysmuch.com
