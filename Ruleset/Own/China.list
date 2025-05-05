@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 143147
-# UPDATED: 2025-05-05 10:04:39
+# UPDATED: 2025-05-05 14:36:25
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -243,8 +243,8 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-04-23T06:01:08.012Z
-# Size: 794
+# Last Updated: 2025-05-05T10:02:43.395Z
+# Size: 795
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -258,6 +258,7 @@ DOMAIN,doh.pub
 DOMAIN-SUFFIX,icourse163.org
 DOMAIN-SUFFIX,miot-spec.org
 DOMAIN-SUFFIX,docschina.org
+DOMAIN-SUFFIX,solidot.org
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,9966.org
 DOMAIN-SUFFIX,8866.org
@@ -3715,7 +3716,6 @@ DOMAIN-SUFFIX,softwhy.com
 DOMAIN-SUFFIX,sofun.com
 DOMAIN-SUFFIX,sojson.com
 DOMAIN-SUFFIX,sojump.com
-DOMAIN-SUFFIX,solidot.org
 DOMAIN-SUFFIX,somode.com
 DOMAIN-SUFFIX,sou.com
 DOMAIN-SUFFIX,souqian.com
