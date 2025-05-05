@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 110
-# DOMAIN-SUFFIX: 31868
+# DOMAIN-SUFFIX: 31872
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32192
-# UPDATED: 2025-05-05 14:36:25
+# TOTAL: 32196
+# UPDATED: 2025-05-05 20:52:00
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-05-05T10:02:43.294Z
-# Size: 1025
+# Last Updated: 2025-05-05T13:59:16.985Z
+# Size: 1027
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -285,6 +285,7 @@ DOMAIN-SUFFIX,xpressunblock.com
 DOMAIN-SUFFIX,thaiheadlines.com
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,stackexchange.com
+DOMAIN-SUFFIX,redbullracing.com
 DOMAIN-SUFFIX,prowritingaid.com
 DOMAIN-SUFFIX,packagephobia.com
 DOMAIN-SUFFIX,nbclosangeles.com
@@ -554,6 +555,7 @@ DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,scpwiki.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,redbull.com
 DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,pornoxo.com
 DOMAIN-SUFFIX,pornhub.com
@@ -7444,14 +7446,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-05-05 02:13:15
+# UPDATED: 2025-05-06 02:13:01
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6512
+# DOMAIN-SUFFIX: 6518
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6652
+# TOTAL: 6658
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7644,6 +7646,7 @@ DOMAIN-SUFFIX,microsoft-falcon.io
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,mindnode.com
+DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,mixin.one
 DOMAIN-SUFFIX,mjib.gov.tw
 DOMAIN-SUFFIX,mlssoccer.com
@@ -7715,6 +7718,7 @@ DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,simp.ly
 DOMAIN-SUFFIX,simplecd.me
 DOMAIN-SUFFIX,simplenote.com
+DOMAIN-SUFFIX,simplex.chat
 DOMAIN-SUFFIX,slack-edge.com
 DOMAIN-SUFFIX,slack-msgs.com
 DOMAIN-SUFFIX,speedsmart.net
@@ -7741,6 +7745,8 @@ DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
+DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,thb.gov.tw
 DOMAIN-SUFFIX,threads.com
@@ -7799,6 +7805,7 @@ DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,yoyo.org
+DOMAIN-SUFFIX,zodgame.xyz
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoomgov.com
 DOMAIN-KEYWORD,dlercloud
@@ -7837,14 +7844,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-05-05 02:12:54
+# UPDATED: 2025-05-06 02:12:40
 # DOMAIN: 89
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31354
+# DOMAIN-SUFFIX: 31356
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31642
+# TOTAL: 31644
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -22236,7 +22243,6 @@ DOMAIN-SUFFIX,misoc.ac.uk
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,missav.uno
 DOMAIN-SUFFIX,missav.vip
-DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,missendenabbey.ac.uk
 DOMAIN-SUFFIX,misshotgirls.com
 DOMAIN-SUFFIX,misskey-square.net
@@ -28505,7 +28511,6 @@ DOMAIN-SUFFIX,tegrazone.jp
 DOMAIN-SUFFIX,tegrazone.kr
 DOMAIN-SUFFIX,tel.ac.uk
 DOMAIN-SUFFIX,telebay.com
-DOMAIN-SUFFIX,telega.one
 DOMAIN-SUFFIX,telegram-porn.com
 DOMAIN-SUFFIX,telekom.com
 DOMAIN-SUFFIX,telekom.de
@@ -28576,7 +28581,6 @@ DOMAIN-SUFFIX,texttobuy.org
 DOMAIN-SUFFIX,texture.com
 DOMAIN-SUFFIX,tferwq.com
 DOMAIN-SUFFIX,tfsallin.net
-DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tgac.ac.uk
 DOMAIN-SUFFIX,tgirlcentral.com
 DOMAIN-SUFFIX,tgirlpostop.com
