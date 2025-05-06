@@ -46,6 +46,7 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       'mxhichina.com',
       'soku.com',
       'tb.cn',
+      '+tbcdn.cn',
       'taobao.com',
       '+taobaocdn.com',
       '+tbcache.com',
@@ -264,7 +265,8 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       '+ibytedapm.com', // China NS
       'oceanengine.com',
       '+edge-byted.com',
-      '+volcvideo.com'
+      '+volcvideo.com',
+      '+bytecdntp.com' // hichina.com NS
     ]
   },
   BAIDU: {
