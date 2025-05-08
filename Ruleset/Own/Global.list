@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 110
-# DOMAIN-SUFFIX: 31873
+# DOMAIN-SUFFIX: 31874
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32197
-# UPDATED: 2025-05-08 14:36:23
+# TOTAL: 32198
+# UPDATED: 2025-05-08 20:52:04
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7845,14 +7845,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-05-06 02:12:40
+# UPDATED: 2025-05-09 02:14:02
 # DOMAIN: 89
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31356
+# DOMAIN-SUFFIX: 31358
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31644
+# TOTAL: 31646
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -27422,6 +27422,7 @@ DOMAIN-SUFFIX,snc.ac.uk
 DOMAIN-SUFFIX,sneaker666.com
 DOMAIN-SUFFIX,sneakerpage.net
 DOMAIN-SUFFIX,sneakerskick.com
+DOMAIN-SUFFIX,snjulebu.com
 DOMAIN-SUFFIX,snk-corp.co.jp
 DOMAIN-SUFFIX,snkplaymore.info
 DOMAIN-SUFFIX,snow.me
