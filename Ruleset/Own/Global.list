@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 110
-# DOMAIN-SUFFIX: 31874
+# DOMAIN-SUFFIX: 31875
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32198
-# UPDATED: 2025-05-09 14:35:58
+# TOTAL: 32199
+# UPDATED: 2025-05-09 20:50:35
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7845,14 +7845,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-05-09 02:14:02
+# UPDATED: 2025-05-10 02:13:22
 # DOMAIN: 89
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31358
+# DOMAIN-SUFFIX: 31359
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31646
+# TOTAL: 31647
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -22605,6 +22605,7 @@ DOMAIN-SUFFIX,mtt.org
 DOMAIN-SUFFIX,mtvnservices.com
 DOMAIN-SUFFIX,mu6bce1c.xyz
 DOMAIN-SUFFIX,muarc.ac.uk
+DOMAIN-SUFFIX,mubicdn.net
 DOMAIN-SUFFIX,muchohentai.com
 DOMAIN-SUFFIX,muchomasporno.com
 DOMAIN-SUFFIX,mucinex.ca
