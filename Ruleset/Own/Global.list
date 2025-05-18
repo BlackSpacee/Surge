@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 110
-# DOMAIN-SUFFIX: 31875
+# DOMAIN-SUFFIX: 31878
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32199
-# UPDATED: 2025-05-18 14:34:07
+# TOTAL: 32202
+# UPDATED: 2025-05-18 20:47:35
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7418,14 +7418,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-05-16 02:14:07
+# UPDATED: 2025-05-19 02:13:09
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6472
+# DOMAIN-SUFFIX: 6477
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6612
+# TOTAL: 6617
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7469,6 +7469,7 @@ DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,bandisoft.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,bbs.naixi.net
 DOMAIN-SUFFIX,bbs.sina.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
@@ -7590,6 +7591,8 @@ DOMAIN-SUFFIX,kat.cr
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,krypt.com
 DOMAIN-SUFFIX,ld.hao123img.com
+DOMAIN-SUFFIX,ldplayer.net
+DOMAIN-SUFFIX,ldplayer.tw
 DOMAIN-SUFFIX,leancloud.com
 DOMAIN-SUFFIX,level-plus.net
 DOMAIN-SUFFIX,libsyn.com
@@ -7711,6 +7714,7 @@ DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,thb.gov.tw
+DOMAIN-SUFFIX,tiktokcdn-eu.com
 DOMAIN-SUFFIX,timeinc.net
 DOMAIN-SUFFIX,tinder.com
 DOMAIN-SUFFIX,tinypic.com
@@ -7803,14 +7807,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-05-16 02:13:47
+# UPDATED: 2025-05-19 02:12:48
 # DOMAIN: 89
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31357
+# DOMAIN-SUFFIX: 31360
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31645
+# TOTAL: 31648
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -28833,7 +28837,6 @@ DOMAIN-SUFFIX,tiffany-towers.com
 DOMAIN-SUFFIX,tig-ol-bitties.live
 DOMAIN-SUFFIX,tiipple.ac.uk
 DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktokcdn-eu.com
 DOMAIN-SUFFIX,tiktokeu-cdn.com
 DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokw.eu
