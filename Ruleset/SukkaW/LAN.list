@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2025-05-13T12:57:52.857Z
-# Size: 49
+# Last Updated: 2025-05-20T16:54:18.609Z
+# Size: 50
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,6 +10,7 @@
 #########################################
 DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
 DOMAIN-SUFFIX,localdomain
+DOMAIN-SUFFIX,internal
 DOMAIN,mobile.hotspot
 DOMAIN-SUFFIX,router
 DOMAIN-SUFFIX,plex.direct

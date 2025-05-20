@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-05-18T17:03:00.729Z
-# Size: 265
+# Last Updated: 2025-05-20T16:38:49.201Z
+# Size: 272
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -195,6 +195,12 @@ DOMAIN-KEYWORD,track.msadcenter
 DOMAIN-KEYWORD,dc.pimentaafricana
 DOMAIN-KEYWORD,-txtagstore
 DOMAIN-KEYWORD,thetollroads-
+DOMAIN-KEYWORD,-go.experian.com
+DOMAIN-KEYWORD,-adnow.com
+DOMAIN-KEYWORD,dkswshap-
+DOMAIN-KEYWORD,.srvqck
+DOMAIN-KEYWORD,.fstsrv
+DOMAIN-KEYWORD,.sagewwl
 DOMAIN-KEYWORD,_vmind.qqvideo.tc.qq.com
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com
@@ -233,6 +239,7 @@ DOMAIN-KEYWORD,trkgbm.business.hsbc.
 DOMAIN-KEYWORD,trkhinv.business.hsbc.
 DOMAIN-KEYWORD,trkcmb.business.hsbc.
 DOMAIN-KEYWORD,-analytics-events.apple.com
+DOMAIN-WILDCARD,info.*.aleragroup.com
 DOMAIN-WILDCARD,f-log*.grammarly.io
 DOMAIN-WILDCARD,*.ad.*.prod.hosts.ooklaserver.net
 DOMAIN-WILDCARD,adv0*.msa.cdn.mediaset.net

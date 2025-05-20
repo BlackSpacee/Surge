@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 110
-# DOMAIN-SUFFIX: 31893
+# DOMAIN-SUFFIX: 31895
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32217
-# UPDATED: 2025-05-20 14:36:30
+# TOTAL: 32219
+# UPDATED: 2025-05-20 20:54:04
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-05-13T12:57:52.670Z
-# Size: 1029
+# Last Updated: 2025-05-20T13:32:55.500Z
+# Size: 1030
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -228,6 +228,7 @@ DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,ripe.net
+DOMAIN-SUFFIX,laby.net
 DOMAIN-SUFFIX,e621.net
 DOMAIN-SUFFIX,dynu.net
 DOMAIN-SUFFIX,daum.net
@@ -7807,14 +7808,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-05-20 02:14:03
+# UPDATED: 2025-05-21 02:14:58
 # DOMAIN: 89
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31375
+# DOMAIN-SUFFIX: 31376
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31663
+# TOTAL: 31664
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -22577,6 +22578,7 @@ DOMAIN-SUFFIX,msflj.vip
 DOMAIN-SUFFIX,msft.info
 DOMAIN-SUFFIX,msft.net
 DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msfteducation.ca
 DOMAIN-SUFFIX,msftncsi.com
