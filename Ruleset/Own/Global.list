@@ -1,13 +1,13 @@
 # NAME: Global
-# DOMAIN: 110
-# DOMAIN-SUFFIX: 31895
+# DOMAIN: 111
+# DOMAIN-SUFFIX: 31896
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32219
-# UPDATED: 2025-05-21 14:36:25
+# TOTAL: 32221
+# UPDATED: 2025-05-21 20:53:22
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7808,14 +7808,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-05-21 02:14:58
-# DOMAIN: 89
+# UPDATED: 2025-05-22 02:14:30
+# DOMAIN: 90
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31376
+# DOMAIN-SUFFIX: 31378
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31664
+# TOTAL: 31667
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -7830,6 +7830,7 @@ DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 DOMAIN,az764295.vo.msecnd.net
+DOMAIN,bbs.boingboing.net
 DOMAIN,beatselectronicsllc.tt.omtrdc.net
 DOMAIN,beck-online.beck.de
 DOMAIN,blizzard.nefficient.co.kr
@@ -20574,6 +20575,7 @@ DOMAIN-SUFFIX,lct.ac.uk
 DOMAIN-SUFFIX,lcuck.ac.uk
 DOMAIN-SUFFIX,lcwc.ac.uk
 DOMAIN-SUFFIX,ldoc-cdt.ac.uk
+DOMAIN-SUFFIX,ldstatic.com
 DOMAIN-SUFFIX,le-direct.tv
 DOMAIN-SUFFIX,le.ac.uk
 DOMAIN-SUFFIX,leadershipfoundation.ac.uk
