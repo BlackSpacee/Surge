@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 111
-# DOMAIN-SUFFIX: 31905
+# DOMAIN-SUFFIX: 31907
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32230
-# UPDATED: 2025-05-25 14:33:12
+# TOTAL: 32232
+# UPDATED: 2025-05-25 20:47:50
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-05-21T18:41:41.452Z
-# Size: 1031
+# Last Updated: 2025-05-25T13:05:06.433Z
+# Size: 1033
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -152,6 +152,7 @@ DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,kde.org
 DOMAIN-SUFFIX,cfr.org
 DOMAIN-SUFFIX,eu.org
+DOMAIN-SUFFIX,one
 DOMAIN-SUFFIX,new
 DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,minecraftforum.net
@@ -662,6 +663,7 @@ DOMAIN-SUFFIX,nypost.com
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,news24.com
 DOMAIN-SUFFIX,nbcuni.com
+DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,meetup.com
@@ -7420,14 +7422,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-05-19 02:13:09
+# UPDATED: 2025-05-26 02:13:45
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6477
+# DOMAIN-SUFFIX: 6478
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6617
+# TOTAL: 6618
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7676,6 +7678,7 @@ DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,pp.ua
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,reddithelp.com
 DOMAIN-SUFFIX,rime.im
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
@@ -7809,7 +7812,7 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-05-25 02:13:47
+# UPDATED: 2025-05-26 02:13:24
 # DOMAIN: 90
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 31386
@@ -26058,7 +26061,6 @@ DOMAIN-SUFFIX,redcar.ac.uk
 DOMAIN-SUFFIX,redcliffe.ac.uk
 DOMAIN-SUFFIX,reddit.app.link
 DOMAIN-SUFFIX,redditblog.com
-DOMAIN-SUFFIX,reddithelp.com
 DOMAIN-SUFFIX,redditinc.com
 DOMAIN-SUFFIX,redditstatus.com
 DOMAIN-SUFFIX,redfaptube.com
