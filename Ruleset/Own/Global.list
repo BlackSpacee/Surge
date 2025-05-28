@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 112
-# DOMAIN-SUFFIX: 31924
+# DOMAIN-SUFFIX: 31926
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32250
-# UPDATED: 2025-05-28 14:36:11
+# TOTAL: 32252
+# UPDATED: 2025-05-28 20:53:56
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-05-25T13:05:06.433Z
-# Size: 1033
+# Last Updated: 2025-05-28T13:51:20.707Z
+# Size: 1035
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -820,6 +820,7 @@ DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,dynu.com
 DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,dish.com
+DOMAIN-SUFFIX,deno.com
 DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cam4.com
@@ -985,6 +986,7 @@ DOMAIN-SUFFIX,cuty.io
 DOMAIN-SUFFIX,cdpn.io
 DOMAIN-SUFFIX,shw.io
 DOMAIN-SUFFIX,npm.io
+DOMAIN-SUFFIX,jsr.io
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,fly.io
@@ -7812,14 +7814,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-05-27 02:14:38
+# UPDATED: 2025-05-29 02:14:45
 # DOMAIN: 91
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31403
+# DOMAIN-SUFFIX: 31404
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31693
+# TOTAL: 31694
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -13992,7 +13994,6 @@ DOMAIN-SUFFIX,demos.ac.uk
 DOMAIN-SUFFIX,den.ac.uk
 DOMAIN-SUFFIX,dengeamerika.com
 DOMAIN-SUFFIX,dengiamerika.com
-DOMAIN-SUFFIX,deno.com
 DOMAIN-SUFFIX,deno.land
 DOMAIN-SUFFIX,dentalhypotheses.com
 DOMAIN-SUFFIX,dentalschoolscouncil.ac.uk
@@ -28391,6 +28392,7 @@ DOMAIN-SUFFIX,syfec.ac.uk
 DOMAIN-SUFFIX,syfor.click
 DOMAIN-SUFFIX,syhacked.com
 DOMAIN-SUFFIX,symantec.com
+DOMAIN-SUFFIX,symantecliveupdate.com
 DOMAIN-SUFFIX,symonds.ac.uk
 DOMAIN-SUFFIX,synaptic.net
 DOMAIN-SUFFIX,synbio-cdt.ac.uk
