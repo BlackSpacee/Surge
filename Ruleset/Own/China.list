@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 317
-# DOMAIN-SUFFIX: 120549
+# DOMAIN-SUFFIX: 120550
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8373
 # IP-CIDR6: 12843
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 142234
-# UPDATED: 2025-05-28 20:53:56
+# TOTAL: 142235
+# UPDATED: 2025-05-29 02:34:31
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,8 +244,8 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-05-22T20:00:14.913Z
-# Size: 801
+# Last Updated: 2025-05-28T18:58:13.541Z
+# Size: 802
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -520,6 +520,7 @@ DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,chiphell.com
 DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,changyan.com
+DOMAIN-SUFFIX,bulicdn2.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,bilicdn1.com
