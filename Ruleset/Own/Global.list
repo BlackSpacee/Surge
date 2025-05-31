@@ -7,12 +7,12 @@
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 32375
-# UPDATED: 2025-05-31 14:33:39
+# UPDATED: 2025-05-31 20:48:25
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-05-30T17:27:00.574Z
-# Size: 1038
+# Last Updated: 2025-05-31T16:10:41.809Z
+# Size: 1039
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -155,6 +155,7 @@ DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,one
 DOMAIN-SUFFIX,new
 DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,sysctl-explorer.net
 DOMAIN-SUFFIX,minecraftforum.net
 DOMAIN-SUFFIX,hubspotstarter.net
 DOMAIN-SUFFIX,cloudfunctions.net
@@ -7427,14 +7428,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-05-31 02:15:27
+# UPDATED: 2025-06-01 02:14:23
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6478
+# DOMAIN-SUFFIX: 6477
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6618
+# TOTAL: 6617
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7520,7 +7521,6 @@ DOMAIN-SUFFIX,deskconnect.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digitaltrends.com
 DOMAIN-SUFFIX,discordstatus.com
-DOMAIN-SUFFIX,disk.yandex.com
 DOMAIN-SUFFIX,disq.us
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,dler.io
@@ -7818,7 +7818,7 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-05-31 02:15:05
+# UPDATED: 2025-06-01 02:14:03
 # DOMAIN: 91
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 31523
