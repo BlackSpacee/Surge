@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-05-30T17:27:00.244Z
-# Size: 83783
+# Last Updated: 2025-05-30T19:26:47.795Z
+# Size: 83788
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19180,6 +19180,7 @@ DOMAIN-SUFFIX,forex.americanexpress.com
 DOMAIN-SUFFIX,cm-sg.americanexpress.com
 DOMAIN-SUFFIX,cm-jp.americanexpress.com
 DOMAIN-SUFFIX,cm-in.americanexpress.com
+DOMAIN-SUFFIX,omns.americanexpress.com
 DOMAIN-SUFFIX,images.sbs.americanexpress.com
 DOMAIN-SUFFIX,omn.americanexpress.com
 DOMAIN-SUFFIX,gct.americanexpress.com
@@ -44267,6 +44268,7 @@ DOMAIN-SUFFIX,wellmov.com
 DOMAIN-SUFFIX,saa.mysmile.wellfit.com
 DOMAIN-SUFFIX,logtake.weidian.com
 DOMAIN-SUFFIX,metrics.wegmans.com
+DOMAIN-SUFFIX,mbox.wegmans.com
 DOMAIN-SUFFIX,data.msg.wegmans.com
 DOMAIN-SUFFIX,wfmlp.eml.wegmans.com
 DOMAIN-SUFFIX,data.eml.wegmans.com
@@ -47811,6 +47813,7 @@ DOMAIN-SUFFIX,explore-uat.agilent.com
 DOMAIN-SUFFIX,explore-dev.agilent.com
 DOMAIN-SUFFIX,explore-ft.agilent.com
 DOMAIN-SUFFIX,metrics.agilent.com
+DOMAIN-SUFFIX,explore.agilent.com
 DOMAIN-SUFFIX,yoxeha.afloral.com
 DOMAIN-SUFFIX,affyrtb.com
 DOMAIN-SUFFIX,affflow.com
@@ -55435,6 +55438,7 @@ DOMAIN-SUFFIX,ad1.udn.com
 DOMAIN-SUFFIX,analytics.ubs.com
 DOMAIN-SUFFIX,tt.ubs.com
 DOMAIN-SUFFIX,metrics.ubi.com
+DOMAIN-SUFFIX,data.ubi.com
 DOMAIN-SUFFIX,clk.ubi.com
 DOMAIN-SUFFIX,ads.tvb.com
 DOMAIN-SUFFIX,statistics.tuv.com
@@ -67867,6 +67871,7 @@ DOMAIN-SUFFIX,marketing.agora.io
 DOMAIN-SUFFIX,tracking.agora.io
 DOMAIN-SUFFIX,adstk.io
 DOMAIN-SUFFIX,adser.io
+DOMAIN-SUFFIX,hz-telemetry.adobe.io
 DOMAIN-SUFFIX,cc-api-data.adobe.io
 DOMAIN-SUFFIX,telemetry.adobe.io
 DOMAIN-SUFFIX,analytics.adobe.io
