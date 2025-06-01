@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 112
-# DOMAIN-SUFFIX: 32049
+# DOMAIN-SUFFIX: 32053
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32375
-# UPDATED: 2025-06-01 14:34:50
+# TOTAL: 32379
+# UPDATED: 2025-06-01 20:49:26
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7428,14 +7428,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-01 02:14:23
+# UPDATED: 2025-06-02 02:14:18
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6477
+# DOMAIN-SUFFIX: 6478
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6617
+# TOTAL: 6618
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7486,6 +7486,7 @@ DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,blackmagicdesign.com
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
@@ -7818,14 +7819,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-06-01 02:14:03
+# UPDATED: 2025-06-02 02:13:58
 # DOMAIN: 91
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31523
+# DOMAIN-SUFFIX: 31527
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31813
+# TOTAL: 31817
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -16260,6 +16261,7 @@ DOMAIN-SUFFIX,fgirl.ch
 DOMAIN-SUFFIX,fgls.ac.uk
 DOMAIN-SUFFIX,fi11av1.com
 DOMAIN-SUFFIX,fi11tv1.com
+DOMAIN-SUFFIX,fibank.bg
 DOMAIN-SUFFIX,fibre-diffraction.ac.uk
 DOMAIN-SUFFIX,ficeboock.com
 DOMAIN-SUFFIX,ficm.ac.uk
@@ -21770,6 +21772,7 @@ DOMAIN-SUFFIX,meadjohnson.com.hk
 DOMAIN-SUFFIX,meadjohnson.com.tw
 DOMAIN-SUFFIX,meadjohnson.net
 DOMAIN-SUFFIX,mearki.com
+DOMAIN-SUFFIX,meawallet.app
 DOMAIN-SUFFIX,meb.gov.mm
 DOMAIN-SUFFIX,mebank.ir
 DOMAIN-SUFFIX,meddyliwchamgymru.ac.uk
@@ -22835,6 +22838,7 @@ DOMAIN-SUFFIX,myfappening.org
 DOMAIN-SUFFIX,myfavoritearcade.com
 DOMAIN-SUFFIX,myfbfans.com
 DOMAIN-SUFFIX,myferrariheadphones.com
+DOMAIN-SUFFIX,myfin.bg
 DOMAIN-SUFFIX,myfirstflame.com
 DOMAIN-SUFFIX,myfistingporn.com
 DOMAIN-SUFFIX,myfonts.com
