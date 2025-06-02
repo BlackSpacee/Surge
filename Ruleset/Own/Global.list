@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 112
-# DOMAIN-SUFFIX: 32053
+# DOMAIN-SUFFIX: 32054
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32379
-# UPDATED: 2025-06-02 14:38:25
+# TOTAL: 32380
+# UPDATED: 2025-06-02 20:53:45
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-05-31T16:10:41.809Z
-# Size: 1039
+# Last Updated: 2025-06-02T14:01:24.313Z
+# Size: 1040
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -192,6 +192,7 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,fastlylb.net
 DOMAIN-SUFFIX,dns-oarc.net
 DOMAIN-SUFFIX,diagrams.net
+DOMAIN-SUFFIX,creaders.net
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,akamaihd.net
@@ -2170,7 +2171,6 @@ DOMAIN-SUFFIX,crazyshit.com
 DOMAIN-SUFFIX,crbug.com
 DOMAIN-SUFFIX,crchina.org
 DOMAIN-SUFFIX,crd-net.org
-DOMAIN-SUFFIX,creaders.net
 DOMAIN-SUFFIX,creadersnet.com
 DOMAIN-SUFFIX,crisisresponse.google
 DOMAIN-SUFFIX,cristyli.com
@@ -7428,14 +7428,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-02 02:14:18
+# UPDATED: 2025-06-03 02:15:37
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6478
+# DOMAIN-SUFFIX: 6480
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6618
+# TOTAL: 6620
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7509,6 +7509,7 @@ DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,content.office.net
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,crittercism.com
+DOMAIN-SUFFIX,ctinews.com
 DOMAIN-SUFFIX,culturalspot.org
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,cygames.jp
@@ -7819,14 +7820,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-06-02 02:13:58
+# UPDATED: 2025-06-03 02:15:16
 # DOMAIN: 91
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31527
+# DOMAIN-SUFFIX: 31528
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31817
+# TOTAL: 31818
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
