@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 112
-# DOMAIN-SUFFIX: 32054
+# DOMAIN-SUFFIX: 32057
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32380
-# UPDATED: 2025-06-03 14:38:29
+# TOTAL: 32383
+# UPDATED: 2025-06-03 20:54:50
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7820,14 +7820,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-06-03 02:15:16
+# UPDATED: 2025-06-04 02:15:38
 # DOMAIN: 91
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31528
+# DOMAIN-SUFFIX: 31531
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31818
+# TOTAL: 31821
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -9927,6 +9927,7 @@ DOMAIN-SUFFIX,asmhentai.com
 DOMAIN-SUFFIX,asminternational.org
 DOMAIN-SUFFIX,asmrbuluo.com
 DOMAIN-SUFFIX,asn-online.org
+DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,asp-cc.com
 DOMAIN-SUFFIX,asp.net
 DOMAIN-SUFFIX,aspbjournals.org
@@ -16426,6 +16427,7 @@ DOMAIN-SUFFIX,flexsig.com
 DOMAIN-SUFFIX,fli8.xyz
 DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.net
+DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipfap.com
 DOMAIN-SUFFIX,flipnotestudio.com
 DOMAIN-SUFFIX,flipshare.com
@@ -16508,6 +16510,7 @@ DOMAIN-SUFFIX,fortnite.com
 DOMAIN-SUFFIX,fortune.ac.uk
 DOMAIN-SUFFIX,fortunecentre.ac.uk
 DOMAIN-SUFFIX,fortuneinsight.com
+DOMAIN-SUFFIX,forza.net
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,forzarc.com
