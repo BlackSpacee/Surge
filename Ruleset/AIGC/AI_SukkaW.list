@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2025-05-21T05:19:00.337Z
-# Size: 36
+# Last Updated: 2025-06-03T11:52:36.128Z
+# Size: 37
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,bard.google.com
 DOMAIN,api.github.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,ai.com
