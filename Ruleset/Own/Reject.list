@@ -2,13 +2,13 @@
 # AND: 1
 # DOMAIN: 469
 # DOMAIN-SUFFIX: 5049
-# DOMAIN-KEYWORD: 104
+# DOMAIN-KEYWORD: 109
 # IP-CIDR: 42
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 2
-# TOTAL: 5672
-# UPDATED: 2025-06-04 14:37:04
+# TOTAL: 5677
+# UPDATED: 2025-06-04 20:54:36
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1489,8 +1489,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-05-20T16:38:49.201Z
-# Size: 272
+# Last Updated: 2025-06-04T16:44:08.627Z
+# Size: 277
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1720,6 +1720,11 @@ DOMAIN-KEYWORD,trkgbm.business.hsbc.
 DOMAIN-KEYWORD,trkhinv.business.hsbc.
 DOMAIN-KEYWORD,trkcmb.business.hsbc.
 DOMAIN-KEYWORD,-analytics-events.apple.com
+DOMAIN-KEYWORD,-ad.video.yximgs.com
+DOMAIN-KEYWORD,-ad.sm.cn
+DOMAIN-KEYWORD,-ad.wtzw.com
+DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com
+DOMAIN-KEYWORD,-normal.zijieapi.com
 DOMAIN-WILDCARD,info.*.aleragroup.com
 DOMAIN-WILDCARD,f-log*.grammarly.io
 DOMAIN-WILDCARD,*.ad.*.prod.hosts.ooklaserver.net

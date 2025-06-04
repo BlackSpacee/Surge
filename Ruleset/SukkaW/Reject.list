@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-05-20T16:38:49.201Z
-# Size: 272
+# Last Updated: 2025-06-04T16:44:08.627Z
+# Size: 277
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -239,6 +239,11 @@ DOMAIN-KEYWORD,trkgbm.business.hsbc.
 DOMAIN-KEYWORD,trkhinv.business.hsbc.
 DOMAIN-KEYWORD,trkcmb.business.hsbc.
 DOMAIN-KEYWORD,-analytics-events.apple.com
+DOMAIN-KEYWORD,-ad.video.yximgs.com
+DOMAIN-KEYWORD,-ad.sm.cn
+DOMAIN-KEYWORD,-ad.wtzw.com
+DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com
+DOMAIN-KEYWORD,-normal.zijieapi.com
 DOMAIN-WILDCARD,info.*.aleragroup.com
 DOMAIN-WILDCARD,f-log*.grammarly.io
 DOMAIN-WILDCARD,*.ad.*.prod.hosts.ooklaserver.net
