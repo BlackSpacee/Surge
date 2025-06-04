@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 112
-# DOMAIN-SUFFIX: 32057
+# DOMAIN-SUFFIX: 32059
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32383
-# UPDATED: 2025-06-03 20:54:50
+# TOTAL: 32385
+# UPDATED: 2025-06-04 02:36:34
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-06-02T14:01:24.313Z
-# Size: 1040
+# Last Updated: 2025-06-03T18:48:08.007Z
+# Size: 1042
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -251,6 +251,7 @@ DOMAIN-SUFFIX,libgen.fun
 DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,dev
 DOMAIN-SUFFIX,returnyoutubedislikeapi.com
+DOMAIN-SUFFIX,onepluscommunityserver.com
 DOMAIN-SUFFIX,privateinternetaccess.com
 DOMAIN-SUFFIX,returnyoutubedislike.com
 DOMAIN-SUFFIX,hubspotlinksstarter.com
@@ -510,6 +511,7 @@ DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,engadget.com
 DOMAIN,ees.elsevier.com
+DOMAIN-SUFFIX,droidwin.com
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,dns-leak.com
 DOMAIN-SUFFIX,deepmind.com
