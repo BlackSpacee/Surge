@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-06-04T16:44:08.627Z
-# Size: 277
+# Last Updated: 2025-06-06T14:10:03.828Z
+# Size: 278
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -217,7 +217,8 @@ DOMAIN-KEYWORD,-ulogl2.kwai-pro.com
 DOMAIN-KEYWORD,-ulogl2.kwaipros.com
 DOMAIN-KEYWORD,-ulog.kwai-pro.com
 DOMAIN-KEYWORD,-ulog.ksapisrv.com
-DOMAIN-KEYWORD,-logsdk.kwai-pro.com^
+DOMAIN-KEYWORD,-ulog.region.kwai-pro.com
+DOMAIN-KEYWORD,-logsdk.kwai-pro.com
 DOMAIN-KEYWORD,analytics-cdn.
 DOMAIN-KEYWORD,backstory.ebay.
 DOMAIN-KEYWORD,click.rum.
