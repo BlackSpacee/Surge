@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 112
-# DOMAIN-SUFFIX: 32068
+# DOMAIN-SUFFIX: 32072
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32394
-# UPDATED: 2025-06-15 14:34:24
+# TOTAL: 32398
+# UPDATED: 2025-06-15 20:49:29
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7432,14 +7432,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-14 02:07:54
+# UPDATED: 2025-06-16 02:07:46
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6485
+# DOMAIN-SUFFIX: 6487
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6625
+# TOTAL: 6627
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7450,6 +7450,7 @@ DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,91dasai.com
 DOMAIN-SUFFIX,abpchina.org
+DOMAIN-SUFFIX,abplive.com
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
@@ -7466,10 +7467,8 @@ DOMAIN-SUFFIX,ampproject.net
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,api.amplitude.com
-DOMAIN-SUFFIX,api.linksalpha.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.termius.com
-DOMAIN-SUFFIX,apidocs.linksalpha.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,arcgis.com
@@ -7544,7 +7543,6 @@ DOMAIN-SUFFIX,easybib.com
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,en.hao123.com
 DOMAIN-SUFFIX,entrust.net
-DOMAIN-SUFFIX,epa.gov.tw
 DOMAIN-SUFFIX,even.stream
 DOMAIN-SUFFIX,evernote.com
 DOMAIN-SUFFIX,exam.gov.tw
@@ -7555,6 +7553,7 @@ DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,fda.gov.tw
 DOMAIN-SUFFIX,feedsportal.com
 DOMAIN-SUFFIX,fiftythree.com
+DOMAIN-SUFFIX,financialexpress.com
 DOMAIN-SUFFIX,flexibits.com
 DOMAIN-SUFFIX,freeopenproxy.com
 DOMAIN-SUFFIX,fubo.tv
@@ -7573,9 +7572,9 @@ DOMAIN-SUFFIX,gmocloud.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,go.jp
 DOMAIN-SUFFIX,gosetsuden.jp
-DOMAIN-SUFFIX,help.linksalpha.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,hicairo.com
+DOMAIN-SUFFIX,hindustantimes.com
 DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,hk.hao123img.com
 DOMAIN-SUFFIX,home.sina.com
@@ -7587,6 +7586,8 @@ DOMAIN-SUFFIX,id.hao123.com
 DOMAIN-SUFFIX,immigration.gov.tw
 DOMAIN-SUFFIX,imore.com
 DOMAIN-SUFFIX,imtoken.fans
+DOMAIN-SUFFIX,india.com
+DOMAIN-SUFFIX,indiatoday.in
 DOMAIN-SUFFIX,inf.news
 DOMAIN-SUFFIX,ingress.com
 DOMAIN-SUFFIX,insder.co
@@ -7656,6 +7657,8 @@ DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,nat.gov.tw
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,netmarble.com
+DOMAIN-SUFFIX,newindianexpress.com
+DOMAIN-SUFFIX,news18.com
 DOMAIN-SUFFIX,nhi.gov.tw
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,nih.gov
@@ -7670,7 +7673,6 @@ DOMAIN-SUFFIX,nsc.gov.tw
 DOMAIN-SUFFIX,ntbk.gov.tw
 DOMAIN-SUFFIX,ntbna.gov.tw
 DOMAIN-SUFFIX,ntbt.gov.tw
-DOMAIN-SUFFIX,ntsna.gov.tw
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,ooyala.com
@@ -7717,6 +7719,7 @@ DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,ssa.gov
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,st.luluku.pw
+DOMAIN-SUFFIX,standard.co.uk
 DOMAIN-SUFFIX,stat.gov.tw
 DOMAIN-SUFFIX,state.gov
 DOMAIN-SUFFIX,supermariorun.com
@@ -7736,6 +7739,7 @@ DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,thb.gov.tw
+DOMAIN-SUFFIX,thehansindia.com
 DOMAIN-SUFFIX,tiktokcdn-eu.com
 DOMAIN-SUFFIX,timeinc.net
 DOMAIN-SUFFIX,tinder.com
@@ -7764,7 +7768,6 @@ DOMAIN-SUFFIX,unfiltered.news
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,uploader.jp
 DOMAIN-SUFFIX,upwork.com
-DOMAIN-SUFFIX,userapi.nytlog.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,usgs.gov
 DOMAIN-SUFFIX,v.gd
@@ -7782,7 +7785,6 @@ DOMAIN-SUFFIX,wikileaks.info
 DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,wr.pvp.net
-DOMAIN-SUFFIX,www.linksalpha.com
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xeeno.com
@@ -7829,14 +7831,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-06-14 02:07:32
+# UPDATED: 2025-06-16 02:07:26
 # DOMAIN: 91
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31538
+# DOMAIN-SUFFIX: 31547
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31828
+# TOTAL: 31837
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -8542,6 +8544,7 @@ DOMAIN-SUFFIX,acgfbw.com
 DOMAIN-SUFFIX,acgnmanhua.com
 DOMAIN-SUFFIX,acgvipss.com
 DOMAIN-SUFFIX,acgwr.com
+DOMAIN-SUFFIX,acgww.cyou
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
@@ -15435,6 +15438,7 @@ DOMAIN-SUFFIX,entrust.com
 DOMAIN-SUFFIX,entrustdatacard.com
 DOMAIN-SUFFIX,enveast.ac.uk
 DOMAIN-SUFFIX,environment-health.ac.uk
+DOMAIN-SUFFIX,epa.gov.tw
 DOMAIN-SUFFIX,epc.ac.uk
 DOMAIN-SUFFIX,epic.ac.uk
 DOMAIN-SUFFIX,epicbrowser.com
@@ -19208,7 +19212,6 @@ DOMAIN-SUFFIX,indeedproject.ac.uk
 DOMAIN-SUFFIX,independentdubaiescorts.com
 DOMAIN-SUFFIX,independentoperatorcn.com
 DOMAIN-SUFFIX,indexxx.com
-DOMAIN-SUFFIX,india.com
 DOMAIN-SUFFIX,indiaipad.com
 DOMAIN-SUFFIX,indian-free-xnxx.com
 DOMAIN-SUFFIX,indian-pornstars.com
@@ -23904,6 +23907,7 @@ DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp
 DOMAIN-SUFFIX,ntp2.wakwak.com
 DOMAIN-SUFFIX,ntp3.jst.mfeed.ad.jp
 DOMAIN-SUFFIX,ntp3.v6.mfeed.ad.jp
+DOMAIN-SUFFIX,ntsna.gov.tw
 DOMAIN-SUFFIX,ntten-mg.buzz
 DOMAIN-SUFFIX,ntu.ac.uk
 DOMAIN-SUFFIX,ntyneside.ac.uk
