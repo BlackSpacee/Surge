@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 112
-# DOMAIN-SUFFIX: 32073
+# DOMAIN-SUFFIX: 32076
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32399
-# UPDATED: 2025-06-18 10:06:08
+# TOTAL: 32402
+# UPDATED: 2025-06-18 14:37:32
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-06-16T02:35:39.723Z
-# Size: 1045
+# Last Updated: 2025-06-18T07:47:38.096Z
+# Size: 1048
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -215,6 +215,7 @@ DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,osmand.net
 DOMAIN-SUFFIX,nitter.net
+DOMAIN-SUFFIX,komoot.net
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,dnsleak.asn247.net
@@ -681,6 +682,7 @@ DOMAIN-SUFFIX,macpaw.com
 DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,komoot.com
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,edns.ip-api.com
 DOMAIN-SUFFIX,iheart.com
@@ -803,6 +805,7 @@ DOMAIN-SUFFIX,porn.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,note.com
 DOMAIN-SUFFIX,noip.com
+DOMAIN-SUFFIX,njav.com
 DOMAIN-SUFFIX,nest.com
 DOMAIN-SUFFIX,ndtv.com
 DOMAIN-SUFFIX,mexc.com
