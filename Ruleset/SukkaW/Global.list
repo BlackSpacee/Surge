@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-06-18T07:47:38.096Z
-# Size: 1048
+# Last Updated: 2025-06-19T13:21:09.587Z
+# Size: 1050
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,mayoclinic.org
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,dnschecker.org
 DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,wordpress.org
@@ -947,6 +948,7 @@ DOMAIN-SUFFIX,codesandbox.io
 DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,prometheus.io
+DOMAIN-SUFFIX,macaddress.io
 DOMAIN-SUFFIX,greenhouse.io
 DOMAIN-SUFFIX,globalping.io
 DOMAIN-SUFFIX,canarymail.io

@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 112
-# DOMAIN-SUFFIX: 32076
+# DOMAIN-SUFFIX: 32081
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32402
-# UPDATED: 2025-06-19 14:37:19
+# TOTAL: 32407
+# UPDATED: 2025-06-19 20:53:44
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-06-18T07:47:38.096Z
-# Size: 1048
+# Last Updated: 2025-06-19T13:21:09.587Z
+# Size: 1050
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -94,6 +94,7 @@ DOMAIN-SUFFIX,mayoclinic.org
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,dnschecker.org
 DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,wordpress.org
@@ -957,6 +958,7 @@ DOMAIN-SUFFIX,codesandbox.io
 DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,prometheus.io
+DOMAIN-SUFFIX,macaddress.io
 DOMAIN-SUFFIX,greenhouse.io
 DOMAIN-SUFFIX,globalping.io
 DOMAIN-SUFFIX,canarymail.io
@@ -7436,14 +7438,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-18 02:07:59
+# UPDATED: 2025-06-20 02:07:33
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6489
+# DOMAIN-SUFFIX: 6494
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6629
+# TOTAL: 6634
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7602,6 +7604,7 @@ DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,io.io
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipaddress.com
+DOMAIN-SUFFIX,ipfs.4everland.io
 DOMAIN-SUFFIX,ipn.li
 DOMAIN-SUFFIX,ishowsapp.com
 DOMAIN-SUFFIX,itaiwan.gov.tw
@@ -7664,6 +7667,7 @@ DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,netmarble.com
 DOMAIN-SUFFIX,newindianexpress.com
 DOMAIN-SUFFIX,news18.com
+DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,nhi.gov.tw
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,nih.gov
@@ -7728,6 +7732,7 @@ DOMAIN-SUFFIX,st.luluku.pw
 DOMAIN-SUFFIX,standard.co.uk
 DOMAIN-SUFFIX,stat.gov.tw
 DOMAIN-SUFFIX,state.gov
+DOMAIN-SUFFIX,storry.tv
 DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,symauth.com
@@ -7785,6 +7790,7 @@ DOMAIN-SUFFIX,vox-cdn.com
 DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,w.org
+DOMAIN-SUFFIX,w3s.link
 DOMAIN-SUFFIX,wda.gov.tw
 DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,wikileaks.info
@@ -7837,14 +7843,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-06-18 02:07:39
+# UPDATED: 2025-06-20 02:07:12
 # DOMAIN: 91
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31548
+# DOMAIN-SUFFIX: 31550
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31838
+# TOTAL: 31840
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -23446,7 +23452,6 @@ DOMAIN-SUFFIX,nfsc.global
 DOMAIN-SUFFIX,nfscdict.com
 DOMAIN-SUFFIX,nfscofficial.com
 DOMAIN-SUFFIX,nfsworld.com
-DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,ngc.ac.uk
 DOMAIN-SUFFIX,ngeo.com
 DOMAIN-SUFFIX,ngfiles.com
