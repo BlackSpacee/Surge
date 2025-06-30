@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 131
-# DOMAIN-SUFFIX: 32096
+# DOMAIN-SUFFIX: 32097
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32441
-# UPDATED: 2025-06-30 14:39:20
+# TOTAL: 32442
+# UPDATED: 2025-06-30 20:54:38
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-06-30T09:27:59.079Z
-# Size: 1060
+# Last Updated: 2025-06-30T15:59:40.765Z
+# Size: 1062
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -487,6 +487,7 @@ DOMAIN-SUFFIX,quillbot.com
 DOMAIN-SUFFIX,porntube.com
 DOMAIN-SUFFIX,porntrex.com
 DOMAIN-SUFFIX,pornpics.com
+DOMAIN-SUFFIX,poeditor.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,olympics.com
 DOMAIN-SUFFIX,nytstyle.com
@@ -556,6 +557,7 @@ DOMAIN-SUFFIX,workday.com
 DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,weather.com
+DOMAIN-SUFFIX,wdfiles.com
 DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,verizon.com
@@ -30829,7 +30831,6 @@ DOMAIN-SUFFIX,wct.ac.uk
 DOMAIN-SUFFIX,wd.com
 DOMAIN-SUFFIX,wdc.com
 DOMAIN-SUFFIX,wddcp.ac.uk
-DOMAIN-SUFFIX,wdfiles.com
 DOMAIN-SUFFIX,wea.ac.uk
 DOMAIN-SUFFIX,weald.ac.uk
 DOMAIN-SUFFIX,weareebay.com
