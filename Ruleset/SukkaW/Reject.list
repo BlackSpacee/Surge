@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-06-24T14:03:49.158Z
-# Size: 677
+# Last Updated: 2025-06-30T09:27:58.833Z
+# Size: 680
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -412,6 +412,7 @@ DOMAIN-WILDCARD,install*.zonastat.com
 DOMAIN-WILDCARD,polaris*-normal-*.zijieapi.com
 DOMAIN-WILDCARD,ads*-normal-lq.zijieapi.com
 DOMAIN-WILDCARD,ads*-normal-*.zijieapi.com
+DOMAIN-WILDCARD,ads*-normal*.zijieapi.com
 DOMAIN-WILDCARD,mssdk*.zijieapi.com
 DOMAIN-WILDCARD,tnc*.zijieapi.com
 DOMAIN-WILDCARD,log*.zijieapi.com
@@ -466,11 +467,13 @@ DOMAIN-WILDCARD,host*.rvshare.com
 DOMAIN-WILDCARD,r.reklam*.com
 DOMAIN-WILDCARD,events-api*.outfit7.com
 DOMAIN-WILDCARD,customerevents.us-east-*.internal.dradis.netflix.com
+DOMAIN-WILDCARD,cs*.mp3bars.com
 DOMAIN-WILDCARD,dn*.ixinwei.com
 DOMAIN-WILDCARD,ana*.inews24.com
 DOMAIN-WILDCARD,events-*.op.hicloud.com
 DOMAIN-WILDCARD,ulog*.gifshow.com
 DOMAIN-WILDCARD,mon*-misc-lf.fqnovel.com
+DOMAIN-WILDCARD,mon*-misc.fqnovel.com
 DOMAIN-WILDCARD,*-applog*.fqnovel.com
 DOMAIN-WILDCARD,stats2.*.fdnames.com
 DOMAIN-WILDCARD,mgbsdk*.matrix.easebar.com
