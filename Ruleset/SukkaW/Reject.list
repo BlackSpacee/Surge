@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-06-30T09:27:58.833Z
-# Size: 680
+# Last Updated: 2025-07-01T07:13:41.487Z
+# Size: 681
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -158,6 +158,7 @@ DOMAIN,ttnet-dig.feishu.cn
 DOMAIN,doh.zjurl.cn
 DOMAIN,dns.weibo.cn
 DOMAIN,dns.weixin.qq.com.cn
+DOMAIN,dns.m.sm.cn
 DOMAIN-KEYWORD,.estream.
 DOMAIN-KEYWORD,jshosting
 DOMAIN-KEYWORD,hostingcloud
@@ -237,7 +238,7 @@ DOMAIN-KEYWORD,plausible.
 DOMAIN-KEYWORD,wxsnsdy
 DOMAIN-KEYWORD,adwords
 DOMAIN-KEYWORD,-tracker.biliapi.net
-DOMAIN-KEYWORD,ad.ixigua.com
+DOMAIN-KEYWORD,-ad.ixigua.com
 DOMAIN-KEYWORD,trksvg.business.hsbc.
 DOMAIN-KEYWORD,trkgbm.business.hsbc.
 DOMAIN-KEYWORD,trkhinv.business.hsbc.
