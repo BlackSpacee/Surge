@@ -5,7 +5,7 @@
 # IP-CIDR: 2
 # DEST-PORT: 1
 # TOTAL: 91
-# UPDATED: 2025-07-01 14:39:05
+# UPDATED: 2025-07-01 20:54:51
 
 # Direct+
 DOMAIN,app.adjust.com
@@ -24,8 +24,6 @@ DOMAIN,dl.l.google.com
 DOMAIN,redirector.gvt1.com
 # > Google Flights
 DOMAIN-SUFFIX,googletraveladservices.com
-# > Firebase Cloud Messaging
-DOMAIN-WILDCARD,*mtalk*.google.com
 # ------
 # > Tencent
 DOMAIN,fairplay.l.qq.com
