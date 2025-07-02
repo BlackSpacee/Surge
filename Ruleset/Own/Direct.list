@@ -1,11 +1,11 @@
 # NAME: Direct
 # DOMAIN: 52
-# DOMAIN-SUFFIX: 11
+# DOMAIN-SUFFIX: 12
 # DOMAIN-KEYWORD: 25
 # IP-CIDR: 2
 # DEST-PORT: 1
-# TOTAL: 91
-# UPDATED: 2025-07-01 20:54:51
+# TOTAL: 92
+# UPDATED: 2025-07-02 02:36:18
 
 # Direct+
 DOMAIN,app.adjust.com
@@ -18,12 +18,13 @@ DOMAIN,sycm.mmstat.com
 DOMAIN-SUFFIX,blog.google
 DOMAIN,ci.android.com
 DOMAIN,clientservices.googleapis.com
-DOMAIN,update.googleapis.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,redirector.gvt1.com
+DOMAIN,update.googleapis.com
 # > Google Flights
 DOMAIN-SUFFIX,googletraveladservices.com
+DOMAIN-SUFFIX,googletraveladservices-cn.com
 # ------
 # > Tencent
 DOMAIN,fairplay.l.qq.com
