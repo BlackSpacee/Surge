@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 131
-# DOMAIN-SUFFIX: 32097
+# DOMAIN-SUFFIX: 32098
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32442
-# UPDATED: 2025-07-05 14:35:03
+# TOTAL: 32443
+# UPDATED: 2025-07-05 20:49:49
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7450,14 +7450,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-30 02:07:43
+# UPDATED: 2025-07-06 02:07:36
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6503
+# DOMAIN-SUFFIX: 6504
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6643
+# TOTAL: 6644
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7555,6 +7555,7 @@ DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,dnsimple.com
 DOMAIN-SUFFIX,dockerhub.com
+DOMAIN-SUFFIX,doom9.org
 DOMAIN-SUFFIX,droplr.com
 DOMAIN-SUFFIX,dueapp.com
 DOMAIN-SUFFIX,east-plus.net
@@ -7861,14 +7862,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-06-30 02:07:24
+# UPDATED: 2025-07-06 02:07:16
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31559
+# DOMAIN-SUFFIX: 31560
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31868
+# TOTAL: 31869
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -10291,6 +10292,7 @@ DOMAIN-SUFFIX,avinetworks.com
 DOMAIN-SUFFIX,avinin.com
 DOMAIN-SUFFIX,avizoon.site
 DOMAIN-SUFFIX,avizoone.com
+DOMAIN-SUFFIX,avjb.com
 DOMAIN-SUFFIX,avjiasu.com
 DOMAIN-SUFFIX,avjoy.me
 DOMAIN-SUFFIX,avjzy67.xyz
@@ -14581,7 +14583,6 @@ DOMAIN-SUFFIX,dontbubble.us
 DOMAIN-SUFFIX,donttrack.us
 DOMAIN-SUFFIX,doodhwali.com
 DOMAIN-SUFFIX,doom.com
-DOMAIN-SUFFIX,doom9.org
 DOMAIN-SUFFIX,dopaminegirl.com
 DOMAIN-SUFFIX,dorset-acl.ac.uk
 DOMAIN-SUFFIX,dorset-al.ac.uk
