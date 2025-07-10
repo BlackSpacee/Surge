@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 316
-# DOMAIN-SUFFIX: 119799
+# DOMAIN-SUFFIX: 119801
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 8130
 # IP-CIDR6: 11826
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 140223
-# UPDATED: 2025-07-10 14:39:28
+# TOTAL: 140225
+# UPDATED: 2025-07-10 20:55:51
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,8 +244,8 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-06-23T15:23:00.241Z
-# Size: 802
+# Last Updated: 2025-07-10T15:33:45.359Z
+# Size: 805
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -407,6 +407,7 @@ DOMAIN-SUFFIX,bytednsdoc.com
 DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,bilicomics.com
 DOMAIN-SUFFIX,alibabadns.com
+DOMAIN-SUFFIX,4008823823.com
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,youzanyun.com
 DOMAIN-SUFFIX,yangkeduo.com
@@ -775,6 +776,7 @@ DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,iciba.com
+DOMAIN-SUFFIX,hwwt8.com
 DOMAIN-SUFFIX,huxiu.com
 DOMAIN-SUFFIX,honor.com
 DOMAIN-SUFFIX,hdslb.com
@@ -958,6 +960,7 @@ DOMAIN-SUFFIX,pplive.cn
 DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,mybank.cn
 DOMAIN-SUFFIX,mifile.cn
+DOMAIN-SUFFIX,kfcapp.cn
 DOMAIN-SUFFIX,ipanda.cn
 DOMAIN-SUFFIX,hwccpc.cn
 DOMAIN-SUFFIX,huawei.cn
@@ -54449,7 +54452,6 @@ DOMAIN-SUFFIX,hwsupplychain.com
 DOMAIN-SUFFIX,hwtelcloud.com
 DOMAIN-SUFFIX,hwtzdl.com
 DOMAIN-SUFFIX,hwwt2.com
-DOMAIN-SUFFIX,hwwt8.com
 DOMAIN-SUFFIX,hwxc.com
 DOMAIN-SUFFIX,hwxda.com
 DOMAIN-SUFFIX,hwxfc.com
