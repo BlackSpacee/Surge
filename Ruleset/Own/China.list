@@ -1,5 +1,5 @@
 # NAME: China
-# DOMAIN: 316
+# DOMAIN: 317
 # DOMAIN-SUFFIX: 119801
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
@@ -7,8 +7,8 @@
 # IP-CIDR6: 11826
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 140225
-# UPDATED: 2025-07-11 10:18:57
+# TOTAL: 140226
+# UPDATED: 2025-07-11 14:39:16
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,8 +244,8 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-07-10T15:33:45.359Z
-# Size: 805
+# Last Updated: 2025-07-11T11:31:42.180Z
+# Size: 810
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -260,6 +260,7 @@ DOMAIN-SUFFIX,icourse163.org
 DOMAIN-SUFFIX,miot-spec.org
 DOMAIN-SUFFIX,docschina.org
 DOMAIN-SUFFIX,solidot.org
+DOMAIN-SUFFIX,taobao.org
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,9966.org
 DOMAIN-SUFFIX,8866.org
@@ -268,6 +269,7 @@ DOMAIN-SUFFIX,7766.org
 DOMAIN-SUFFIX,6600.org
 DOMAIN-SUFFIX,3322.org
 DOMAIN-SUFFIX,2288.org
+DOMAIN,kms.03k.org
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,coolapkmarket.net
 DOMAIN-SUFFIX,yunjiasu-cdn.net
@@ -459,6 +461,7 @@ DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytecdntp.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilicomic.com
+DOMAIN-SUFFIX,alipaydev.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,zijieapi.com
@@ -612,6 +615,7 @@ DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,baixing.com
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,antpcdn.com
+DOMAIN-SUFFIX,alimama.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,abchina.com
@@ -871,6 +875,7 @@ DOMAIN-SUFFIX,127.com
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,111.com
+DOMAIN-SUFFIX,110.com
 DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,so.com
 DOMAIN-SUFFIX,qq.com
@@ -1747,7 +1752,6 @@ DOMAIN-SUFFIX,aliexpress.ru
 DOMAIN-SUFFIX,alifanyi.com
 DOMAIN-SUFFIX,alihealth.hk
 DOMAIN-SUFFIX,alikmd.com
-DOMAIN-SUFFIX,alimama.com
 DOMAIN-SUFFIX,alimebot.com
 DOMAIN-SUFFIX,alimei.com
 DOMAIN-SUFFIX,alipay.hk
@@ -3795,7 +3799,6 @@ DOMAIN-SUFFIX,tandfonline.com
 DOMAIN-SUFFIX,tangeche.com
 DOMAIN-SUFFIX,tanxlog.istreamsche.com
 DOMAIN-SUFFIX,tao123.com
-DOMAIN-SUFFIX,taobao.org
 DOMAIN-SUFFIX,taobizhong.com
 DOMAIN-SUFFIX,taoche.com
 DOMAIN-SUFFIX,taomee.com
@@ -4787,7 +4790,6 @@ DOMAIN-SUFFIX,alipay-inc.com
 DOMAIN-SUFFIX,alipay-traffic.com
 DOMAIN-SUFFIX,alipay.net
 DOMAIN-SUFFIX,alipaydesign.com
-DOMAIN-SUFFIX,alipaydev.com
 DOMAIN-SUFFIX,alipayeshop.com
 DOMAIN-SUFFIX,luohanacademy.com
 DOMAIN-SUFFIX,10029.com
@@ -7129,7 +7131,6 @@ DOMAIN-SUFFIX,10tianqi.com
 DOMAIN-SUFFIX,10vps.com
 DOMAIN-SUFFIX,10xiang.net
 DOMAIN-SUFFIX,10yan.com
-DOMAIN-SUFFIX,110.com
 DOMAIN-SUFFIX,11000011.com
 DOMAIN-SUFFIX,110160.com
 DOMAIN-SUFFIX,110ask.com
