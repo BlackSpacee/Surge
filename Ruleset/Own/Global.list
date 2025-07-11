@@ -7,7 +7,7 @@
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 32451
-# UPDATED: 2025-07-11 14:39:16
+# UPDATED: 2025-07-11 20:54:29
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7461,14 +7461,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-06 02:07:36
+# UPDATED: 2025-07-12 02:07:43
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6504
+# DOMAIN-SUFFIX: 6507
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6644
+# TOTAL: 6647
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7501,6 +7501,7 @@ DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,applecensorship.com
+DOMAIN-SUFFIX,ar.hao123.com
 DOMAIN-SUFFIX,arcgis.com
 DOMAIN-SUFFIX,archives.gov.tw
 DOMAIN-SUFFIX,armorgames.com
@@ -7872,7 +7873,7 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-07-06 02:07:16
+# UPDATED: 2025-07-12 02:07:22
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 31560
@@ -9855,7 +9856,6 @@ DOMAIN-SUFFIX,apuc-scot.ac.uk
 DOMAIN-SUFFIX,apyle.com
 DOMAIN-SUFFIX,aqmen.ac.uk
 DOMAIN-SUFFIX,aquinas.ac.uk
-DOMAIN-SUFFIX,ar.hao123.com
 DOMAIN-SUFFIX,arabianchicks.com
 DOMAIN-SUFFIX,arabidopsis.org
 DOMAIN-SUFFIX,arabnek.com
