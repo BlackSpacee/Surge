@@ -20,11 +20,8 @@ jobs:
       - name: Fork files to Ruleset
         run: |
           # Apple
-          curl -A "Surge iOS/3367" -L -o Surge-repo/Ruleset/APNs.list "https://kelee.one/Tool/Loon/Rule/ApplePushNotificationService.list"
+          curl -A "Surge iOS/3367" -L -o Surge-repo/Ruleset/APNs.list "https://kelee.one/Tool/Loon/Lsr/ApplePushNotificationService.lsr"
           curl -L -o Surge-repo/Ruleset/Apple.list "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Apple.list"
-
-          # OoklaSpeedtest
-          curl -A "Surge iOS/3367" -L -o Surge-repo/Ruleset/Speedtest.list "https://kelee.one/Tool/Loon/Rule/OoklaSpeedtest.list"
 
           # OpenAI
           curl -L -o Surge-repo/Ruleset/OpenAI.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list"
@@ -33,7 +30,7 @@ jobs:
           mkdir -p Surge-repo/Ruleset/AIGC
           curl -L -o Surge-repo/Ruleset/AIGC/Claude.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Claude.list"
           curl -L -o Surge-repo/Ruleset/AIGC/AI_SukkaW.list "https://ruleset.skk.moe/List/non_ip/ai.conf"
-          curl -A "Surge iOS/3367" -L -o Surge-repo/Ruleset/AIGC/AI_KELI.list "https://kelee.one/Tool/Loon/Rule/AI.list"
+          curl -A "Surge iOS/3367" -L -o Surge-repo/Ruleset/AIGC/AI_KELI.list "https://kelee.one/Tool/Loon/Lsr/AI.lsr"
 
           # 社交媒体
           curl -L -o Surge-repo/Ruleset/Telegram.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Telegram.list"

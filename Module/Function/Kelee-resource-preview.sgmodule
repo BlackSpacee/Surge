@@ -1,0 +1,10 @@
+#!name = 预览 kelee 资源
+#!desc = 预览 kelee.one 网站中的资源
+
+[Header Rewrite]
+http-response ^https:\/\/(.*\.)?kelee\.one(\/.*)? header-add content-disposition inline
+http-response ^https:\/\/(.*\.)?kelee\.one(\/.*)? header-replace content-type "text/plain; charset=utf-8"
+http-request ^https:\/\/(.*\.)?kelee\.one(\/.*)? header-replace User-Agent "Surge iOS/9527"
+
+[MITM]
+hostname = %APPEND% *.kelee.one, kelee.one

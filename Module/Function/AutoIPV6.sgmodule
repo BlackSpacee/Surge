@@ -1,0 +1,7 @@
+#!name= Auto IPv6
+#!desc=自动切换 IPv6
+#!arguments=SSID:'"fwo,wifi"'
+#!arguments-desc=作用：模块的主要目的是根据特定规则（WiFi SSID 或网络状态）自动管理IPV6模块的启用/禁用状态。\n\n\n参数：\nfwo:蜂窝数据下开启IPV6\nwifi:所有WiFi下开启IPV6\nnet:根据网络情况自动开启或关闭IPV6（填写net后请勿填其他任何参数）\n填写WiFi的SSID开启对应的IPV6\n\n注：参数要加""\n\n默认参数："fwo,wifi"  即蜂窝数据和任何WiFi都开启IPV6\n\n\n用法：\n如果你仅需要在特定的WiFi或者蜂窝数据下开启IPV6，那么就填上对应的SSID，多个的话用英文,分割\n例：\n我仅需要开启IPV6的WiFi是xxx_5G，那么就填"xxx_5G"\n我仅需要在蜂窝状态下开启IPV6，那么就填"fwo"\n我想要所有WiFi都开启IPV6就填"wifi"\n我想要蜂窝数据和SSID为xxx_5G的WiFi都开启IPV6，就填"fwo,xxx_5G"\n\n如果我要特定的WiFi不开启（其余的全部开启）就在WiFi前面加个!\n例：\n我要xxx和yyy不开启IPV6，其余全部开启，那就填"!xxx,!yyy"\n\n注：只要填有一个带有!的SSID，那么除了这个WiFi，其余全部默认开启IPV6
+
+[Script]
+IPv6 = type=event,event-name=network-changed,script-path=https://gist.githubusercontent.com/BlackSpacee/7c61882e2b3fac8dfcb9ebfe691af7c6/raw/IPV6.js,engine=jsc,argument={{{SSID}}}

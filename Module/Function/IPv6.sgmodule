@@ -1,0 +1,7 @@
+#!name= IPv6
+#!desc= IPv6 加 VIF
+#!category=IPv6
+
+[General]
+ipv6 = true
+ipv6-vif = disabled
