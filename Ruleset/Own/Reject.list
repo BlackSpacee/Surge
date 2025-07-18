@@ -8,7 +8,7 @@
 # USER-AGENT: 1
 # URL-REGEX: 2
 # TOTAL: 5689
-# UPDATED: 2025-07-18 10:21:38
+# UPDATED: 2025-07-18 14:40:27
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-07-15T12:51:38.389Z
-# Size: 680
+# Last Updated: 2025-07-18T12:52:15.214Z
+# Size: 684
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1759,11 +1759,13 @@ DOMAIN-WILDCARD,v.tzbox*.xyz
 DOMAIN-WILDCARD,evri.*.xyz
 DOMAIN-WILDCARD,bitvavo*.vip
 DOMAIN-WILDCARD,baoviet*.vip
+DOMAIN-WILDCARD,informed.delivery*.top
 DOMAIN-WILDCARD,bitvavo*.top
 DOMAIN-WILDCARD,baoviet*.top
 DOMAIN-WILDCARD,press-continue.*.top
 DOMAIN-WILDCARD,vincomplaza.*.top
 DOMAIN-WILDCARD,govuk.*.top
+DOMAIN-WILDCARD,usps.*.sbs
 DOMAIN-WILDCARD,ad*.bilgin.pro
 DOMAIN-WILDCARD,geoloc*.geovisite.ovh
 DOMAIN-WILDCARD,geoloc*.geostats.ovh
@@ -2029,6 +2031,7 @@ DOMAIN-WILDCARD,report.*.qq.com
 DOMAIN-WILDCARD,apple-*.le.com
 DOMAIN-WILDCARD,c.blue.*.com
 DOMAIN-WILDCARD,irs.gov.*.com
+DOMAIN-WILDCARD,plum-binder-*.typedream.app
 DOMAIN-WILDCARD,support-metahelpcenter-id*.netlify.app
 DOMAIN-WILDCARD,govern-assessment-validation-*.vercel.app
 DOMAIN-WILDCARD,safety-profiles-fb-ads-*.vercel.app
@@ -2138,6 +2141,7 @@ DOMAIN-WILDCARD,icloud.apple-*.cn
 DOMAIN-WILDCARD,gcw*.2liang.cn
 DOMAIN-WILDCARD,bdcpro*.techweb.com.cn
 DOMAIN-WILDCARD,ysdm*.ys137.com.cn
+DOMAIN-WILDCARD,info-tracking*.cc
 DOMAIN-WILDCARD,newmall*.cc
 DOMAIN-WILDCARD,bitvavo*.cc
 DOMAIN-WILDCARD,ad*.on.cc
