@@ -8,7 +8,7 @@
 # USER-AGENT: 1
 # URL-REGEX: 2
 # TOTAL: 5690
-# UPDATED: 2025-07-21 14:40:50
+# UPDATED: 2025-07-21 20:58:37
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-07-21T08:09:50.050Z
-# Size: 685
+# Last Updated: 2025-07-21T15:51:51.815Z
+# Size: 689
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1980,6 +1980,7 @@ DOMAIN-WILDCARD,invenio_tracking_*.sgnapps.com
 DOMAIN-WILDCARD,block.s*block.com
 DOMAIN-WILDCARD,host*.rvshare.com
 DOMAIN-WILDCARD,r.reklam*.com
+DOMAIN-WILDCARD,dhl.*.potabox.com
 DOMAIN-WILDCARD,events-api*.outfit7.com
 DOMAIN-WILDCARD,customerevents.us-east-*.internal.dradis.netflix.com
 DOMAIN-WILDCARD,cs*.mp3bars.com
@@ -2132,6 +2133,9 @@ DOMAIN-WILDCARD,f-log-*.grammarly.io
 DOMAIN-WILDCARD,f-log*.grammarly.io
 DOMAIN-WILDCARD,c*hit.zerkalo.io
 DOMAIN-WILDCARD,metamask*.webflow.io
+DOMAIN-WILDCARD,*-ndax-*.webflow.io
+DOMAIN-WILDCARD,*-sso-*.webflow.io
+DOMAIN-WILDCARD,sso-*.webflow.io
 DOMAIN-WILDCARD,eum*.instana.io
 DOMAIN-WILDCARD,report.*.gbqofs.io
 DOMAIN-WILDCARD,pixel*.production-public.tubi.io
