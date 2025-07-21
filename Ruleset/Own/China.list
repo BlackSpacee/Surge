@@ -8,18 +8,18 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 139989
-# UPDATED: 2025-07-21 10:26:47
+# UPDATED: 2025-07-21 14:40:50
 
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2025-06-21T07:43:06.849Z
+# Last Updated: 2025-07-21T08:09:50.441Z
 # Size: 50
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file includes rules for LAN DOMAIN and reserved TLDs.
-DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
+DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,internal
 DOMAIN,mobile.hotspot
@@ -244,7 +244,6 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-07-11T11:31:42.180Z
 # Size: 810
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work

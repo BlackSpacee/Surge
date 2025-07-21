@@ -7,18 +7,18 @@
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 32454
-# UPDATED: 2025-07-21 10:26:47
+# UPDATED: 2025-07-21 14:40:50
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-07-20T16:47:24.767Z
-# Size: 1082
+# Last Updated: 2025-07-21T09:52:52.367Z
+# Size: 1083
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are not available inside the Mainland China.
-DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
+DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,x.company
@@ -567,6 +567,7 @@ DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xgroovy.com
 DOMAIN-SUFFIX,xfinity.com
 DOMAIN-SUFFIX,workday.com
+DOMAIN-SUFFIX,wikihow.com
 DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,weather.com
@@ -31054,7 +31055,6 @@ DOMAIN-SUFFIX,wiivc.net
 DOMAIN-SUFFIX,wikia.nocookie.net
 DOMAIN-SUFFIX,wikia.org
 DOMAIN-SUFFIX,wikifeet.com
-DOMAIN-SUFFIX,wikihow.com
 DOMAIN-SUFFIX,wikimediacloud.org
 DOMAIN-SUFFIX,wikimediafoundation.org
 DOMAIN-SUFFIX,wikiporn.tv
