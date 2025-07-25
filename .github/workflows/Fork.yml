@@ -47,8 +47,6 @@ jobs:
           curl -L -o Surge-repo/Ruleset/ProxyMedia/ProxyMedia.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list"
           curl -L -o Surge-repo/Ruleset/SukkaW/Stream.list "https://ruleset.skk.moe/List/non_ip/stream.conf"
 
-          mkdir -p Surge-repo/Ruleset/TikTok
-          curl -A "Surge iOS/3367" -L -o Surge-repo/Ruleset/TikTok/TikTok.list "https://rule.kelee.one/Loon/TikTok.lsr"
           mkdir -p Surge-repo/Ruleset/Netflix
           curl -L -o Surge-repo/Ruleset/Netflix/Netflix.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list"
 
@@ -127,7 +125,7 @@ jobs:
           curl -L -o Surge-repo/Ruleset/SukkaW/ChinaDownLoad.list "https://ruleset.skk.moe/List/non_ip/direct.conf"
           curl -L -o Surge-repo/Ruleset/SukkaW/China.list "https://ruleset.skk.moe/List/non_ip/domestic.conf"
           curl -L -o Surge-repo/Ruleset/SukkaW/ChinaIP.list "https://ruleset.skk.moe/List/ip/china_ip.conf"
-          curl -L -o Surge-repo/Ruleset/SukkaW/iCloud_Private_Relay.list "https://ruleset.skk.moe/List/domainset/icloud_private_relay"
+          curl -L -o Surge-repo/Ruleset/SukkaW/iCloud_Private_Relay.list "https://ruleset.skk.moe/List/domainset/icloud_private_relay.conf"
           curl -L -o Surge-repo/Ruleset/SukkaW/Local_DNS_Mapping.sgmodule "https://ruleset.skk.moe/Modules/sukka_local_dns_mapping.sgmodule"
           curl -L -o Surge-repo/Ruleset/SukkaW/Local_DNS_Mapping.ts "https://raw.githubusercontent.com/SukkaW/Surge/master/Source/non_ip/domestic.ts"
 
