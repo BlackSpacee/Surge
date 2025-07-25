@@ -20,7 +20,7 @@ jobs:
       - name: Fork files to Ruleset
         run: |
           # Apple
-          curl -A "Surge iOS/3367" -L -o Surge-repo/Ruleset/APNs.list "https://kelee.one/Tool/Loon/Lsr/ApplePushNotificationService.lsr"
+          curl -L -o Surge-repo/Ruleset/APNs.list "https://raw.githubusercontent.com/Repcz/Tool/refs/heads/X/Surge/Rules/APNs.list"
           curl -L -o Surge-repo/Ruleset/Apple.list "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Apple.list"
 
           # OpenAI
@@ -29,8 +29,8 @@ jobs:
           # AIGC(SukkaW&KELI) (ChatGPT, Copilot, Gemini, Claude...)
           mkdir -p Surge-repo/Ruleset/AIGC
           curl -L -o Surge-repo/Ruleset/AIGC/Claude.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Claude.list"
+          curl -L -o Surge-repo/Ruleset/AIGC/xAI.list "https://raw.githubusercontent.com/Repcz/Tool/refs/heads/X/Surge/Rules/xAI.list"
           curl -L -o Surge-repo/Ruleset/AIGC/AI_SukkaW.list "https://ruleset.skk.moe/List/non_ip/ai.conf"
-          curl -A "Surge iOS/3367" -L -o Surge-repo/Ruleset/AIGC/AI_KELI.list "https://kelee.one/Tool/Loon/Lsr/AI.lsr"
 
           # 社交媒体
           curl -L -o Surge-repo/Ruleset/Telegram.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Telegram.list"
@@ -45,9 +45,10 @@ jobs:
           mkdir -p Surge-repo/Ruleset/ProxyMedia
           curl -L -o Surge-repo/Ruleset/ProxyMedia/Emby.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Emby.list"
           curl -L -o Surge-repo/Ruleset/ProxyMedia/ProxyMedia.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list"
+          curl -L -o Surge-repo/Ruleset/SukkaW/Stream.list "https://ruleset.skk.moe/List/non_ip/stream.conf"
 
           mkdir -p Surge-repo/Ruleset/TikTok
-          curl -A "Surge iOS/3367" -L -o Surge-repo/Ruleset/TikTok/TikTok.list "https://kelee.one/Tool/Loon/Rule/TikTok.list"
+          curl -A "Surge iOS/3367" -L -o Surge-repo/Ruleset/TikTok/TikTok.list "https://rule.kelee.one/Loon/TikTok.lsr"
           mkdir -p Surge-repo/Ruleset/Netflix
           curl -L -o Surge-repo/Ruleset/Netflix/Netflix.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list"
 
@@ -117,14 +118,25 @@ jobs:
           mkdir -p Surge-repo/Ruleset/SukkaW
           curl -L -o Surge-repo/Ruleset/SukkaW/Sougou.list "https://ruleset.skk.moe/List/non_ip/sogouinput.conf"
           curl -L -o Surge-repo/Ruleset/SukkaW/Reject.list "https://ruleset.skk.moe/List/non_ip/reject.conf"
+          curl -L -o Surge-repo/Ruleset/SukkaW/Reject-drop.list "https://ruleset.skk.moe/List/ip/reject.conf"
+          curl -L -o Surge-repo/Ruleset/SukkaW/Reject-no-drop.list "https://ruleset.skk.moe/List/non_ip/reject-no-drop.conf"
+          curl -L -o Surge-repo/Ruleset/SukkaW/SpeedTest.list "https://ruleset.skk.moe/List/domainset/speedtest.conf"
           curl -L -o Surge-repo/Ruleset/SukkaW/Global.list "https://ruleset.skk.moe/List/non_ip/global.conf"
           curl -L -o Surge-repo/Ruleset/SukkaW/LAN "https://ruleset.skk.moe/List/ip/lan.conf"
           curl -L -o Surge-repo/Ruleset/SukkaW/LAN.list "https://ruleset.skk.moe/List/non_ip/lan.conf"
           curl -L -o Surge-repo/Ruleset/SukkaW/ChinaDownLoad.list "https://ruleset.skk.moe/List/non_ip/direct.conf"
           curl -L -o Surge-repo/Ruleset/SukkaW/China.list "https://ruleset.skk.moe/List/non_ip/domestic.conf"
+          curl -L -o Surge-repo/Ruleset/SukkaW/ChinaIP.list "https://ruleset.skk.moe/List/ip/china_ip.conf"
+          curl -L -o Surge-repo/Ruleset/SukkaW/iCloud_Private_Relay.list "https://ruleset.skk.moe/List/domainset/icloud_private_relay"
           curl -L -o Surge-repo/Ruleset/SukkaW/Local_DNS_Mapping.sgmodule "https://ruleset.skk.moe/Modules/sukka_local_dns_mapping.sgmodule"
           curl -L -o Surge-repo/Ruleset/SukkaW/Local_DNS_Mapping.ts "https://raw.githubusercontent.com/SukkaW/Surge/master/Source/non_ip/domestic.ts"
 
+          # SukkaW CDN
+          curl -L -o Surge-repo/Ruleset/CDN/Apple_CN_CDN.list "https://ruleset.skk.moe/List/non_ip/apple_cdn.conf"
+          curl -L -o Surge-repo/Ruleset/CDN/MicroSoft_CN_CDN.list "https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf"
+          curl -L -o Surge-repo/Ruleset/CDN/DomainSetCDN.list "https://ruleset.skk.moe/List/domainset/cdn.conf"
+          curl -L -o Surge-repo/Ruleset/CDN/CDN.list "https://ruleset.skk.moe/List/non_ip/cdn.conf"
+          
 
       - name: Fork ios_rule_script Repository
         uses: actions/checkout@v4.2.2
@@ -222,6 +234,20 @@ jobs:
               echo "$file not found."
             fi
           done
+        
+      - name: Edit Ruleset/CDN
+        run: |
+            cd Surge-repo/Ruleset/CDN
+            for file in DomainSetCDN.list; do
+              if [ -f "$file" ]; then
+                # 将每一行的第一个.替换为 DOMAIN-SUFFIX,
+                sed -i 's/^\./DOMAIN-SUFFIX,/' "$file"
+                # 将除了以#开头、空行和以DOMAIN-SUFFIX开头之外的行，在行首添加 DOMAIN-SUFFIX,
+                sed -i '/^\s*$/b; /^\s*#/b; /^DOMAIN-SUFFIX,/b; s/^\([^#]\)/DOMAIN-SUFFIX,\1/' "$file"
+              else
+                echo "$file not found."
+              fi
+            done
 
 
         # 合并规则
@@ -270,6 +296,37 @@ jobs:
           fi
 
 
+      - name: Output Apple MicroSoft CN CDN.list
+        run: |
+          touch Surge-repo/Ruleset/Own/Apple_MicroSoft_CDN.list
+          if [ -f "Surge-repo/Ruleset/Own/Apple_MicroSoft_CDN.list" ] ; then
+          # 清空 Apple_MicroSoft_CDN.list 文件
+          > Surge-repo/Ruleset/Own/Apple_MicroSoft_CDN.list
+          cat Surge-repo/Ruleset/CDN/Apple_CN_CDN.list >> Surge-repo/Ruleset/Own/Apple_MicroSoft_CDN.list
+          cat Surge-repo/Ruleset/Empty/Empty1.list >> Surge-repo/Ruleset/Own/Apple_MicroSoft_CDN.list
+          cat Surge-repo/Ruleset/CDN/MicroSoft_CN_CDN.list >> Surge-repo/Ruleset/Own/Apple_MicroSoft_CDN.list
+          # 使用awk进行去重, 保留注释行, 方便排查问题和反馈.
+          awk '!seen[$0]++' Surge-repo/Ruleset/Own/Apple_MicroSoft_CDN.list > tmpfile && mv tmpfile Surge-repo/Ruleset/Own/Apple_MicroSoft_CDN.list
+          else
+            echo "$file not found."
+          fi
+        
+      - name: CDN.list
+        run: |
+          touch Surge-repo/Ruleset/Own/CDN.list
+          if [ -f "Surge-repo/Ruleset/Own/CDN.list" ] ; then
+          # 清空 CDN.list 文件
+          > Surge-repo/Ruleset/Own/CDN.list
+          cat Surge-repo/Ruleset/CDN/DomainSetCDN.list >> Surge-repo/Ruleset/Own/CDN.list
+          cat Surge-repo/Ruleset/Empty/Empty1.list >> Surge-repo/Ruleset/Own/CDN.list
+          cat Surge-repo/Ruleset/CDN/CDN.list >> Surge-repo/Ruleset/Own/CDN.list
+          # 使用awk进行去重, 保留注释行, 方便排查问题和反馈.
+          awk '!seen[$0]++' Surge-repo/Ruleset/Own/CDN.list > tmpfile && mv tmpfile Surge-repo/Ruleset/Own/CDN.list
+          else
+            echo "$file not found."
+          fi
+
+
         # 国外域名
       - name: Output Global.list
         run: |
@@ -304,10 +361,12 @@ jobs:
             cat Surge-repo/Ruleset/Empty/Empty2.list >> Surge-repo/Ruleset/Own/China.list
             cat Surge-repo/Ruleset/SukkaW/China.list >> Surge-repo/Ruleset/Own/China.list
             cat Surge-repo/Ruleset/Empty/Empty3.list >> Surge-repo/Ruleset/Own/China.list
-            cat Surge-repo/Ruleset/ChinaDomain/ChinaDomain.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/SukkaW/ChinaIP.list >> Surge-repo/Ruleset/Own/China.list
             cat Surge-repo/Ruleset/Empty/Empty4.list >> Surge-repo/Ruleset/Own/China.list
-            cat Surge-repo/Ruleset/China/China_All_No_Resolve.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/ChinaDomain/ChinaDomain.list >> Surge-repo/Ruleset/Own/China.list
             cat Surge-repo/Ruleset/Empty/Empty5.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/China/China_All_No_Resolve.list >> Surge-repo/Ruleset/Own/China.list
+            cat Surge-repo/Ruleset/Empty/Empty6.list >> Surge-repo/Ruleset/Own/China.list
             cat Surge-repo/Ruleset/ChinaMax/ChinaMax_All_No_Resolve.list >> Surge-repo/Ruleset/Own/China.list
             # 使用awk进行去重, 保留注释行, 方便排查问题和反馈.
             awk '!seen[$0]++' Surge-repo/Ruleset/Own/China.list > tmpfile && mv tmpfile Surge-repo/Ruleset/Own/China.list
