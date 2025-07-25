@@ -132,6 +132,7 @@ jobs:
           curl -L -o Surge-repo/Ruleset/SukkaW/Local_DNS_Mapping.ts "https://raw.githubusercontent.com/SukkaW/Surge/master/Source/non_ip/domestic.ts"
 
           # SukkaW CDN
+          mkdir -p Surge-repo/Ruleset/CDN
           curl -L -o Surge-repo/Ruleset/CDN/Apple_CN_CDN.list "https://ruleset.skk.moe/List/non_ip/apple_cdn.conf"
           curl -L -o Surge-repo/Ruleset/CDN/MicroSoft_CN_CDN.list "https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf"
           curl -L -o Surge-repo/Ruleset/CDN/DomainSetCDN.list "https://ruleset.skk.moe/List/domainset/cdn.conf"
