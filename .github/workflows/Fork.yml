@@ -20,7 +20,7 @@ jobs:
       - name: Fork files to Ruleset
         run: |
           # Apple
-          curl -L -o Surge-repo/Ruleset/APNs.list "https://raw.githubusercontent.com/Repcz/Tool/refs/heads/X/Surge/Rules/APNs.list"
+          curl -L -o Surge-repo/Ruleset/APNs.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/APNs.list"
           curl -L -o Surge-repo/Ruleset/Apple.list "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Apple.list"
 
           # OpenAI
@@ -29,7 +29,7 @@ jobs:
           # AIGC(SukkaW&KELI) (ChatGPT, Copilot, Gemini, Claude...)
           mkdir -p Surge-repo/Ruleset/AIGC
           curl -L -o Surge-repo/Ruleset/AIGC/Claude.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Claude.list"
-          curl -L -o Surge-repo/Ruleset/AIGC/xAI.list "https://raw.githubusercontent.com/Repcz/Tool/refs/heads/X/Surge/Rules/xAI.list"
+          curl -L -o Surge-repo/Ruleset/AIGC/xAI.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/xAI.list"
           curl -L -o Surge-repo/Ruleset/AIGC/AI_SukkaW.list "https://ruleset.skk.moe/List/non_ip/ai.conf"
 
           # 社交媒体
@@ -100,7 +100,7 @@ jobs:
           # LucY
           mkdir -p Surge-repo/Ruleset/LucY
           curl -L -o Surge-repo/Ruleset/LucY/ByBit.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Crypto.list"
-          curl -L -o Surge-repo/Ruleset/LucY/DeepSeek.list "https://raw.githubusercontent.com/Repcz/Tool/refs/heads/X/Surge/Custom/DeepSeek.list"
+          curl -L -o Surge-repo/Ruleset/LucY/DeepSeek.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/DeepSeek.list"
           curl -L -o Surge-repo/Ruleset/LucY/Direct.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Direct.list"
           curl -L -o Surge-repo/Ruleset/LucY/Reject.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Reject.list"
           curl -L -o Surge-repo/Ruleset/LucY/Proxy.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Proxy.list"
