@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject No Drop
-# Last Updated: 2025-07-21T08:09:50.400Z
-# Size: 31
+# Last Updated: 2025-07-26T11:26:48.239Z
+# Size: 35
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,yfcdn.net
 DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN-SUFFIX,tianwenca.com
 DOMAIN-SUFFIX,pkoplink.com
+DOMAIN,qn-cdnfile1pcdn.msstatic.com
+DOMAIN,livewebbs2pcdn.msstatic.com
 DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,yfcloud.com
 DOMAIN-SUFFIX,saxysec.com
@@ -32,6 +34,8 @@ DOMAIN-SUFFIX,cdnnodedns.cn
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,p2perrorlog.douyucdn.cn
 DOMAIN-SUFFIX,p2plog.douyucdn.cn
+DOMAIN-KEYWORD,-p2p.pull.yximgs.com
+DOMAIN-KEYWORD,-p2p-v2.pull.yximgs.com
 DOMAIN-WILDCARD,p2pchunk-*.douyucdn.cn
 DOMAIN-WILDCARD,p2plive-*.douyucdn.cn
 DOMAIN-WILDCARD,p2p*-ws.douyucdn.cn

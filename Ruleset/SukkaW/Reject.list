@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-07-25T12:51:07.916Z
-# Size: 691
+# Last Updated: 2025-07-26T11:26:47.965Z
+# Size: 692
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -269,6 +269,7 @@ DOMAIN-KEYWORD,trkhinv.business.hsbc.
 DOMAIN-KEYWORD,trkcmb.business.hsbc.
 DOMAIN-KEYWORD,-analytics-events.apple.com
 DOMAIN-KEYWORD,-ad.video.yximgs.com
+DOMAIN-KEYWORD,-ad.a.yximgs.com
 DOMAIN-KEYWORD,-ad.sm.cn
 DOMAIN-KEYWORD,-ad.wtzw.com
 DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com
