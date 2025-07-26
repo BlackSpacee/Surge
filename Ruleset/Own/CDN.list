@@ -1,7 +1,15 @@
+# NAME: CDN
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 3706
+# DOMAIN-KEYWORD: 20
+# URL-REGEX: 2
+# TOTAL: 3733
+# UPDATED: 2025-07-26 10:11:16
+
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-07-23T11:34:49.265Z
-# Size: 3698
+# Last Updated: 2025-07-26T06:12:15.394Z
+# Size: 3706
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -929,6 +937,7 @@ DOMAIN-SUFFIX,kc-usercontent.com
 DOMAIN-SUFFIX,content.kaspersky-labs.com
 DOMAIN-SUFFIX,isitmaintained.com
 DOMAIN-SUFFIX,code.ionicframework.com
+DOMAIN-SUFFIX,icons.internetbrands.com
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,img.huffingtonpost.com
 DOMAIN-SUFFIX,cdn.gethypervisual.com
@@ -1474,6 +1483,7 @@ DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,chart.googleapis.com
 DOMAIN-SUFFIX,ajax.googleapis.com
 DOMAIN-SUFFIX,sync.getpublica.com
+DOMAIN-SUFFIX,connect.getflowbox.com
 DOMAIN-SUFFIX,assets.fxnetworks.com
 DOMAIN-SUFFIX,euc-widget.freshworks.com
 DOMAIN-SUFFIX,widget.freshworks.com
@@ -2018,6 +2028,7 @@ DOMAIN-SUFFIX,api.dicebear.com
 DOMAIN-SUFFIX,dditscdn.com
 DOMAIN-SUFFIX,dditsadn.com
 DOMAIN-SUFFIX,cdn.datacamp.com
+DOMAIN-SUFFIX,script.custobar.com
 DOMAIN-SUFFIX,cdn.credible.com
 DOMAIN-SUFFIX,assets.controld.com
 DOMAIN-SUFFIX,img.connatix.com
@@ -2407,6 +2418,7 @@ DOMAIN-SUFFIX,static.4shared.com
 DOMAIN-SUFFIX,r2.1hanime.com
 DOMAIN-SUFFIX,1a-1791.com
 DOMAIN-SUFFIX,img.177pica.com
+DOMAIN-SUFFIX,public.zoorix.com
 DOMAIN-SUFFIX,assets.zilliz.com
 DOMAIN-SUFFIX,service-icons.zeabur.com
 DOMAIN-SUFFIX,icons.zeabur.com
@@ -2530,6 +2542,7 @@ DOMAIN-SUFFIX,pics.paypal.com
 DOMAIN-SUFFIX,cdn.paddle.com
 DOMAIN-SUFFIX,media.owcnow.com
 DOMAIN-SUFFIX,ipfs.overpi.com
+DOMAIN-SUFFIX,brandwidgets.outtra.com
 DOMAIN-SUFFIX,static.oracle.com
 DOMAIN-SUFFIX,cdn.openai.com
 DOMAIN-SUFFIX,static.oklink.com
@@ -3417,6 +3430,7 @@ DOMAIN-SUFFIX,cdn.pagefly.io
 DOMAIN-SUFFIX,pagecdn.io
 DOMAIN-SUFFIX,static.opensea.io
 DOMAIN-SUFFIX,favicons.nextdns.io
+DOMAIN-SUFFIX,cdn.logbase.io
 DOMAIN-SUFFIX,media.lantern.io
 DOMAIN-SUFFIX,ipfscdn.io
 DOMAIN-SUFFIX,cdn.icomoon.io
@@ -3648,6 +3662,7 @@ DOMAIN-SUFFIX,ipfs.xoqq.ch
 DOMAIN-SUFFIX,cdn2.turboviplay.cc
 DOMAIN-SUFFIX,pravatar.cc
 DOMAIN-SUFFIX,imagehub.cc
+DOMAIN-SUFFIX,media.tailfin.cc
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,aayinltcs.arduino.cc
 DOMAIN-SUFFIX,content.arduino.cc
@@ -3700,13 +3715,13 @@ DOMAIN-SUFFIX,cdn2.suno.ai
 DOMAIN-SUFFIX,cdn1.suno.ai
 DOMAIN-SUFFIX,metrics.kapa.ai
 DOMAIN-SUFFIX,widget.kapa.ai
+DOMAIN-SUFFIX,cdn.fera.ai
 DOMAIN-SUFFIX,assets.dify.ai
 DOMAIN-SUFFIX,limitless.cmax.ai
 DOMAIN-SUFFIX,cdn.s7s.ai
 DOMAIN-SUFFIX,bot.ivy.ai
 DOMAIN-SUFFIX,rules.ac
 ################## EOF ##################
-
 ############################################################# 这是第一条分割线 #############################################################
 # Last Updated: 2025-07-23T11:34:44.940Z
 # Size: 76
