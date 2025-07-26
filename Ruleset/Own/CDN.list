@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3707
+# DOMAIN-SUFFIX: 3709
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3734
-# UPDATED: 2025-07-26 14:38:20
+# TOTAL: 3736
+# UPDATED: 2025-07-26 20:52:43
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-07-26T11:26:48.982Z
-# Size: 3707
+# Last Updated: 2025-07-26T15:38:17.874Z
+# Size: 3709
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -55,6 +55,8 @@ DOMAIN-SUFFIX,pics.javhd.today
 DOMAIN-SUFFIX,eth.sucks
 DOMAIN-SUFFIX,vanilla-extract.style
 DOMAIN-SUFFIX,eslint.style
+DOMAIN-SUFFIX,shoppulse88.store
+DOMAIN-SUFFIX,surrit.store
 DOMAIN-SUFFIX,cdn.one.store
 DOMAIN-SUFFIX,pstorage.space
 DOMAIN-SUFFIX,cdn.hiive.space
@@ -1411,7 +1413,6 @@ DOMAIN-SUFFIX,images1.cmp.optimizely.com
 DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-SUFFIX,static-www.onlyoffice.com
 DOMAIN-SUFFIX,nincontent.com
-DOMAIN-SUFFIX,netdna-ssl.com
 DOMAIN-SUFFIX,cdn.nerdschalk.com
 DOMAIN-SUFFIX,cdn.app.neononepay.com
 DOMAIN-SUFFIX,media.nbcnewyork.com
@@ -2286,6 +2287,7 @@ DOMAIN-SUFFIX,js-eu1.hubspot.com
 DOMAIN-SUFFIX,js.hubspot.com
 DOMAIN-SUFFIX,perf-na1.hsforms.com
 DOMAIN-SUFFIX,perf.hsforms.com
+DOMAIN-SUFFIX,static.hosting.com
 DOMAIN-SUFFIX,hgimg00.com
 DOMAIN-SUFFIX,static.heavy-r.com
 DOMAIN-SUFFIX,public.hare200.com
