@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-07-27T11:53:30.603Z
-# Size: 694
+# Last Updated: 2025-07-27T16:03:45.880Z
+# Size: 696
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -274,6 +274,7 @@ DOMAIN-KEYWORD,-ad.a.yximgs.com
 DOMAIN-KEYWORD,-ad.sm.cn
 DOMAIN-KEYWORD,-ad.wtzw.com
 DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com
+DOMAIN-KEYWORD,-be-pack.pglstatp-toutiao.com
 DOMAIN-KEYWORD,-normal.zijieapi.com
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-WILDCARD,santander.*.fino.digital
@@ -693,6 +694,7 @@ DOMAIN-WILDCARD,ad*.on.cc
 DOMAIN-WILDCARD,vssid.*.cc
 DOMAIN-WILDCARD,banner*.kinogo.by
 DOMAIN-WILDCARD,mf*.advantage.as
+URL-REGEX,/igd\.xml
 URL-REGEX,/\d+/resolve
 URL-REGEX,/\d+/sign_d
 IP-CIDR,39.97.128.148/32,no-resolve
