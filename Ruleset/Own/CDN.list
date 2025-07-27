@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3709
+# DOMAIN-SUFFIX: 3712
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3736
-# UPDATED: 2025-07-27 10:31:20
+# TOTAL: 3739
+# UPDATED: 2025-07-27 14:39:13
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-07-26T15:38:17.874Z
-# Size: 3709
+# Last Updated: 2025-07-27T11:53:31.501Z
+# Size: 3712
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -413,6 +413,7 @@ DOMAIN-SUFFIX,cdn.prod.atlassian-dev.net
 DOMAIN-SUFFIX,d4.alternativeto.net
 DOMAIN-SUFFIX,vusercontent.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,cdn.tokyo-motion.net
 DOMAIN-SUFFIX,blacklist.tampermonkey.net
 DOMAIN-SUFFIX,static.edge.microsoftapp.net
 DOMAIN-SUFFIX,f.hubspotemail.net
@@ -2673,6 +2674,7 @@ DOMAIN-SUFFIX,static-redesign.cnbcfm.com
 DOMAIN-SUFFIX,image.cnbcfm.com
 DOMAIN-SUFFIX,sf-flow-web-cdn.ciciai.com
 DOMAIN-SUFFIX,cdnjhd.com
+DOMAIN-SUFFIX,cdnjav.com
 DOMAIN-SUFFIX,signalcloud.cdnbye.com
 DOMAIN-SUFFIX,opensignal.cdnbye.com
 DOMAIN-SUFFIX,signal.cdnbye.com
@@ -3680,6 +3682,7 @@ DOMAIN-SUFFIX,resize-image.vocus.cc
 DOMAIN-SUFFIX,ti2.knews.cc
 DOMAIN-SUFFIX,ti1.knews.cc
 DOMAIN-SUFFIX,ungh.cc
+DOMAIN-SUFFIX,cdn.road.cc
 DOMAIN-SUFFIX,t4.picb.cc
 DOMAIN-SUFFIX,t3.picb.cc
 DOMAIN-SUFFIX,t2.picb.cc
