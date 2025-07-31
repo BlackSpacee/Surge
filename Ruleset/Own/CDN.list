@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3714
+# DOMAIN-SUFFIX: 3729
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3741
-# UPDATED: 2025-07-31 10:23:27
+# TOTAL: 3756
+# UPDATED: 2025-07-31 14:41:15
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-07-29T16:04:00.187Z
-# Size: 3714
+# Last Updated: 2025-07-31T08:08:58.405Z
+# Size: 3729
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -104,6 +104,7 @@ DOMAIN-SUFFIX,instant.page
 DOMAIN-SUFFIX,kinsta.page
 DOMAIN-SUFFIX,assets-next.matters.news
 DOMAIN-SUFFIX,assets.matters.news
+DOMAIN-SUFFIX,static.bad.news
 DOMAIN-SUFFIX,content.api.news
 DOMAIN-SUFFIX,pics.hentai.name
 DOMAIN-SUFFIX,doppiocdn.live
@@ -173,6 +174,7 @@ DOMAIN-SUFFIX,img.catwvod.xyz
 DOMAIN-SUFFIX,98avcdn.xyz
 DOMAIN-SUFFIX,s3.2233778.xyz
 DOMAIN-SUFFIX,img.timero.xyz
+DOMAIN-SUFFIX,cdn.redwap.xyz
 DOMAIN-SUFFIX,porn-d.xyz
 DOMAIN-SUFFIX,imgpng.xyz
 DOMAIN-SUFFIX,gitcdn.xyz
@@ -202,6 +204,7 @@ DOMAIN-SUFFIX,pichost.top
 DOMAIN-SUFFIX,gitcdn.top
 DOMAIN-SUFFIX,balley.top
 DOMAIN-SUFFIX,akidoo.top
+DOMAIN-SUFFIX,css.4jpg.top
 DOMAIN-SUFFIX,cktu01.sbs
 DOMAIN-SUFFIX,bundle.run
 DOMAIN-SUFFIX,esm.run
@@ -251,6 +254,7 @@ DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,stream.publicradio.org
 DOMAIN-SUFFIX,play.publicradio.org
 DOMAIN-SUFFIX,tiles.openfreemap.org
+DOMAIN-SUFFIX,media.hentaifreak.org
 DOMAIN-SUFFIX,ipfs.genenetwork.org
 DOMAIN-SUFFIX,app.backinstock.org
 DOMAIN-SUFFIX,easylist-downloads.adblockplus.org
@@ -697,6 +701,7 @@ DOMAIN-SUFFIX,jsdelivr.b-cdn.net
 DOMAIN-SUFFIX,todoist.b-cdn.net
 DOMAIN-SUFFIX,divhunt.b-cdn.net
 DOMAIN-SUFFIX,dh-site.b-cdn.net
+DOMAIN-SUFFIX,cdntube.b-cdn.net
 DOMAIN-SUFFIX,amp.azure.net
 DOMAIN-SUFFIX,s3.arkjp.net
 DOMAIN-SUFFIX,img3.acsta.net
@@ -1100,6 +1105,7 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,m3u8.girigirilove.com
 DOMAIN-SUFFIX,framerstatic.com
 DOMAIN-SUFFIX,static.filestackapi.com
+DOMAIN-SUFFIX,cdn.fastmediaing.com
 DOMAIN-SUFFIX,staticm.fastcomments.com
 DOMAIN-SUFFIX,cdn.fastcomments.com
 DOMAIN-SUFFIX,fakestoreapi.com
@@ -1341,6 +1347,7 @@ DOMAIN-SUFFIX,f002.backblazeb2.com
 DOMAIN-SUFFIX,f001.backblazeb2.com
 DOMAIN-SUFFIX,f000.backblazeb2.com
 DOMAIN-SUFFIX,img.applealmond.com
+DOMAIN-SUFFIX,aosikaimage.com
 DOMAIN-SUFFIX,showcase.abovemarket.com
 DOMAIN-SUFFIX,assets.aboutamazon.com
 DOMAIN-SUFFIX,cdn2.abiresearch.com
@@ -1487,6 +1494,7 @@ DOMAIN-SUFFIX,chart.googleapis.com
 DOMAIN-SUFFIX,ajax.googleapis.com
 DOMAIN-SUFFIX,sync.getpublica.com
 DOMAIN-SUFFIX,connect.getflowbox.com
+DOMAIN-SUFFIX,gayzyimage.com
 DOMAIN-SUFFIX,assets.fxnetworks.com
 DOMAIN-SUFFIX,euc-widget.freshworks.com
 DOMAIN-SUFFIX,widget.freshworks.com
@@ -1768,6 +1776,7 @@ DOMAIN-SUFFIX,assets.dnsfilter.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,us1-prod-images.disco-api.com
 DOMAIN-SUFFIX,data.debugbear.com
+DOMAIN-SUFFIX,media.crazyshit.com
 DOMAIN-SUFFIX,app.cookieyes.com
 DOMAIN-SUFFIX,cookie-cdn.cookiepro.com
 DOMAIN-SUFFIX,cdn.configcat.com
@@ -2197,6 +2206,8 @@ DOMAIN-SUFFIX,cdn.privacy.com
 DOMAIN-SUFFIX,app-static.eu.posthog.com
 DOMAIN-SUFFIX,cdn77-t.pornoxo.com
 DOMAIN-SUFFIX,cdn77.pornoxo.com
+DOMAIN-SUFFIX,pics.pornfhd.com
+DOMAIN-SUFFIX,celebrities-small.porndig.com
 DOMAIN-SUFFIX,m.porn3dx.com
 DOMAIN-SUFFIX,pbcdn1.podbean.com
 DOMAIN-SUFFIX,www.pngmart.com
@@ -2233,6 +2244,7 @@ DOMAIN-SUFFIX,featureflags.netlify.com
 DOMAIN-SUFFIX,ndtvimg.com
 DOMAIN-SUFFIX,nodeassets.nbcnews.com
 DOMAIN-SUFFIX,iframe.nbcnews.com
+DOMAIN-SUFFIX,mubicdn.com
 DOMAIN-SUFFIX,stubdownloader.services.mozilla.com
 DOMAIN-SUFFIX,firefox.settings.services.mozilla.com
 DOMAIN-SUFFIX,push.services.mozilla.com
@@ -2290,6 +2302,7 @@ DOMAIN-SUFFIX,js.hubspot.com
 DOMAIN-SUFFIX,perf-na1.hsforms.com
 DOMAIN-SUFFIX,perf.hsforms.com
 DOMAIN-SUFFIX,static.hosting.com
+DOMAIN-SUFFIX,hgimg01.com
 DOMAIN-SUFFIX,hgimg00.com
 DOMAIN-SUFFIX,static.heavy-r.com
 DOMAIN-SUFFIX,public.hare200.com
@@ -2719,6 +2732,7 @@ DOMAIN-SUFFIX,cdn-widgetsrepository.yotpo.com
 DOMAIN-SUFFIX,cdn-swell-assets.yotpo.com
 DOMAIN-SUFFIX,staticw2.yotpo.com
 DOMAIN-SUFFIX,yep.video.yahoo.com
+DOMAIN-SUFFIX,cdn1.xxxsx.com
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,wsimg.com
 DOMAIN-SUFFIX,wixmp.com
@@ -3147,6 +3161,7 @@ DOMAIN-SUFFIX,j.udn.com.tw
 DOMAIN-SUFFIX,imgcdn.cna.com.tw
 DOMAIN-SUFFIX,cloudflare.tv
 DOMAIN-SUFFIX,cdn.vidible.tv
+DOMAIN-SUFFIX,cdn1.hotmoza.tv
 DOMAIN-SUFFIX,clips-media-assets2.twitch.tv
 DOMAIN-SUFFIX,assets.twitch.tv
 DOMAIN-SUFFIX,storry.tv
