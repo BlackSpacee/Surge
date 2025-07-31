@@ -2,13 +2,13 @@
 # AND: 1
 # DOMAIN: 472
 # DOMAIN-SUFFIX: 5057
-# DOMAIN-KEYWORD: 114
+# DOMAIN-KEYWORD: 125
 # IP-CIDR: 42
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 3
-# TOTAL: 5694
-# UPDATED: 2025-07-31 14:41:15
+# TOTAL: 5705
+# UPDATED: 2025-07-31 20:58:20
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-07-30T08:29:32.306Z
-# Size: 697
+# Last Updated: 2025-07-31T15:09:11.506Z
+# Size: 708
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1747,14 +1747,24 @@ DOMAIN-KEYWORD,a8clk.
 DOMAIN-KEYWORD,a8cv.
 DOMAIN-KEYWORD,plausible.
 DOMAIN-KEYWORD,-mktg.vodafone.com
+DOMAIN-KEYWORD,-business.vodafone.com
+DOMAIN-KEYWORD,-ss.checkoutera.com
 DOMAIN-KEYWORD,wxsnsdy
 DOMAIN-KEYWORD,adwords
 DOMAIN-KEYWORD,-tracker.biliapi.net
 DOMAIN-KEYWORD,-ad.ixigua.com
-DOMAIN-KEYWORD,trksvg.business.hsbc.
-DOMAIN-KEYWORD,trkgbm.business.hsbc.
-DOMAIN-KEYWORD,trkhinv.business.hsbc.
-DOMAIN-KEYWORD,trkcmb.business.hsbc.
+DOMAIN-KEYWORD,trksvg.business.
+DOMAIN-KEYWORD,trkgbm.business.
+DOMAIN-KEYWORD,trkhinv.business.
+DOMAIN-KEYWORD,trkcmb.business.
+DOMAIN-KEYWORD,trksvg.sustainablefinance.
+DOMAIN-KEYWORD,trkgbm.sustainablefinance.
+DOMAIN-KEYWORD,trkhinv.sustainablefinance.
+DOMAIN-KEYWORD,trkcmb.sustainablefinance.
+DOMAIN-KEYWORD,trksvg.gbm.
+DOMAIN-KEYWORD,trkgbm.gbm.
+DOMAIN-KEYWORD,trkhinv.gbm.
+DOMAIN-KEYWORD,trkcmb.gbm.
 DOMAIN-KEYWORD,-analytics-events.apple.com
 DOMAIN-KEYWORD,-ads.realmemobile.com
 DOMAIN-KEYWORD,-ad.video.yximgs.com
@@ -1764,6 +1774,7 @@ DOMAIN-KEYWORD,-ad.wtzw.com
 DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com
 DOMAIN-KEYWORD,-be-pack.pglstatp-toutiao.com
 DOMAIN-KEYWORD,-normal.zijieapi.com
+DOMAIN-KEYWORD,mon.zijieapi.com
 DOMAIN-WILDCARD,santander.*.fino.digital
 DOMAIN-WILDCARD,logs*.smithsonian.museum
 DOMAIN-WILDCARD,bjsvp*.space
