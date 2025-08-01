@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-07-31T15:09:11.506Z
-# Size: 708
+# Last Updated: 2025-08-01T16:05:54.795Z
+# Size: 726
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -254,10 +254,28 @@ DOMAIN-KEYWORD,insights-collector.
 DOMAIN-KEYWORD,track.opentable.
 DOMAIN-KEYWORD,.net.daraz.
 DOMAIN-KEYWORD,.zooplus.
+DOMAIN-KEYWORD,smetric.
 DOMAIN-KEYWORD,smetrics.
+DOMAIN-KEYWORD,sanalytics.
+DOMAIN-KEYWORD,sanl.footlocker
+DOMAIN-KEYWORD,scookies-adobe.
+DOMAIN-KEYWORD,secmetrics.
+DOMAIN-KEYWORD,secureanalytics.
+DOMAIN-KEYWORD,securemetrics.
+DOMAIN-KEYWORD,securetags.
+DOMAIN-KEYWORD,srepdata.
 DOMAIN-KEYWORD,a8clk.
 DOMAIN-KEYWORD,a8cv.
+DOMAIN-KEYWORD,a8net.
+DOMAIN-KEYWORD,a8track.
+DOMAIN-KEYWORD,a8trck.
 DOMAIN-KEYWORD,plausible.
+DOMAIN-KEYWORD,utiq.
+DOMAIN-KEYWORD,aa-metrics.
+DOMAIN-KEYWORD,adbmetrics.
+DOMAIN-KEYWORD,adbsmetrics.
+DOMAIN-KEYWORD,adobeanalytic.
+DOMAIN-KEYWORD,adobeanalytics.
 DOMAIN-KEYWORD,-mktg.vodafone.com
 DOMAIN-KEYWORD,-business.vodafone.com
 DOMAIN-KEYWORD,-ss.checkoutera.com

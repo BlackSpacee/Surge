@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3729
+# DOMAIN-SUFFIX: 3734
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3756
-# UPDATED: 2025-08-01 14:44:27
+# TOTAL: 3761
+# UPDATED: 2025-08-01 20:58:55
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-07-31T08:08:58.405Z
-# Size: 3729
+# Last Updated: 2025-08-01T14:43:09.678Z
+# Size: 3734
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1052,6 +1052,7 @@ DOMAIN-SUFFIX,cdn.unrealengine.com
 DOMAIN-SUFFIX,trackerslist.com
 DOMAIN-SUFFIX,resource.tnlmediagene.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn-eu.com
 DOMAIN-SUFFIX,static.threatlocker.com
 DOMAIN-SUFFIX,susercontent.com
 DOMAIN-SUFFIX,cdn.sunofbeaches.com
@@ -1719,6 +1720,8 @@ DOMAIN-SUFFIX,home.integrate.com
 DOMAIN-SUFFIX,platform.instagram.com
 DOMAIN-SUFFIX,static.incapsula.com
 DOMAIN-SUFFIX,imostatic.com
+DOMAIN-SUFFIX,vids.imagepost.com
+DOMAIN-SUFFIX,i.imagepost.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,js.hs-banner.com
 DOMAIN-SUFFIX,freeshippingbar.herokuapp.com
@@ -2282,6 +2285,7 @@ DOMAIN-SUFFIX,moodular.jotform.com
 DOMAIN-SUFFIX,files.jotform.com
 DOMAIN-SUFFIX,js.jotform.com
 DOMAIN-SUFFIX,pool.jortage.com
+DOMAIN-SUFFIX,img2.javdove.com
 DOMAIN-SUFFIX,assets.ipstack.com
 DOMAIN-SUFFIX,i.insider.com
 DOMAIN-SUFFIX,static.iris.informa.com
@@ -2545,6 +2549,7 @@ DOMAIN-SUFFIX,bugly.qcloud.com
 DOMAIN-SUFFIX,pxgcdn.com
 DOMAIN-SUFFIX,js.pusher.com
 DOMAIN-SUFFIX,cdn.pubnub.com
+DOMAIN-SUFFIX,prppsn.com
 DOMAIN-SUFFIX,static.probit.com
 DOMAIN-SUFFIX,prhcdn.com
 DOMAIN-SUFFIX,assets.pixlee.com
