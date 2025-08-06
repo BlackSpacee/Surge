@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 131
-# DOMAIN-SUFFIX: 32126
+# DOMAIN-SUFFIX: 32129
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32471
-# UPDATED: 2025-08-06 14:45:01
+# TOTAL: 32474
+# UPDATED: 2025-08-06 21:01:03
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-08-06T05:47:56.402Z
-# Size: 1104
+# Last Updated: 2025-08-06T17:53:10.129Z
+# Size: 1109
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -278,6 +278,7 @@ DOMAIN-SUFFIX,onepluscommunityserver.com
 DOMAIN-SUFFIX,privateinternetaccess.com
 DOMAIN-SUFFIX,returnyoutubedislike.com
 DOMAIN-SUFFIX,hubspotlinksstarter.com
+DOMAIN-SUFFIX,airtableusercontent.com
 DOMAIN-SUFFIX,precisionhydration.com
 DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,minecraftservices.com
@@ -361,6 +362,7 @@ DOMAIN-SUFFIX,thingiverse.com
 DOMAIN-SUFFIX,theregister.com
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,theatlantic.com
+DOMAIN-SUFFIX,techpowerup.com
 DOMAIN-SUFFIX,tailwindcss.com
 DOMAIN-SUFFIX,serverfault.com
 DOMAIN-SUFFIX,rule34video.com
@@ -566,6 +568,7 @@ DOMAIN-SUFFIX,badoocdn.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,apkcombo.com
+DOMAIN-SUFFIX,airtable.com
 DOMAIN-SUFFIX,abebooks.com
 DOMAIN-SUFFIX,9to5toys.com
 DOMAIN-SUFFIX,zendesk.com
@@ -805,6 +808,7 @@ DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,ifttt.com
 DOMAIN-SUFFIX,hyvor.com
 DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,hkepc.com
 DOMAIN-SUFFIX,googl.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,globo.com
@@ -836,6 +840,7 @@ DOMAIN-SUFFIX,3movs.com
 DOMAIN-SUFFIX,123rf.com
 DOMAIN-SUFFIX,123av.com
 DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xkcd.com
 DOMAIN-SUFFIX,xing.com
 DOMAIN-SUFFIX,waze.com
 DOMAIN-SUFFIX,vjav.com
@@ -3652,7 +3657,6 @@ DOMAIN-SUFFIX,hkday.net
 DOMAIN-SUFFIX,hkdc.us
 DOMAIN-SUFFIX,hkdf.org
 DOMAIN-SUFFIX,hkej.com
-DOMAIN-SUFFIX,hkepc.com
 DOMAIN-SUFFIX,hket.com
 DOMAIN-SUFFIX,hkfaa.com
 DOMAIN-SUFFIX,hkfreezone.com
@@ -7505,7 +7509,6 @@ DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,adult.friendfinder.com
 DOMAIN-SUFFIX,ae.hao123.com
 DOMAIN-SUFFIX,aerisapi.com
-DOMAIN-SUFFIX,airtable.com
 DOMAIN-SUFFIX,aiss.anws.gov.tw
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,amazon.co

@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3744
+# DOMAIN-SUFFIX: 3752
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3771
-# UPDATED: 2025-08-06 14:45:01
+# TOTAL: 3779
+# UPDATED: 2025-08-06 21:01:03
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-06T09:47:49.590Z
-# Size: 3744
+# Last Updated: 2025-08-06T17:53:10.984Z
+# Size: 3752
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -58,6 +58,9 @@ DOMAIN-SUFFIX,eslint.style
 DOMAIN-SUFFIX,shoppulse88.store
 DOMAIN-SUFFIX,surrit.store
 DOMAIN-SUFFIX,cdn.one.store
+DOMAIN-SUFFIX,cdn5.telegram.space
+DOMAIN-SUFFIX,cdn4.telegram.space
+DOMAIN-SUFFIX,cdn1.telegram.space
 DOMAIN-SUFFIX,pstorage.space
 DOMAIN-SUFFIX,cdn.hiive.space
 DOMAIN-SUFFIX,cdn.deta.space
@@ -821,6 +824,7 @@ DOMAIN-SUFFIX,loader.mantis-intelligence.com
 DOMAIN-SUFFIX,assets.freespeechcoalition.com
 DOMAIN-SUFFIX,screenshots.downloadtorrentfile.com
 DOMAIN-SUFFIX,cdn.cms-twdigitalassets.com
+DOMAIN-SUFFIX,airtableusercontent.com
 DOMAIN-SUFFIX,w-corp-staticblitz.com
 DOMAIN-SUFFIX,simpleflyingimages.com
 DOMAIN-SUFFIX,pocket-image-cache.com
@@ -2099,6 +2103,7 @@ DOMAIN-SUFFIX,cdn.amcharts.com
 DOMAIN-SUFFIX,oaos-resources.allstate.com
 DOMAIN-SUFFIX,contenthub.allstate.com
 DOMAIN-SUFFIX,resources.allstate.com
+DOMAIN-SUFFIX,static.airtable.com
 DOMAIN-SUFFIX,img-5-cdn.airdroid.com
 DOMAIN-SUFFIX,img-4-cdn.airdroid.com
 DOMAIN-SUFFIX,img-3-cdn.airdroid.com
@@ -2209,6 +2214,7 @@ DOMAIN-SUFFIX,ravenjs.com
 DOMAIN-SUFFIX,static.rakuten.com
 DOMAIN-SUFFIX,cdn.quadpay.com
 DOMAIN-SUFFIX,pxlecdn.com
+DOMAIN-SUFFIX,image.prntscr.com
 DOMAIN-SUFFIX,cdn.privacy.com
 DOMAIN-SUFFIX,app-static.eu.posthog.com
 DOMAIN-SUFFIX,cdn77-t.pornoxo.com
@@ -2832,6 +2838,8 @@ DOMAIN-SUFFIX,assets.ifttt.com
 DOMAIN-SUFFIX,talk.hyvor.com
 DOMAIN-SUFFIX,video-meta.humix.com
 DOMAIN-SUFFIX,assets.humix.com
+DOMAIN-SUFFIX,file1.hkepc.com
+DOMAIN-SUFFIX,i.hkepc.com
 DOMAIN-SUFFIX,h-cdn.com
 DOMAIN-SUFFIX,static.gopro.com
 DOMAIN-SUFFIX,media4.giphy.com
