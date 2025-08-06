@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 131
-# DOMAIN-SUFFIX: 32123
+# DOMAIN-SUFFIX: 32126
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32468
-# UPDATED: 2025-08-06 02:43:48
+# TOTAL: 32471
+# UPDATED: 2025-08-06 10:24:53
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-08-01T16:05:55.038Z
-# Size: 1101
+# Last Updated: 2025-08-06T05:47:56.402Z
+# Size: 1104
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -175,6 +175,7 @@ DOMAIN-SUFFIX,minecraftforum.net
 DOMAIN-SUFFIX,hubspotstarter.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,vesselfinder.net
 DOMAIN-SUFFIX,tokto-motion.net
 DOMAIN-SUFFIX,reutersmedia.net
 DOMAIN-SUFFIX,azure-mobile.net
@@ -327,6 +328,7 @@ DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,androidpolice.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,vpnunlimited.com
+DOMAIN-SUFFIX,vesselfinder.com
 DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,spankingtube.com
 DOMAIN-SUFFIX,shutterstock.com
@@ -837,6 +839,7 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xing.com
 DOMAIN-SUFFIX,waze.com
 DOMAIN-SUFFIX,vjav.com
+DOMAIN-SUFFIX,vice.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN,help.ubnt.com
 DOMAIN-SUFFIX,time.com

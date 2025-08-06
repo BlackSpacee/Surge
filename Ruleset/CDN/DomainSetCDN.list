@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-05T13:37:19.569Z
-# Size: 3736
+# Last Updated: 2025-08-06T05:47:57.073Z
+# Size: 3739
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -410,6 +410,8 @@ DOMAIN-SUFFIX,cdn.prod.atlassian-dev.net
 DOMAIN-SUFFIX,d4.alternativeto.net
 DOMAIN-SUFFIX,vusercontent.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,static.vesselfinder.net
+DOMAIN-SUFFIX,map.vesselfinder.net
 DOMAIN-SUFFIX,cdn.tokyo-motion.net
 DOMAIN-SUFFIX,blacklist.tampermonkey.net
 DOMAIN-SUFFIX,static.edge.microsoftapp.net
@@ -3354,6 +3356,7 @@ DOMAIN-SUFFIX,osint.digitalside.it
 DOMAIN-SUFFIX,place-hold.it
 DOMAIN-SUFFIX,cdn.scaleflex.it
 DOMAIN-SUFFIX,unsplash.it
+DOMAIN-SUFFIX,st.transfer.it
 DOMAIN-SUFFIX,cdn.download.it
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,assets.garr.it
