@@ -1,14 +1,14 @@
 # NAME: Reject
 # AND: 1
-# DOMAIN: 472
-# DOMAIN-SUFFIX: 5057
-# DOMAIN-KEYWORD: 143
+# DOMAIN: 474
+# DOMAIN-SUFFIX: 5058
+# DOMAIN-KEYWORD: 144
 # IP-CIDR: 42
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 3
-# TOTAL: 5723
-# UPDATED: 2025-08-06 10:24:53
+# TOTAL: 5727
+# UPDATED: 2025-08-06 14:45:01
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-08-06T05:47:56.211Z
-# Size: 728
+# Last Updated: 2025-08-06T09:47:48.389Z
+# Size: 733
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1591,6 +1591,8 @@ DOMAIN,httpdns-sdk.n.netease.com
 DOMAIN-SUFFIX,httpdns.n.netease.com
 DOMAIN-SUFFIX,classify-client.services.mozilla.com
 DOMAIN-SUFFIX,minexmr.com
+DOMAIN,httpdnsmultiapivip.meituan.com
+DOMAIN,httpdnsmultiapi.meituan.com
 DOMAIN,httpdnsvip.meituan.com
 DOMAIN,httpdns.meituan.com
 DOMAIN-SUFFIX,luxxeeu.com
@@ -1609,6 +1611,7 @@ DOMAIN,resolver.mi.xiaomi.com
 DOMAIN,dns.wechat.com
 DOMAIN,httpdns.volces.com
 DOMAIN,httpdns.n.shifen.com
+DOMAIN-SUFFIX,httpdns.qcloud.com
 DOMAIN-SUFFIX,moebgp.com
 DOMAIN-SUFFIX,cnzz.mmstat.com
 DOMAIN,log.mmstat.com
@@ -1768,6 +1771,7 @@ DOMAIN-KEYWORD,-mktg.vodafone.com
 DOMAIN-KEYWORD,-business.vodafone.com
 DOMAIN-KEYWORD,-ss.checkoutera.com
 DOMAIN-KEYWORD,wxsnsdy
+DOMAIN-KEYWORD,-fin.meituan.com
 DOMAIN-KEYWORD,adwords
 DOMAIN-KEYWORD,-tracker.biliapi.net
 DOMAIN-KEYWORD,-ad.ixigua.com

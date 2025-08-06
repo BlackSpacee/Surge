@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3739
+# DOMAIN-SUFFIX: 3744
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3766
-# UPDATED: 2025-08-06 10:24:53
+# TOTAL: 3771
+# UPDATED: 2025-08-06 14:45:01
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-06T05:47:57.073Z
-# Size: 3739
+# Last Updated: 2025-08-06T09:47:49.590Z
+# Size: 3744
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3161,6 +3161,9 @@ DOMAIN-SUFFIX,avatar2.bahamut.com.tw
 DOMAIN-SUFFIX,truth.bahamut.com.tw
 DOMAIN-SUFFIX,p2.bahamut.com.tw
 DOMAIN-SUFFIX,i2.bahamut.com.tw
+DOMAIN-SUFFIX,puku-dist.4gamers.com.tw
+DOMAIN-SUFFIX,thumbor.4gamers.com.tw
+DOMAIN-SUFFIX,img.4gamers.com.tw
 DOMAIN-SUFFIX,event.ithome.com.tw
 DOMAIN-SUFFIX,static.cnbeta.com.tw
 DOMAIN-SUFFIX,pgw.udn.com.tw
@@ -3717,6 +3720,8 @@ DOMAIN-SUFFIX,pic.imge.cc
 DOMAIN-SUFFIX,images.ptt.cc
 DOMAIN-SUFFIX,static-cache.k2s.cc
 DOMAIN-SUFFIX,static.k2s.cc
+DOMAIN-SUFFIX,images.tg.cc
+DOMAIN-SUFFIX,img.tg.cc
 DOMAIN-SUFFIX,1passwordusercontent.ca
 DOMAIN-SUFFIX,cdn.adsninja.ca
 DOMAIN-SUFFIX,abc-cdn.net.au
