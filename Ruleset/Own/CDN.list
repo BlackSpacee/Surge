@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3752
+# DOMAIN-SUFFIX: 3754
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3779
-# UPDATED: 2025-08-08 10:25:13
+# TOTAL: 3781
+# UPDATED: 2025-08-08 14:43:48
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-06T17:53:10.984Z
-# Size: 3752
+# Last Updated: 2025-08-08T08:47:38.316Z
+# Size: 3754
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2352,6 +2352,8 @@ DOMAIN-SUFFIX,ocsp.godaddy.com
 DOMAIN-SUFFIX,static.gl-inet.com
 DOMAIN-SUFFIX,githack.com
 DOMAIN-SUFFIX,integrations.gitbook.com
+DOMAIN-SUFFIX,static-2v.gitbook.com
+DOMAIN-SUFFIX,content.gitbook.com
 DOMAIN-SUFFIX,static.gitbook.com
 DOMAIN-SUFFIX,app.gitbook.com
 DOMAIN-SUFFIX,gentcdn.com
