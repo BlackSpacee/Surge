@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3754
+# DOMAIN-SUFFIX: 3760
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3781
-# UPDATED: 2025-08-08 14:43:48
+# TOTAL: 3787
+# UPDATED: 2025-08-08 20:59:22
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-08T08:47:38.316Z
-# Size: 3754
+# Last Updated: 2025-08-08T15:43:41.937Z
+# Size: 3760
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -135,6 +135,7 @@ DOMAIN-SUFFIX,ddpic.info
 DOMAIN-SUFFIX,assets-servd.host
 DOMAIN-SUFFIX,cdn.masto.host
 DOMAIN-SUFFIX,usercontent.goog
+DOMAIN-SUFFIX,c.pki.goog
 DOMAIN-SUFFIX,nel.goog
 DOMAIN-SUFFIX,ipfs.cyou
 DOMAIN-SUFFIX,sfiles.cnyes.cool
@@ -1216,6 +1217,11 @@ DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,assets.redbullshop.com
 DOMAIN-SUFFIX,cached.rebuyengine.com
 DOMAIN-SUFFIX,cdn.rebuyengine.com
+DOMAIN-SUFFIX,assets-www.readspeaker.com
+DOMAIN-SUFFIX,vte-us.readspeaker.com
+DOMAIN-SUFFIX,vte-eu.readspeaker.com
+DOMAIN-SUFFIX,cdn-us.readspeaker.com
+DOMAIN-SUFFIX,cdn-eu.readspeaker.com
 DOMAIN-SUFFIX,assets.raspberrypi.com
 DOMAIN-SUFFIX,qooqlevideo.com
 DOMAIN-SUFFIX,api.producthunt.com
