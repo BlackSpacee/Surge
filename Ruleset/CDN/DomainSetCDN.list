@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-08T15:43:41.937Z
-# Size: 3760
+# Last Updated: 2025-08-09T12:36:24.935Z
+# Size: 3763
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -418,6 +418,7 @@ DOMAIN-SUFFIX,static.vesselfinder.net
 DOMAIN-SUFFIX,map.vesselfinder.net
 DOMAIN-SUFFIX,cdn.tokyo-motion.net
 DOMAIN-SUFFIX,blacklist.tampermonkey.net
+DOMAIN-SUFFIX,cdn.sapphire.microsoftapp.net
 DOMAIN-SUFFIX,static.edge.microsoftapp.net
 DOMAIN-SUFFIX,f.hubspotemail.net
 DOMAIN-SUFFIX,coral.coralproject.net
@@ -1356,6 +1357,7 @@ DOMAIN-SUFFIX,f001.backblazeb2.com
 DOMAIN-SUFFIX,f000.backblazeb2.com
 DOMAIN-SUFFIX,img.applealmond.com
 DOMAIN-SUFFIX,aosikaimage.com
+DOMAIN-SUFFIX,ancestrycdn.com
 DOMAIN-SUFFIX,showcase.abovemarket.com
 DOMAIN-SUFFIX,assets.aboutamazon.com
 DOMAIN-SUFFIX,cdn2.abiresearch.com
@@ -1514,6 +1516,7 @@ DOMAIN-SUFFIX,themes.fourthwall.com
 DOMAIN-SUFFIX,cdn.fourthwall.com
 DOMAIN-SUFFIX,frontend.floatplane.com
 DOMAIN-SUFFIX,pbs.floatplane.com
+DOMAIN-SUFFIX,images.findagrave.com
 DOMAIN-SUFFIX,externulls.com
 DOMAIN-SUFFIX,images.everyplate.com
 DOMAIN-SUFFIX,cdntranscend.eventbrite.com

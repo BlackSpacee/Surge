@@ -8,7 +8,7 @@
 # USER-AGENT: 1
 # URL-REGEX: 3
 # TOTAL: 5727
-# UPDATED: 2025-08-09 10:07:13
+# UPDATED: 2025-08-09 14:37:56
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-08-06T09:47:48.389Z
-# Size: 733
+# Last Updated: 2025-08-09T12:36:24.608Z
+# Size: 737
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1818,6 +1818,7 @@ DOMAIN-WILDCARD,v.tzbox*.xyz
 DOMAIN-WILDCARD,evri.*.xyz
 DOMAIN-WILDCARD,bitvavo*.vip
 DOMAIN-WILDCARD,baoviet*.vip
+DOMAIN-WILDCARD,dichvucong*.top
 DOMAIN-WILDCARD,informed.delivery*.top
 DOMAIN-WILDCARD,bitvavo*.top
 DOMAIN-WILDCARD,baoviet*.top
@@ -1879,6 +1880,7 @@ DOMAIN-WILDCARD,alienxchain*.pages.dev
 DOMAIN-WILDCARD,geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com
 DOMAIN-WILDCARD,browser-intake-*-datadoghq.com
 DOMAIN-WILDCARD,partner.superbahisaffiliates*.com
+DOMAIN-WILDCARD,cardverify*-booking.com
 DOMAIN-WILDCARD,wwwservicemsnlive-*.hubspotpagebuilder.com
 DOMAIN-WILDCARD,geotargetly-api-*.com
 DOMAIN-WILDCARD,policy*.cookieinformation.com
@@ -2137,6 +2139,7 @@ DOMAIN-WILDCARD,trk*.vidible.tv
 DOMAIN-WILDCARD,pixelapi-*.cs.mysamba.tv
 DOMAIN-WILDCARD,staging-*.ispot.tv
 DOMAIN-WILDCARD,ad*.tmgrup.com.tr
+DOMAIN-WILDCARD,pttavm.*.com.tr
 DOMAIN-WILDCARD,request-page-violation-*.surge.sh
 DOMAIN-WILDCARD,copyrights-*.surge.sh
 DOMAIN-WILDCARD,violation-*.surge.sh
@@ -2161,6 +2164,7 @@ DOMAIN-WILDCARD,utahpolicetraining.*.mybluehost.me
 DOMAIN-WILDCARD,ads.livetv*.me
 DOMAIN-WILDCARD,ads*.textra.me
 DOMAIN-WILDCARD,outloksupport*.glitch.me
+DOMAIN-WILDCARD,adobepd*.glitch.me
 DOMAIN-WILDCARD,quangcao-*.epicdn.me
 DOMAIN-WILDCARD,log-*.epicdn.me
 DOMAIN-WILDCARD,marketplace-item-details-*.zya.me
