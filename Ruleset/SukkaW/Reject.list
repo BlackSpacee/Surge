@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-08-09T12:36:24.608Z
-# Size: 737
+# Last Updated: 2025-08-10T18:28:04.420Z
+# Size: 738
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -185,6 +185,7 @@ DOMAIN,doh.zjurl.cn
 DOMAIN,dns.weibo.cn
 DOMAIN,dns.weixin.qq.com.cn
 DOMAIN,dns.m.sm.cn
+DOMAIN,ntp.api.bz
 DOMAIN-KEYWORD,.estream.
 DOMAIN-KEYWORD,jshosting
 DOMAIN-KEYWORD,hostingcloud

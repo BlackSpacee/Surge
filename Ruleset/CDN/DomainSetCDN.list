@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-10T09:13:46.357Z
-# Size: 3775
+# Last Updated: 2025-08-10T18:28:05.575Z
+# Size: 3777
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2864,6 +2864,7 @@ DOMAIN-SUFFIX,media0.giphy.com
 DOMAIN-SUFFIX,media.giphy.com
 DOMAIN-SUFFIX,i.giphy.com
 DOMAIN-SUFFIX,cdns.gigya.com
+DOMAIN-SUFFIX,cdns.us.gigya.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,cdn-1.ggjav.com
 DOMAIN-SUFFIX,media.gettr.com
@@ -3622,6 +3623,7 @@ DOMAIN-SUFFIX,s3.c.im
 DOMAIN-SUFFIX,alexdav.id
 DOMAIN-SUFFIX,ipfs.trusti.id
 DOMAIN-SUFFIX,cdn.unwire.hk
+DOMAIN-SUFFIX,newsstatic.rthk.hk
 DOMAIN-SUFFIX,image.hkhl.hk
 DOMAIN-SUFFIX,img.openshop.com.hk
 DOMAIN-SUFFIX,cdn.sc.gl
