@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3770
+# DOMAIN-SUFFIX: 3775
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3797
-# UPDATED: 2025-08-10 10:29:00
+# TOTAL: 3802
+# UPDATED: 2025-08-10 14:37:42
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-09T16:54:19.490Z
-# Size: 3770
+# Last Updated: 2025-08-10T09:13:46.357Z
+# Size: 3775
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -173,6 +173,7 @@ DOMAIN-SUFFIX,zorocdn.xyz
 DOMAIN-SUFFIX,pornimg.xyz
 DOMAIN-SUFFIX,jstatic.xyz
 DOMAIN-SUFFIX,henread.xyz
+DOMAIN-SUFFIX,eomd1.fembeqq.xyz
 DOMAIN-SUFFIX,dogehls.xyz
 DOMAIN-SUFFIX,img.catwvod.xyz
 DOMAIN-SUFFIX,98avcdn.xyz
@@ -548,6 +549,8 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,kakaocdn.net
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,img.javstore.net
+DOMAIN-SUFFIX,img.highporn.net
+DOMAIN-SUFFIX,cdn.highporn.net
 DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,static.esimplus.net
@@ -1618,6 +1621,7 @@ DOMAIN-SUFFIX,files.wordpress.com
 DOMAIN-SUFFIX,s0.wordpress.com
 DOMAIN-SUFFIX,wixstatic.com
 DOMAIN-SUFFIX,image.westinyou.com
+DOMAIN-SUFFIX,webinfcdn.com
 DOMAIN-SUFFIX,s3.eu-central-2.wasabisys.com
 DOMAIN-SUFFIX,s3.wasabisys.com
 DOMAIN-SUFFIX,assets.videowise.com
@@ -1831,6 +1835,7 @@ DOMAIN-SUFFIX,wac-cdn.atlassian.com
 DOMAIN-SUFFIX,assettype.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,appmifile.com
+DOMAIN-SUFFIX,anyhentai.com
 DOMAIN-SUFFIX,s-cdn.anthropic.com
 DOMAIN-SUFFIX,a-cdn.anthropic.com
 DOMAIN-SUFFIX,ipfs.anonymize.com
@@ -1972,7 +1977,6 @@ DOMAIN-SUFFIX,attach.mobile01.com
 DOMAIN-SUFFIX,api-eu.mixpanel.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,thumbnailer.mixcloud.com
-DOMAIN-SUFFIX,api.mintlify.com
 DOMAIN-SUFFIX,static-prod-web.miniclip.com
 DOMAIN-SUFFIX,static.mendeley.com
 DOMAIN-SUFFIX,i.mediatek.com
@@ -2986,6 +2990,7 @@ DOMAIN-SUFFIX,drop.ndtv.com
 DOMAIN-SUFFIX,cdn.ndtv.com
 DOMAIN-SUFFIX,public-img.mewe.com
 DOMAIN-SUFFIX,cdn.mewe.com
+DOMAIN-SUFFIX,apim.m3pd.com
 DOMAIN-SUFFIX,img.lvv2.com
 DOMAIN-SUFFIX,cdn.loom.com
 DOMAIN-SUFFIX,static.kobo.com
