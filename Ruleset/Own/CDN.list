@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3777
+# DOMAIN-SUFFIX: 3779
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3804
-# UPDATED: 2025-08-12 10:06:51
+# TOTAL: 3806
+# UPDATED: 2025-08-12 14:39:44
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-10T18:28:05.575Z
-# Size: 3777
+# Last Updated: 2025-08-12T10:49:13.477Z
+# Size: 3779
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -111,6 +111,7 @@ DOMAIN-SUFFIX,static.bad.news
 DOMAIN-SUFFIX,content.api.news
 DOMAIN-SUFFIX,pics.hentai.name
 DOMAIN-SUFFIX,doppiocdn.live
+DOMAIN-SUFFIX,maps.wplace.live
 DOMAIN-SUFFIX,airio3.live
 DOMAIN-SUFFIX,cdn.koala.live
 DOMAIN-SUFFIX,trustless-gateway.link
@@ -197,6 +198,7 @@ DOMAIN-SUFFIX,api.allorigins.win
 DOMAIN-SUFFIX,imglink.win
 DOMAIN-SUFFIX,www.10086.win
 DOMAIN-SUFFIX,javcdn.vip
+DOMAIN-SUFFIX,tanju.vip
 DOMAIN-SUFFIX,cdn.violet.vin
 DOMAIN-SUFFIX,assets.orz.uno
 DOMAIN-SUFFIX,media.orz.uno
@@ -472,6 +474,7 @@ DOMAIN-SUFFIX,a.deviantart.net
 DOMAIN-SUFFIX,cdn.datatables.net
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,players.brightcove.net
+DOMAIN-SUFFIX,webinfcdn.net
 DOMAIN-SUFFIX,video-cdn.net
 DOMAIN-SUFFIX,static.twitchcdn.net
 DOMAIN-SUFFIX,torrindex.net
@@ -591,6 +594,7 @@ DOMAIN-SUFFIX,i2.nhentai.net
 DOMAIN-SUFFIX,t.nhentai.net
 DOMAIN-SUFFIX,i.nhentai.net
 DOMAIN-SUFFIX,cdn.myfonts.net
+DOMAIN-SUFFIX,mubicdn.net
 DOMAIN-SUFFIX,itsre-sumo.mozilla.net
 DOMAIN-SUFFIX,interactive-examples.mdn.mozilla.net
 DOMAIN-SUFFIX,cdn.mozilla.net
@@ -1119,7 +1123,6 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,m3u8.girigirilove.com
 DOMAIN-SUFFIX,framerstatic.com
 DOMAIN-SUFFIX,static.filestackapi.com
-DOMAIN-SUFFIX,cdn.fastmediaing.com
 DOMAIN-SUFFIX,staticm.fastcomments.com
 DOMAIN-SUFFIX,cdn.fastcomments.com
 DOMAIN-SUFFIX,fakestoreapi.com
@@ -1368,7 +1371,6 @@ DOMAIN-SUFFIX,f002.backblazeb2.com
 DOMAIN-SUFFIX,f001.backblazeb2.com
 DOMAIN-SUFFIX,f000.backblazeb2.com
 DOMAIN-SUFFIX,img.applealmond.com
-DOMAIN-SUFFIX,aosikaimage.com
 DOMAIN-SUFFIX,ancestrycdn.com
 DOMAIN-SUFFIX,showcase.abovemarket.com
 DOMAIN-SUFFIX,assets.aboutamazon.com
@@ -1621,7 +1623,6 @@ DOMAIN-SUFFIX,files.wordpress.com
 DOMAIN-SUFFIX,s0.wordpress.com
 DOMAIN-SUFFIX,wixstatic.com
 DOMAIN-SUFFIX,image.westinyou.com
-DOMAIN-SUFFIX,webinfcdn.com
 DOMAIN-SUFFIX,s3.eu-central-2.wasabisys.com
 DOMAIN-SUFFIX,s3.wasabisys.com
 DOMAIN-SUFFIX,assets.videowise.com
@@ -1895,6 +1896,7 @@ DOMAIN-SUFFIX,cdn3.sysgears.com
 DOMAIN-SUFFIX,cdn2.sysgears.com
 DOMAIN-SUFFIX,cdn1.sysgears.com
 DOMAIN-SUFFIX,sway-cdn.com
+DOMAIN-SUFFIX,frontend-assets.supabase.com
 DOMAIN-SUFFIX,cdn.substack.com
 DOMAIN-SUFFIX,stylexjs.com
 DOMAIN-SUFFIX,stripcdn.com
@@ -2275,7 +2277,6 @@ DOMAIN-SUFFIX,featureflags.netlify.com
 DOMAIN-SUFFIX,ndtvimg.com
 DOMAIN-SUFFIX,nodeassets.nbcnews.com
 DOMAIN-SUFFIX,iframe.nbcnews.com
-DOMAIN-SUFFIX,mubicdn.com
 DOMAIN-SUFFIX,stubdownloader.services.mozilla.com
 DOMAIN-SUFFIX,firefox.settings.services.mozilla.com
 DOMAIN-SUFFIX,push.services.mozilla.com
@@ -2814,6 +2815,8 @@ DOMAIN-SUFFIX,cdn.paidy.com
 DOMAIN-SUFFIX,package-assets.oomol.com
 DOMAIN-SUFFIX,registry.oomol.com
 DOMAIN-SUFFIX,static.oomol.com
+DOMAIN-SUFFIX,static-production.npmjs.com
+DOMAIN-SUFFIX,static.npmjs.com
 DOMAIN-SUFFIX,npmfs.com
 DOMAIN-SUFFIX,ws-cdn.nperf.com
 DOMAIN-SUFFIX,cdn.nperf.com
@@ -3734,7 +3737,6 @@ DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,aayinltcs.arduino.cc
 DOMAIN-SUFFIX,content.arduino.cc
 DOMAIN-SUFFIX,cdn.arduino.cc
-DOMAIN-SUFFIX,pengtu.cc
 DOMAIN-SUFFIX,imgimg.cc
 DOMAIN-SUFFIX,fonts.gishan.cc
 DOMAIN-SUFFIX,s.gishan.cc

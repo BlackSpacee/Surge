@@ -8,7 +8,7 @@
 # USER-AGENT: 1
 # URL-REGEX: 3
 # TOTAL: 6454
-# UPDATED: 2025-08-12 10:06:51
+# UPDATED: 2025-08-12 14:39:44
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-08-10T18:28:04.420Z
-# Size: 738
+# Last Updated: 2025-08-12T10:49:12.478Z
+# Size: 740
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1878,6 +1878,7 @@ DOMAIN-WILDCARD,business-facebook-*.pages.dev
 DOMAIN-WILDCARD,help-for-work-*.pages.dev
 DOMAIN-WILDCARD,apples-24x7-*.pages.dev
 DOMAIN-WILDCARD,alienxchain*.pages.dev
+DOMAIN-WILDCARD,bdvenlinea*.pages.dev
 DOMAIN-WILDCARD,geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com
 DOMAIN-WILDCARD,browser-intake-*-datadoghq.com
 DOMAIN-WILDCARD,partner.superbahisaffiliates*.com
@@ -1958,6 +1959,7 @@ DOMAIN-WILDCARD,collect-elb-*.amazonaws.com
 DOMAIN-WILDCARD,apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com
 DOMAIN-WILDCARD,ad-*.amazonaws.com
 DOMAIN-WILDCARD,dualstack.adbert-web-lbs-*.elb.amazonaws.com
+DOMAIN-WILDCARD,beehiiv-adnetwork-production.s*.amazonaws.com
 DOMAIN-WILDCARD,reachableads-av.*.amazonaws.com
 DOMAIN-WILDCARD,mobileanalytics.*.amazonaws.com
 DOMAIN-WILDCARD,client.rum.*.amazonaws.com
