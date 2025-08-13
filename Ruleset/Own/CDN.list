@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3779
+# DOMAIN-SUFFIX: 3786
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3806
-# UPDATED: 2025-08-13 10:08:30
+# TOTAL: 3813
+# UPDATED: 2025-08-13 14:40:07
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-12T10:49:13.477Z
-# Size: 3779
+# Last Updated: 2025-08-13T08:11:26.443Z
+# Size: 3786
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -85,6 +85,7 @@ DOMAIN-SUFFIX,gateway.pinata.cloud
 DOMAIN-SUFFIX,patterns.hiive.cloud
 DOMAIN-SUFFIX,cdn.tiny.cloud
 DOMAIN-SUFFIX,fscdn.eppo.cloud
+DOMAIN-SUFFIX,cdn-static.paw.cloud
 DOMAIN-SUFFIX,dsc.cloud
 DOMAIN-SUFFIX,static.bit.cloud
 DOMAIN-SUFFIX,cdn.bigcloud.click
@@ -620,6 +621,7 @@ DOMAIN-SUFFIX,cf-images.us-east-1.prod.boltdns.net
 DOMAIN-SUFFIX,mir-s3-cdn-cf.behance.net
 DOMAIN-SUFFIX,a5.behance.net
 DOMAIN-SUFFIX,consentdeliveryfd.azurefd.net
+DOMAIN-SUFFIX,edgestorewebpme-d2hnhfgbgnfmfuha.z01.azurefd.net
 DOMAIN-SUFFIX,edgecdn-embza6g8cacagcbn.z01.azurefd.net
 DOMAIN-SUFFIX,assets-cdn.abcotvs.net
 DOMAIN-SUFFIX,99avcdn.net
@@ -1125,6 +1127,7 @@ DOMAIN-SUFFIX,framerstatic.com
 DOMAIN-SUFFIX,static.filestackapi.com
 DOMAIN-SUFFIX,staticm.fastcomments.com
 DOMAIN-SUFFIX,cdn.fastcomments.com
+DOMAIN-SUFFIX,static.fastboostcdn.com
 DOMAIN-SUFFIX,fakestoreapi.com
 DOMAIN-SUFFIX,cdn-eu.dynamicyield.com
 DOMAIN-SUFFIX,st-eu.dynamicyield.com
@@ -1288,6 +1291,7 @@ DOMAIN-SUFFIX,localizecdn.com
 DOMAIN-SUFFIX,cdn.livechatinc.com
 DOMAIN-SUFFIX,cdn.linearicons.com
 DOMAIN-SUFFIX,lbpictupian.com
+DOMAIN-SUFFIX,kleecks-cdn.com
 DOMAIN-SUFFIX,logos.kiwibrowser.com
 DOMAIN-SUFFIX,i.kickstarter.com
 DOMAIN-SUFFIX,a.kickstarter.com
@@ -1533,6 +1537,7 @@ DOMAIN-SUFFIX,cdn.fourthwall.com
 DOMAIN-SUFFIX,frontend.floatplane.com
 DOMAIN-SUFFIX,pbs.floatplane.com
 DOMAIN-SUFFIX,images.findagrave.com
+DOMAIN-SUFFIX,img.fastcybers.com
 DOMAIN-SUFFIX,externulls.com
 DOMAIN-SUFFIX,images.everyplate.com
 DOMAIN-SUFFIX,cdntranscend.eventbrite.com
@@ -1729,6 +1734,7 @@ DOMAIN-SUFFIX,uhf.microsoft.com
 DOMAIN-SUFFIX,csp.microsoft.com
 DOMAIN-SUFFIX,js.memberful.com
 DOMAIN-SUFFIX,static.mediafire.com
+DOMAIN-SUFFIX,form-assets.mailchimp.com
 DOMAIN-SUFFIX,cdn-images.mailchimp.com
 DOMAIN-SUFFIX,static.macupdate.com
 DOMAIN-SUFFIX,images.macrumors.com
@@ -3614,6 +3620,7 @@ DOMAIN-SUFFIX,gw3.io
 DOMAIN-SUFFIX,static.ffx.io
 DOMAIN-SUFFIX,eep.io
 DOMAIN-SUFFIX,registry.api.cnn.io
+DOMAIN-SUFFIX,cdn.db.io
 DOMAIN-SUFFIX,static.snaptube.in
 DOMAIN-SUFFIX,cdn.imgeng.in
 DOMAIN-SUFFIX,object.innei.in
