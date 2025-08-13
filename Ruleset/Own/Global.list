@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 131
-# DOMAIN-SUFFIX: 32174
+# DOMAIN-SUFFIX: 32175
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32519
-# UPDATED: 2025-08-13 14:40:07
+# TOTAL: 32520
+# UPDATED: 2025-08-13 20:56:57
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7488,14 +7488,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-12 02:08:06
+# UPDATED: 2025-08-14 02:10:55
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6475
+# DOMAIN-SUFFIX: 6479
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6615
+# TOTAL: 6619
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7537,6 +7537,7 @@ DOMAIN-SUFFIX,bandisoft.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,bbs.sina.com
+DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bintray.com
@@ -7629,6 +7630,7 @@ DOMAIN-SUFFIX,immigration.gov.tw
 DOMAIN-SUFFIX,imore.com
 DOMAIN-SUFFIX,imtoken.fans
 DOMAIN-SUFFIX,inf.news
+DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,ingress.com
 DOMAIN-SUFFIX,insder.co
 DOMAIN-SUFFIX,instapaper.com
@@ -7663,6 +7665,7 @@ DOMAIN-SUFFIX,littlehj.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,liyuans.com
 DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,luckymobile.ca
 DOMAIN-SUFFIX,ly.gov.tw
 DOMAIN-SUFFIX,ma.hao123.com
 DOMAIN-SUFFIX,macid.co
@@ -7864,14 +7867,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-08-12 02:07:45
+# UPDATED: 2025-08-14 02:10:34
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31567
+# DOMAIN-SUFFIX: 31569
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31876
+# TOTAL: 31878
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -11206,7 +11209,6 @@ DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.co
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binance.net
-DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binance.vision
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,binancecnt.com
@@ -19321,7 +19323,6 @@ DOMAIN-SUFFIX,infowars.com
 DOMAIN-SUFFIX,infowarsmedia.com
 DOMAIN-SUFFIX,infrapedia.com
 DOMAIN-SUFFIX,infraworks.com
-DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,ingads.com
 DOMAIN-SUFFIX,ingka.com
 DOMAIN-SUFFIX,ingka.dev
