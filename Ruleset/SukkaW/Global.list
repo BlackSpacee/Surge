@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-08-10T18:28:04.683Z
-# Size: 1113
+# Last Updated: 2025-08-14T10:22:08.897Z
+# Size: 1133
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -18,7 +18,9 @@ DOMAIN-SUFFIX,animes.garden
 DOMAIN-SUFFIX,ant.design
 DOMAIN-SUFFIX,chrome
 DOMAIN-SUFFIX,watch
-DOMAIN-SUFFIX,tools
+DOMAIN-SUFFIX,minecraft.tools
+DOMAIN-SUFFIX,dnscheck.tools
+DOMAIN-SUFFIX,bgp.tools
 DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,javhd.today
 DOMAIN-SUFFIX,party
@@ -42,7 +44,7 @@ DOMAIN-SUFFIX,guru
 DOMAIN-SUFFIX,goog
 DOMAIN-SUFFIX,sfmcompile.club
 DOMAIN-SUFFIX,cafe
-DOMAIN-SUFFIX,blog
+DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,picacomic.xyz
 DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,bikaios.xyz
@@ -254,7 +256,8 @@ DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,sf.net
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,ddys.mov
-DOMAIN-SUFFIX,moe
+DOMAIN-SUFFIX,bangumi.moe
+DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,mil
 DOMAIN-SUFFIX,hsex.men
 DOMAIN-SUFFIX,lol
@@ -262,7 +265,15 @@ DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,gle
 DOMAIN-SUFFIX,libgen.fun
 DOMAIN-SUFFIX,edu
-DOMAIN-SUFFIX,dev
+DOMAIN-SUFFIX,githubpreview.dev
+DOMAIN-SUFFIX,gitkraken.dev
+DOMAIN-SUFFIX,orbstack.dev
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,sentry.dev
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,web.dev
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,returnyoutubedislikeapi.com
 DOMAIN-SUFFIX,onepluscommunityserver.com
 DOMAIN-SUFFIX,privateinternetaccess.com
@@ -931,7 +942,16 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,line.biz
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,signal.art
-DOMAIN-SUFFIX,app
+DOMAIN-SUFFIX,edgecompute.app
+DOMAIN-SUFFIX,istatmenus.app
+DOMAIN-SUFFIX,cyberghost.app
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,linear.app
+DOMAIN-SUFFIX,knock.app
+DOMAIN-SUFFIX,grep.app
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,ajay.app
+DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,za
 DOMAIN-SUFFIX,ws
 DOMAIN-SUFFIX,vn

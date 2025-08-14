@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-14T05:58:47.464Z
-# Size: 3799
+# Last Updated: 2025-08-14T10:22:09.998Z
+# Size: 3808
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,files.smashing.media
 DOMAIN-SUFFIX,images.github.media
 DOMAIN-SUFFIX,jssdk.opin.media
 DOMAIN-SUFFIX,icon.horse
+DOMAIN-SUFFIX,node.green
 DOMAIN-SUFFIX,assets.buttondown.email
 DOMAIN-SUFFIX,ipfs-gateway.cloud
 DOMAIN-SUFFIX,dreamscape.cloud
@@ -848,6 +849,7 @@ DOMAIN-SUFFIX,storjipfs-gateway.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,assets.positional-bucket.com
+DOMAIN-SUFFIX,parsecusercontent.com
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,navismithapis-cdn.com
 DOMAIN-SUFFIX,googleusercontent.com
@@ -3229,6 +3231,11 @@ DOMAIN-SUFFIX,assets-cdn.jable.tv
 DOMAIN-SUFFIX,assetscdn.jable.tv
 DOMAIN-SUFFIX,assets.jable.tv
 DOMAIN-SUFFIX,i.iwara.tv
+DOMAIN-SUFFIX,imgcn5.bgmbk.tv
+DOMAIN-SUFFIX,imgcn4.bgmbk.tv
+DOMAIN-SUFFIX,imgcn3.bgmbk.tv
+DOMAIN-SUFFIX,imgcn2.bgmbk.tv
+DOMAIN-SUFFIX,imgcn.bgmbk.tv
 DOMAIN-SUFFIX,cdn.18jav.tv
 DOMAIN-SUFFIX,s-cdnstatic.svc.litv.tv
 DOMAIN-SUFFIX,p-cdnstatic.svc.litv.tv
@@ -3274,6 +3281,8 @@ DOMAIN-SUFFIX,s3.doujin.sh
 DOMAIN-SUFFIX,surge.sh
 DOMAIN-SUFFIX,static.scarf.sh
 DOMAIN-SUFFIX,proxy.cors.sh
+DOMAIN-SUFFIX,brew.sh
+DOMAIN-SUFFIX,docs.brew.sh
 DOMAIN-SUFFIX,flo.uri.sh
 DOMAIN-SUFFIX,ttl.sh
 DOMAIN-SUFFIX,now.sh
