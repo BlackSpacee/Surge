@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-13T08:11:26.443Z
-# Size: 3786
+# Last Updated: 2025-08-14T05:58:47.464Z
+# Size: 3799
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -129,6 +129,7 @@ DOMAIN-SUFFIX,gdvid.info
 DOMAIN-SUFFIX,ddpic.info
 DOMAIN-SUFFIX,assets-servd.host
 DOMAIN-SUFFIX,cdn.masto.host
+DOMAIN-SUFFIX,assets.gorgias.help
 DOMAIN-SUFFIX,usercontent.goog
 DOMAIN-SUFFIX,c.pki.goog
 DOMAIN-SUFFIX,nel.goog
@@ -643,6 +644,7 @@ DOMAIN-SUFFIX,nel.measure.office.net
 DOMAIN-SUFFIX,support.content.office.net
 DOMAIN-SUFFIX,cdn.graph.office.net
 DOMAIN-SUFFIX,cdn.forms.office.net
+DOMAIN-SUFFIX,cdn.designerapp.osi.office.net
 DOMAIN-SUFFIX,myanalytics.cdn.office.net
 DOMAIN-SUFFIX,res-geo.cdn.office.net
 DOMAIN-SUFFIX,public.cdn.office.net
@@ -1010,6 +1012,7 @@ DOMAIN-SUFFIX,asset.mansionglobal.com
 DOMAIN-SUFFIX,livemediahost.com
 DOMAIN-SUFFIX,pbs-prod.linustechtips.com
 DOMAIN-SUFFIX,highwinds-cdn.com
+DOMAIN-SUFFIX,cdn.heapanalytics.com
 DOMAIN-SUFFIX,sig.grumpybumpers.com
 DOMAIN-SUFFIX,app.groovefunnels.com
 DOMAIN-SUFFIX,telemetry.individual.githubcopilot.com
@@ -1715,12 +1718,14 @@ DOMAIN-SUFFIX,static.mocortech.com
 DOMAIN-SUFFIX,public.mocortech.com
 DOMAIN-SUFFIX,cdn.miohentai.com
 DOMAIN-SUFFIX,cdn-dynmedia-1.microsoft.com
+DOMAIN-SUFFIX,cdn.techcommunity.microsoft.com
 DOMAIN-SUFFIX,store-images.microsoft.com
 DOMAIN-SUFFIX,smartscreen.microsoft.com
 DOMAIN-SUFFIX,answers-afd.microsoft.com
 DOMAIN-SUFFIX,cmtycdn.powerpages.microsoft.com
 DOMAIN-SUFFIX,wcpstatic.microsoft.com
 DOMAIN-SUFFIX,filestore.community.support.microsoft.com
+DOMAIN-SUFFIX,cdn.create.microsoft.com
 DOMAIN-SUFFIX,images.ecomm.microsoft.com
 DOMAIN-SUFFIX,ajax.microsoft.com
 DOMAIN-SUFFIX,uhf.microsoft.com
@@ -1979,6 +1984,7 @@ DOMAIN-SUFFIX,api-eu.mixpanel.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,thumbnailer.mixcloud.com
 DOMAIN-SUFFIX,static-prod-web.miniclip.com
+DOMAIN-SUFFIX,cdn.mikrotik.com
 DOMAIN-SUFFIX,static.mendeley.com
 DOMAIN-SUFFIX,i.mediatek.com
 DOMAIN-SUFFIX,resources.digital-cloud.medallia.com
@@ -2313,6 +2319,9 @@ DOMAIN-SUFFIX,moodular.jotform.com
 DOMAIN-SUFFIX,files.jotform.com
 DOMAIN-SUFFIX,js.jotform.com
 DOMAIN-SUFFIX,pool.jortage.com
+DOMAIN-SUFFIX,img4.javmost.com
+DOMAIN-SUFFIX,img3.javmost.com
+DOMAIN-SUFFIX,img2.javmost.com
 DOMAIN-SUFFIX,img2.javdove.com
 DOMAIN-SUFFIX,assets.ipstack.com
 DOMAIN-SUFFIX,i.insider.com
@@ -2393,6 +2402,7 @@ DOMAIN-SUFFIX,flaglog.com
 DOMAIN-SUFFIX,flagcdn.com
 DOMAIN-SUFFIX,fivetiu.com
 DOMAIN-SUFFIX,detectportal.firefox.com
+DOMAIN-SUFFIX,cdn.accounts.firefox.com
 DOMAIN-SUFFIX,ffzy888.com
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,espncdn.com
@@ -2617,6 +2627,7 @@ DOMAIN-SUFFIX,s.namemc.com
 DOMAIN-SUFFIX,aacdn.nagich.com
 DOMAIN-SUFFIX,int.mwbbiz.com
 DOMAIN-SUFFIX,appassets.mvtdev.com
+DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,img.mresou.com
 DOMAIN-SUFFIX,static-main.moovit.com
 DOMAIN-SUFFIX,static.moomoo.com
@@ -2980,6 +2991,7 @@ DOMAIN-SUFFIX,widget.user.com
 DOMAIN-SUFFIX,media.user.com
 DOMAIN-SUFFIX,assets.time.com
 DOMAIN-SUFFIX,sirv.com
+DOMAIN-SUFFIX,cdn.sift.com
 DOMAIN-SUFFIX,static.seel.com
 DOMAIN-SUFFIX,cdn.sedo.com
 DOMAIN-SUFFIX,www.s81c.com
@@ -3022,6 +3034,7 @@ DOMAIN-SUFFIX,img.atom.com
 DOMAIN-SUFFIX,g-static.ap4r.com
 DOMAIN-SUFFIX,a1tb.com
 DOMAIN-SUFFIX,accounts-cdn.9gag.com
+DOMAIN-SUFFIX,bundle.5gtb.com
 DOMAIN-SUFFIX,img.4khd.com
 DOMAIN-SUFFIX,oss.1p3a.com
 DOMAIN-SUFFIX,cdn.you.com
