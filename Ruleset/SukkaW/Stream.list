@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2025-07-21T08:09:50.064Z
-# Size: 328
+# Last Updated: 2025-08-14T13:29:47.634Z
+# Size: 330
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -23,6 +23,7 @@
 # - DMM
 # - encoreTVB
 # - encoreTVB JP
+# - Friday TW
 # - Fox Now
 # - Fox+
 # - HBO Go / HBO Now / HBO Max / Max
@@ -268,6 +269,8 @@ DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,hbogoasia.tw
 DOMAIN-SUFFIX,linetv.tw
+DOMAIN,video.friday.tw
+DOMAIN,ana.video.friday.tw
 DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,kkbox.com.tw
