@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-14T16:05:39.366Z
-# Size: 3821
+# Last Updated: 2025-08-15T05:39:34.886Z
+# Size: 3825
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1071,6 +1071,7 @@ DOMAIN-SUFFIX,cdn3.unrealengine.com
 DOMAIN-SUFFIX,cdn2.unrealengine.com
 DOMAIN-SUFFIX,cdn1.unrealengine.com
 DOMAIN-SUFFIX,cdn.unrealengine.com
+DOMAIN-SUFFIX,twenty-icons.com
 DOMAIN-SUFFIX,trackerslist.com
 DOMAIN-SUFFIX,resource.tnlmediagene.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
@@ -1677,6 +1678,8 @@ DOMAIN-SUFFIX,cdn-public.sociabble.com
 DOMAIN-SUFFIX,static.skyassets.com
 DOMAIN-SUFFIX,uploads.sitepoint.com
 DOMAIN-SUFFIX,s3.sitepoint.com
+DOMAIN-SUFFIX,icons.simplesvg.com
+DOMAIN-SUFFIX,api.simplesvg.com
 DOMAIN-SUFFIX,media.shopimind.com
 DOMAIN-SUFFIX,sfbassets.com
 DOMAIN-SUFFIX,sendspace.com
@@ -2529,6 +2532,7 @@ DOMAIN-SUFFIX,image.ship.vercel.com
 DOMAIN-SUFFIX,go.vercel.com
 DOMAIN-SUFFIX,img.utdstc.com
 DOMAIN-SUFFIX,devrum.uptime.com
+DOMAIN-SUFFIX,api.unisvg.com
 DOMAIN-SUFFIX,assets.ubuntu.com
 DOMAIN-SUFFIX,widgets.turnto.com
 DOMAIN-SUFFIX,cdn.turner.com
