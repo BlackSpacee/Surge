@@ -1,14 +1,14 @@
 # NAME: Reject
 # AND: 1
-# DOMAIN: 475
+# DOMAIN: 474
 # DOMAIN-SUFFIX: 5784
-# DOMAIN-KEYWORD: 144
+# DOMAIN-KEYWORD: 158
 # IP-CIDR: 42
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 3
-# TOTAL: 6454
-# UPDATED: 2025-08-16 14:36:13
+# TOTAL: 6467
+# UPDATED: 2025-08-16 20:50:59
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-08-14T12:51:21.913Z
-# Size: 741
+# Last Updated: 2025-08-16T14:31:25.390Z
+# Size: 754
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1541,7 +1541,6 @@ DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,lambda-ix.net
 DOMAIN,resolver.msg.xiaomi.net
 DOMAIN-SUFFIX,omtrdc.net
-DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
 DOMAIN-SUFFIX,brightinitiative.com
 DOMAIN-SUFFIX,kanuassociates.com
 DOMAIN-SUFFIX,whatismyippro.com
@@ -1693,7 +1692,7 @@ DOMAIN-KEYWORD,fb-community-standards
 DOMAIN-KEYWORD,fb-business-appeal
 DOMAIN-KEYWORD,cp-home-pl-
 DOMAIN-KEYWORD,tlauncher
-DOMAIN-KEYWORD,track.tiara
+DOMAIN-KEYWORD,this_rule_set_is_made_by_sukkaw
 DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,adsby
 DOMAIN-KEYWORD,adsdk
@@ -1710,8 +1709,7 @@ DOMAIN-KEYWORD,appsflyer
 DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,marketing.net
 DOMAIN-KEYWORD,adktrack
-DOMAIN-KEYWORD,track.msadcenter
-DOMAIN-KEYWORD,dc.pimentaafricana
+DOMAIN-KEYWORD,.msadcenter
 DOMAIN-KEYWORD,-txtagstore
 DOMAIN-KEYWORD,thetollroads-
 DOMAIN-KEYWORD,-go.experian.com
@@ -1723,7 +1721,7 @@ DOMAIN-KEYWORD,.sagewwl
 DOMAIN-KEYWORD,_vmind.qqvideo.tc.qq.com
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com
-DOMAIN-KEYWORD,.engage.3m.
+DOMAIN-KEYWORD,engage.3m.
 DOMAIN-KEYWORD,telemetry.officeapps.live.com
 DOMAIN-KEYWORD,-launches.appsflyersdk.com
 DOMAIN-KEYWORD,-attr.appsflyersdk.com
@@ -1746,9 +1744,17 @@ DOMAIN-KEYWORD,insights-collector.
 DOMAIN-KEYWORD,track.opentable.
 DOMAIN-KEYWORD,.net.daraz.
 DOMAIN-KEYWORD,.zooplus.
+DOMAIN-KEYWORD,.zoohit.
+DOMAIN-KEYWORD,.bitiba.
+DOMAIN-KEYWORD,.stenaline.
+DOMAIN-KEYWORD,.footlocker.
+DOMAIN-KEYWORD,dolce-gusto.
 DOMAIN-KEYWORD,smetric.
 DOMAIN-KEYWORD,smetrics.
+DOMAIN-KEYWORD,smetricsadobe.
 DOMAIN-KEYWORD,sanalytics.
+DOMAIN-KEYWORD,snalytics.
+DOMAIN-KEYWORD,somniture.
 DOMAIN-KEYWORD,sanl.footlocker
 DOMAIN-KEYWORD,scookies-adobe.
 DOMAIN-KEYWORD,secmetrics.
@@ -1756,11 +1762,15 @@ DOMAIN-KEYWORD,secureanalytics.
 DOMAIN-KEYWORD,securemetrics.
 DOMAIN-KEYWORD,securetags.
 DOMAIN-KEYWORD,srepdata.
+DOMAIN-KEYWORD,trcka8net.
+DOMAIN-KEYWORD,seniorliving.
 DOMAIN-KEYWORD,a8clk.
 DOMAIN-KEYWORD,a8cv.
 DOMAIN-KEYWORD,a8net.
 DOMAIN-KEYWORD,a8track.
 DOMAIN-KEYWORD,a8trck.
+DOMAIN-KEYWORD,a8aspconv.
+DOMAIN-KEYWORD,adebis.
 DOMAIN-KEYWORD,plausible.
 DOMAIN-KEYWORD,utiq.
 DOMAIN-KEYWORD,aa-metrics.
@@ -1768,6 +1778,9 @@ DOMAIN-KEYWORD,adbmetrics.
 DOMAIN-KEYWORD,adbsmetrics.
 DOMAIN-KEYWORD,adobeanalytic.
 DOMAIN-KEYWORD,adobeanalytics.
+DOMAIN-KEYWORD,adobemarketing.
+DOMAIN-KEYWORD,adtarget.
+DOMAIN-KEYWORD,iqmetrics.
 DOMAIN-KEYWORD,-mktg.vodafone.com
 DOMAIN-KEYWORD,-business.vodafone.com
 DOMAIN-KEYWORD,-ss.checkoutera.com
