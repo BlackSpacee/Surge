@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3825
+# DOMAIN-SUFFIX: 3828
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3852
-# UPDATED: 2025-08-16 02:38:20
+# TOTAL: 3855
+# UPDATED: 2025-08-16 10:03:44
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-15T05:39:34.886Z
-# Size: 3825
+# Last Updated: 2025-08-16T06:04:09.441Z
+# Size: 3828
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -208,6 +208,7 @@ DOMAIN-SUFFIX,assets.orz.uno
 DOMAIN-SUFFIX,media.orz.uno
 DOMAIN-SUFFIX,filecunhua.top
 DOMAIN-SUFFIX,static-cdn.bytegiftia.top
+DOMAIN-SUFFIX,images.mooncloud.top
 DOMAIN-SUFFIX,alphafish.top
 DOMAIN-SUFFIX,mobilius.top
 DOMAIN-SUFFIX,apperoni.top
@@ -1708,6 +1709,7 @@ DOMAIN-SUFFIX,siteintercept.qualtrics.com
 DOMAIN-SUFFIX,jfe-cdn.qualtrics.com
 DOMAIN-SUFFIX,js.qualified.com
 DOMAIN-SUFFIX,vpncdn.protonweb.com
+DOMAIN-SUFFIX,pmecdn.protonweb.com
 DOMAIN-SUFFIX,content.powerapps.com
 DOMAIN-SUFFIX,cdnstatic.porno-cum.com
 DOMAIN-SUFFIX,static.polldaddy.com
@@ -3587,6 +3589,7 @@ DOMAIN-SUFFIX,jbkcdn.io
 DOMAIN-SUFFIX,website-cdn.ipinfo.io
 DOMAIN-SUFFIX,cdn.ipinfo.io
 DOMAIN-SUFFIX,ipfs.infura.io
+DOMAIN-SUFFIX,assets.hackmd.io
 DOMAIN-SUFFIX,gohugo.io
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,github.io
