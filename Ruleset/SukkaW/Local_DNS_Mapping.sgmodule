@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2025-04-19T13:06:24.480Z
+#!desc=Last Updated: 2025-08-17T09:04:38.793Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -21,6 +21,8 @@ injections.adguard.org = server:system
 local.adguard.org = server:system
 *.bogon = server:system
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/router.conf = server:system
+127.0.0.1.sslip.io = 127.0.0.1
+127.atlas.skk.moe = 127.0.0.1
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/lan_without_real_ip.conf = server:system
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/lan_with_realip.conf = server:system
 cdn.jsdelivr.net = cdn.jsdelivr.net.cdn.cloudflare.net

@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3828
+# DOMAIN-SUFFIX: 3834
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3855
-# UPDATED: 2025-08-17 10:21:13
+# TOTAL: 3861
+# UPDATED: 2025-08-17 14:37:06
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-16T06:04:09.441Z
-# Size: 3828
+# Last Updated: 2025-08-17T12:18:18.489Z
+# Size: 3834
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1229,6 +1229,7 @@ DOMAIN-SUFFIX,static1.squarespace.com
 DOMAIN-SUFFIX,s3media.squarespace.com
 DOMAIN-SUFFIX,assets.squarespace.com
 DOMAIN-SUFFIX,splunkcloud.com
+DOMAIN-SUFFIX,assets.speedvitals.com
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,img.shoplineapp.com
 DOMAIN-SUFFIX,cdn.servicebell.com
@@ -3264,6 +3265,11 @@ DOMAIN-SUFFIX,imgcn.bgmbk.tv
 DOMAIN-SUFFIX,cdn.18jav.tv
 DOMAIN-SUFFIX,s-cdnstatic.svc.litv.tv
 DOMAIN-SUFFIX,p-cdnstatic.svc.litv.tv
+DOMAIN-SUFFIX,jsmodule.svc.litv.tv
+DOMAIN-SUFFIX,bulletin.svc.litv.tv
+DOMAIN-SUFFIX,static.svc.litv.tv
+DOMAIN-SUFFIX,player.svc.litv.tv
+DOMAIN-SUFFIX,fino.svc.litv.tv
 DOMAIN-SUFFIX,4gtvimg2.4gtv.tv
 DOMAIN-SUFFIX,lain.bgm.tv
 DOMAIN-SUFFIX,embed-v2.testimonial.to
