@@ -1,15 +1,15 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3834
+# DOMAIN-SUFFIX: 3836
 # DOMAIN-KEYWORD: 20
 # URL-REGEX: 2
-# TOTAL: 3861
-# UPDATED: 2025-08-19 14:38:15
+# TOTAL: 3863
+# UPDATED: 2025-08-19 20:51:31
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-17T12:18:18.489Z
-# Size: 3834
+# Last Updated: 2025-08-19T09:04:12.314Z
+# Size: 3836
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1026,6 +1026,7 @@ DOMAIN-SUFFIX,mcusercontent.com
 DOMAIN-SUFFIX,asset.mansionglobal.com
 DOMAIN-SUFFIX,livemediahost.com
 DOMAIN-SUFFIX,pbs-prod.linustechtips.com
+DOMAIN-SUFFIX,cwsimages.ingramcontent.com
 DOMAIN-SUFFIX,highwinds-cdn.com
 DOMAIN-SUFFIX,cdn.heapanalytics.com
 DOMAIN-SUFFIX,sig.grumpybumpers.com
@@ -3545,6 +3546,7 @@ DOMAIN-SUFFIX,cdn2.stamped.io
 DOMAIN-SUFFIX,cdn1.stamped.io
 DOMAIN-SUFFIX,shields.io
 DOMAIN-SUFFIX,images.scalero.io
+DOMAIN-SUFFIX,js.prosopo.io
 DOMAIN-SUFFIX,images.prismic.io
 DOMAIN-SUFFIX,cdn.prismic.io
 DOMAIN-SUFFIX,cdn.pagefly.io
