@@ -8,7 +8,7 @@
 # USER-AGENT: 1
 # URL-REGEX: 3
 # TOTAL: 6467
-# UPDATED: 2025-08-21 14:48:27
+# UPDATED: 2025-08-21 20:53:06
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-08-20T13:20:15.662Z
-# Size: 757
+# Last Updated: 2025-08-21T13:19:04.154Z
+# Size: 759
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1868,6 +1868,7 @@ DOMAIN-WILDCARD,hw-sh-pcdn-*.biliapi.net
 DOMAIN-WILDCARD,*-pcdn-*.biliapi.net
 DOMAIN-WILDCARD,api*.batmobi.net
 DOMAIN-WILDCARD,rum*.a.trbcdn.net
+DOMAIN-WILDCARD,amandes*.serv00.net
 DOMAIN-WILDCARD,collector-*.px-cdn.net
 DOMAIN-WILDCARD,adimg*.search.naver.net
 DOMAIN-WILDCARD,sonar*.xy.fbcdn.net
@@ -1989,6 +1990,7 @@ DOMAIN-WILDCARD,tnc*.zijieapi.com
 DOMAIN-WILDCARD,log*.zijieapi.com
 DOMAIN-WILDCARD,d*.xinshipu.com
 DOMAIN-WILDCARD,report*.appmetrica.webvisor.com
+DOMAIN-WILDCARD,impotsgouv.*.wcomhost.com
 DOMAIN-WILDCARD,app-analytics-*.snapchat.com
 DOMAIN-WILDCARD,pangolin*.sgsnssdk.com
 DOMAIN-WILDCARD,logs-*.rebxgame.com

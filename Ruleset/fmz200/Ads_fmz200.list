@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/filter.list
 #!tg-group=https://t.me/lanjieguanggao
-#!date=2025-08-13 22:20:17
+#!date=2025-08-21 22:37:00
 #!support=约9760行
 #############################################
 # "reject"        策略返回 HTTP 状态码 404,不附带任何额外内容
@@ -1527,9 +1527,8 @@ DOMAIN-SUFFIX,cad.youku.com
 DOMAIN-SUFFIX,sjarvis.taobao.com
 DOMAIN,adsmind.ugdtimg.com
 DOMAIN,amdc.m.youku.com
-DOMAIN,apiv4-iyes.youku.com
 DOMAIN,httpdns.alicdn.com
-DOMAIN,iyes.youku.com
+DOMAIN-KEYWORD,iyes.youku.com
 DOMAIN,m-vali.cp31.ott.cibntv.net
 DOMAIN,mc.atm.youku.com
 DOMAIN,vali-g1.cp31.ott.cibntv.net
