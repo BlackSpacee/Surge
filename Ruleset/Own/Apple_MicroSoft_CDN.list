@@ -1,8 +1,9 @@
 # NAME: Apple_MicroSoft_CDN
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 189
-# TOTAL: 195
-# UPDATED: 2025-08-23 02:35:14
+# URL-REGEX: 2
+# TOTAL: 197
+# UPDATED: 2025-08-23 09:55:41
 
 #########################################
 # Sukka's Ruleset - Apple CDN
@@ -191,8 +192,8 @@ DOMAIN-SUFFIX,xp.apple.com
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Microsoft CDN
-# Last Updated: 2025-08-15T05:39:35.699Z
-# Size: 22
+# Last Updated: 2025-08-22T17:28:06.760Z
+# Size: 24
 # This file contains Microsoft's domains using their China mainland CDN servers.
 # This file contains data from:
 #   - https://github.com/felixonmars/dnsmasq-china-list
@@ -218,3 +219,5 @@ DOMAIN-SUFFIX,sdx.microsoft.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
 DOMAIN-SUFFIX,fs.microsoft.com
+URL-REGEX,^http://www\.microsoft\.com/pki/
+URL-REGEX,^http://www\.microsoft\.com/pkiops/
