@@ -2,9 +2,8 @@
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 3838
 # DOMAIN-KEYWORD: 20
-# URL-REGEX: 2
-# TOTAL: 3865
-# UPDATED: 2025-08-23 14:34:01
+# TOTAL: 3863
+# UPDATED: 2025-08-23 20:48:12
 
 #########################################
 # Sukka's Ruleset - CDN Domains
@@ -3855,8 +3854,8 @@ DOMAIN-SUFFIX,bot.ivy.ai
 DOMAIN-SUFFIX,rules.ac
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
-# Last Updated: 2025-08-14T05:58:46.607Z
-# Size: 78
+# Last Updated: 2025-08-22T17:28:05.742Z
+# Size: 77
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,cdn-msp.18comic.vip
 DOMAIN,cdn-msp.18comic.org
@@ -3907,6 +3906,7 @@ DOMAIN-WILDCARD,proxy-*.dailymotion.com
 DOMAIN-WILDCARD,ocsp.*.amazontrust.com
 DOMAIN-WILDCARD,cdn?.18girlssex.com
 DOMAIN-WILDCARD,s3.*.wasabisys.com
+DOMAIN-WILDCARD,cdn-*.microsoft.com
 DOMAIN-WILDCARD,cdn.*.microsoft.com
 DOMAIN-WILDCARD,assets*.freshdesk.com
 DOMAIN-WILDCARD,*.img.*.sendibm?.com
@@ -3933,5 +3933,3 @@ DOMAIN-WILDCARD,static??.tgstat.ru
 DOMAIN-WILDCARD,static?.tgstat.ru
 DOMAIN-WILDCARD,cdn-msp?.jmcomic.me
 DOMAIN-WILDCARD,sdk.*.braze.eu
-URL-REGEX,^http://www\.microsoft\.com/pki/
-URL-REGEX,^http://www\.microsoft\.com/pkiops/
