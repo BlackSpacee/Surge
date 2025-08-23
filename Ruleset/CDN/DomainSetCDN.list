@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-19T09:04:12.314Z
-# Size: 3836
+# Last Updated: 2025-08-22T17:28:06.359Z
+# Size: 3838
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,addons.business
 DOMAIN-SUFFIX,static.ada.support
 DOMAIN-SUFFIX,images.web3.storage
 DOMAIN-SUFFIX,api.web3.storage
+DOMAIN-SUFFIX,cdn.neustar
 DOMAIN-SUFFIX,mangadex.network
 DOMAIN-SUFFIX,ipfs.eth.aragon.network
 DOMAIN-SUFFIX,gateway.serph.network
@@ -3149,6 +3150,7 @@ DOMAIN-SUFFIX,static.dw.com
 DOMAIN-SUFFIX,evt.24.com
 DOMAIN-SUFFIX,pixiv.cat
 DOMAIN-SUFFIX,oss.moe.cat
+DOMAIN-SUFFIX,ns-cdn.neustar.biz
 DOMAIN-SUFFIX,pics.mf8.biz
 DOMAIN-SUFFIX,ipfs.kaleido.art
 DOMAIN-SUFFIX,disco-static.productessentials.app
