@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3838
+# DOMAIN-SUFFIX: 3841
 # DOMAIN-KEYWORD: 20
-# TOTAL: 3863
-# UPDATED: 2025-08-23 20:48:12
+# TOTAL: 3866
+# UPDATED: 2025-08-24 02:32:34
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-22T17:28:06.359Z
-# Size: 3838
+# Last Updated: 2025-08-23T13:15:10.392Z
+# Size: 3841
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -162,6 +162,7 @@ DOMAIN-SUFFIX,domain.expiring-soon.xyz
 DOMAIN-SUFFIX,mirror-media.xyz
 DOMAIN-SUFFIX,packd.liuxingbaoyu.xyz
 DOMAIN-SUFFIX,eslint-react.xyz
+DOMAIN-SUFFIX,beta.eslint-react.xyz
 DOMAIN-SUFFIX,storage.withfabric.xyz
 DOMAIN-SUFFIX,qiniuyun22.xyz
 DOMAIN-SUFFIX,cdn.yinghuazy.xyz
@@ -302,6 +303,8 @@ DOMAIN-SUFFIX,cdn.cookielaw.org
 DOMAIN-SUFFIX,moderate.cleantalk.org
 DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,images.videolan.org
+DOMAIN-SUFFIX,static.tvtropes.org
+DOMAIN-SUFFIX,assets.tvtropes.org
 DOMAIN-SUFFIX,static.tronscan.org
 DOMAIN-SUFFIX,cdn.tronscan.org
 DOMAIN-SUFFIX,static.spigotmc.org
@@ -3854,8 +3857,8 @@ DOMAIN-SUFFIX,bot.ivy.ai
 DOMAIN-SUFFIX,rules.ac
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
-# Last Updated: 2025-08-22T17:28:05.742Z
-# Size: 77
+# Last Updated: 2025-08-23T13:15:06.142Z
+# Size: 78
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,cdn-msp.18comic.vip
 DOMAIN,cdn-msp.18comic.org
@@ -3933,3 +3936,4 @@ DOMAIN-WILDCARD,static??.tgstat.ru
 DOMAIN-WILDCARD,static?.tgstat.ru
 DOMAIN-WILDCARD,cdn-msp?.jmcomic.me
 DOMAIN-WILDCARD,sdk.*.braze.eu
+DOMAIN-WILDCARD,assets.*.imaga.co

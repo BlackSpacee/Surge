@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-22T17:28:05.742Z
-# Size: 77
+# Last Updated: 2025-08-23T13:15:06.142Z
+# Size: 78
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -85,5 +85,6 @@ DOMAIN-WILDCARD,static??.tgstat.ru
 DOMAIN-WILDCARD,static?.tgstat.ru
 DOMAIN-WILDCARD,cdn-msp?.jmcomic.me
 DOMAIN-WILDCARD,sdk.*.braze.eu
+DOMAIN-WILDCARD,assets.*.imaga.co
 ################## EOF ##################
 
