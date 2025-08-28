@@ -3,12 +3,12 @@
 # DOMAIN-SUFFIX: 118798
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12034
+# IP-CIDR: 12038
 # IP-CIDR6: 12031
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 143354
-# UPDATED: 2025-08-28 09:56:21
+# TOTAL: 143358
+# UPDATED: 2025-08-28 14:37:11
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -246,8 +246,8 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-08-08T08:47:37.805Z
-# Size: 833
+# Last Updated: 2025-08-28T11:24:00.041Z
+# Size: 829
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -1072,18 +1072,14 @@ DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,chaoxing.cc
-DOMAIN-WILDCARD,*.ffzy-online?.com
-DOMAIN-WILDCARD,*.ffzy-play?.com
-DOMAIN-WILDCARD,*.lz-cdn??.com
 DOMAIN-WILDCARD,*.qhimgs?.com
-DOMAIN-WILDCARD,*.lz-cdn?.com
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2025-08-27T17:09:07.329Z
-# Size: 3950
+# Last Updated: 2025-08-28T11:24:01.688Z
+# Size: 3954
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -2252,7 +2248,6 @@ IP-CIDR,103.170.4.0/23
 IP-CIDR,103.170.212.0/23
 IP-CIDR,103.174.94.0/23
 IP-CIDR,103.179.78.0/23
-IP-CIDR,103.181.164.0/23
 IP-CIDR,103.181.234.0/24
 IP-CIDR,103.183.66.0/23
 IP-CIDR,103.183.122.0/23
@@ -2461,7 +2456,6 @@ IP-CIDR,103.251.204.0/24
 IP-CIDR,103.251.207.0/24
 IP-CIDR,103.251.240.0/22
 IP-CIDR,103.252.36.0/24
-IP-CIDR,103.252.172.0/22
 IP-CIDR,103.252.248.0/22
 IP-CIDR,103.253.60.0/22
 IP-CIDR,103.253.204.0/22
@@ -3775,6 +3769,10 @@ IP-CIDR,154.8.48.0/20
 IP-CIDR,154.8.128.0/17
 IP-CIDR,154.72.44.0/24
 IP-CIDR,154.89.32.0/20
+IP-CIDR,154.89.49.0/24
+IP-CIDR,154.89.50.0/23
+IP-CIDR,154.89.52.0/22
+IP-CIDR,154.89.56.0/21
 IP-CIDR,155.126.176.0/23
 IP-CIDR,156.107.160.0/24
 IP-CIDR,156.107.170.0/24
@@ -3863,6 +3861,8 @@ IP-CIDR,175.0.0.0/12
 IP-CIDR,175.16.0.0/13
 IP-CIDR,175.24.0.0/15
 IP-CIDR,175.27.0.0/16
+IP-CIDR,175.29.107.0/24
+IP-CIDR,175.29.108.0/22
 IP-CIDR,175.30.0.0/15
 IP-CIDR,175.42.0.0/15
 IP-CIDR,175.44.0.0/16
