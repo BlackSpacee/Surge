@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-28T11:24:00.849Z
-# Size: 3820
+# Last Updated: 2025-08-26T17:05:22.010Z
+# Size: 3807
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -196,8 +196,6 @@ DOMAIN-SUFFIX,wimg.rule34.xxx
 DOMAIN-SUFFIX,api.allorigins.win
 DOMAIN-SUFFIX,imglink.win
 DOMAIN-SUFFIX,www.10086.win
-DOMAIN-SUFFIX,cloudforfun.vip
-DOMAIN-SUFFIX,cloudlin.vip
 DOMAIN-SUFFIX,javcdn.vip
 DOMAIN-SUFFIX,tanju.vip
 DOMAIN-SUFFIX,cdn.violet.vin
@@ -217,7 +215,6 @@ DOMAIN-SUFFIX,cktu01.sbs
 DOMAIN-SUFFIX,bundle.run
 DOMAIN-SUFFIX,esm.run
 DOMAIN-SUFFIX,content.any.run
-DOMAIN-SUFFIX,i.mij.rip
 DOMAIN-SUFFIX,badbits.dwebops.pub
 DOMAIN-SUFFIX,gfx-data.news-engineering.aws.wapo.pub
 DOMAIN-SUFFIX,ca.nfs.pub
@@ -278,7 +275,6 @@ DOMAIN-SUFFIX,assets.mayoclinic.org
 DOMAIN-SUFFIX,seccdn.libravatar.org
 DOMAIN-SUFFIX,cdn.libravatar.org
 DOMAIN-SUFFIX,cdn.gamemonkey.org
-DOMAIN-SUFFIX,codeforces.org
 DOMAIN-SUFFIX,bytebucket.org
 DOMAIN-SUFFIX,cdn.autoketing.org
 DOMAIN-SUFFIX,ampproject.org
@@ -311,7 +307,6 @@ DOMAIN-SUFFIX,parceljs.org
 DOMAIN-SUFFIX,open-vsx.org
 DOMAIN-SUFFIX,demotiles.maplibre.org
 DOMAIN-SUFFIX,lichess1.org
-DOMAIN-SUFFIX,design.keyoxide.org
 DOMAIN-SUFFIX,api.indexnow.org
 DOMAIN-SUFFIX,assets.exercism.org
 DOMAIN-SUFFIX,david-dm.org
@@ -1570,7 +1565,6 @@ DOMAIN-SUFFIX,cdn.contentful.com
 DOMAIN-SUFFIX,cdn.eu.contentful.com
 DOMAIN-SUFFIX,frames-commandbar-prod.commandbar.com
 DOMAIN-SUFFIX,cdn.commandbar.com
-DOMAIN-SUFFIX,st.codeforces.com
 DOMAIN-SUFFIX,static-assets.codecademy.com
 DOMAIN-SUFFIX,assets.cmcmarkets.com
 DOMAIN-SUFFIX,cdn.cmcmarkets.com
@@ -1858,7 +1852,6 @@ DOMAIN-SUFFIX,images.anandtech.com
 DOMAIN-SUFFIX,ip-ranges.amazonaws.com
 DOMAIN-SUFFIX,assets.as2.amazonaws.com
 DOMAIN-SUFFIX,abcnewsfe.com
-DOMAIN-SUFFIX,52netflix.com
 DOMAIN-SUFFIX,app.1password.com
 DOMAIN-SUFFIX,i.1password.com
 DOMAIN-SUFFIX,c.1password.com
@@ -2252,7 +2245,6 @@ DOMAIN-SUFFIX,static.rakuten.com
 DOMAIN-SUFFIX,cdn.quadpay.com
 DOMAIN-SUFFIX,pxlecdn.com
 DOMAIN-SUFFIX,image.prntscr.com
-DOMAIN-SUFFIX,st.prntscr.com
 DOMAIN-SUFFIX,cdn.privacy.com
 DOMAIN-SUFFIX,app-static.eu.posthog.com
 DOMAIN-SUFFIX,cdn77-t.pornoxo.com
@@ -2660,7 +2652,6 @@ DOMAIN-SUFFIX,api-lytics.macpaw.com
 DOMAIN-SUFFIX,cdn2.macpaw.com
 DOMAIN-SUFFIX,loggly.com
 DOMAIN-SUFFIX,lodash.com
-DOMAIN-SUFFIX,locimg.com
 DOMAIN-SUFFIX,staging-pubfeed.linkby.com
 DOMAIN-SUFFIX,ledger-wp-website-s3-prd.ledger.com
 DOMAIN-SUFFIX,assets-cms.kraken.com
@@ -2879,8 +2870,6 @@ DOMAIN-SUFFIX,talk.hyvor.com
 DOMAIN-SUFFIX,video-meta.humix.com
 DOMAIN-SUFFIX,assets.humix.com
 DOMAIN-SUFFIX,h-cdn.com
-DOMAIN-SUFFIX,gszyi.com
-DOMAIN-SUFFIX,gsuus.com
 DOMAIN-SUFFIX,static.gopro.com
 DOMAIN-SUFFIX,media4.giphy.com
 DOMAIN-SUFFIX,media3.giphy.com
@@ -3242,7 +3231,6 @@ DOMAIN-SUFFIX,imgcn3.bgmbk.tv
 DOMAIN-SUFFIX,imgcn2.bgmbk.tv
 DOMAIN-SUFFIX,imgcn.bgmbk.tv
 DOMAIN-SUFFIX,cdn.18jav.tv
-DOMAIN-SUFFIX,static.yfsp.tv
 DOMAIN-SUFFIX,s-cdnstatic.svc.litv.tv
 DOMAIN-SUFFIX,p-cdnstatic.svc.litv.tv
 DOMAIN-SUFFIX,jsmodule.svc.litv.tv
@@ -3270,7 +3258,6 @@ DOMAIN-SUFFIX,img.coomer.su
 DOMAIN-SUFFIX,jpg5.su
 DOMAIN-SUFFIX,0x0.st
 DOMAIN-SUFFIX,udata.namespace.so
-DOMAIN-SUFFIX,cdn.seline.so
 DOMAIN-SUFFIX,image-forwarder.notaku.so
 DOMAIN-SUFFIX,bucket1.notaku.so
 DOMAIN-SUFFIX,static.cohere.so
