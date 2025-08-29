@@ -8,7 +8,7 @@
 # USER-AGENT: 1
 # URL-REGEX: 3
 # TOTAL: 6467
-# UPDATED: 2025-08-29 09:56:34
+# UPDATED: 2025-08-29 14:36:04
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-08-27T05:16:11.999Z
-# Size: 769
+# Last Updated: 2025-08-29T05:16:02.209Z
+# Size: 772
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2045,6 +2045,7 @@ DOMAIN-WILDCARD,host*.rvshare.com
 DOMAIN-WILDCARD,r.reklam*.com
 DOMAIN-WILDCARD,dhl.*.potabox.com
 DOMAIN-WILDCARD,events-api*.outfit7.com
+DOMAIN-WILDCARD,lnkdeka.standard.*.oortech.com
 DOMAIN-WILDCARD,customerevents.us-east-*.internal.dradis.netflix.com
 DOMAIN-WILDCARD,cs*.mp3bars.com
 DOMAIN-WILDCARD,dn*.ixinwei.com
@@ -2131,6 +2132,7 @@ DOMAIN-WILDCARD,plum-binder-*.typedream.app
 DOMAIN-WILDCARD,support-metahelpcenter-id*.netlify.app
 DOMAIN-WILDCARD,govern-assessment-validation-*.vercel.app
 DOMAIN-WILDCARD,safety-profiles-fb-ads-*.vercel.app
+DOMAIN-WILDCARD,download-wetransfer-*.vercel.app
 DOMAIN-WILDCARD,support-center-for-*.vercel.app
 DOMAIN-WILDCARD,facture-pdf-secure-*.vercel.app
 DOMAIN-WILDCARD,base-swap-frontend-*.vercel.app
@@ -2142,6 +2144,7 @@ DOMAIN-WILDCARD,pancake-swap*.vercel.app
 DOMAIN-WILDCARD,pancake-nft*.vercel.app
 DOMAIN-WILDCARD,azuki-*.vercel.app
 DOMAIN-WILDCARD,authsignonstaff*.softr.app
+DOMAIN-WILDCARD,my-ee-*.web.app
 DOMAIN-WILDCARD,gohvb-*.web.app
 DOMAIN-WILDCARD,tracking-v*.a.run.app
 DOMAIN-WILDCARD,tw-726620180914.*.run.app
