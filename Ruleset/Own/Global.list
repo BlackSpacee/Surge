@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 131
-# DOMAIN-SUFFIX: 32446
+# DOMAIN-SUFFIX: 32447
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32791
-# UPDATED: 2025-08-29 02:35:18
+# TOTAL: 32792
+# UPDATED: 2025-08-29 09:56:34
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-08-25T16:01:01.526Z
-# Size: 1136
+# Last Updated: 2025-08-28T11:24:00.008Z
+# Size: 1138
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -103,6 +103,7 @@ DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,dnschecker.org
+DOMAIN-SUFFIX,codeforces.org
 DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,wordpress.org
@@ -441,6 +442,7 @@ DOMAIN-SUFFIX,dictionary.com
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,curseforge.com
+DOMAIN-SUFFIX,codeforces.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,clips4sale.com
 DOMAIN-SUFFIX,artstation.com
@@ -13464,7 +13466,6 @@ DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,codeberg.page
 DOMAIN-SUFFIX,codecademy.com
 DOMAIN-SUFFIX,codeforaliving.io
-DOMAIN-SUFFIX,codeforces.com
 DOMAIN-SUFFIX,codei.sh
 DOMAIN-SUFFIX,codeish.co
 DOMAIN-SUFFIX,codeish.io
