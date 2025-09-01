@@ -20,6 +20,7 @@
 
 # >>>>>>>>>>>>>>> ✅ # ✅ <<<<<<<<<<<<<<
 # > 广告联盟
+# 若有问题自行设置白名单
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,ad-sign.byteimg.com
 DOMAIN-SUFFIX,tos.pstatp.com
@@ -37,7 +38,6 @@ DOMAIN-SUFFIX,zlsdk.1rtb.net
 DOMAIN-SUFFIX,ott.cibntv.net
 DOMAIN-SUFFIX,cdntips.net
 DOMAIN-SUFFIX,tfogc.com
-# > 收集用户隐私联盟，若有问题自行设置白名单
 DOMAIN-KEYWORD,volc
 DOMAIN-KEYWORD,umeng
 
@@ -349,7 +349,8 @@ DOMAIN,afdconf.baidu.com
 DOMAIN,httpdns.baidubce.com
 DOMAIN,lc.map.baidu.com
 
-# > 百度贴吧 屏蔽域名dns查询
+# > 百度贴吧
+# 屏蔽域名dns查询
 IP-CIDR,180.76.76.200/32,no-resolve
 
 # > 哔哩哔哩
@@ -409,7 +410,7 @@ DOMAIN-SUFFIX,hoisin.coocaa.com
 DOMAIN-SUFFIX,hoisin.coocaatv.com
 DOMAIN,data-hoisin.coocaa.com
 
-# > 车来了（包括小程序）
+# > 车来了
 DOMAIN-SUFFIX,atrace.chelaile.net.cn
 DOMAIN,logs.chelaile.net.cn
 DOMAIN,ad.chelaile.net.cn
@@ -424,7 +425,8 @@ IP-CIDR,211.161.101.110/32,no-resolve
 # > 叮嗒出行
 DOMAIN-KEYWORD,image.bianxianmao.com
 
-# > 滴滴青桔（支付界面图片有误杀）
+# > 滴滴青桔
+# 支付界面图片有误杀
 # DOMAIN-KEYWORD,pt-starimg.didistatic.com
 IP-CIDR,203.107.1.1/24,no-resolve
 
@@ -446,10 +448,12 @@ DOMAIN-SUFFIX,bayescom.com
 DOMAIN,track.tiara.daum.net
 DOMAIN,track.tiara.kakao.com
 
-# > 朵朵校友圈 微信小程序去广告
+# > 朵朵校友圈
+# 微信小程序去广告
 DOMAIN-SUFFIX,ad.duoduo.link
 
-# > 盯盯拍 广告联盟已包含
+# > 盯盯拍
+# 广告联盟已包含
 
 # > 叮咚买菜
 DOMAIN,trackercollect.ddxq.mobi
@@ -507,7 +511,7 @@ DOMAIN-SUFFIX,gz-data.com
 # > GrowingIO
 DOMAIN-SUFFIX,giocdn.com
 
-# > 光大银行阳光惠生活
+# > 光大银行 阳光惠生活
 DOMAIN-KEYWORD,talk.bz.getui.com
 
 # > 谷歌
@@ -584,7 +588,8 @@ DOMAIN,adx.hupu.com
 DOMAIN,adx-api.hupu.com
 DOMAIN,goblin.hupu.com
 
-# > 虎牙直播 开屏广告
+# > 虎牙直播
+# 开屏广告
 DOMAIN,pp-cdnfile2pcdn.msstatic.com
 DOMAIN,livewebbs2pcdn.msstatic.com
 DOMAIN,huyafile.msstatic.com
@@ -592,10 +597,12 @@ DOMAIN,livewebbs2.msstatic.com
 DOMAIN,business.msstatic.com
 DOMAIN-SUFFIX,v1d.szbdyd.com
 
-# > 哈啰 大部分图片无法正常加载
+# > 哈啰
+# 大部分图片无法正常加载
 # DOMAIN-KEYWORD,assets.51downapp.cn
 
-# > 黄油相机 #开屏广告 感谢#Dragon分享
+# > 黄油相机
+# 开屏广告 感谢#Dragon分享
 DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,adkwai.com
 DOMAIN-SUFFIX,mob.com
@@ -762,7 +769,8 @@ DOMAIN-SUFFIX,webstat.kuwo.cn
 DOMAIN-SUFFIX,mobilead.kuwo.cn
 DOMAIN-SUFFIX,rich.kuwo.cn
 
-# > 酷安 广告联盟已包含
+# > 酷安
+# 广告联盟已包含
 
 
 
@@ -772,7 +780,8 @@ DOMAIN,a.wkanx.com
 DOMAIN,cwx.lianwangtech.com
 DOMAIN,c1wx.lianwangtech.com
 
-# > 蓝基因（弹窗还在，需要手动关闭）
+# > 蓝基因
+# 弹窗还在，需要手动关闭
 DOMAIN-KEYWORD,medicine.lanjiyin.com.cn
 
 # > 两步路
@@ -804,7 +813,8 @@ DOMAIN-SUFFIX,mads.meituan.com
 DOMAIN-SUFFIX,dreport.meituan.net
 DOMAIN-SUFFIX,d.meituan.net
 
-# > 美颜相机 去首页和轮播广告
+# > 美颜相机
+# 去首页和轮播广告
 DOMAIN,adui.tg.meitu.com
 DOMAIN,aaid.uyunad.com
 
@@ -923,12 +933,11 @@ DOMAIN,imgad0.pcauto.com.cn
 DOMAIN,imgad0.pconline.com.cn
 DOMAIN,ivy.pchouse.com.cn
 
-# > 皮皮虾（推荐视频不能预览）
+# > 皮皮虾
+# 推荐视频不能预览
 DOMAIN-KEYWORD,log-api.pangolin-sdk-toutiao-b.com
 DOMAIN-KEYWORD,log-api.pangolin-sdk-toutiao.com
 DOMAIN-KEYWORD,api-access.pangolin-sdk-toutiao.com
-
-# > 皮皮虾（比较激进，需要的自己开启）
 # DOMAIN-KEYWORD,snssdk.com
 # DOMAIN-KEYWORD,mssdk.bytedance.com
 # DOMAIN-KEYWORD,api.ribaoapi.com
@@ -937,11 +946,7 @@ DOMAIN-KEYWORD,api-access.pangolin-sdk-toutiao.com
 # DOMAIN-KEYWORD,mssdk-bu.bytedance.com
 # DOMAIN-KEYWORD,365yg.com
 # DOMAIN-KEYWORD,ppx.byteimg.com
-# DOMAIN-KEYWORD,i.snssdk.com,
-
-# > 影响端传媒正常运行，默认关闭
-# DOMAIN-SUFFIX,cloudfront.net
-
+# DOMAIN-KEYWORD,i.snssdk.com
 
 
 
@@ -1070,7 +1075,8 @@ DOMAIN-SUFFIX,push-service-ios.sginput.qq.com
 # > 深圳通微信小程序
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 
-# > 收钱吧 买单小程序去广告
+# > 收钱吧
+# 买单小程序去广告
 DOMAIN,ads-shopping.shouqianba.com
 
 # > 什么值得买
@@ -1088,7 +1094,7 @@ DOMAIN,ynuf.aliapp.org
 
 
 # >>>>>>>>>>>>>>> ✅ T ✅ <<<<<<<<<<<<<<
-# > TubeMax  感谢@可莉分享
+# > TubeMax
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,app-measurement.com
@@ -1329,12 +1335,6 @@ DOMAIN-KEYWORD,paradisestatic.vivo.com.cn
 
 
 # >>>>>>>>>>>>>>> ✅ W ✅ <<<<<<<<<<<<<<
-# > 万能钥匙专业版
-# 感谢【All in 梭哈】分享
-DOMAIN-SUFFIX,mi.gdt.qq.com
-# 去除导航栏免费短剧
-DOMAIN,taichi.51y5.net
-
 # > WiFi万能钥匙
 DOMAIN-KEYWORD,app.51y5.net
 DOMAIN-KEYWORD,apiinit.amap.com
@@ -1354,6 +1354,11 @@ DOMAIN-KEYWORD,insurance.lianwifi.com
 DOMAIN-KEYWORD,config.51y5.net
 DOMAIN-KEYWORD,static.wkanx.com
 DOMAIN-KEYWORD,config.y5en.com
+# 万能钥匙专业版
+# 感谢【All in 梭哈】分享
+DOMAIN-SUFFIX,mi.gdt.qq.com
+# 去除导航栏免费短剧
+DOMAIN,taichi.51y5.net
 
 # > 微博
 DOMAIN-SUFFIX,fastimage.uve.weibo.com
@@ -1417,11 +1422,13 @@ DOMAIN-SUFFIX,bingads.microsoft.com
 DOMAIN-SUFFIX,rads.msn.com
 DOMAIN,mobileads.msn.com
 
-# > 歪麦去开屏 
+# > 歪麦霸王餐
+# 去开屏
 DOMAIN-SUFFIX,ad.gameley.com
 DOMAIN-SUFFIX,zlsdk.1rtb.net
 
-# > 威锋 广告联盟已包含
+# > 威锋
+# 广告联盟已包含
 
 
 
@@ -1479,10 +1486,9 @@ DOMAIN,sax.sina.com.cn
 DOMAIN,saxs.sina.com.cn
 DOMAIN,saxn.sina.com.cn
 
-# > 雪球（可以去掉倒计时，但是误杀很多图片，默认关闭）
+# > 雪球
+# 可以去掉倒计时，但是误杀很多图片，默认关闭
 # DOMAIN-KEYWORD,xqimg.imedao.com
-
-# > 向日葵 见重写
 
 
 
@@ -1605,7 +1611,8 @@ DOMAIN-SUFFIX,mdrecv.app.cntvwb.cn
 DOMAIN-SUFFIX,sdapprecv.app.cntvwb.cn
 DOMAIN-SUFFIX,vdapprecv.app.cntvwb.cn
 
-# > 一刻相册 广告联盟已包含
+# > 一刻相册
+# 广告联盟已包含
 
 
 
@@ -1656,7 +1663,8 @@ DOMAIN-KEYWORD,client-dmp.suishenyun.cn
 DOMAIN-KEYWORD,pc.suishenyun.net
 DOMAIN-KEYWORD,v0-client-lz.rili.cn
 
-# > 招钱进宝 广告联盟已包含
+# > 招钱进宝
+# 广告联盟已包含
 
 # > 真不卡
 DOMAIN-SUFFIX,ttayy.cn
