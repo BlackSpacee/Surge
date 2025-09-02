@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3824
+# DOMAIN-SUFFIX: 3827
 # DOMAIN-KEYWORD: 20
-# TOTAL: 3849
-# UPDATED: 2025-09-01 20:53:13
+# TOTAL: 3852
+# UPDATED: 2025-09-02 02:33:47
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-31T19:19:28.027Z
-# Size: 3824
+# Last Updated: 2025-09-01T17:10:37.268Z
+# Size: 3827
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1259,6 +1259,7 @@ DOMAIN-SUFFIX,api.producthunt.com
 DOMAIN-SUFFIX,s3.producthunt.com
 DOMAIN-SUFFIX,cdn.pricespider.com
 DOMAIN-SUFFIX,pplusstatic.com
+DOMAIN-SUFFIX,public-assets.postmarkapp.com
 DOMAIN-SUFFIX,newsletter.postmarkapp.com
 DOMAIN-SUFFIX,rebound.postmarkapp.com
 DOMAIN-SUFFIX,porndudecdn.com
@@ -2431,6 +2432,7 @@ DOMAIN-SUFFIX,static.doujins.com
 DOMAIN-SUFFIX,cdn.docsbot.com
 DOMAIN-SUFFIX,global.divhunt.com
 DOMAIN-SUFFIX,s1.divhunt.com
+DOMAIN-SUFFIX,cdn.devdojo.com
 DOMAIN-SUFFIX,denopkg.com
 DOMAIN-SUFFIX,dellcdn.com
 DOMAIN-SUFFIX,import-cdn.default.com
@@ -3727,6 +3729,7 @@ DOMAIN-SUFFIX,placehold.co
 DOMAIN-SUFFIX,before.good-apps.co
 DOMAIN-SUFFIX,static.convertio.co
 DOMAIN-SUFFIX,ipfs.tribecap.co
+DOMAIN-SUFFIX,supabase.co
 DOMAIN-SUFFIX,smilecdn.co
 DOMAIN-SUFFIX,ipfs.sloppyta.co
 DOMAIN-SUFFIX,assets.jolipage.co

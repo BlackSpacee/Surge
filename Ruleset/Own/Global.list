@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 131
-# DOMAIN-SUFFIX: 32450
+# DOMAIN-SUFFIX: 32451
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32795
-# UPDATED: 2025-09-01 20:53:13
+# TOTAL: 32796
+# UPDATED: 2025-09-02 02:33:47
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-08-28T11:24:00.008Z
-# Size: 1138
+# Last Updated: 2025-09-01T17:10:36.239Z
+# Size: 1139
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -383,6 +383,7 @@ DOMAIN-SUFFIX,redditspace.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,raspberrypi.com
 DOMAIN-SUFFIX,producthunt.com
+DOMAIN-SUFFIX,postmarkapp.com
 DOMAIN-SUFFIX,newrepublic.com
 DOMAIN-SUFFIX,list-manage.com
 DOMAIN-SUFFIX,linefriends.com
