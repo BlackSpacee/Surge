@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-01T17:10:37.268Z
-# Size: 3827
+# Last Updated: 2025-09-02T17:05:23.250Z
+# Size: 3831
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -566,7 +566,7 @@ DOMAIN-SUFFIX,pub.creaders.net
 DOMAIN-SUFFIX,assets.bitstamp.net
 DOMAIN-SUFFIX,cdn.beacondb.net
 DOMAIN-SUFFIX,damassets.autodesk.net
-DOMAIN-SUFFIX,jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
+DOMAIN-SUFFIX,prod-east.frontend.public.atl-paas.net
 DOMAIN-SUFFIX,prod.public.atl-paas.net
 DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
@@ -1848,8 +1848,10 @@ DOMAIN-SUFFIX,upos-sz-mirroralibstar1.bilivideo.com
 DOMAIN-SUFFIX,secure.beer7live.com
 DOMAIN-SUFFIX,cdn.babylonjs.com
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,atl-global.atlassian.com
 DOMAIN-SUFFIX,media-cdn.atlassian.com
 DOMAIN-SUFFIX,wac-cdn.atlassian.com
+DOMAIN-SUFFIX,api.media.atlassian.com
 DOMAIN-SUFFIX,assettype.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,appmifile.com
@@ -2658,6 +2660,7 @@ DOMAIN-SUFFIX,glyph.medium.com
 DOMAIN-SUFFIX,miro.medium.com
 DOMAIN-SUFFIX,twemoji.maxcdn.com
 DOMAIN-SUFFIX,static-assets.mapbox.com
+DOMAIN-SUFFIX,tiles.mapbox.com
 DOMAIN-SUFFIX,sato.manyse.com
 DOMAIN-SUFFIX,cdn2-imgix.macpaw.com
 DOMAIN-SUFFIX,api-lytics.macpaw.com
@@ -2788,6 +2791,7 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,cdn-yotpo-images-production.yotpo.com
 DOMAIN-SUFFIX,cdn-widgetsrepository.yotpo.com
 DOMAIN-SUFFIX,cdn-swell-assets.yotpo.com
+DOMAIN-SUFFIX,cdn-loyalty.yotpo.com
 DOMAIN-SUFFIX,staticw2.yotpo.com
 DOMAIN-SUFFIX,yep.video.yahoo.com
 DOMAIN-SUFFIX,xhcdn.com
