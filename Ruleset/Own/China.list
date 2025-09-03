@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 339
-# DOMAIN-SUFFIX: 118169
+# DOMAIN-SUFFIX: 118170
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12048
+# IP-CIDR: 12049
 # IP-CIDR6: 12085
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 142793
-# UPDATED: 2025-09-02 20:53:09
+# TOTAL: 142795
+# UPDATED: 2025-09-03 02:33:11
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -246,8 +246,8 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-08-28T11:24:00.041Z
-# Size: 829
+# Last Updated: 2025-09-02T10:58:20.655Z
+# Size: 831
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -657,6 +657,7 @@ DOMAIN-SUFFIX,wegame.com
 DOMAIN-SUFFIX,wangsu.com
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,udache.com
+DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,suning.com
@@ -979,6 +980,7 @@ DOMAIN-SUFFIX,addlink.cn
 DOMAIN-SUFFIX,yunpan.cn
 DOMAIN-SUFFIX,xiaomi.cn
 DOMAIN-SUFFIX,wpscdn.cn
+DOMAIN-SUFFIX,taptap.cn
 DOMAIN-SUFFIX,suning.cn
 DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,roblox.cn
@@ -1078,8 +1080,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2025-09-01T05:17:27.235Z
-# Size: 3952
+# Last Updated: 2025-09-02T10:58:21.952Z
+# Size: 3953
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -1487,7 +1489,7 @@ IP-CIDR,45.249.208.0/23
 IP-CIDR,45.249.212.0/22
 IP-CIDR,45.250.32.0/21
 IP-CIDR,45.250.40.0/22
-IP-CIDR,45.250.152.0/24
+IP-CIDR,45.250.152.0/23
 IP-CIDR,45.250.180.0/23
 IP-CIDR,45.250.184.0/22
 IP-CIDR,45.250.188.0/24
@@ -2348,6 +2350,7 @@ IP-CIDR,103.227.76.0/22
 IP-CIDR,103.227.80.0/22
 IP-CIDR,103.227.120.0/22
 IP-CIDR,103.227.136.0/22
+IP-CIDR,103.227.228.0/22
 IP-CIDR,103.228.12.0/22
 IP-CIDR,103.228.136.0/22
 IP-CIDR,103.228.160.0/22
@@ -7774,7 +7777,6 @@ DOMAIN-SUFFIX,tao123.com
 DOMAIN-SUFFIX,taobizhong.com
 DOMAIN-SUFFIX,taoche.com
 DOMAIN-SUFFIX,taomee.com
-DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,taptap.com
 DOMAIN-SUFFIX,tawk.link
 DOMAIN-SUFFIX,tawk.to
