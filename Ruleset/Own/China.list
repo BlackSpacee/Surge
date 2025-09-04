@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 339
-# DOMAIN-SUFFIX: 118224
+# DOMAIN-SUFFIX: 118225
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12045
+# IP-CIDR: 12042
 # IP-CIDR6: 12088
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 142848
-# UPDATED: 2025-09-04 09:50:55
+# TOTAL: 142846
+# UPDATED: 2025-09-04 14:35:28
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -246,8 +246,8 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-09-02T10:58:20.655Z
-# Size: 831
+# Last Updated: 2025-09-04T12:39:00.687Z
+# Size: 832
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -931,6 +931,7 @@ DOMAIN-SUFFIX,netease.im
 DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,douban.fm
 DOMAIN-SUFFIX,authing.co
+DOMAIN-SUFFIX,tencent-cloud.cn
 DOMAIN-SUFFIX,officewebapps.cn
 DOMAIN-SUFFIX,mobileservice.cn
 DOMAIN-SUFFIX,elseviercdn.cn
@@ -1080,8 +1081,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2025-09-03T15:12:45.320Z
-# Size: 3948
+# Last Updated: 2025-09-04T12:39:01.985Z
+# Size: 3945
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -2240,7 +2241,6 @@ IP-CIDR,103.162.10.0/23
 IP-CIDR,103.163.46.0/23
 IP-CIDR,103.163.180.0/24
 IP-CIDR,103.164.32.0/23
-IP-CIDR,103.164.76.0/23
 IP-CIDR,103.165.110.0/23
 IP-CIDR,103.166.52.0/23
 IP-CIDR,103.169.50.0/23
@@ -2350,7 +2350,7 @@ IP-CIDR,103.227.76.0/22
 IP-CIDR,103.227.80.0/22
 IP-CIDR,103.227.120.0/22
 IP-CIDR,103.227.136.0/22
-IP-CIDR,103.228.12.0/22
+IP-CIDR,103.227.228.0/22
 IP-CIDR,103.228.136.0/22
 IP-CIDR,103.228.160.0/22
 IP-CIDR,103.228.204.0/23
@@ -2552,9 +2552,7 @@ IP-CIDR,110.34.192.0/24
 IP-CIDR,110.40.0.0/24
 IP-CIDR,110.40.13.0/24
 IP-CIDR,110.40.14.0/23
-IP-CIDR,110.40.16.0/20
-IP-CIDR,110.40.32.0/19
-IP-CIDR,110.40.64.0/18
+IP-CIDR,110.40.16.0/24
 IP-CIDR,110.40.128.0/17
 IP-CIDR,110.41.0.0/17
 IP-CIDR,110.41.128.0/18
@@ -4932,7 +4930,7 @@ IP-CIDR,222.126.128.0/23
 IP-CIDR,222.126.132.0/23
 IP-CIDR,222.126.141.0/24
 IP-CIDR,222.126.142.0/23
-IP-CIDR,222.126.144.0/22
+IP-CIDR,222.126.146.0/23
 IP-CIDR,222.126.148.0/23
 IP-CIDR,222.126.152.0/21
 IP-CIDR,222.126.164.0/24
