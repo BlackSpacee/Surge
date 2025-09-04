@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-02T17:05:23.250Z
-# Size: 3831
+# Last Updated: 2025-09-03T16:09:26.000Z
+# Size: 3839
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -516,6 +516,7 @@ DOMAIN-SUFFIX,edgestorewebcdn.azureedge.net
 DOMAIN-SUFFIX,xpaywalletcdn.azureedge.net
 DOMAIN-SUFFIX,claritystatic.azureedge.net
 DOMAIN-SUFFIX,mobilecenter.azureedge.net
+DOMAIN-SUFFIX,trekcdnprod.azureedge.net
 DOMAIN-SUFFIX,typescript.azureedge.net
 DOMAIN-SUFFIX,edgestatic.azureedge.net
 DOMAIN-SUFFIX,ni-assets.azureedge.net
@@ -728,6 +729,7 @@ DOMAIN-SUFFIX,todoist.b-cdn.net
 DOMAIN-SUFFIX,divhunt.b-cdn.net
 DOMAIN-SUFFIX,dh-site.b-cdn.net
 DOMAIN-SUFFIX,cdntube.b-cdn.net
+DOMAIN-SUFFIX,c-bin.b-cdn.net
 DOMAIN-SUFFIX,amp.azure.net
 DOMAIN-SUFFIX,s3.arkjp.net
 DOMAIN-SUFFIX,img3.acsta.net
@@ -1232,7 +1234,9 @@ DOMAIN-SUFFIX,assets.squarespace.com
 DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,assets.speedvitals.com
 DOMAIN-SUFFIX,skypeassets.com
+DOMAIN-SUFFIX,shoplineimg.com
 DOMAIN-SUFFIX,img.shoplineapp.com
+DOMAIN-SUFFIX,cdn.shoplineapp.com
 DOMAIN-SUFFIX,cdn.servicebell.com
 DOMAIN-SUFFIX,files.scamadviser.com
 DOMAIN-SUFFIX,assets.salesmartly.com
@@ -1467,6 +1471,7 @@ DOMAIN-SUFFIX,media.nbcnewyork.com
 DOMAIN-SUFFIX,media.nationwide.com
 DOMAIN-SUFFIX,tags.nationwide.com
 DOMAIN-SUFFIX,myspacecdn.com
+DOMAIN-SUFFIX,r2cdn.myshopline.com
 DOMAIN-SUFFIX,myshopapps.com
 DOMAIN-SUFFIX,myfilebase.com
 DOMAIN-SUFFIX,msftstatic.com
@@ -2060,6 +2065,7 @@ DOMAIN-SUFFIX,filestore.fortinet.com
 DOMAIN-SUFFIX,resizing.flixster.com
 DOMAIN-SUFFIX,static-assets-web.flixcart.com
 DOMAIN-SUFFIX,cdn-share-sprites.flaticon.com
+DOMAIN-SUFFIX,cdn-icons-png.flaticon.com
 DOMAIN-SUFFIX,cdn-uicons.flaticon.com
 DOMAIN-SUFFIX,media.flaticon.com
 DOMAIN-SUFFIX,cdn.firebase.com
@@ -2786,6 +2792,8 @@ DOMAIN-SUFFIX,assets.adidas.com
 DOMAIN-SUFFIX,glass.adidas.com
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,static.zuora.com
+DOMAIN-SUFFIX,barracuda-assets.zoovu.com
+DOMAIN-SUFFIX,barracuda-cdn.zoovu.com
 DOMAIN-SUFFIX,hello.zonos.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,cdn-yotpo-images-production.yotpo.com
