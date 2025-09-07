@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-06T16:03:57.442Z
-# Size: 3841
+# Last Updated: 2025-09-07T17:11:49.556Z
+# Size: 3846
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -145,6 +145,7 @@ DOMAIN-SUFFIX,cdn.kinopio.club
 DOMAIN-SUFFIX,storage.crisp.chat
 DOMAIN-SUFFIX,image.crisp.chat
 DOMAIN-SUFFIX,assets.toot.cafe
+DOMAIN-SUFFIX,img.apk.cafe
 DOMAIN-SUFFIX,avatars.micro.blog
 DOMAIN-SUFFIX,cdn.micro.blog
 DOMAIN-SUFFIX,i.111666.best
@@ -580,6 +581,7 @@ DOMAIN-SUFFIX,eaassets-a.akamaihd.net
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,lumiere-a.akamaihd.net
 DOMAIN-SUFFIX,img.adspower.net
+DOMAIN-SUFFIX,cdn.yamibuy.net
 DOMAIN-SUFFIX,cdn.writeas.net
 DOMAIN-SUFFIX,unlimited-cdn.waifu2x.net
 DOMAIN-SUFFIX,social-cdn.vivaldi.net
@@ -1094,6 +1096,7 @@ DOMAIN-SUFFIX,staticflickr.com
 DOMAIN-SUFFIX,cdn.staticdelivr.com
 DOMAIN-SUFFIX,ipfs.soul-network.com
 DOMAIN-SUFFIX,image.shutterstock.com
+DOMAIN-SUFFIX,sourcemap.webfe.shopeemobile.com
 DOMAIN-SUFFIX,static.serverhunter.com
 DOMAIN-SUFFIX,scribdassets.com
 DOMAIN-SUFFIX,ak.sail-horizon.com
@@ -2181,6 +2184,7 @@ DOMAIN-SUFFIX,web-assets.zendesk.com
 DOMAIN-SUFFIX,img.youtube.com
 DOMAIN-SUFFIX,cdne-pics.youjizz.com
 DOMAIN-SUFFIX,yelpcdn.com
+DOMAIN-SUFFIX,cdn.yamibuy.com
 DOMAIN-SUFFIX,xingcdn.com
 DOMAIN-SUFFIX,preview.xgroovy.com
 DOMAIN-SUFFIX,static.xgroovy.com
@@ -3578,6 +3582,7 @@ DOMAIN-SUFFIX,static.status.io
 DOMAIN-SUFFIX,image.status.io
 DOMAIN-SUFFIX,media.smooch.io
 DOMAIN-SUFFIX,cdn.smooch.io
+DOMAIN-SUFFIX,files.webfe.shopee.io
 DOMAIN-SUFFIX,wire.shodan.io
 DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,ingest.us.sentry.io

@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 131
-# DOMAIN-SUFFIX: 32451
+# DOMAIN-SUFFIX: 32455
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32796
-# UPDATED: 2025-09-07 14:32:23
+# TOTAL: 32800
+# UPDATED: 2025-09-07 20:44:34
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7505,14 +7505,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-28 02:08:27
+# UPDATED: 2025-09-08 02:08:01
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6496
+# DOMAIN-SUFFIX: 6500
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6636
+# TOTAL: 6640
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7565,6 +7565,8 @@ DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,blogsmithmedia.com
 DOMAIN-SUFFIX,br.hao123.com
+DOMAIN-SUFFIX,bt4g.org
+DOMAIN-SUFFIX,bt4gprx.com
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,celestrak.com
@@ -7664,6 +7666,7 @@ DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,io.io
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipaddress.com
+DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipn.li
 DOMAIN-SUFFIX,ishowsapp.com
 DOMAIN-SUFFIX,itaiwan.gov.tw
@@ -7799,6 +7802,7 @@ DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,tacc.cwb.gov.tw
 DOMAIN-SUFFIX,taipei.gov.tw
 DOMAIN-SUFFIX,taiwanjobs.gov.tw
+DOMAIN-SUFFIX,tanks.gg
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
 DOMAIN-SUFFIX,tbskkinabalu.page.tl
@@ -7900,14 +7904,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-08-30 02:07:38
+# UPDATED: 2025-09-08 02:07:40
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31834
+# DOMAIN-SUFFIX: 31838
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32143
+# TOTAL: 32147
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
