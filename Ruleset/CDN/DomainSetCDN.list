@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-07T17:11:49.556Z
-# Size: 3846
+# Last Updated: 2025-09-08T19:34:19.963Z
+# Size: 3851
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,cdn5.telegram.space
 DOMAIN-SUFFIX,cdn4.telegram.space
 DOMAIN-SUFFIX,cdn1.telegram.space
 DOMAIN-SUFFIX,pstorage.space
+DOMAIN-SUFFIX,tutu1.space
 DOMAIN-SUFFIX,cdn.hiive.space
 DOMAIN-SUFFIX,cdn.deta.space
 DOMAIN-SUFFIX,ipfs.kavin.rocks
@@ -1839,6 +1840,8 @@ DOMAIN-SUFFIX,static.coingecko.com
 DOMAIN-SUFFIX,assets.coingecko.com
 DOMAIN-SUFFIX,cnbetacdn.com
 DOMAIN-SUFFIX,resources.chessbase.com
+DOMAIN-SUFFIX,banners.chessbase.com
+DOMAIN-SUFFIX,share.chessbase.com
 DOMAIN-SUFFIX,webstatic.chargebee.com
 DOMAIN-SUFFIX,js1.chargebee.com
 DOMAIN-SUFFIX,js.chargebee.com
@@ -3175,6 +3178,7 @@ DOMAIN-SUFFIX,videos.elephas.app
 DOMAIN-SUFFIX,edgeone.app
 DOMAIN-SUFFIX,bundle.dyn-rev.app
 DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,assets.slater.app
 DOMAIN-SUFFIX,pic.macked.app
 DOMAIN-SUFFIX,webassets.linear.app
 DOMAIN-SUFFIX,uploads.linear.app
@@ -3368,6 +3372,7 @@ DOMAIN-SUFFIX,cdn01.jotfor.ms
 DOMAIN-SUFFIX,cdn.jotfor.ms
 DOMAIN-SUFFIX,s3.acg.mn
 DOMAIN-SUFFIX,s3.m.0x.mk
+DOMAIN-SUFFIX,cdn.fasterthanli.me
 DOMAIN-SUFFIX,randomuser.me
 DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,api.crashguard.me

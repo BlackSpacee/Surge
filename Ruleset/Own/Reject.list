@@ -8,7 +8,7 @@
 # USER-AGENT: 1
 # URL-REGEX: 3
 # TOTAL: 6467
-# UPDATED: 2025-09-08 20:53:38
+# UPDATED: 2025-09-09 02:34:54
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-09-03T15:12:43.572Z
-# Size: 772
+# Last Updated: 2025-09-08T19:25:05.010Z
+# Size: 773
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1819,6 +1819,7 @@ DOMAIN-WILDCARD,parkdomainreal*.site
 DOMAIN-WILDCARD,broredir*s.site
 DOMAIN-WILDCARD,amazon-*.shop
 DOMAIN-WILDCARD,allegrolokalnie.*.shop
+DOMAIN-WILDCARD,gov.*.qpon
 DOMAIN-WILDCARD,zbb.bbb.*.pics
 DOMAIN-WILDCARD,t*.playdigo.live
 DOMAIN-WILDCARD,w*statistics.info
