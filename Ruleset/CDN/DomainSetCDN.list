@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-08T19:34:19.963Z
-# Size: 3851
+# Last Updated: 2025-09-09T12:05:12.064Z
+# Size: 3858
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -980,6 +980,8 @@ DOMAIN-SUFFIX,code.ionicframework.com
 DOMAIN-SUFFIX,icons.internetbrands.com
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,img.huffingtonpost.com
+DOMAIN-SUFFIX,images2.giant-bicycles.com
+DOMAIN-SUFFIX,static.giant-bicycles.com
 DOMAIN-SUFFIX,cdn.gethypervisual.com
 DOMAIN-SUFFIX,static-gcp.freepikcompany.com
 DOMAIN-SUFFIX,cdn-live.foreignaffairs.com
@@ -2350,6 +2352,7 @@ DOMAIN-SUFFIX,img2.javdove.com
 DOMAIN-SUFFIX,assets.ipstack.com
 DOMAIN-SUFFIX,i.insider.com
 DOMAIN-SUFFIX,static.iris.informa.com
+DOMAIN-SUFFIX,static.inflect.com
 DOMAIN-SUFFIX,go.imperva.com
 DOMAIN-SUFFIX,imgyzzy.com
 DOMAIN-SUFFIX,imgikzy.com
@@ -2428,6 +2431,8 @@ DOMAIN-SUFFIX,fivetiu.com
 DOMAIN-SUFFIX,detectportal.firefox.com
 DOMAIN-SUFFIX,cdn.accounts.firefox.com
 DOMAIN-SUFFIX,ffzy888.com
+DOMAIN-SUFFIX,web-sdk-cdn.eyefitu.com
+DOMAIN-SUFFIX,web-sdk.eyefitu.com
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,cdn.equinix.com
@@ -2796,6 +2801,7 @@ DOMAIN-SUFFIX,code.buywithprime.amazon.com
 DOMAIN-SUFFIX,d2c.aws.amazon.com
 DOMAIN-SUFFIX,time.akamai.com
 DOMAIN-SUFFIX,static.ahrefs.com
+DOMAIN-SUFFIX,cdn1.affirm.com
 DOMAIN-SUFFIX,assets.adidas.com
 DOMAIN-SUFFIX,glass.adidas.com
 DOMAIN-SUFFIX,9cache.com
@@ -3203,6 +3209,7 @@ DOMAIN-SUFFIX,imageshack.us
 DOMAIN-SUFFIX,cdn.donmai.us
 DOMAIN-SUFFIX,us01ccistatic.zoom.us
 DOMAIN-SUFFIX,eu01ccistatic.zoom.us
+DOMAIN-SUFFIX,file.zoom.us
 DOMAIN-SUFFIX,st3.zoom.us
 DOMAIN-SUFFIX,st2.zoom.us
 DOMAIN-SUFFIX,st1.zoom.us
