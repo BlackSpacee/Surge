@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-09T12:05:12.064Z
-# Size: 3858
+# Last Updated: 2025-09-10T11:38:46.562Z
+# Size: 3869
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -79,6 +79,7 @@ DOMAIN-SUFFIX,cdn.bullwhip.cloud
 DOMAIN-SUFFIX,resources-live.sketch.cloud
 DOMAIN-SUFFIX,gateway.pinata.cloud
 DOMAIN-SUFFIX,patterns.hiive.cloud
+DOMAIN-SUFFIX,cdn.craft.cloud
 DOMAIN-SUFFIX,cdn.tiny.cloud
 DOMAIN-SUFFIX,fscdn.eppo.cloud
 DOMAIN-SUFFIX,cdn-static.paw.cloud
@@ -153,6 +154,8 @@ DOMAIN-SUFFIX,i.111666.best
 DOMAIN-SUFFIX,i.loli.best
 DOMAIN-SUFFIX,image.nmb.best
 DOMAIN-SUFFIX,porn5.asia
+DOMAIN-SUFFIX,bucket.noy.asia
+DOMAIN-SUFFIX,img.noy.asia
 DOMAIN-SUFFIX,phishing.army
 DOMAIN-SUFFIX,cdn.joincommunity.xyz
 DOMAIN-SUFFIX,domain.expiring-soon.xyz
@@ -1696,6 +1699,7 @@ DOMAIN-SUFFIX,s3.sitepoint.com
 DOMAIN-SUFFIX,icons.simplesvg.com
 DOMAIN-SUFFIX,api.simplesvg.com
 DOMAIN-SUFFIX,media.shopimind.com
+DOMAIN-SUFFIX,cdn.shift8web.com
 DOMAIN-SUFFIX,sfbassets.com
 DOMAIN-SUFFIX,sendspace.com
 DOMAIN-SUFFIX,forest-mt-s3.seekrtech.com
@@ -1756,6 +1760,7 @@ DOMAIN-SUFFIX,uhf.microsoft.com
 DOMAIN-SUFFIX,csp.microsoft.com
 DOMAIN-SUFFIX,js.memberful.com
 DOMAIN-SUFFIX,static.mediafire.com
+DOMAIN-SUFFIX,images.mathworks.com
 DOMAIN-SUFFIX,form-assets.mailchimp.com
 DOMAIN-SUFFIX,cdn-images.mailchimp.com
 DOMAIN-SUFFIX,static.macupdate.com
@@ -2126,6 +2131,7 @@ DOMAIN-SUFFIX,cdn-assets.circleci.com
 DOMAIN-SUFFIX,assets-app.circleci.com
 DOMAIN-SUFFIX,app.chatwoot.com
 DOMAIN-SUFFIX,chasecdn.com
+DOMAIN-SUFFIX,js.chargify.com
 DOMAIN-SUFFIX,cdnfonts.com
 DOMAIN-SUFFIX,cartocdn.com
 DOMAIN-SUFFIX,assets.capterra.com
@@ -2282,6 +2288,8 @@ DOMAIN-SUFFIX,pics.pornfhd.com
 DOMAIN-SUFFIX,celebrities-small.porndig.com
 DOMAIN-SUFFIX,m.porn3dx.com
 DOMAIN-SUFFIX,pbcdn1.podbean.com
+DOMAIN-SUFFIX,png.pngtree.com
+DOMAIN-SUFFIX,js.pngtree.com
 DOMAIN-SUFFIX,www.pngmart.com
 DOMAIN-SUFFIX,cdn-main.plus500.com
 DOMAIN-SUFFIX,cdn.plus500.com
@@ -2569,6 +2577,7 @@ DOMAIN-SUFFIX,tiqcdn.com
 DOMAIN-SUFFIX,image.thefly.com
 DOMAIN-SUFFIX,tedcdn.com
 DOMAIN-SUFFIX,www.tbstat.com
+DOMAIN-SUFFIX,gravatar.tapglb.com
 DOMAIN-SUFFIX,cdn-static.talent.com
 DOMAIN-SUFFIX,sxccdn.com
 DOMAIN-SUFFIX,assets.swoogo.com
@@ -2926,6 +2935,7 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,cdn-1.ggjav.com
 DOMAIN-SUFFIX,media.gettr.com
 DOMAIN-SUFFIX,cdn.gettr.com
+DOMAIN-SUFFIX,account-widget-mfe.gcore.com
 DOMAIN-SUFFIX,i.gawby.com
 DOMAIN-SUFFIX,a.gawby.com
 DOMAIN-SUFFIX,cdn.app.fossa.com
@@ -3513,6 +3523,7 @@ DOMAIN-SUFFIX,link.storjshare.io
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,statically.io
 DOMAIN-SUFFIX,stackblitz.io
+DOMAIN-SUFFIX,static.smartframe.io
 DOMAIN-SUFFIX,tracking.inflection.io
 DOMAIN-SUFFIX,gtranslate.io
 DOMAIN-SUFFIX,cdn.growthbook.io
