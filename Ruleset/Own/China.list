@@ -3,12 +3,12 @@
 # DOMAIN-SUFFIX: 117858
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12048
+# IP-CIDR: 12050
 # IP-CIDR6: 12173
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 142570
-# UPDATED: 2025-09-11 02:34:32
+# TOTAL: 142572
+# UPDATED: 2025-09-11 09:54:33
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -1081,8 +1081,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2025-09-10T17:18:55.668Z
-# Size: 3947
+# Last Updated: 2025-09-11T05:15:46.547Z
+# Size: 3949
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -2355,6 +2355,7 @@ IP-CIDR,103.227.76.0/22
 IP-CIDR,103.227.80.0/22
 IP-CIDR,103.227.120.0/22
 IP-CIDR,103.227.136.0/22
+IP-CIDR,103.227.228.0/22
 IP-CIDR,103.228.12.0/22
 IP-CIDR,103.228.136.0/22
 IP-CIDR,103.228.160.0/22
@@ -2819,6 +2820,7 @@ IP-CIDR,114.112.136.0/21
 IP-CIDR,114.112.144.0/21
 IP-CIDR,114.112.200.0/21
 IP-CIDR,114.112.208.0/20
+IP-CIDR,114.113.63.0/24
 IP-CIDR,114.113.64.0/20
 IP-CIDR,114.113.80.0/22
 IP-CIDR,114.113.84.0/24
@@ -4045,7 +4047,7 @@ IP-CIDR,202.57.192.0/24
 IP-CIDR,202.57.196.0/22
 IP-CIDR,202.57.200.0/23
 IP-CIDR,202.57.204.0/23
-IP-CIDR,202.59.214.0/24
+IP-CIDR,202.59.214.0/23
 IP-CIDR,202.60.112.0/20
 IP-CIDR,202.60.132.0/22
 IP-CIDR,202.61.88.0/22
