@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 131
-# DOMAIN-SUFFIX: 32456
+# DOMAIN-SUFFIX: 32457
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32801
-# UPDATED: 2025-09-11 14:36:11
+# TOTAL: 32802
+# UPDATED: 2025-09-11 20:49:46
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-09-10T11:38:45.861Z
-# Size: 1140
+# Last Updated: 2025-09-11T17:02:27.760Z
+# Size: 1143
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -204,6 +204,7 @@ DOMAIN-SUFFIX,eroterest.net
 DOMAIN-SUFFIX,ero-video.net
 DOMAIN-SUFFIX,bloomberg.net
 DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,zerochan.net
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,snap-dev.net
 DOMAIN-SUFFIX,sendgrid.net
@@ -561,6 +562,7 @@ DOMAIN-SUFFIX,hqporner.com
 DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,ghostery.com
+DOMAIN-SUFFIX,gelbooru.com
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,flipkart.com
 DOMAIN-SUFFIX,firebase.com
@@ -1120,6 +1122,7 @@ DOMAIN-SUFFIX,cx
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,convertio.co
 DOMAIN-SUFFIX,snapkit.co
+DOMAIN-SUFFIX,anilist.co
 DOMAIN-SUFFIX,xchina.co
 DOMAIN-SUFFIX,feeder.co
 DOMAIN-SUFFIX,twimg.co
@@ -3121,7 +3124,6 @@ DOMAIN-SUFFIX,geek-art.net
 DOMAIN-SUFFIX,geekerhome.com
 DOMAIN-SUFFIX,geekheart.info
 DOMAIN-SUFFIX,gekikame.com
-DOMAIN-SUFFIX,gelbooru.com
 DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,geocities.co.jp
 DOMAIN-SUFFIX,geocities.com
@@ -32719,7 +32721,6 @@ DOMAIN-SUFFIX,zeplerinstitute.ac.uk
 DOMAIN-SUFFIX,zeplin.dev
 DOMAIN-SUFFIX,zeplin.io
 DOMAIN-SUFFIX,zeriamerikes.com
-DOMAIN-SUFFIX,zerochan.net
 DOMAIN-SUFFIX,zert.ch
 DOMAIN-SUFFIX,zettai-ero.com
 DOMAIN-SUFFIX,zh99.net

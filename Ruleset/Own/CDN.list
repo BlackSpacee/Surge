@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3871
+# DOMAIN-SUFFIX: 3889
 # DOMAIN-KEYWORD: 20
-# TOTAL: 3896
-# UPDATED: 2025-09-11 14:36:11
+# TOTAL: 3914
+# UPDATED: 2025-09-11 20:49:46
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-10T17:18:55.086Z
-# Size: 3871
+# Last Updated: 2025-09-11T17:02:28.186Z
+# Size: 3889
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -546,6 +546,8 @@ DOMAIN-SUFFIX,viu-static.akamaized.net
 DOMAIN-SUFFIX,mycommerce.akamaized.net
 DOMAIN-SUFFIX,amp.akamaized.net
 DOMAIN-SUFFIX,mixin-images.zeromesh.net
+DOMAIN-SUFFIX,static.zerochan.net
+DOMAIN-SUFFIX,s1.zerochan.net
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,cdn.wishpond.net
 DOMAIN-SUFFIX,widencdn.net
@@ -815,6 +817,7 @@ DOMAIN-SUFFIX,plugins.dprint.dev
 DOMAIN-SUFFIX,fonts.upset.dev
 DOMAIN-SUFFIX,react.dev
 DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,ah-cdn.merge.dev
 DOMAIN-SUFFIX,p.depot.dev
 DOMAIN-SUFFIX,media.daily.dev
 DOMAIN-SUFFIX,cdn.daily.dev
@@ -900,6 +903,7 @@ DOMAIN-SUFFIX,js.braintreegateway.com
 DOMAIN-SUFFIX,jslibs.blackmagicdesign.com
 DOMAIN-SUFFIX,images.blackmagicdesign.com
 DOMAIN-SUFFIX,css.blackmagicdesign.com
+DOMAIN-SUFFIX,js.assemblyexchange.com
 DOMAIN-SUFFIX,cdn.worldvectorlogo.com
 DOMAIN-SUFFIX,cms.worldpokerdeals.com
 DOMAIN-SUFFIX,analytics.welcomesoftware.com
@@ -1029,6 +1033,7 @@ DOMAIN-SUFFIX,cdn.prowritingaid.com
 DOMAIN-SUFFIX,cdn.printfriendly.com
 DOMAIN-SUFFIX,pressidiumcdn.com
 DOMAIN-SUFFIX,media.pointandplace.com
+DOMAIN-SUFFIX,www.paypalobjects.com
 DOMAIN-SUFFIX,oreillystatic.com
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,agechecker.northern-apps.com
@@ -1092,6 +1097,9 @@ DOMAIN-SUFFIX,wikiplus-app.com
 DOMAIN-SUFFIX,typescript.visualstudio.com
 DOMAIN-SUFFIX,sts.online.visualstudio.com
 DOMAIN-SUFFIX,tunnels.api.visualstudio.com
+DOMAIN-SUFFIX,static-assets-prod.unrealengine.com
+DOMAIN-SUFFIX,components.unrealengine.com
+DOMAIN-SUFFIX,cms-assets.unrealengine.com
 DOMAIN-SUFFIX,cdn3.unrealengine.com
 DOMAIN-SUFFIX,cdn2.unrealengine.com
 DOMAIN-SUFFIX,cdn1.unrealengine.com
@@ -1885,7 +1893,12 @@ DOMAIN-SUFFIX,anyhentai.com
 DOMAIN-SUFFIX,s-cdn.anthropic.com
 DOMAIN-SUFFIX,a-cdn.anthropic.com
 DOMAIN-SUFFIX,ipfs.anonymize.com
+DOMAIN-SUFFIX,static.aninoapps.com
+DOMAIN-SUFFIX,wa1.aninoapps.com
+DOMAIN-SUFFIX,pm1.aninoapps.com
+DOMAIN-SUFFIX,pa1.aninoapps.com
 DOMAIN-SUFFIX,images.anandtech.com
+DOMAIN-SUFFIX,cm1.aminoapps.com
 DOMAIN-SUFFIX,ip-ranges.amazonaws.com
 DOMAIN-SUFFIX,assets.as2.amazonaws.com
 DOMAIN-SUFFIX,abcnewsfe.com
@@ -2077,6 +2090,9 @@ DOMAIN-SUFFIX,cdn.getkoala.com
 DOMAIN-SUFFIX,assets.getkirby.com
 DOMAIN-SUFFIX,geoip-js.com
 DOMAIN-SUFFIX,maps.geoapify.com
+DOMAIN-SUFFIX,img5.gelbooru.com
+DOMAIN-SUFFIX,img4.gelbooru.com
+DOMAIN-SUFFIX,img2.gelbooru.com
 DOMAIN-SUFFIX,scripts.gatorapi.com
 DOMAIN-SUFFIX,gammacdn.com
 DOMAIN-SUFFIX,media.gamestop.com
@@ -3753,6 +3769,7 @@ DOMAIN-SUFFIX,res.craft.do
 DOMAIN-SUFFIX,tile.openstreetmap.de
 DOMAIN-SUFFIX,sp-spiegel-de.spiegel.de
 DOMAIN-SUFFIX,cdn.prod.www.spiegel.de
+DOMAIN-SUFFIX,www.acgpix.de
 DOMAIN-SUFFIX,cdn.ionos.de
 DOMAIN-SUFFIX,ipfs.slang.cx
 DOMAIN-SUFFIX,cdn.stackoverflow.co
@@ -3874,6 +3891,7 @@ DOMAIN-SUFFIX,r2.leadsy.ai
 DOMAIN-SUFFIX,s3.masto.ai
 DOMAIN-SUFFIX,participants.evolv.ai
 DOMAIN-SUFFIX,media.evolv.ai
+DOMAIN-SUFFIX,cdn.candy.ai
 DOMAIN-SUFFIX,telemetry.services.yofi.ai
 DOMAIN-SUFFIX,cdn2.suno.ai
 DOMAIN-SUFFIX,cdn1.suno.ai
