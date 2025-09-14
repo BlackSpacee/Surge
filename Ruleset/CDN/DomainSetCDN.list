@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-13T20:28:52.796Z
-# Size: 3892
+# Last Updated: 2025-09-14T18:18:19.458Z
+# Size: 3897
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1950,6 +1950,7 @@ DOMAIN-SUFFIX,cdn4.sysgears.com
 DOMAIN-SUFFIX,cdn3.sysgears.com
 DOMAIN-SUFFIX,cdn2.sysgears.com
 DOMAIN-SUFFIX,cdn1.sysgears.com
+DOMAIN-SUFFIX,cdn.syftdata.com
 DOMAIN-SUFFIX,sway-cdn.com
 DOMAIN-SUFFIX,frontend-assets.supabase.com
 DOMAIN-SUFFIX,cdn.substack.com
@@ -1972,11 +1973,14 @@ DOMAIN-SUFFIX,public.saasexch.com
 DOMAIN-SUFFIX,rrcdnbf3.com
 DOMAIN-SUFFIX,apps-static.route4me.com
 DOMAIN-SUFFIX,roseimgs.com
+DOMAIN-SUFFIX,cdnassets.roboflow.com
+DOMAIN-SUFFIX,static.roboflow.com
 DOMAIN-SUFFIX,cdn.roboflow.com
 DOMAIN-SUFFIX,app.roboflow.com
 DOMAIN-SUFFIX,api.roboflow.com
 DOMAIN-SUFFIX,staticsource1.redotpay.com
 DOMAIN-SUFFIX,redircdn.com
+DOMAIN-SUFFIX,cacerts.rapidssl.com
 DOMAIN-SUFFIX,radix-ui.com
 DOMAIN-SUFFIX,quriobot.com
 DOMAIN-SUFFIX,quip-cdn.com
@@ -3680,6 +3684,7 @@ DOMAIN-SUFFIX,media.mstdn.io
 DOMAIN-SUFFIX,strapi.logto.io
 DOMAIN-SUFFIX,cdn-edge.karte.io
 DOMAIN-SUFFIX,statics.goorm.io
+DOMAIN-SUFFIX,sdk.gleap.io
 DOMAIN-SUFFIX,cdn.filen.io
 DOMAIN-SUFFIX,ipfs.decoo.io
 DOMAIN-SUFFIX,assets2.canny.io

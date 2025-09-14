@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject No Drop
-# Last Updated: 2025-07-26T11:26:48.239Z
-# Size: 35
+# Last Updated: 2025-09-14T18:18:18.502Z
+# Size: 37
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -34,14 +34,16 @@ DOMAIN-SUFFIX,cdnnodedns.cn
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,p2perrorlog.douyucdn.cn
 DOMAIN-SUFFIX,p2plog.douyucdn.cn
+DOMAIN,stun1.douyucdn.cn
+DOMAIN,stun.douyucdn.cn
 DOMAIN-KEYWORD,-p2p.pull.yximgs.com
 DOMAIN-KEYWORD,-p2p-v2.pull.yximgs.com
+DOMAIN-WILDCARD,stun*
+DOMAIN-WILDCARD,p2p*.qq.com
 DOMAIN-WILDCARD,p2pchunk-*.douyucdn.cn
 DOMAIN-WILDCARD,p2plive-*.douyucdn.cn
-DOMAIN-WILDCARD,p2p*-ws.douyucdn.cn
 DOMAIN-WILDCARD,dyp2p-*.douyucdn.cn
 DOMAIN-WILDCARD,p2p-*.douyucdn.cn
-AND,((DOMAIN-KEYWORD,stun), (DOMAIN-KEYWORD,douyu))
 AND,((PROTOCOL,UDP), (DOMAIN-SUFFIX,googlevideo.com))
 ################## EOF ##################
 
