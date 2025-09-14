@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-12T11:57:21.844Z
+# Last Updated: 2025-09-13T20:28:52.796Z
 # Size: 3892
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -1113,7 +1113,6 @@ DOMAIN-SUFFIX,staticflickr.com
 DOMAIN-SUFFIX,cdn.staticdelivr.com
 DOMAIN-SUFFIX,ipfs.soul-network.com
 DOMAIN-SUFFIX,image.shutterstock.com
-DOMAIN-SUFFIX,sourcemap.webfe.shopeemobile.com
 DOMAIN-SUFFIX,static.serverhunter.com
 DOMAIN-SUFFIX,scribdassets.com
 DOMAIN-SUFFIX,ak.sail-horizon.com
@@ -2377,6 +2376,7 @@ DOMAIN-SUFFIX,blob.jortage.com
 DOMAIN-SUFFIX,img4.javmost.com
 DOMAIN-SUFFIX,img3.javmost.com
 DOMAIN-SUFFIX,img2.javmost.com
+DOMAIN-SUFFIX,cdn.javmiku.com
 DOMAIN-SUFFIX,img2.javdove.com
 DOMAIN-SUFFIX,assets.ipstack.com
 DOMAIN-SUFFIX,i.insider.com
@@ -2575,6 +2575,7 @@ DOMAIN-SUFFIX,telemetry.vercel.com
 DOMAIN-SUFFIX,assets.vercel.com
 DOMAIN-SUFFIX,image.ship.vercel.com
 DOMAIN-SUFFIX,go.vercel.com
+DOMAIN-SUFFIX,vancdn.com
 DOMAIN-SUFFIX,img.utdstc.com
 DOMAIN-SUFFIX,devrum.uptime.com
 DOMAIN-SUFFIX,api.unisvg.com
@@ -2733,7 +2734,6 @@ DOMAIN-SUFFIX,code.jquery.com
 DOMAIN-SUFFIX,cdn.jitbit.com
 DOMAIN-SUFFIX,jbkcdn.com
 DOMAIN-SUFFIX,javtxt.com
-DOMAIN-SUFFIX,cdn.javsts.com
 DOMAIN-SUFFIX,imgtbl.com
 DOMAIN-SUFFIX,imgbox.com
 DOMAIN-SUFFIX,static.inferno.iheart.com
@@ -3626,7 +3626,7 @@ DOMAIN-SUFFIX,static.status.io
 DOMAIN-SUFFIX,image.status.io
 DOMAIN-SUFFIX,media.smooch.io
 DOMAIN-SUFFIX,cdn.smooch.io
-DOMAIN-SUFFIX,files.webfe.shopee.io
+DOMAIN-SUFFIX,webfe.shopee.io
 DOMAIN-SUFFIX,wire.shodan.io
 DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,ingest.us.sentry.io
