@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 131
-# DOMAIN-SUFFIX: 32458
+# DOMAIN-SUFFIX: 32460
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32803
-# UPDATED: 2025-09-15 14:38:30
+# TOTAL: 32805
+# UPDATED: 2025-09-15 20:52:26
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7509,14 +7509,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-08 02:08:01
+# UPDATED: 2025-09-16 02:08:26
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6500
+# DOMAIN-SUFFIX: 6502
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6640
+# TOTAL: 6642
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7711,6 +7711,7 @@ DOMAIN-SUFFIX,manhuaren.com
 DOMAIN-SUFFIX,marketwatch.com
 DOMAIN-SUFFIX,mashable.com
 DOMAIN-SUFFIX,mathjax.org
+DOMAIN-SUFFIX,mcusercontent.com
 DOMAIN-SUFFIX,megaupload.com
 DOMAIN-SUFFIX,microsoft-falcon.io
 DOMAIN-SUFFIX,microsoftapp.net
@@ -7806,6 +7807,7 @@ DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,tacc.cwb.gov.tw
 DOMAIN-SUFFIX,taipei.gov.tw
 DOMAIN-SUFFIX,taiwanjobs.gov.tw
+DOMAIN-SUFFIX,talkatone.com
 DOMAIN-SUFFIX,tanks.gg
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
@@ -7908,14 +7910,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-09-08 02:07:40
+# UPDATED: 2025-09-16 02:08:04
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31838
+# DOMAIN-SUFFIX: 31840
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32147
+# TOTAL: 32149
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
