@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3907
+# DOMAIN-SUFFIX: 3919
 # DOMAIN-KEYWORD: 20
-# TOTAL: 3932
-# UPDATED: 2025-09-17 09:51:11
+# TOTAL: 3944
+# UPDATED: 2025-09-17 14:36:36
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-16T18:53:12.990Z
-# Size: 3907
+# Last Updated: 2025-09-17T08:43:07.714Z
+# Size: 3919
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -297,6 +297,7 @@ DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,creativajs.altervista.org
 DOMAIN-SUFFIX,upload.wikimedia.org
 DOMAIN-SUFFIX,cdn.travis-ci.org
+DOMAIN-SUFFIX,light.spicegems.org
 DOMAIN-SUFFIX,user-uploads.perchance.org
 DOMAIN-SUFFIX,s13.maxstream.org
 DOMAIN-SUFFIX,s11.maxstream.org
@@ -577,6 +578,8 @@ DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,static.esimplus.net
 DOMAIN-SUFFIX,pub.creaders.net
+DOMAIN-SUFFIX,cdn-app.cart-bot.net
+DOMAIN-SUFFIX,app.cart-bot.net
 DOMAIN-SUFFIX,assets.bitstamp.net
 DOMAIN-SUFFIX,cdn.beacondb.net
 DOMAIN-SUFFIX,damassets.autodesk.net
@@ -984,6 +987,7 @@ DOMAIN-SUFFIX,cdn-forum.networklessons.com
 DOMAIN-SUFFIX,cdn.networklessons.com
 DOMAIN-SUFFIX,media.nbcconnecticut.com
 DOMAIN-SUFFIX,image.email.microsoftemail.com
+DOMAIN-SUFFIX,mediadecathlon.com
 DOMAIN-SUFFIX,assets.media-platform.com
 DOMAIN-SUFFIX,na-library.klarnaservices.com
 DOMAIN-SUFFIX,static.killedbygoogle.com
@@ -1168,6 +1172,7 @@ DOMAIN-SUFFIX,staticm.fastcomments.com
 DOMAIN-SUFFIX,cdn.fastcomments.com
 DOMAIN-SUFFIX,static.fastboostcdn.com
 DOMAIN-SUFFIX,fakestoreapi.com
+DOMAIN-SUFFIX,esc-apps-cdn.com
 DOMAIN-SUFFIX,cdn-eu.dynamicyield.com
 DOMAIN-SUFFIX,st-eu.dynamicyield.com
 DOMAIN-SUFFIX,cdn.dynamicyield.com
@@ -2118,6 +2123,7 @@ DOMAIN-SUFFIX,cdn-icons-png.flaticon.com
 DOMAIN-SUFFIX,cdn-uicons.flaticon.com
 DOMAIN-SUFFIX,media.flaticon.com
 DOMAIN-SUFFIX,cdn.firebase.com
+DOMAIN-SUFFIX,widget.finlogix.com
 DOMAIN-SUFFIX,s3.filebase.com
 DOMAIN-SUFFIX,icons.ferndocs.com
 DOMAIN-SUFFIX,favicone.com
@@ -2287,6 +2293,8 @@ DOMAIN-SUFFIX,sqspcdn.com
 DOMAIN-SUFFIX,cdn.sphlabs.com
 DOMAIN-SUFFIX,snzypic.com
 DOMAIN-SUFFIX,sdk.snapkit.com
+DOMAIN-SUFFIX,cache.industry.siemens.com
+DOMAIN-SUFFIX,data.cdn.siemens.com
 DOMAIN-SUFFIX,cdn.shopify.com
 DOMAIN-SUFFIX,dassets.shimano.com
 DOMAIN-SUFFIX,cdn.sheetjs.com
@@ -2593,6 +2601,7 @@ DOMAIN-SUFFIX,go.vercel.com
 DOMAIN-SUFFIX,vancdn.com
 DOMAIN-SUFFIX,stc.utdstc.com
 DOMAIN-SUFFIX,img.utdstc.com
+DOMAIN-SUFFIX,backinstock.useamp.com
 DOMAIN-SUFFIX,devrum.uptime.com
 DOMAIN-SUFFIX,api.unisvg.com
 DOMAIN-SUFFIX,assets.ubuntu.com
@@ -2697,6 +2706,7 @@ DOMAIN-SUFFIX,images.now-tv.com
 DOMAIN-SUFFIX,i.niupic.com
 DOMAIN-SUFFIX,nineyu.com
 DOMAIN-SUFFIX,article-image-ix.nikkei.com
+DOMAIN-SUFFIX,instafeed.nfcube.com
 DOMAIN-SUFFIX,cdn.nfcube.com
 DOMAIN-SUFFIX,c1.newegg.com
 DOMAIN-SUFFIX,nc-img.com
@@ -3117,6 +3127,7 @@ DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,img.atom.com
 DOMAIN-SUFFIX,g-static.ap4r.com
 DOMAIN-SUFFIX,a1tb.com
+DOMAIN-SUFFIX,bundle.9gtb.com
 DOMAIN-SUFFIX,accounts-cdn.9gag.com
 DOMAIN-SUFFIX,bundle.5gtb.com
 DOMAIN-SUFFIX,img.4khd.com
@@ -3900,6 +3911,7 @@ DOMAIN-SUFFIX,cdn.engagement.ai
 DOMAIN-SUFFIX,assets.cloudpilot.ai
 DOMAIN-SUFFIX,api.instantly.ai
 DOMAIN-SUFFIX,sdk.customfit.ai
+DOMAIN-SUFFIX,static.returngo.ai
 DOMAIN-SUFFIX,prod-cdn.webtune.ai
 DOMAIN-SUFFIX,widget.docsbot.ai
 DOMAIN-SUFFIX,cdn.aimerce.ai
