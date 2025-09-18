@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-17T08:43:07.714Z
-# Size: 3919
+# Last Updated: 2025-09-18T08:10:28.574Z
+# Size: 3921
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,static.domains
 DOMAIN-SUFFIX,bcdn.starapps.studio
 DOMAIN-SUFFIX,cdn.starapps.studio
 DOMAIN-SUFFIX,public.flourish.studio
+DOMAIN-SUFFIX,static.zenn.studio
+DOMAIN-SUFFIX,embed.zenn.studio
 DOMAIN-SUFFIX,mstdn-s3.o3o.studio
 DOMAIN-SUFFIX,photocdn.stream
 DOMAIN-SUFFIX,files.mastodon.social
