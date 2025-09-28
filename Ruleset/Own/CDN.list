@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3932
+# DOMAIN-SUFFIX: 3935
 # DOMAIN-KEYWORD: 20
-# TOTAL: 3957
-# UPDATED: 2025-09-28 02:30:59
+# TOTAL: 3960
+# UPDATED: 2025-09-28 10:03:17
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-25T19:30:13.128Z
-# Size: 3932
+# Last Updated: 2025-09-27T20:02:15.521Z
+# Size: 3935
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2388,6 +2388,7 @@ DOMAIN-SUFFIX,image.mgstage.com
 DOMAIN-SUFFIX,static.maxmind.com
 DOMAIN-SUFFIX,img-cos.mandaoo.com
 DOMAIN-SUFFIX,assets.mailgun.com
+DOMAIN-SUFFIX,i.magecdn.com
 DOMAIN-SUFFIX,lzzypic.com
 DOMAIN-SUFFIX,lzzyimg.com
 DOMAIN-SUFFIX,lulucdn.com
@@ -3265,6 +3266,7 @@ DOMAIN-SUFFIX,udify.app
 DOMAIN-SUFFIX,tauri.app
 DOMAIN-SUFFIX,xlog.app
 DOMAIN-SUFFIX,cdn.rive.app
+DOMAIN-SUFFIX,web-cdn.bsky.app
 DOMAIN-SUFFIX,video.bsky.app
 DOMAIN-SUFFIX,cdn.bsky.app
 DOMAIN-SUFFIX,web.app
@@ -3870,6 +3872,7 @@ DOMAIN-SUFFIX,v.w-x.co
 DOMAIN-SUFFIX,s.w-x.co
 DOMAIN-SUFFIX,image.ibb.co
 DOMAIN-SUFFIX,i.ibb.co
+DOMAIN-SUFFIX,assets.dub.co
 DOMAIN-SUFFIX,cdn-lfs-us-1.hf.co
 DOMAIN-SUFFIX,cdn-lfs-eu-1.hf.co
 DOMAIN-SUFFIX,cdn-lfs.hf.co
