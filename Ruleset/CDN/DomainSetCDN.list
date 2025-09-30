@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-28T17:16:11.496Z
-# Size: 3937
+# Last Updated: 2025-09-29T18:18:49.966Z
+# Size: 3945
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -630,7 +630,9 @@ DOMAIN-SUFFIX,cdn2.hubspot.net
 DOMAIN-SUFFIX,js-eu1.hsforms.net
 DOMAIN-SUFFIX,js.hsforms.net
 DOMAIN-SUFFIX,static.ettoday.net
+DOMAIN-SUFFIX,media.ettoday.net
 DOMAIN-SUFFIX,cdn2.ettoday.net
+DOMAIN-SUFFIX,cdn1.ettoday.net
 DOMAIN-SUFFIX,daumcdn.net
 DOMAIN-SUFFIX,badges.crowdin.net
 DOMAIN-SUFFIX,edge1.certona.net
@@ -770,6 +772,7 @@ DOMAIN-SUFFIX,s.wsj.net
 DOMAIN-SUFFIX,m.wsj.net
 DOMAIN-SUFFIX,rsb.net
 DOMAIN-SUFFIX,storage.gra.cloud.ovh.net
+DOMAIN-SUFFIX,static.lwn.net
 DOMAIN-SUFFIX,static.j51.net
 DOMAIN-SUFFIX,cdn.css.net
 DOMAIN-SUFFIX,gravatar.cat.net
@@ -796,7 +799,6 @@ DOMAIN-SUFFIX,tile2.intervals.icu
 DOMAIN-SUFFIX,cthd.icu
 DOMAIN-SUFFIX,time-a.nist.gov
 DOMAIN-SUFFIX,images-assets.nasa.gov
-DOMAIN-SUFFIX,smd-cms.nasa.gov
 DOMAIN-SUFFIX,assets.science.nasa.gov
 DOMAIN-SUFFIX,cdn.usd.fan
 DOMAIN-SUFFIX,cdn.onetime.dog
@@ -912,6 +914,7 @@ DOMAIN-SUFFIX,images4.welcomesoftware.com
 DOMAIN-SUFFIX,images3.welcomesoftware.com
 DOMAIN-SUFFIX,images2.welcomesoftware.com
 DOMAIN-SUFFIX,images1.welcomesoftware.com
+DOMAIN-SUFFIX,tn.tubepornclassic.com
 DOMAIN-SUFFIX,assets.the-independent.com
 DOMAIN-SUFFIX,squarespace-cdn.com
 DOMAIN-SUFFIX,logos.speedtestcustom.com
@@ -1376,7 +1379,6 @@ DOMAIN-SUFFIX,js.createsend1.com
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,settings.crashlytics.com
 DOMAIN-SUFFIX,e.crashlytics.com
-DOMAIN-SUFFIX,ddcdn.comtucdncom.com
 DOMAIN-SUFFIX,cdn.comparitech.com
 DOMAIN-SUFFIX,cloudfront.codeproject.com
 DOMAIN-SUFFIX,cloudatacdn.com
@@ -1442,6 +1444,8 @@ DOMAIN-SUFFIX,simplicity.trustpilot.com
 DOMAIN-SUFFIX,widget.trustpilot.com
 DOMAIN-SUFFIX,top1cdn.top1health.com
 DOMAIN-SUFFIX,teraboxcdn.com
+DOMAIN-SUFFIX,assets.tatlerasia.com
+DOMAIN-SUFFIX,cdn.tatlerasia.com
 DOMAIN-SUFFIX,targetimg1.com
 DOMAIN-SUFFIX,striiiipst.com
 DOMAIN-SUFFIX,cdn.streamlabs.com
@@ -2106,7 +2110,6 @@ DOMAIN-SUFFIX,cdn.getkoala.com
 DOMAIN-SUFFIX,assets.getkirby.com
 DOMAIN-SUFFIX,geoip-js.com
 DOMAIN-SUFFIX,maps.geoapify.com
-DOMAIN-SUFFIX,img5.gelbooru.com
 DOMAIN-SUFFIX,img4.gelbooru.com
 DOMAIN-SUFFIX,img2.gelbooru.com
 DOMAIN-SUFFIX,scripts.gatorapi.com
@@ -2258,6 +2261,7 @@ DOMAIN-SUFFIX,widgets.media.weather.com
 DOMAIN-SUFFIX,api.weather.com
 DOMAIN-SUFFIX,wdfiles.com
 DOMAIN-SUFFIX,vox-cdn.com
+DOMAIN-SUFFIX,images.voguehk.com
 DOMAIN-SUFFIX,cdn.viglink.com
 DOMAIN-SUFFIX,assets.vidyard.com
 DOMAIN-SUFFIX,play.vidyard.com
@@ -2871,6 +2875,7 @@ DOMAIN-SUFFIX,barracuda-assets.zoovu.com
 DOMAIN-SUFFIX,barracuda-cdn.zoovu.com
 DOMAIN-SUFFIX,hello.zonos.com
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ypcdn.com
 DOMAIN-SUFFIX,cdn-yotpo-images-production.yotpo.com
 DOMAIN-SUFFIX,cdn-widgetsrepository.yotpo.com
 DOMAIN-SUFFIX,cdn-swell-assets.yotpo.com
@@ -2948,6 +2953,8 @@ DOMAIN-SUFFIX,media.ra.kroll.com
 DOMAIN-SUFFIX,storage.ko-fi.com
 DOMAIN-SUFFIX,cdn.ko-fi.com
 DOMAIN-SUFFIX,js.klarn.com
+DOMAIN-SUFFIX,static-assets.juksy.com
+DOMAIN-SUFFIX,assets.juksy.com
 DOMAIN-SUFFIX,static.jsbin.com
 DOMAIN-SUFFIX,null.jsbin.com
 DOMAIN-SUFFIX,icdn.javxx.com
@@ -3034,6 +3041,7 @@ DOMAIN-SUFFIX,safebrowsing.brave.com
 DOMAIN-SUFFIX,imgs.search.brave.com
 DOMAIN-SUFFIX,cdn.search.brave.com
 DOMAIN-SUFFIX,assets.bnidx.com
+DOMAIN-SUFFIX,spotlightimage.biggo.com
 DOMAIN-SUFFIX,images.bfmtv.com
 DOMAIN-SUFFIX,cdn.bfldr.com
 DOMAIN-SUFFIX,public-cdn.bblmw.com
