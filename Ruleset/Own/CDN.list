@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3945
+# DOMAIN-SUFFIX: 3951
 # DOMAIN-KEYWORD: 20
-# TOTAL: 3970
-# UPDATED: 2025-09-30 14:37:19
+# TOTAL: 3976
+# UPDATED: 2025-09-30 20:54:18
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-29T18:18:49.966Z
-# Size: 3945
+# Last Updated: 2025-09-30T17:03:02.227Z
+# Size: 3951
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3069,6 +3069,7 @@ DOMAIN-SUFFIX,events-live.apple.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,time.apple.com
 DOMAIN-SUFFIX,pba.apple.com
+DOMAIN-SUFFIX,static.ess.apple.com
 DOMAIN-SUFFIX,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,wwwimages2.adobe.com
@@ -3366,6 +3367,8 @@ DOMAIN-SUFFIX,static.svc.litv.tv
 DOMAIN-SUFFIX,player.svc.litv.tv
 DOMAIN-SUFFIX,fino.svc.litv.tv
 DOMAIN-SUFFIX,4gtvimg2.4gtv.tv
+DOMAIN-SUFFIX,pptstatic.iyf.tv
+DOMAIN-SUFFIX,static.iyf.tv
 DOMAIN-SUFFIX,lain.bgm.tv
 DOMAIN-SUFFIX,embed-v2.testimonial.to
 DOMAIN-SUFFIX,ninjastream.to
@@ -3466,10 +3469,12 @@ DOMAIN-SUFFIX,s3.acg.mn
 DOMAIN-SUFFIX,s3.m.0x.mk
 DOMAIN-SUFFIX,cdn.fasterthanli.me
 DOMAIN-SUFFIX,randomuser.me
+DOMAIN-SUFFIX,global-cdn.me
 DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,api.crashguard.me
 DOMAIN-SUFFIX,rocketcdn.me
 DOMAIN-SUFFIX,javplayer.me
+DOMAIN-SUFFIX,dnvodcdn.me
 DOMAIN-SUFFIX,cdn.daradara.me
 DOMAIN-SUFFIX,cf.javfree.me
 DOMAIN-SUFFIX,cdn.picrew.me
@@ -3944,6 +3949,7 @@ DOMAIN-SUFFIX,cdn.aimerce.ai
 DOMAIN-SUFFIX,vetted.ai
 DOMAIN-SUFFIX,static.netify.ai
 DOMAIN-SUFFIX,r2.leadsy.ai
+DOMAIN-SUFFIX,cdn.fellou.ai
 DOMAIN-SUFFIX,s3.masto.ai
 DOMAIN-SUFFIX,participants.evolv.ai
 DOMAIN-SUFFIX,media.evolv.ai
