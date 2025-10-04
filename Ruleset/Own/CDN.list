@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3955
+# DOMAIN-SUFFIX: 3960
 # DOMAIN-KEYWORD: 20
-# TOTAL: 3980
-# UPDATED: 2025-10-04 14:33:16
+# TOTAL: 3985
+# UPDATED: 2025-10-04 20:44:44
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-10-01T13:27:33.147Z
-# Size: 3955
+# Last Updated: 2025-10-04T18:06:56.371Z
+# Size: 3960
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1504,6 +1504,7 @@ DOMAIN-SUFFIX,images3.cmp.optimizely.com
 DOMAIN-SUFFIX,images2.cmp.optimizely.com
 DOMAIN-SUFFIX,images1.cmp.optimizely.com
 DOMAIN-SUFFIX,cdn.optimizely.com
+DOMAIN-SUFFIX,static.openreplay.com
 DOMAIN-SUFFIX,static-www.onlyoffice.com
 DOMAIN-SUFFIX,nincontent.com
 DOMAIN-SUFFIX,cdn.nerdschalk.com
@@ -2491,6 +2492,7 @@ DOMAIN-SUFFIX,img.freepik.com
 DOMAIN-SUFFIX,static.foxnews.com
 DOMAIN-SUFFIX,a57.foxnews.com
 DOMAIN-SUFFIX,hp.foxnews.com
+DOMAIN-SUFFIX,static-cf.foxdata.com
 DOMAIN-SUFFIX,fourhoi.com
 DOMAIN-SUFFIX,usercontent.flodesk.com
 DOMAIN-SUFFIX,assets.flodesk.com
@@ -2965,6 +2967,7 @@ DOMAIN-SUFFIX,static-assets.juksy.com
 DOMAIN-SUFFIX,assets.juksy.com
 DOMAIN-SUFFIX,static.jsbin.com
 DOMAIN-SUFFIX,null.jsbin.com
+DOMAIN-SUFFIX,speedmedia2.jfrog.com
 DOMAIN-SUFFIX,icdn.javxx.com
 DOMAIN-SUFFIX,cdn.javmg.com
 DOMAIN-SUFFIX,creator-image.javhd.com
@@ -3048,6 +3051,7 @@ DOMAIN-SUFFIX,assets.brevo.com
 DOMAIN-SUFFIX,safebrowsing.brave.com
 DOMAIN-SUFFIX,imgs.search.brave.com
 DOMAIN-SUFFIX,cdn.search.brave.com
+DOMAIN-SUFFIX,static.bodor.com
 DOMAIN-SUFFIX,assets.bnidx.com
 DOMAIN-SUFFIX,spotlightimage.biggo.com
 DOMAIN-SUFFIX,images.bfmtv.com
@@ -3798,6 +3802,7 @@ DOMAIN-SUFFIX,static-cdn.spot.im
 DOMAIN-SUFFIX,launcher.spot.im
 DOMAIN-SUFFIX,images.spot.im
 DOMAIN-SUFFIX,s3.c.im
+DOMAIN-SUFFIX,js.nagich.co.il
 DOMAIN-SUFFIX,alexdav.id
 DOMAIN-SUFFIX,ipfs.trusti.id
 DOMAIN-SUFFIX,cdn.unwire.hk
