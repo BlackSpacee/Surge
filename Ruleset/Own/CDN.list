@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3960
+# DOMAIN-SUFFIX: 3966
 # DOMAIN-KEYWORD: 20
-# TOTAL: 3985
-# UPDATED: 2025-10-05 14:33:03
+# TOTAL: 3991
+# UPDATED: 2025-10-05 20:45:40
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-10-04T18:06:56.371Z
-# Size: 3960
+# Last Updated: 2025-10-05T18:15:08.011Z
+# Size: 3966
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1900,6 +1900,7 @@ DOMAIN-SUFFIX,media.breitbart.com
 DOMAIN-SUFFIX,static.bravoporn.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,images.blockscan.com
+DOMAIN-SUFFIX,assets.bitwarden.com
 DOMAIN-SUFFIX,bitgetimg.com
 DOMAIN-SUFFIX,upos-sz-mirrorcosbstar1.bilivideo.com
 DOMAIN-SUFFIX,upos-sz-mirroralibstar1.bilivideo.com
@@ -2003,6 +2004,7 @@ DOMAIN-SUFFIX,apps-static.route4me.com
 DOMAIN-SUFFIX,roseimgs.com
 DOMAIN-SUFFIX,cdnassets.roboflow.com
 DOMAIN-SUFFIX,static.roboflow.com
+DOMAIN-SUFFIX,source.roboflow.com
 DOMAIN-SUFFIX,cdn.roboflow.com
 DOMAIN-SUFFIX,app.roboflow.com
 DOMAIN-SUFFIX,api.roboflow.com
@@ -2909,6 +2911,9 @@ DOMAIN-SUFFIX,player.vimeo.com
 DOMAIN-SUFFIX,static.vanta.com
 DOMAIN-SUFFIX,uvcdn.com
 DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,idportal-cdn-prd.unity.com
+DOMAIN-SUFFIX,cdn.login.unity.com
+DOMAIN-SUFFIX,cdn.cloud.unity.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,media1.tenor.com
 DOMAIN-SUFFIX,media.tenor.com
@@ -3744,6 +3749,7 @@ DOMAIN-SUFFIX,cdn.pendo.io
 DOMAIN-SUFFIX,nxcli.io
 DOMAIN-SUFFIX,media.mstdn.io
 DOMAIN-SUFFIX,strapi.logto.io
+DOMAIN-SUFFIX,cdn-blocks.karte.io
 DOMAIN-SUFFIX,cdn-edge.karte.io
 DOMAIN-SUFFIX,statics.goorm.io
 DOMAIN-SUFFIX,sdk.gleap.io
