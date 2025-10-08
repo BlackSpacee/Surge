@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-10-05T18:15:08.011Z
-# Size: 3966
+# Last Updated: 2025-10-08T14:20:36.760Z
+# Size: 3975
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,cdn.bsky.social
 DOMAIN-SUFFIX,objects.g0v.social
 DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,files.mastodon.online
+DOMAIN-SUFFIX,am-cdn.online
 DOMAIN-SUFFIX,cdn.glitch.global
 DOMAIN-SUFFIX,code.iconify.design
 DOMAIN-SUFFIX,api.iconify.design
@@ -103,11 +104,13 @@ DOMAIN-SUFFIX,res2.weblium.site
 DOMAIN-SUFFIX,nextra.site
 DOMAIN-SUFFIX,p.inari.site
 DOMAIN-SUFFIX,imgfile.shop
+DOMAIN-SUFFIX,am-cdn.pics
 DOMAIN-SUFFIX,codeberg.page
 DOMAIN-SUFFIX,instant.page
 DOMAIN-SUFFIX,kinsta.page
 DOMAIN-SUFFIX,assets-next.matters.news
 DOMAIN-SUFFIX,assets.matters.news
+DOMAIN-SUFFIX,web-api-cdn.ground.news
 DOMAIN-SUFFIX,static.bad.news
 DOMAIN-SUFFIX,content.api.news
 DOMAIN-SUFFIX,pics.hentai.name
@@ -737,6 +740,7 @@ DOMAIN-SUFFIX,vz-c0fe498e-5ab.b-cdn.net
 DOMAIN-SUFFIX,vz-2222604c-50b.b-cdn.net
 DOMAIN-SUFFIX,hentaiworldtv.b-cdn.net
 DOMAIN-SUFFIX,divhunt-site.b-cdn.net
+DOMAIN-SUFFIX,groundnews.b-cdn.net
 DOMAIN-SUFFIX,mintlify.b-cdn.net
 DOMAIN-SUFFIX,linuxiac.b-cdn.net
 DOMAIN-SUFFIX,jsdelivr.b-cdn.net
@@ -791,6 +795,8 @@ DOMAIN-SUFFIX,latency-test.lab.skk.moe
 DOMAIN-SUFFIX,img.skk.moe
 DOMAIN-SUFFIX,cdn.skk.moe
 DOMAIN-SUFFIX,objects.hit.moe
+DOMAIN-SUFFIX,assets-cdn.anh.moe
+DOMAIN-SUFFIX,cdn.amh.moe
 DOMAIN-SUFFIX,cloudflare.ltd
 DOMAIN-SUFFIX,static.coinall.ltd
 DOMAIN-SUFFIX,image.acg.lol
@@ -2805,6 +2811,7 @@ DOMAIN-SUFFIX,time.google.com
 DOMAIN-SUFFIX,static.corp.google.com
 DOMAIN-SUFFIX,crashlytics2.l.google.com
 DOMAIN-SUFFIX,s3.go2778.com
+DOMAIN-SUFFIX,static.gmgard.com
 DOMAIN-SUFFIX,content.product.glitch.com
 DOMAIN-SUFFIX,cdn.glitch.com
 DOMAIN-SUFFIX,glbimg.com
@@ -3492,6 +3499,8 @@ DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,cdn.judge.me
 DOMAIN-SUFFIX,static-cache.fboom.me
 DOMAIN-SUFFIX,static.fboom.me
+DOMAIN-SUFFIX,media-cms.ayoba.me
+DOMAIN-SUFFIX,dynamic-cdn.cms.ayoba.me
 DOMAIN-SUFFIX,emoji-css.afeld.me
 DOMAIN-SUFFIX,pic.7mmtv.me
 DOMAIN-SUFFIX,cdn.123av.me
