@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2025-09-28T17:16:10.819Z
-# Size: 39
+# Last Updated: 2025-10-09T16:56:13.915Z
+# Size: 41
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,gemini.google
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,oaistatic.com
