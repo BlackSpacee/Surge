@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 343
-# DOMAIN-SUFFIX: 116968
+# DOMAIN-SUFFIX: 116969
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12022
+# IP-CIDR: 12021
 # IP-CIDR6: 10869
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 140354
-# UPDATED: 2025-10-09 20:53:24
+# UPDATED: 2025-10-10 02:35:06
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -246,8 +246,8 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-09-19T15:07:38.313Z
-# Size: 835
+# Last Updated: 2025-10-09T21:04:12.861Z
+# Size: 836
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -1073,6 +1073,7 @@ DOMAIN-SUFFIX,wo.cn
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,tb.cn
 DOMAIN-SUFFIX,sm.cn
+DOMAIN-SUFFIX,i4.cn
 DOMAIN-SUFFIX,22.cn
 DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,6.cn
@@ -1084,8 +1085,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2025-10-09T16:56:15.339Z
-# Size: 3925
+# Last Updated: 2025-10-09T21:04:14.109Z
+# Size: 3924
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -2358,7 +2359,6 @@ IP-CIDR,103.227.76.0/22
 IP-CIDR,103.227.80.0/22
 IP-CIDR,103.227.120.0/22
 IP-CIDR,103.227.136.0/22
-IP-CIDR,103.227.228.0/22
 IP-CIDR,103.228.12.0/22
 IP-CIDR,103.228.136.0/22
 IP-CIDR,103.228.160.0/22
