@@ -3,12 +3,12 @@
 # DOMAIN-SUFFIX: 116969
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12021
+# IP-CIDR: 12020
 # IP-CIDR6: 10869
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 140354
-# UPDATED: 2025-10-10 14:36:55
+# TOTAL: 140353
+# UPDATED: 2025-10-10 20:51:40
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -246,7 +246,7 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-10-09T21:04:12.861Z
+# Last Updated: 2025-10-10T18:09:31.671Z
 # Size: 836
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
@@ -1079,14 +1079,14 @@ DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,chaoxing.cc
-DOMAIN-WILDCARD,*.qhimgs?.com
+DOMAIN-WILDCARD,*.qhimgs
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2025-10-09T21:04:14.109Z
-# Size: 3924
+# Last Updated: 2025-10-10T18:09:33.356Z
+# Size: 3923
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -1869,13 +1869,11 @@ IP-CIDR,101.237.40.0/24
 IP-CIDR,101.237.128.0/20
 IP-CIDR,101.240.0.0/14
 IP-CIDR,101.245.0.0/22
-IP-CIDR,101.245.8.0/23
-IP-CIDR,101.245.12.0/22
+IP-CIDR,101.245.8.0/21
 IP-CIDR,101.245.16.0/21
 IP-CIDR,101.245.32.0/19
 IP-CIDR,101.245.64.0/18
-IP-CIDR,101.245.128.0/22
-IP-CIDR,101.245.136.0/22
+IP-CIDR,101.245.128.0/20
 IP-CIDR,101.245.144.0/22
 IP-CIDR,101.246.172.0/22
 IP-CIDR,101.246.176.0/20
@@ -2359,6 +2357,7 @@ IP-CIDR,103.227.76.0/22
 IP-CIDR,103.227.80.0/22
 IP-CIDR,103.227.120.0/22
 IP-CIDR,103.227.136.0/22
+IP-CIDR,103.227.228.0/22
 IP-CIDR,103.228.12.0/22
 IP-CIDR,103.228.136.0/22
 IP-CIDR,103.228.160.0/22
