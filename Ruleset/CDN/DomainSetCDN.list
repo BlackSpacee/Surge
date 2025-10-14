@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-10-10T18:09:32.296Z
-# Size: 3976
+# Last Updated: 2025-10-14T12:28:25.787Z
+# Size: 3978
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1792,6 +1792,7 @@ DOMAIN-SUFFIX,store-images.microsoft.com
 DOMAIN-SUFFIX,smartscreen.microsoft.com
 DOMAIN-SUFFIX,cmtycdn.powerpages.microsoft.com
 DOMAIN-SUFFIX,wcpstatic.microsoft.com
+DOMAIN-SUFFIX,oneocsp.microsoft.com
 DOMAIN-SUFFIX,cdn.create.microsoft.com
 DOMAIN-SUFFIX,images.ecomm.microsoft.com
 DOMAIN-SUFFIX,ajax.microsoft.com
@@ -2174,6 +2175,7 @@ DOMAIN-SUFFIX,cdn.credible.com
 DOMAIN-SUFFIX,assets.controld.com
 DOMAIN-SUFFIX,img.connatix.com
 DOMAIN-SUFFIX,cds.connatix.com
+DOMAIN-SUFFIX,ocsp.comodoca.com
 DOMAIN-SUFFIX,crt.comodoca.com
 DOMAIN-SUFFIX,downloads.coindesk.com
 DOMAIN-SUFFIX,s1.coincarp.com
