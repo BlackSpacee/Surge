@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 131
-# DOMAIN-SUFFIX: 32475
+# DOMAIN-SUFFIX: 32476
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32820
-# UPDATED: 2025-10-15 09:57:40
+# TOTAL: 32821
+# UPDATED: 2025-10-15 14:37:14
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-09-29T15:50:32.680Z
-# Size: 1148
+# Last Updated: 2025-10-15T09:49:44.431Z
+# Size: 1150
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -327,6 +327,7 @@ DOMAIN-SUFFIX,redtubepremium.com
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,line-apps-beta.com
 DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,adguardaccount.com
 DOMAIN-SUFFIX,xpressunblock.com
 DOMAIN-SUFFIX,thaiheadlines.com
 DOMAIN-SUFFIX,stackoverflow.com
@@ -452,6 +453,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,clips4sale.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,androidify.com
+DOMAIN-SUFFIX,adguardcdn.com
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,xdaforums.com
 DOMAIN-SUFFIX,wordpress.com
@@ -8718,7 +8720,6 @@ DOMAIN-SUFFIX,adguard-vpn.online
 DOMAIN-SUFFIX,adguard.app
 DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adguard.io
-DOMAIN-SUFFIX,adguardaccount.com
 DOMAIN-SUFFIX,adguardvpn.com
 DOMAIN-SUFFIX,adhelpnews.com
 DOMAIN-SUFFIX,adidas.at
