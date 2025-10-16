@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3983
+# DOMAIN-SUFFIX: 3987
 # DOMAIN-KEYWORD: 20
-# TOTAL: 4008
-# UPDATED: 2025-10-16 14:37:07
+# TOTAL: 4012
+# UPDATED: 2025-10-16 20:54:51
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-10-15T09:49:45.063Z
-# Size: 3983
+# Last Updated: 2025-10-16T15:02:58.411Z
+# Size: 3987
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3060,7 +3060,10 @@ DOMAIN-SUFFIX,assets-s3-us-east-1.ceros.com
 DOMAIN-SUFFIX,media-s3-us-east-1.ceros.com
 DOMAIN-SUFFIX,ajax.cdnjs.com
 DOMAIN-SUFFIX,content-management-files.canva.com
+DOMAIN-SUFFIX,chunk-composing.canva.com
+DOMAIN-SUFFIX,font-public.canva.com
 DOMAIN-SUFFIX,static.canva.com
+DOMAIN-SUFFIX,media.canva.com
 DOMAIN-SUFFIX,cdn.cameo.com
 DOMAIN-SUFFIX,s1.bycsi.com
 DOMAIN-SUFFIX,designsystem.brevo.com
@@ -3982,6 +3985,7 @@ DOMAIN-SUFFIX,vetted.ai
 DOMAIN-SUFFIX,static.netify.ai
 DOMAIN-SUFFIX,r2.leadsy.ai
 DOMAIN-SUFFIX,cdn.fellou.ai
+DOMAIN-SUFFIX,tag.tvads.ai
 DOMAIN-SUFFIX,s3.masto.ai
 DOMAIN-SUFFIX,participants.evolv.ai
 DOMAIN-SUFFIX,media.evolv.ai
