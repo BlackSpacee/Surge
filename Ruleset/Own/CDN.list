@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3987
+# DOMAIN-SUFFIX: 3989
 # DOMAIN-KEYWORD: 20
-# TOTAL: 4012
-# UPDATED: 2025-10-17 14:36:06
+# TOTAL: 4014
+# UPDATED: 2025-10-17 20:53:00
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-10-16T15:02:58.411Z
-# Size: 3987
+# Last Updated: 2025-10-17T13:08:04.897Z
+# Size: 3989
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1039,6 +1039,7 @@ DOMAIN-SUFFIX,explorer-api.walletconnect.com
 DOMAIN-SUFFIX,js.verygoodvault.com
 DOMAIN-SUFFIX,transcend-cdn.com
 DOMAIN-SUFFIX,bundle.thimatic-apps.com
+DOMAIN-SUFFIX,cdn.thewirecutter.com
 DOMAIN-SUFFIX,cdn.stellarhosted.com
 DOMAIN-SUFFIX,steemitimages.com
 DOMAIN-SUFFIX,assets.static-upwork.com
@@ -2390,6 +2391,7 @@ DOMAIN-SUFFIX,oktacdn.com
 DOMAIN-SUFFIX,lc.nssurge.com
 DOMAIN-SUFFIX,media.nownews.com
 DOMAIN-SUFFIX,nordcdn.com
+DOMAIN-SUFFIX,media.nngroup.com
 DOMAIN-SUFFIX,ngfiles.com
 DOMAIN-SUFFIX,assets.nflxext.com
 DOMAIN-SUFFIX,stbff.newfold.com
@@ -4003,7 +4005,7 @@ DOMAIN-SUFFIX,bot.ivy.ai
 DOMAIN-SUFFIX,rules.ac
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
-# Last Updated: 2025-10-10T18:09:31.629Z
+# Last Updated: 2025-10-17T13:08:04.454Z
 # Size: 78
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,cdn-msp.18comic.vip
@@ -4030,44 +4032,56 @@ DOMAIN-KEYWORD,99avcdn
 DOMAIN-KEYWORD,-images.disco-api.com
 DOMAIN-KEYWORD,vdownload.hanime1
 DOMAIN-KEYWORD,fonts.hanime1
-DOMAIN-WILDCARD,s*.hanime1
-DOMAIN-WILDCARD,video*.cloudokyo.cloud
-DOMAIN-WILDCARD,image*.cloudokyo.cloud
-DOMAIN-WILDCARD,*.skyearth
-DOMAIN-WILDCARD,v.rn
-DOMAIN-WILDCARD,cdn-msp
-DOMAIN-WILDCARD,s
-DOMAIN-WILDCARD,video
-DOMAIN-WILDCARD,video-thumbnail
-DOMAIN-WILDCARD,object-storage-*.vexxhost.net
-DOMAIN-WILDCARD,appcenter-filemanagement-*.cloudapp.net
-DOMAIN-WILDCARD,t
-DOMAIN-WILDCARD,i
 DOMAIN-WILDCARD,cdn.*.office.net
-DOMAIN-WILDCARD,file
-DOMAIN-WILDCARD,cdn
-DOMAIN-WILDCARD,browser-intake-*-datadoghq.com
-DOMAIN-WILDCARD,*.kuaikan-cdn
+DOMAIN-WILDCARD,cdn.*.microsoft.com
+DOMAIN-WILDCARD,cdn-*.microsoft.com
+DOMAIN-WILDCARD,appcenter-filemanagement-*.cloudapp.net
 DOMAIN-WILDCARD,proxy-*.dailymotion.com
+DOMAIN-WILDCARD,static?.tgstat.ru
+DOMAIN-WILDCARD,static??.tgstat.ru
 DOMAIN-WILDCARD,ocsp.*.amazontrust.com
 DOMAIN-WILDCARD,s3.*.wasabisys.com
-DOMAIN-WILDCARD,cdn-*.microsoft.com
-DOMAIN-WILDCARD,cdn.*.microsoft.com
+DOMAIN-WILDCARD,object-storage-*.vexxhost.net
+DOMAIN-WILDCARD,i?.nhentai.net
+DOMAIN-WILDCARD,t?.nhentai.net
+DOMAIN-WILDCARD,cdn?-dl.pornhost.com
+DOMAIN-WILDCARD,cdn-msp?.18comic.vip
+DOMAIN-WILDCARD,cdn-msp?.jmcomic.me
+DOMAIN-WILDCARD,cdn-msp?.jmcomic-zzz.one
+DOMAIN-WILDCARD,cdn-msp?.18comic.org
+DOMAIN-WILDCARD,file?.mikuclub.fun
+DOMAIN-WILDCARD,cdn?.mikuclub.fun
 DOMAIN-WILDCARD,assets*.freshdesk.com
-DOMAIN-WILDCARD,*.img.*.sendibm
-DOMAIN-WILDCARD,th-*.pornone.com
-DOMAIN-WILDCARD,stream
-DOMAIN-WILDCARD,uploads-*.insided.com
-DOMAIN-WILDCARD,img
-DOMAIN-WILDCARD,*.fsvod
 DOMAIN-WILDCARD,cdns.*.gigya.com
-DOMAIN-WILDCARD,s3-*.figma.com
-DOMAIN-WILDCARD,img-*.now.com
-DOMAIN-WILDCARD,chunk-*.mux.com
-DOMAIN-WILDCARD,vip-videoprem*-thumbnail
-DOMAIN-WILDCARD,video-thumbnail2.fc2.com
-DOMAIN-WILDCARD,blog-imgs-
-DOMAIN-WILDCARD,rr
-DOMAIN-WILDCARD,static
 DOMAIN-WILDCARD,sdk.*.braze.eu
+DOMAIN-WILDCARD,img?.porngo.com
+DOMAIN-WILDCARD,img??.porngo.com
+DOMAIN-WILDCARD,th-*.pornone.com
+DOMAIN-WILDCARD,s???.pornone.com
+DOMAIN-WILDCARD,browser-intake-*-datadoghq.com
+DOMAIN-WILDCARD,video-thumbnail2.fc2.com
+DOMAIN-WILDCARD,video?-thumbnail?.fc2.com
+DOMAIN-WILDCARD,video-thumbnail?.liaoningmovie.net
+DOMAIN-WILDCARD,video?-thumbnail?.liaoningmovie.net
+DOMAIN-WILDCARD,vip-videoprem*-thumbnail?.fc2.com
+DOMAIN-WILDCARD,blog-imgs-??.2nt.com
+DOMAIN-WILDCARD,blog-imgs-??.fc2.com
+DOMAIN-WILDCARD,rr?---??.ouo.si
+DOMAIN-WILDCARD,s3-*.figma.com
+DOMAIN-WILDCARD,*.kuaikan-cdn?.com
+DOMAIN-WILDCARD,*.fsvod?.com
+DOMAIN-WILDCARD,image*.cloudokyo.cloud
+DOMAIN-WILDCARD,video*.cloudokyo.cloud
+DOMAIN-WILDCARD,v.rn???.xyz
+DOMAIN-WILDCARD,s?.maxstream.org
+DOMAIN-WILDCARD,s??.maxstream.org
+DOMAIN-WILDCARD,stream?.kissjav.com
+DOMAIN-WILDCARD,stream??.kissjav.com
+DOMAIN-WILDCARD,chunk-*.mux.com
+DOMAIN-WILDCARD,*.skyearth?.xyz
+DOMAIN-WILDCARD,*.img.*.sendibm?.com
+DOMAIN-WILDCARD,cdn?.18girlssex.com
+DOMAIN-WILDCARD,uploads-*.insided.com
+DOMAIN-WILDCARD,s*.hanime1
+DOMAIN-WILDCARD,img-*.now.com
 DOMAIN-WILDCARD,assets.*.imaga.co

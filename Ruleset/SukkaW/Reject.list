@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-10-10T18:09:31.494Z
+# Last Updated: 2025-10-17T13:08:04.258Z
 # Size: 341
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -325,19 +325,19 @@ DOMAIN-KEYWORD,-be-pack.pglstatp-toutiao.com
 DOMAIN-KEYWORD,-normal.zijieapi.com
 DOMAIN-KEYWORD,mon.zijieapi.com
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
+DOMAIN-WILDCARD,info.*.aleragroup.com
+DOMAIN-WILDCARD,f-log*.grammarly.io
 DOMAIN-WILDCARD,*.ad.*.prod.hosts.ooklaserver.net
 DOMAIN-WILDCARD,adv0*.msa.cdn.mediaset.net
+DOMAIN-WILDCARD,beacons*.gvt?.com
 DOMAIN-WILDCARD,*-pcdn-*.biliapi.net
-DOMAIN-WILDCARD,mon-*.byteoversea.com
-DOMAIN-WILDCARD,info.*.aleragroup.com
-DOMAIN-WILDCARD,pixel*.adswizz.com
-DOMAIN-WILDCARD,ads-*.xhscdn.com
-DOMAIN-WILDCARD,ads-*.tiktok.com
-DOMAIN-WILDCARD,analytics-*.aasaam.com
 DOMAIN-WILDCARD,tracking.*.miui.com
 DOMAIN-WILDCARD,*.tracking.*.miui.com
-DOMAIN-WILDCARD,beacons*.gvt
-DOMAIN-WILDCARD,f-log*.grammarly.io
+DOMAIN-WILDCARD,ads-*.xhscdn.com
+DOMAIN-WILDCARD,ads-*.tiktok.com
+DOMAIN-WILDCARD,mon-*.byteoversea.com
+DOMAIN-WILDCARD,pixel*.adswizz.com
+DOMAIN-WILDCARD,analytics-*.aasaam.com
 URL-REGEX,/igd\.xml
 URL-REGEX,/\d+/resolve
 URL-REGEX,/\d+/sign_d

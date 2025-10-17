@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 131
-# DOMAIN-SUFFIX: 32476
+# DOMAIN-SUFFIX: 32480
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32821
-# UPDATED: 2025-10-17 14:36:06
+# TOTAL: 32825
+# UPDATED: 2025-10-17 20:53:00
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7513,14 +7513,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-14 02:08:25
+# UPDATED: 2025-10-18 02:08:30
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6514
+# DOMAIN-SUFFIX: 6519
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6654
+# TOTAL: 6659
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7554,6 +7554,7 @@ DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,arcgis.com
 DOMAIN-SUFFIX,archives.gov.tw
 DOMAIN-SUFFIX,armorgames.com
+DOMAIN-SUFFIX,asianfanfics.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,async.be
 DOMAIN-SUFFIX,att.com
@@ -7845,6 +7846,7 @@ DOMAIN-SUFFIX,torrentmac.net
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trustasiassl.com
+DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,tt-rss.org
 DOMAIN-SUFFIX,tumblr.co
 DOMAIN-SUFFIX,tw.hao123.com
@@ -7874,6 +7876,7 @@ DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,wda.gov.tw
+DOMAIN-SUFFIX,websdr.org
 DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,wikileaks.info
 DOMAIN-SUFFIX,wikiunblocked.org
@@ -7883,11 +7886,13 @@ DOMAIN-SUFFIX,wr.pvp.net
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xeeno.com
+DOMAIN-SUFFIX,xn--u2u927b.com
 DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,yoyo.org
+DOMAIN-SUFFIX,z-library.ec
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoomgov.com
 DOMAIN-KEYWORD,dlercloud
@@ -7926,14 +7931,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-10-14 02:08:03
+# UPDATED: 2025-10-18 02:08:08
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31853
+# DOMAIN-SUFFIX: 31857
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32162
+# TOTAL: 32166
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -29677,7 +29682,6 @@ DOMAIN-SUFFIX,trusteddwg.com
 DOMAIN-SUFFIX,trustedpeach.com
 DOMAIN-SUFFIX,trustisfps.com
 DOMAIN-SUFFIX,trustsign.ch
-DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,trustwave.com
 DOMAIN-SUFFIX,truthordarepics.com
 DOMAIN-SUFFIX,truyen-hentai.com

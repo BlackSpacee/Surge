@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject No Drop
-# Last Updated: 2025-10-03T04:27:40.065Z
+# Last Updated: 2025-10-17T13:08:04.479Z
 # Size: 39
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -40,12 +40,12 @@ DOMAIN,stun1.douyucdn.cn
 DOMAIN,stun.douyucdn.cn
 DOMAIN-KEYWORD,-p2p.pull.yximgs.com
 DOMAIN-KEYWORD,-p2p-v2.pull.yximgs.com
-DOMAIN-WILDCARD,stun*
 DOMAIN-WILDCARD,p2p*.qq.com
-DOMAIN-WILDCARD,p2pchunk-*.douyucdn.cn
-DOMAIN-WILDCARD,p2plive-*.douyucdn.cn
-DOMAIN-WILDCARD,dyp2p-*.douyucdn.cn
 DOMAIN-WILDCARD,p2p-*.douyucdn.cn
+DOMAIN-WILDCARD,p2pchunk-*.douyucdn.cn
+DOMAIN-WILDCARD,dyp2p-*.douyucdn.cn
+DOMAIN-WILDCARD,p2plive-*.douyucdn.cn
+DOMAIN-WILDCARD,stun*
 AND,((PROTOCOL,UDP), (DOMAIN-SUFFIX,googlevideo.com))
 ################## EOF ##################
 
