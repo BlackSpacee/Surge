@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 3989
-# DOMAIN-KEYWORD: 20
-# TOTAL: 4014
-# UPDATED: 2025-10-21 14:37:10
+# DOMAIN-SUFFIX: 3990
+# DOMAIN-KEYWORD: 21
+# TOTAL: 4016
+# UPDATED: 2025-10-21 20:55:48
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-10-17T13:08:04.897Z
-# Size: 3989
+# Last Updated: 2025-10-21T13:51:58.835Z
+# Size: 3990
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -729,6 +729,7 @@ DOMAIN-SUFFIX,i.hkepc.net
 DOMAIN-SUFFIX,ftcdn.net
 DOMAIN-SUFFIX,fonts.net
 DOMAIN-SUFFIX,fmcdn.net
+DOMAIN-SUFFIX,flsrv.net
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,epimg.net
 DOMAIN-SUFFIX,dwcdn.net
@@ -4005,8 +4006,8 @@ DOMAIN-SUFFIX,bot.ivy.ai
 DOMAIN-SUFFIX,rules.ac
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
-# Last Updated: 2025-10-17T13:08:04.454Z
-# Size: 78
+# Last Updated: 2025-10-21T13:51:57.912Z
+# Size: 79
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,cdn-msp.18comic.vip
 DOMAIN,cdn-msp.18comic.org
@@ -4032,6 +4033,7 @@ DOMAIN-KEYWORD,99avcdn
 DOMAIN-KEYWORD,-images.disco-api.com
 DOMAIN-KEYWORD,vdownload.hanime1
 DOMAIN-KEYWORD,fonts.hanime1
+DOMAIN-KEYWORD,static.grammarly.com
 DOMAIN-WILDCARD,cdn.*.office.net
 DOMAIN-WILDCARD,cdn.*.microsoft.com
 DOMAIN-WILDCARD,cdn-*.microsoft.com

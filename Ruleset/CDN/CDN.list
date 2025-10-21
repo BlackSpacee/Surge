@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-10-17T13:08:04.454Z
-# Size: 78
+# Last Updated: 2025-10-21T13:51:57.912Z
+# Size: 79
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -33,6 +33,7 @@ DOMAIN-KEYWORD,99avcdn
 DOMAIN-KEYWORD,-images.disco-api.com
 DOMAIN-KEYWORD,vdownload.hanime1
 DOMAIN-KEYWORD,fonts.hanime1
+DOMAIN-KEYWORD,static.grammarly.com
 DOMAIN-WILDCARD,cdn.*.office.net
 DOMAIN-WILDCARD,cdn.*.microsoft.com
 DOMAIN-WILDCARD,cdn-*.microsoft.com

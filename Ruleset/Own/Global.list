@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 133
-# DOMAIN-SUFFIX: 32502
+# DOMAIN-SUFFIX: 32506
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32849
-# UPDATED: 2025-10-21 14:37:10
+# TOTAL: 32853
+# UPDATED: 2025-10-21 20:55:48
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-10-15T09:49:44.431Z
-# Size: 1150
+# Last Updated: 2025-10-21T13:51:57.917Z
+# Size: 1151
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -592,6 +592,7 @@ DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitchute.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,badoocdn.com
+DOMAIN-SUFFIX,awscloud.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,apkcombo.com
@@ -7931,14 +7932,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-10-20 02:08:09
+# UPDATED: 2025-10-22 02:08:45
 # DOMAIN: 112
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31879
+# DOMAIN-SUFFIX: 31882
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32190
+# TOTAL: 32193
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -25352,6 +25353,7 @@ DOMAIN-SUFFIX,pickereurope.ac.uk
 DOMAIN-SUFFIX,pickering.ac.uk
 DOMAIN-SUFFIX,pickinguppussy.com
 DOMAIN-SUFFIX,picknicekicks.net
+DOMAIN-SUFFIX,pickpackapp.com
 DOMAIN-SUFFIX,pickshoesclothes.com
 DOMAIN-SUFFIX,picnik.com
 DOMAIN-SUFFIX,picpost.com
@@ -25366,6 +25368,7 @@ DOMAIN-SUFFIX,pier18.ac.uk
 DOMAIN-SUFFIX,pifpafarabia.com
 DOMAIN-SUFFIX,piirus.ac.uk
 DOMAIN-SUFFIX,pikabu.monster
+DOMAIN-SUFFIX,pikpak.io
 DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN-SUFFIX,pilgrimageandcathedrals.ac.uk
 DOMAIN-SUFFIX,pilgrimagestudies.ac.uk
@@ -29561,6 +29564,7 @@ DOMAIN-SUFFIX,torcidadeouro.com
 DOMAIN-SUFFIX,torrentleen.com
 DOMAIN-SUFFIX,torrindex.net
 DOMAIN-SUFFIX,tospo-keiba.jp
+DOMAIN-SUFFIX,tospotify.com
 DOMAIN-SUFFIX,totalmateria.com
 DOMAIN-SUFFIX,totoleak.com
 DOMAIN-SUFFIX,totton.ac.uk
