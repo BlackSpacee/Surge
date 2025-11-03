@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-01T16:13:23.309Z
-# Size: 3999
+# Last Updated: 2025-11-03T15:03:48.003Z
+# Size: 3995
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -899,6 +899,7 @@ DOMAIN-SUFFIX,chargebeestaticv2.com
 DOMAIN-SUFFIX,b5x-sentry.1passwordservices.com
 DOMAIN-SUFFIX,telemetry.1passwordservices.com
 DOMAIN-SUFFIX,cdn.virtuoussoftware.com
+DOMAIN-SUFFIX,superhumanstatic.com
 DOMAIN-SUFFIX,superfiliate-cdn.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,spreadshirtmedia.com
@@ -1374,7 +1375,6 @@ DOMAIN-SUFFIX,cdn.fluidplayer.com
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,google-ohttp-relay-safebrowsing.fastly-edge.com
 DOMAIN-SUFFIX,ohttp-relay1.fastly-edge.com
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,live.fanmingming.com
 DOMAIN-SUFFIX,assets.embeddables.com
 DOMAIN-SUFFIX,cdn.dotaoutpost.com
@@ -1638,7 +1638,6 @@ DOMAIN-SUFFIX,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,res.cloudinary.com
 DOMAIN-SUFFIX,privacy-gateway.cloudflare.com
 DOMAIN-SUFFIX,csp-reporting.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,favicons.teams.cloudflare.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,time.cloudflare.com
@@ -1647,8 +1646,6 @@ DOMAIN-SUFFIX,static.dash.cloudflare.com
 DOMAIN-SUFFIX,ajax.cloudflare.com
 DOMAIN-SUFFIX,cf-assets.www.cloudflare.com
 DOMAIN-SUFFIX,nel.cloudflare.com
-DOMAIN-SUFFIX,cp4.cloudflare.com
-DOMAIN-SUFFIX,cp2.cloudflare.com
 DOMAIN-SUFFIX,imagecdn.clips4sale.com
 DOMAIN-SUFFIX,static.clips4sale.com
 DOMAIN-SUFFIX,cmd-cdn.cleanmymac.com
@@ -3095,7 +3092,6 @@ DOMAIN-SUFFIX,events-delivery.apple.com
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,news-assets.apple.com
 DOMAIN-SUFFIX,events-live.apple.com
-DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,time.apple.com
 DOMAIN-SUFFIX,pba.apple.com
 DOMAIN-SUFFIX,static.ess.apple.com
