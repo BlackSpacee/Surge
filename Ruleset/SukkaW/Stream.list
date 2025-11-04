@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2025-09-12T09:56:58.047Z
-# Size: 328
+# Last Updated: 2025-11-04T15:07:42.888Z
+# Size: 330
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -37,6 +37,7 @@
 # - KKBOX
 # - KKTV
 # - Line TV
+# - MangaFox
 # - My5
 # - myTV Super
 # - Netflix
@@ -114,6 +115,7 @@ DOMAIN,manifest.prod.boltdns.net
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,fanfox.net
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
 DOMAIN-SUFFIX,jtvnw.net
@@ -289,6 +291,7 @@ DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,my5.tv
 DOMAIN-SUFFIX,hbogoasia.sg
 DOMAIN-SUFFIX,hbogoasia.ph
+DOMAIN-SUFFIX,mangafox.me
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,spotifynewsroom.jp
