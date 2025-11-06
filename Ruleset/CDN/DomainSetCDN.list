@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-04T15:07:43.766Z
-# Size: 3999
+# Last Updated: 2025-11-06T17:11:59.628Z
+# Size: 4001
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2917,6 +2917,8 @@ DOMAIN-SUFFIX,tiles.windy.com
 DOMAIN-SUFFIX,ims.windy.com
 DOMAIN-SUFFIX,img.windy.com
 DOMAIN-SUFFIX,images.wikia.com
+DOMAIN-SUFFIX,images.whoer.com
+DOMAIN-SUFFIX,cdn.whoer.com
 DOMAIN-SUFFIX,content.wepik.com
 DOMAIN-SUFFIX,scripts.webeo.com
 DOMAIN-SUFFIX,cdnstatic.w4nkr.com
