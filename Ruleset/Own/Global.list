@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 135
-# DOMAIN-SUFFIX: 32627
+# DOMAIN-SUFFIX: 32631
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32976
-# UPDATED: 2025-11-08 14:34:59
+# TOTAL: 32980
+# UPDATED: 2025-11-08 20:47:58
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-10-29T20:22:52.556Z
-# Size: 1155
+# Last Updated: 2025-11-08T15:29:20.933Z
+# Size: 1170
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,taipei
 DOMAIN-SUFFIX,social
+DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,animes.garden
 DOMAIN-SUFFIX,ant.design
 DOMAIN-SUFFIX,chrome
@@ -39,9 +40,11 @@ DOMAIN-SUFFIX,github.media
 DOMAIN-SUFFIX,discourse.group
 DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,minecraft.wiki
+DOMAIN-SUFFIX,w.wiki
 DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,nextra.site
+DOMAIN-SUFFIX,ground.news
 DOMAIN-SUFFIX,bad.news
 DOMAIN-SUFFIX,vercel.live
 DOMAIN-SUFFIX,page.link
@@ -233,6 +236,7 @@ DOMAIN-SUFFIX,iporntv.net
 DOMAIN-SUFFIX,hsforms.net
 DOMAIN-SUFFIX,hanmail.net
 DOMAIN-SUFFIX,edgeapp.net
+DOMAIN-SUFFIX,blogjav.net
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,apkpure.net
 DOMAIN-SUFFIX,yandex.net
@@ -240,6 +244,7 @@ DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,osmand.net
 DOMAIN-SUFFIX,nitter.net
 DOMAIN-SUFFIX,komoot.net
+DOMAIN-SUFFIX,javhub.net
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,fastly.net
@@ -270,6 +275,8 @@ DOMAIN-SUFFIX,sf.net
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,ddys.mov
 DOMAIN-SUFFIX,bangumi.moe
+DOMAIN-SUFFIX,catbox.moe
+DOMAIN-SUFFIX,cangku.moe
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,mil
 DOMAIN-SUFFIX,hsex.men
@@ -517,6 +524,7 @@ DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,amplience.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,zoominfo.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,wordtune.com
 DOMAIN-SUFFIX,wikiwand.com
@@ -760,6 +768,7 @@ DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,komoot.com
 DOMAIN-SUFFIX,keycdn.com
 DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,jav321.com
 DOMAIN-SUFFIX,edns.ip-api.com
 DOMAIN-SUFFIX,iheart.com
 DOMAIN-SUFFIX,ifixit.com
@@ -805,6 +814,7 @@ DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,360ssh.com
 DOMAIN-SUFFIX,zndsk.com
 DOMAIN-SUFFIX,zello.com
+DOMAIN-SUFFIX,zdnet.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,xhcdn.com
@@ -921,6 +931,7 @@ DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cam4.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bang.com
+DOMAIN-SUFFIX,av28.com
 DOMAIN-SUFFIX,atom.com
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,you.com
@@ -967,6 +978,7 @@ DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,24.com
 DOMAIN-SUFFIX,z.com
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,pomf.cat
 DOMAIN-SUFFIX,line.biz
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,signal.art
@@ -1000,6 +1012,7 @@ DOMAIN-SUFFIX,si
 DOMAIN-SUFFIX,sh
 DOMAIN-SUFFIX,sg
 DOMAIN-SUFFIX,se
+DOMAIN-SUFFIX,2ch.sc
 DOMAIN-SUFFIX,sb
 DOMAIN-SUFFIX,sa
 DOMAIN-SUFFIX,ru
@@ -1093,6 +1106,7 @@ DOMAIN-SUFFIX,short.io
 DOMAIN-SUFFIX,logto.io
 DOMAIN-SUFFIX,airav.io
 DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,iina.io
 DOMAIN-SUFFIX,gate.io
@@ -1161,6 +1175,7 @@ DOMAIN-SUFFIX,ca
 DOMAIN-SUFFIX,be
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,at
+DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,ai
 DOMAIN-SUFFIX,ac
 DOMAIN-KEYWORD,google
@@ -1807,7 +1822,6 @@ DOMAIN-SUFFIX,blogcatalog.com
 DOMAIN-SUFFIX,blogcity.me
 DOMAIN-SUFFIX,blogdns.org
 DOMAIN-SUFFIX,blogimg.jp
-DOMAIN-SUFFIX,blogjav.net
 DOMAIN-SUFFIX,bloglines.com
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,blogs.com
@@ -1990,7 +2004,6 @@ DOMAIN-SUFFIX,casinobellini.com
 DOMAIN-SUFFIX,casinoking.com
 DOMAIN-SUFFIX,casinoriva.com
 DOMAIN-SUFFIX,castbox.fm
-DOMAIN-SUFFIX,catbox.moe
 DOMAIN-SUFFIX,catch22.net
 DOMAIN-SUFFIX,catchgod.com
 DOMAIN-SUFFIX,catfightpayperview.xxx
@@ -3135,7 +3148,6 @@ DOMAIN-SUFFIX,geek-art.net
 DOMAIN-SUFFIX,geekerhome.com
 DOMAIN-SUFFIX,geekheart.info
 DOMAIN-SUFFIX,gekikame.com
-DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,geocities.co.jp
 DOMAIN-SUFFIX,geocities.com
 DOMAIN-SUFFIX,geocities.jp
@@ -3557,7 +3569,6 @@ DOMAIN-SUFFIX,greenvpn.net
 DOMAIN-SUFFIX,greenvpn.org
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grotty-monday.com
-DOMAIN-SUFFIX,ground.news
 DOMAIN-SUFFIX,grow.google
 DOMAIN-SUFFIX,gs-discuss.com
 DOMAIN-SUFFIX,gsearch.media
@@ -4074,7 +4085,6 @@ DOMAIN-SUFFIX,japanhdv.com
 DOMAIN-SUFFIX,japantimes.co.jp
 DOMAIN-SUFFIX,jav.com
 DOMAIN-SUFFIX,jav101.com
-DOMAIN-SUFFIX,jav321.com
 DOMAIN-SUFFIX,jav68.tv
 DOMAIN-SUFFIX,jav777.cc
 DOMAIN-SUFFIX,javakiba.org
@@ -4083,7 +4093,6 @@ DOMAIN-SUFFIX,javfinder.ai
 DOMAIN-SUFFIX,javfor.me
 DOMAIN-SUFFIX,javfree.me
 DOMAIN-SUFFIX,javhip.com
-DOMAIN-SUFFIX,javhub.net
 DOMAIN-SUFFIX,javhuge.com
 DOMAIN-SUFFIX,javmobile.net
 DOMAIN-SUFFIX,javmoo.com
@@ -6840,7 +6849,6 @@ DOMAIN-SUFFIX,vuku.cc
 DOMAIN-SUFFIX,vultryhw.com
 DOMAIN-SUFFIX,vyprvpn.com
 DOMAIN-SUFFIX,w-pool.com
-DOMAIN-SUFFIX,w.wiki
 DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,w3s.link
 DOMAIN-SUFFIX,waffle1999.com
@@ -7305,7 +7313,6 @@ DOMAIN-SUFFIX,zonaeuropa.com
 DOMAIN-SUFFIX,zonghexinwen.com
 DOMAIN-SUFFIX,zonghexinwen.net
 DOMAIN-SUFFIX,zoogvpn.com
-DOMAIN-SUFFIX,zoominfo.com
 DOMAIN-SUFFIX,zooqle.com
 DOMAIN-SUFFIX,zootool.com
 DOMAIN-SUFFIX,zoozle.net
@@ -7406,7 +7413,6 @@ IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
 # Instagram
-DOMAIN-SUFFIX,instagr.am
 # Iwara
 # Kakao Talk
 DOMAIN-SUFFIX,kakao.co.kr
@@ -7692,7 +7698,6 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipn.li
 DOMAIN-SUFFIX,ishowsapp.com
 DOMAIN-SUFFIX,itaiwan.gov.tw
-DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itgonglun.com
 DOMAIN-SUFFIX,itiger.com
 DOMAIN-SUFFIX,itun.es
@@ -32865,7 +32870,6 @@ DOMAIN-SUFFIX,zb.io
 DOMAIN-SUFFIX,zb.live
 DOMAIN-SUFFIX,zctb.buzz
 DOMAIN-SUFFIX,zdassets.com
-DOMAIN-SUFFIX,zdnet.com
 DOMAIN-SUFFIX,zdnet.redvideo.io
 DOMAIN-SUFFIX,zdusercontent.com
 DOMAIN-SUFFIX,zee.com

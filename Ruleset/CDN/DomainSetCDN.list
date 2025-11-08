@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-07T20:16:06.992Z
-# Size: 4002
+# Last Updated: 2025-11-08T15:29:22.256Z
+# Size: 4021
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,assets.chaos.social
 DOMAIN-SUFFIX,medias.meow.social
 DOMAIN-SUFFIX,cdn.bsky.social
 DOMAIN-SUFFIX,objects.g0v.social
+DOMAIN-SUFFIX,static.generated.photos
 DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,files.mastodon.online
 DOMAIN-SUFFIX,am-cdn.online
@@ -108,6 +109,7 @@ DOMAIN-SUFFIX,am-cdn.pics
 DOMAIN-SUFFIX,codeberg.page
 DOMAIN-SUFFIX,instant.page
 DOMAIN-SUFFIX,kinsta.page
+DOMAIN-SUFFIX,statics-prod.mirrordaily.news
 DOMAIN-SUFFIX,assets-next.matters.news
 DOMAIN-SUFFIX,assets.matters.news
 DOMAIN-SUFFIX,web-api-cdn.ground.news
@@ -788,6 +790,7 @@ DOMAIN-SUFFIX,static.bangumi.moe
 DOMAIN-SUFFIX,static.chaika.moe
 DOMAIN-SUFFIX,pic.cangku.moe
 DOMAIN-SUFFIX,touchgal-image.moyu.moe
+DOMAIN-SUFFIX,zzz.wxw.moe
 DOMAIN-SUFFIX,ovo.wxw.moe
 DOMAIN-SUFFIX,hv-monsterdb-data.skk.moe
 DOMAIN-SUFFIX,latency-test.skk.moe
@@ -889,6 +892,7 @@ DOMAIN-SUFFIX,assets.positional-bucket.com
 DOMAIN-SUFFIX,parsecusercontent.com
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,navismithapis-cdn.com
+DOMAIN-SUFFIX,tour-content-cdn.kellymadisonmedia.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,framerusercontent.com
@@ -915,6 +919,7 @@ DOMAIN-SUFFIX,js.braintreegateway.com
 DOMAIN-SUFFIX,jslibs.blackmagicdesign.com
 DOMAIN-SUFFIX,images.blackmagicdesign.com
 DOMAIN-SUFFIX,css.blackmagicdesign.com
+DOMAIN-SUFFIX,imgs02.aventertainments.com
 DOMAIN-SUFFIX,js.assemblyexchange.com
 DOMAIN-SUFFIX,cdn.worldvectorlogo.com
 DOMAIN-SUFFIX,cms.worldpokerdeals.com
@@ -1009,6 +1014,7 @@ DOMAIN-SUFFIX,isitmaintained.com
 DOMAIN-SUFFIX,code.ionicframework.com
 DOMAIN-SUFFIX,icons.internetbrands.com
 DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,images-dnxlive.com
 DOMAIN-SUFFIX,img.huffingtonpost.com
 DOMAIN-SUFFIX,images2.giant-bicycles.com
 DOMAIN-SUFFIX,static.giant-bicycles.com
@@ -1448,6 +1454,11 @@ DOMAIN-SUFFIX,vanillicon.com
 DOMAIN-SUFFIX,cdn.userreport.com
 DOMAIN-SUFFIX,typography.com
 DOMAIN-SUFFIX,static.typingclub.com
+DOMAIN-SUFFIX,cdn5.tubeteen18.com
+DOMAIN-SUFFIX,cdn4.tubeteen18.com
+DOMAIN-SUFFIX,cdn3.tubeteen18.com
+DOMAIN-SUFFIX,cdn2.tubeteen18.com
+DOMAIN-SUFFIX,cdn1.tubeteen18.com
 DOMAIN-SUFFIX,ecommplugins-trustboxsettings.trustpilot.com
 DOMAIN-SUFFIX,ecommplugins-scripts.trustpilot.com
 DOMAIN-SUFFIX,images-static.trustpilot.com
@@ -1587,6 +1598,8 @@ DOMAIN-SUFFIX,chart.googleapis.com
 DOMAIN-SUFFIX,ajax.googleapis.com
 DOMAIN-SUFFIX,sync.getpublica.com
 DOMAIN-SUFFIX,connect.getflowbox.com
+DOMAIN-SUFFIX,static-r2.gear4music.com
+DOMAIN-SUFFIX,r2.gear4music.com
 DOMAIN-SUFFIX,gayzyimage.com
 DOMAIN-SUFFIX,assets.fxnetworks.com
 DOMAIN-SUFFIX,euc-widget.freshworks.com
@@ -1880,6 +1893,7 @@ DOMAIN-SUFFIX,marber-cdn.economist.com
 DOMAIN-SUFFIX,cmp-cdn.p.aws.economist.com
 DOMAIN-SUFFIX,dummyjson.com
 DOMAIN-SUFFIX,doppiocdn.com
+DOMAIN-SUFFIX,cdn.doofinder.com
 DOMAIN-SUFFIX,assets.dnsfilter.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,us1-prod-images.disco-api.com
@@ -2101,6 +2115,7 @@ DOMAIN-SUFFIX,img.kbhgames.com
 DOMAIN-SUFFIX,cdn.jwplayer.com
 DOMAIN-SUFFIX,data.jsdelivr.com
 DOMAIN-SUFFIX,img.jsdelivr.com
+DOMAIN-SUFFIX,javhucdn.com
 DOMAIN-SUFFIX,api.instabug.com
 DOMAIN-SUFFIX,img.informer.com
 DOMAIN-SUFFIX,cdn.imghaste.com
@@ -3137,6 +3152,7 @@ DOMAIN-SUFFIX,media.user.com
 DOMAIN-SUFFIX,assets.time.com
 DOMAIN-SUFFIX,sirv.com
 DOMAIN-SUFFIX,cdn.sift.com
+DOMAIN-SUFFIX,attach.setn.com
 DOMAIN-SUFFIX,static.seel.com
 DOMAIN-SUFFIX,cdn.sedo.com
 DOMAIN-SUFFIX,www.s81c.com
@@ -3276,6 +3292,7 @@ DOMAIN-SUFFIX,consent.dw.com
 DOMAIN-SUFFIX,static.dw.com
 DOMAIN-SUFFIX,evt.24.com
 DOMAIN-SUFFIX,pixiv.cat
+DOMAIN-SUFFIX,a.pomf.cat
 DOMAIN-SUFFIX,oss.moe.cat
 DOMAIN-SUFFIX,ns-cdn.neustar.biz
 DOMAIN-SUFFIX,pics.mf8.biz
@@ -3350,12 +3367,14 @@ DOMAIN-SUFFIX,storage.moegirl.tw
 DOMAIN-SUFFIX,img.moegirl.tw
 DOMAIN-SUFFIX,app.moegirl.tw
 DOMAIN-SUFFIX,cf.shopee.tw
+DOMAIN-SUFFIX,statics.mnnews.tw
 DOMAIN-SUFFIX,socialpic.video.friday.tw
 DOMAIN-SUFFIX,vbmspic.video.friday.tw
 DOMAIN-SUFFIX,megapx-assets.dcard.tw
 DOMAIN-SUFFIX,pimg.tw
 DOMAIN-SUFFIX,news-data.pts.org.tw
 DOMAIN-SUFFIX,img-fnc.ebc.net.tw
+DOMAIN-SUFFIX,img.news.ebc.net.tw
 DOMAIN-SUFFIX,cw-image-resizer.cwg.tw
 DOMAIN-SUFFIX,cdn.ready-market.com.tw
 DOMAIN-SUFFIX,avatar2.bahamut.com.tw
