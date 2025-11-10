@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4022
+# DOMAIN-SUFFIX: 4013
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4048
-# UPDATED: 2025-11-10 14:40:39
+# TOTAL: 4039
+# UPDATED: 2025-11-10 20:55:49
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-09T16:33:51.035Z
-# Size: 4022
+# Last Updated: 2025-11-10T15:03:30.029Z
+# Size: 4013
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -142,7 +142,6 @@ DOMAIN-SUFFIX,image.theblockbeats.info
 DOMAIN-SUFFIX,lm.visualon.info
 DOMAIN-SUFFIX,myvideos.info
 DOMAIN-SUFFIX,cdn.adguard.info
-DOMAIN-SUFFIX,static.javcdn.info
 DOMAIN-SUFFIX,busuanzi.ibruce.info
 DOMAIN-SUFFIX,gdvid.info
 DOMAIN-SUFFIX,ddpic.info
@@ -429,7 +428,6 @@ DOMAIN-SUFFIX,fimfiction-static.net
 DOMAIN-SUFFIX,hscollectedforms.net
 DOMAIN-SUFFIX,reasoningtheory.net
 DOMAIN-SUFFIX,static-r.kamihimeproject.net
-DOMAIN-SUFFIX,static-assets.freeanimehentai.net
 DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,assets.visioncritical.net
 DOMAIN-SUFFIX,vscode-sync-insiders.trafficmanager.net
@@ -456,6 +454,7 @@ DOMAIN-SUFFIX,blacklist.tampermonkey.net
 DOMAIN-SUFFIX,cdn.sapphire.microsoftapp.net
 DOMAIN-SUFFIX,static.edge.microsoftapp.net
 DOMAIN-SUFFIX,f.hubspotemail.net
+DOMAIN-SUFFIX,directupload.net
 DOMAIN-SUFFIX,coral.coralproject.net
 DOMAIN-SUFFIX,blackbaudcdn.net
 DOMAIN-SUFFIX,storage.yandexcloud.net
@@ -806,7 +805,6 @@ DOMAIN-SUFFIX,img.skk.moe
 DOMAIN-SUFFIX,cdn.skk.moe
 DOMAIN-SUFFIX,objects.hit.moe
 DOMAIN-SUFFIX,assets-cdn.anh.moe
-DOMAIN-SUFFIX,cdn.amh.moe
 DOMAIN-SUFFIX,cloudflare.ltd
 DOMAIN-SUFFIX,static.coinall.ltd
 DOMAIN-SUFFIX,image.acg.lol
@@ -2301,7 +2299,7 @@ DOMAIN-SUFFIX,widgets.media.weather.com
 DOMAIN-SUFFIX,api.weather.com
 DOMAIN-SUFFIX,wdfiles.com
 DOMAIN-SUFFIX,vox-cdn.com
-DOMAIN-SUFFIX,images.voguehk.com
+DOMAIN-SUFFIX,img.voguehk.com
 DOMAIN-SUFFIX,gdb.voanews.com
 DOMAIN-SUFFIX,cdn.viglink.com
 DOMAIN-SUFFIX,assets.vidyard.com
@@ -2566,8 +2564,6 @@ DOMAIN-SUFFIX,cmail20.com
 DOMAIN-SUFFIX,cmail19.com
 DOMAIN-SUFFIX,data.web.clickup.com
 DOMAIN-SUFFIX,image.civitai.com
-DOMAIN-SUFFIX,assets.chess24.com
-DOMAIN-SUFFIX,cdn.chess24.com
 DOMAIN-SUFFIX,w.chatlio.com
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cdntrex.com
@@ -2629,7 +2625,6 @@ DOMAIN-SUFFIX,cdn.zapier.com
 DOMAIN-SUFFIX,static.zaobao.com
 DOMAIN-SUFFIX,ypncdn.com
 DOMAIN-SUFFIX,rapid-cdn.yottaa.com
-DOMAIN-SUFFIX,content-cdn.y2mate.com
 DOMAIN-SUFFIX,cdn.xvidzz.com
 DOMAIN-SUFFIX,img.xhacgn.com
 DOMAIN-SUFFIX,website-prod.cache.wpscdn.com
@@ -3374,7 +3369,6 @@ DOMAIN-SUFFIX,storage.moegirl.tw
 DOMAIN-SUFFIX,img.moegirl.tw
 DOMAIN-SUFFIX,app.moegirl.tw
 DOMAIN-SUFFIX,cf.shopee.tw
-DOMAIN-SUFFIX,statics.mnnews.tw
 DOMAIN-SUFFIX,socialpic.video.friday.tw
 DOMAIN-SUFFIX,vbmspic.video.friday.tw
 DOMAIN-SUFFIX,megapx-assets.dcard.tw
@@ -3400,7 +3394,6 @@ DOMAIN-SUFFIX,p.udn.com.tw
 DOMAIN-SUFFIX,j.udn.com.tw
 DOMAIN-SUFFIX,imgcdn.cna.com.tw
 DOMAIN-SUFFIX,cloudflare.tv
-DOMAIN-SUFFIX,cdn.vidible.tv
 DOMAIN-SUFFIX,cdn1.hotmoza.tv
 DOMAIN-SUFFIX,clips-media-assets2.twitch.tv
 DOMAIN-SUFFIX,assets.twitch.tv
@@ -3553,7 +3546,6 @@ DOMAIN-SUFFIX,emoji-css.afeld.me
 DOMAIN-SUFFIX,pic.7mmtv.me
 DOMAIN-SUFFIX,cdn.123av.me
 DOMAIN-SUFFIX,rsms.me
-DOMAIN-SUFFIX,img.jjbb.me
 DOMAIN-SUFFIX,s4.itho.me
 DOMAIN-SUFFIX,static.fbot.me
 DOMAIN-SUFFIX,media.e4le.me
@@ -3687,7 +3679,6 @@ DOMAIN-SUFFIX,static.tokenview.io
 DOMAIN-SUFFIX,assets.keysquare.io
 DOMAIN-SUFFIX,media.hachyderm.io
 DOMAIN-SUFFIX,static.getbutton.io
-DOMAIN-SUFFIX,thingproxy.freeboard.io
 DOMAIN-SUFFIX,crossbell.io
 DOMAIN-SUFFIX,corsproxy.io
 DOMAIN-SUFFIX,sandpack-cdn-staging.blazingly.io
