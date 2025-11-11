@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 135
-# DOMAIN-SUFFIX: 32632
+# DOMAIN-SUFFIX: 32635
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 32981
-# UPDATED: 2025-11-11 14:39:00
+# TOTAL: 32984
+# UPDATED: 2025-11-11 20:54:33
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-11-11T08:04:02.612Z
-# Size: 1171
+# Last Updated: 2025-11-11T16:37:52.174Z
+# Size: 1172
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,whispersystems.org
 DOMAIN-SUFFIX,waybackmachine.org
+DOMAIN-SUFFIX,wikifunctions.org
 DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,lumendatabase.org
@@ -7945,14 +7946,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-11-10 02:08:20
+# UPDATED: 2025-11-12 02:08:06
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32001
+# DOMAIN-SUFFIX: 32003
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32314
+# TOTAL: 32316
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -13551,6 +13552,8 @@ DOMAIN-SUFFIX,coedcherry.com
 DOMAIN-SUFFIX,coem.ac.uk
 DOMAIN-SUFFIX,cof.ac.uk
 DOMAIN-SUFFIX,cogc.ac.uk
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,coinalyze.net
 DOMAIN-SUFFIX,coincarp.com
 DOMAIN-SUFFIX,coincheck.com
