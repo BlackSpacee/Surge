@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-10-21T13:51:57.912Z
-# Size: 79
+# Last Updated: 2025-11-12T20:27:10.526Z
+# Size: 84
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -87,5 +87,10 @@ DOMAIN-WILDCARD,uploads-*.insided.com
 DOMAIN-WILDCARD,s*.hanime1
 DOMAIN-WILDCARD,img-*.now.com
 DOMAIN-WILDCARD,assets.*.imaga.co
+DOMAIN-WILDCARD,cdn*.pigav.com
+DOMAIN-WILDCARD,fastly-*.allmovie.com
+DOMAIN-WILDCARD,cdn*.porn87.com
+DOMAIN-WILDCARD,cdn*.pornhost.com
+DOMAIN-WILDCARD,cdn*.boysfood.com
 ################## EOF ##################
 
