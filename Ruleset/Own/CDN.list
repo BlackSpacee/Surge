@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4034
+# DOMAIN-SUFFIX: 4041
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4060
-# UPDATED: 2025-11-13 20:56:28
+# TOTAL: 4067
+# UPDATED: 2025-11-14 02:37:02
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-12T20:27:11.165Z
-# Size: 4034
+# Last Updated: 2025-11-13T20:34:01.724Z
+# Size: 4041
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,code.iconify.design
 DOMAIN-SUFFIX,api.iconify.design
 DOMAIN-SUFFIX,ant.design
 DOMAIN-SUFFIX,fonts1.unidays.world
+DOMAIN-SUFFIX,tubi.video
 DOMAIN-SUFFIX,img.api.video
 DOMAIN-SUFFIX,namedotcom-cdn.name.tools
 DOMAIN-SUFFIX,pics.javhd.today
@@ -1841,6 +1842,7 @@ DOMAIN-SUFFIX,cdn.lineicons.com
 DOMAIN-SUFFIX,scdn.line-apps.com
 DOMAIN-SUFFIX,cdn.lgrckt-in.com
 DOMAIN-SUFFIX,kinja-img.com
+DOMAIN-SUFFIX,images.justwatch.com
 DOMAIN-SUFFIX,cdn.joypixels.com
 DOMAIN-SUFFIX,cdn.joinhoney.com
 DOMAIN-SUFFIX,jisuimage.com
@@ -2678,6 +2680,7 @@ DOMAIN-SUFFIX,cdn-cms.tunein.com
 DOMAIN-SUFFIX,static.tumblr.com
 DOMAIN-SUFFIX,assets.tumblr.com
 DOMAIN-SUFFIX,media.tumblr.com
+DOMAIN-SUFFIX,canvas-lb.tubitv.com
 DOMAIN-SUFFIX,cdn2.ttloli.com
 DOMAIN-SUFFIX,cdn.ttloli.com
 DOMAIN-SUFFIX,cdn.tracxn.com
@@ -3162,6 +3165,8 @@ DOMAIN-SUFFIX,assets.play.xbox.com
 DOMAIN-SUFFIX,livemap-tiles1.waze.com
 DOMAIN-SUFFIX,web-assets.waze.com
 DOMAIN-SUFFIX,cdnstatic.w1mp.com
+DOMAIN-SUFFIX,images2.vudu.com
+DOMAIN-SUFFIX,images.vudu.com
 DOMAIN-SUFFIX,cdn.vnoc.com
 DOMAIN-SUFFIX,tn.vjav.com
 DOMAIN-SUFFIX,vice-web-statics-cdn.vice.com
@@ -3419,6 +3424,7 @@ DOMAIN-SUFFIX,clips-media-assets2.twitch.tv
 DOMAIN-SUFFIX,assets.twitch.tv
 DOMAIN-SUFFIX,embed.twitch.tv
 DOMAIN-SUFFIX,storry.tv
+DOMAIN-SUFFIX,static-homepage-en.pluto.tv
 DOMAIN-SUFFIX,images.pluto.tv
 DOMAIN-SUFFIX,assets-cdn.jable.tv
 DOMAIN-SUFFIX,assetscdn.jable.tv
@@ -3431,6 +3437,7 @@ DOMAIN-SUFFIX,imgcn2.bgmbk.tv
 DOMAIN-SUFFIX,imgcn.bgmbk.tv
 DOMAIN-SUFFIX,cdn.18jav.tv
 DOMAIN-SUFFIX,static.yfsp.tv
+DOMAIN-SUFFIX,mcdn.tubi.tv
 DOMAIN-SUFFIX,s-cdnstatic.svc.litv.tv
 DOMAIN-SUFFIX,p-cdnstatic.svc.litv.tv
 DOMAIN-SUFFIX,jsmodule.svc.litv.tv
