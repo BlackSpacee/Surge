@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 135
-# DOMAIN-SUFFIX: 32683
+# DOMAIN-SUFFIX: 32707
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33032
-# UPDATED: 2025-11-15 14:35:23
+# TOTAL: 33056
+# UPDATED: 2025-11-15 20:48:53
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7538,14 +7538,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-14 02:08:43
+# UPDATED: 2025-11-16 02:08:31
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6524
+# DOMAIN-SUFFIX: 6541
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6664
+# TOTAL: 6681
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7570,6 +7570,7 @@ DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,aolcdn.com
+DOMAIN-SUFFIX,aoxvpn.com
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.palworldgame.com
@@ -7589,6 +7590,7 @@ DOMAIN-SUFFIX,bandisoft.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,bbs.sina.com
+DOMAIN-SUFFIX,bettergpt.chat
 DOMAIN-SUFFIX,betterhash.net
 DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,bing.net
@@ -7602,10 +7604,14 @@ DOMAIN-SUFFIX,blogsmithmedia.com
 DOMAIN-SUFFIX,br.hao123.com
 DOMAIN-SUFFIX,bt4g.org
 DOMAIN-SUFFIX,bt4gprx.com
+DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,cchostvps.xyz
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,celestrak.com
 DOMAIN-SUFFIX,census.gov
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatpdf.com
 DOMAIN-SUFFIX,chinatimes.com
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,clien.net
@@ -7627,6 +7633,7 @@ DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,dailynews.sina.com
 DOMAIN-SUFFIX,danilo.to
+DOMAIN-SUFFIX,darmau.co
 DOMAIN-SUFFIX,dartlang.org
 DOMAIN-SUFFIX,data.gov.tw
 DOMAIN-SUFFIX,dayone.me
@@ -7659,8 +7666,11 @@ DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,fda.gov.tw
 DOMAIN-SUFFIX,feedsportal.com
 DOMAIN-SUFFIX,fiftythree.com
+DOMAIN-SUFFIX,files.oaiusercontent.com
 DOMAIN-SUFFIX,flexclip.com
 DOMAIN-SUFFIX,flexibits.com
+DOMAIN-SUFFIX,flowgpt.com
+DOMAIN-SUFFIX,forefront.ai
 DOMAIN-SUFFIX,freegpt.es
 DOMAIN-SUFFIX,freegpt.tech
 DOMAIN-SUFFIX,freeopenproxy.com
@@ -7693,6 +7703,7 @@ DOMAIN-SUFFIX,home.sina.com
 DOMAIN-SUFFIX,hotbak.net
 DOMAIN-SUFFIX,hpa.gov.tw
 DOMAIN-SUFFIX,hrtsea.com
+DOMAIN-SUFFIX,hyperbeam.com
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,id.hao123.com
 DOMAIN-SUFFIX,images.prismic.io
@@ -7730,6 +7741,7 @@ DOMAIN-SUFFIX,krypt.com
 DOMAIN-SUFFIX,ld.hao123img.com
 DOMAIN-SUFFIX,leancloud.com
 DOMAIN-SUFFIX,level-plus.net
+DOMAIN-SUFFIX,lexica.art
 DOMAIN-SUFFIX,libsyn.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,lightboxcdn.com
@@ -7738,6 +7750,8 @@ DOMAIN-SUFFIX,littlehj.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,liyuans.com
 DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,lmarena.ai
+DOMAIN-SUFFIX,lt.sntp.uk
 DOMAIN-SUFFIX,luckymobile.ca
 DOMAIN-SUFFIX,ly.gov.tw
 DOMAIN-SUFFIX,ma.hao123.com
@@ -7816,6 +7830,7 @@ DOMAIN-SUFFIX,pp.ua
 DOMAIN-SUFFIX,privacyguides.org
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,rentry.co
 DOMAIN-SUFFIX,rime.im
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
@@ -7860,6 +7875,7 @@ DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,temu.com
+DOMAIN-SUFFIX,terobox.com
 DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,thb.gov.tw
 DOMAIN-SUFFIX,timeinc.net
@@ -7959,14 +7975,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-11-14 02:08:22
+# UPDATED: 2025-11-16 02:08:09
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32044
+# DOMAIN-SUFFIX: 32067
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32357
+# TOTAL: 32380
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -10538,6 +10554,7 @@ DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,awstrust.com
 DOMAIN-SUFFIX,awwcn.buzz
 DOMAIN-SUFFIX,awwcn.xyz
+DOMAIN-SUFFIX,awxcdn.com
 DOMAIN-SUFFIX,axbdoll.com.tw
 DOMAIN-SUFFIX,ayabank.com
 DOMAIN-SUFFIX,aylesbury.ac.uk
@@ -12783,7 +12800,6 @@ DOMAIN-SUFFIX,cantab.ac.uk
 DOMAIN-SUFFIX,canterbury.ac.uk
 DOMAIN-SUFFIX,canterburycollege.ac.uk
 DOMAIN-SUFFIX,canterburytrust.ac.uk
-DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,cape.ac.uk
 DOMAIN-SUFFIX,capel.ac.uk
 DOMAIN-SUFFIX,capitalccg.ac.uk
@@ -13114,7 +13130,6 @@ DOMAIN-SUFFIX,charteredcollegeofteaching.ac.uk
 DOMAIN-SUFFIX,charticulator.com
 DOMAIN-SUFFIX,chase.ac.uk
 DOMAIN-SUFFIX,chasestudy.ac.uk
-DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatango.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,chatgptvideo.xyz
@@ -15832,6 +15847,7 @@ DOMAIN-SUFFIX,enjoyfuck.com
 DOMAIN-SUFFIX,enmat.ac.uk
 DOMAIN-SUFFIX,enorf.ac.uk
 DOMAIN-SUFFIX,enos.ac.uk
+DOMAIN-SUFFIX,enpass.io
 DOMAIN-SUFFIX,enpirion.com
 DOMAIN-SUFFIX,ensa.ac.uk
 DOMAIN-SUFFIX,ensemble.ac.uk
@@ -20838,6 +20854,9 @@ DOMAIN-SUFFIX,kecnuneaton.ac.uk
 DOMAIN-SUFFIX,kedst.ac.uk
 DOMAIN-SUFFIX,keele.ac.uk
 DOMAIN-SUFFIX,keemail.me
+DOMAIN-SUFFIX,keepass.info
+DOMAIN-SUFFIX,keeper.io
+DOMAIN-SUFFIX,keepersecurity.com
 DOMAIN-SUFFIX,keepmovingwithmovefree.com
 DOMAIN-SUFFIX,keepyourcad.com
 DOMAIN-SUFFIX,keiba.net
@@ -21125,6 +21144,8 @@ DOMAIN-SUFFIX,largecamtube.com
 DOMAIN-SUFFIX,largeporntube.com
 DOMAIN-SUFFIX,lasersawapp.com
 DOMAIN-SUFFIX,last.fm
+DOMAIN-SUFFIX,lastpass.com
+DOMAIN-SUFFIX,lastpass.eu
 DOMAIN-SUFFIX,lasvegasbmw.com
 DOMAIN-SUFFIX,latampartneruniversity.com
 DOMAIN-SUFFIX,latamvmwareforum.com
@@ -21652,6 +21673,7 @@ DOMAIN-SUFFIX,lowiro.com
 DOMAIN-SUFFIX,lp99.pw
 DOMAIN-SUFFIX,lpc.ac.uk
 DOMAIN-SUFFIX,lpmde.ac.uk
+DOMAIN-SUFFIX,lputil.com
 DOMAIN-SUFFIX,lqh0bon3.xyz
 DOMAIN-SUFFIX,lqpjw.cyou
 DOMAIN-SUFFIX,lrfdsoftware.com
@@ -26932,6 +26954,7 @@ DOMAIN-SUFFIX,ro89.com
 DOMAIN-SUFFIX,road-crew.com
 DOMAIN-SUFFIX,roblox.qq.com
 DOMAIN-SUFFIX,robobat.com
+DOMAIN-SUFFIX,roboform.com
 DOMAIN-SUFFIX,roborecall.com
 DOMAIN-SUFFIX,robotoffice.com
 DOMAIN-SUFFIX,rochdalesfc.ac.uk
@@ -28861,6 +28884,7 @@ DOMAIN-SUFFIX,strode-coll.ac.uk
 DOMAIN-SUFFIX,strode-college.ac.uk
 DOMAIN-SUFFIX,strodes.ac.uk
 DOMAIN-SUFFIX,strodeslanguages.ac.uk
+DOMAIN-SUFFIX,strongboxsafe.com
 DOMAIN-SUFFIX,stroud.ac.uk
 DOMAIN-SUFFIX,stroudcol.ac.uk
 DOMAIN-SUFFIX,stroudcollege.ac.uk
