@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4050
+# DOMAIN-SUFFIX: 4057
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4076
-# UPDATED: 2025-11-18 10:02:11
+# TOTAL: 4083
+# UPDATED: 2025-11-18 14:38:12
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-15T09:12:44.383Z
-# Size: 4050
+# Last Updated: 2025-11-18T11:13:50.446Z
+# Size: 4057
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -330,6 +330,7 @@ DOMAIN-SUFFIX,proxy.spigotmc.org
 DOMAIN-SUFFIX,rollupjs.org
 DOMAIN-SUFFIX,recharts.org
 DOMAIN-SUFFIX,parceljs.org
+DOMAIN-SUFFIX,static.opensuse.org
 DOMAIN-SUFFIX,open-vsx.org
 DOMAIN-SUFFIX,demotiles.maplibre.org
 DOMAIN-SUFFIX,lichess1.org
@@ -726,6 +727,7 @@ DOMAIN-SUFFIX,cdn.reimu.net
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,pixfs.net
 DOMAIN-SUFFIX,img.pawoo.net
+DOMAIN-SUFFIX,nsimg.net
 DOMAIN-SUFFIX,static.monei.net
 DOMAIN-SUFFIX,static-cdn.jtvnw.net
 DOMAIN-SUFFIX,jsdelivr.ioiox.net
@@ -2098,6 +2100,7 @@ DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,cdnl.moviefap.com
 DOMAIN-SUFFIX,img.moviefap.com
 DOMAIN-SUFFIX,cdn-public-apis.moonlock.com
+DOMAIN-SUFFIX,pp-static.monotype.com
 DOMAIN-SUFFIX,sny.monosnap.com
 DOMAIN-SUFFIX,momentjs.com
 DOMAIN-SUFFIX,launcher-files.modrinth.com
@@ -2436,6 +2439,8 @@ DOMAIN-SUFFIX,featureflags.netlify.com
 DOMAIN-SUFFIX,ndtvimg.com
 DOMAIN-SUFFIX,nodeassets.nbcnews.com
 DOMAIN-SUFFIX,iframe.nbcnews.com
+DOMAIN-SUFFIX,static-webfonts.myfonts.com
+DOMAIN-SUFFIX,cms.myfonts.com
 DOMAIN-SUFFIX,stubdownloader.services.mozilla.com
 DOMAIN-SUFFIX,firefox.settings.services.mozilla.com
 DOMAIN-SUFFIX,push.services.mozilla.com
@@ -2612,6 +2617,7 @@ DOMAIN-SUFFIX,media.beehiiv.com
 DOMAIN-SUFFIX,chat-content.beanfun.com
 DOMAIN-SUFFIX,bdzybf7.com
 DOMAIN-SUFFIX,assets.basehub.com
+DOMAIN-SUFFIX,hiveplayer-static.bamgrid.com
 DOMAIN-SUFFIX,cdn-mobile.aptoide.com
 DOMAIN-SUFFIX,ws2-cache.aptoide.com
 DOMAIN-SUFFIX,cdn6.aptoide.com
@@ -2847,6 +2853,7 @@ DOMAIN-SUFFIX,cdn.ifixit.com
 DOMAIN-SUFFIX,img.icons8.com
 DOMAIN-SUFFIX,bst.icons8.com
 DOMAIN-SUFFIX,statici.icloud.com
+DOMAIN-SUFFIX,icfcdn.com
 DOMAIN-SUFFIX,hugoal.com
 DOMAIN-SUFFIX,static.hotjar.com
 DOMAIN-SUFFIX,hommec.com
