@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-18T11:13:50.446Z
-# Size: 4057
+# Last Updated: 2025-11-19T01:41:19.954Z
+# Size: 4061
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -858,6 +858,7 @@ DOMAIN-SUFFIX,assets.shortbread.aws.dev
 DOMAIN-SUFFIX,marketing.aws.dev
 DOMAIN-SUFFIX,cdn.us-east-1.prod.moon.dubai.aws.dev
 DOMAIN-SUFFIX,ipfs.1-2.dev
+DOMAIN-SUFFIX,cdn.decrypt.day
 DOMAIN-SUFFIX,runkit-packages-static-executables.com
 DOMAIN-SUFFIX,w-credentialless-staticblitz.com
 DOMAIN-SUFFIX,cdn-a.sonyentertainmentnetwork.com
@@ -3061,6 +3062,7 @@ DOMAIN-SUFFIX,h-cdn.com
 DOMAIN-SUFFIX,gszyi.com
 DOMAIN-SUFFIX,gsuus.com
 DOMAIN-SUFFIX,static.gopro.com
+DOMAIN-SUFFIX,i.git99.com
 DOMAIN-SUFFIX,media4.giphy.com
 DOMAIN-SUFFIX,media3.giphy.com
 DOMAIN-SUFFIX,media2.giphy.com
@@ -3874,6 +3876,8 @@ DOMAIN-SUFFIX,static.ffx.io
 DOMAIN-SUFFIX,eep.io
 DOMAIN-SUFFIX,registry.api.cnn.io
 DOMAIN-SUFFIX,cdn.db.io
+DOMAIN-SUFFIX,sr-cdn-1.shiprocket.in
+DOMAIN-SUFFIX,sellon.shiprocket.in
 DOMAIN-SUFFIX,static.snaptube.in
 DOMAIN-SUFFIX,cdn.imgeng.in
 DOMAIN-SUFFIX,object.innei.in
