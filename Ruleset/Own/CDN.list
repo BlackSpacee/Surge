@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4083
+# DOMAIN-SUFFIX: 4086
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4109
-# UPDATED: 2025-11-20 14:38:02
+# TOTAL: 4112
+# UPDATED: 2025-11-20 20:54:31
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-19T15:21:33.614Z
-# Size: 4083
+# Last Updated: 2025-11-20T13:41:08.241Z
+# Size: 4086
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -461,6 +461,7 @@ DOMAIN-SUFFIX,cdn.sapphire.microsoftapp.net
 DOMAIN-SUFFIX,static.edge.microsoftapp.net
 DOMAIN-SUFFIX,f.hubspotemail.net
 DOMAIN-SUFFIX,directupload.net
+DOMAIN-SUFFIX,dc-telemetry.net
 DOMAIN-SUFFIX,coral.coralproject.net
 DOMAIN-SUFFIX,blackbaudcdn.net
 DOMAIN-SUFFIX,storage.yandexcloud.net
@@ -1110,6 +1111,7 @@ DOMAIN-SUFFIX,s3.duellinksmeta.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,chat.digitalgenius.com
+DOMAIN-SUFFIX,digikeyassets.com
 DOMAIN-SUFFIX,images8.design-editor.com
 DOMAIN-SUFFIX,images7.design-editor.com
 DOMAIN-SUFFIX,images.design-editor.com
@@ -1825,6 +1827,7 @@ DOMAIN-SUFFIX,cdn.onesignal.com
 DOMAIN-SUFFIX,res.office365.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,cdn.nodeimage.com
 DOMAIN-SUFFIX,cms-assets.nodecraft.com
 DOMAIN-SUFFIX,nhentaimg.com
 DOMAIN-SUFFIX,media.newyorker.com
