@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 135
-# DOMAIN-SUFFIX: 32778
+# DOMAIN-SUFFIX: 32785
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33127
-# UPDATED: 2025-11-21 14:39:44
+# TOTAL: 33134
+# UPDATED: 2025-11-21 20:53:42
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7560,14 +7560,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-20 02:08:07
+# UPDATED: 2025-11-22 02:08:29
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6546
+# DOMAIN-SUFFIX: 6551
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6686
+# TOTAL: 6691
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7766,6 +7766,7 @@ DOMAIN-SUFFIX,ld.hao123img.com
 DOMAIN-SUFFIX,leancloud.com
 DOMAIN-SUFFIX,level-plus.net
 DOMAIN-SUFFIX,lexica.art
+DOMAIN-SUFFIX,library-access.sk
 DOMAIN-SUFFIX,libsyn.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,lightboxcdn.com
@@ -7793,8 +7794,10 @@ DOMAIN-SUFFIX,megaupload.com
 DOMAIN-SUFFIX,microsoft-falcon.io
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,mij.rip
 DOMAIN-SUFFIX,mindnode.com
 DOMAIN-SUFFIX,mixin.one
+DOMAIN-SUFFIX,mji.rip
 DOMAIN-SUFFIX,mjib.gov.tw
 DOMAIN-SUFFIX,mjj.rip
 DOMAIN-SUFFIX,mlssoccer.com
@@ -7956,6 +7959,7 @@ DOMAIN-SUFFIX,wr.pvp.net
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xeeno.com
+DOMAIN-SUFFIX,xn--9iqy04a7fi01l.com
 DOMAIN-SUFFIX,xn--u2u927b.com
 DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,yahooapis.com
@@ -8001,14 +8005,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-11-20 02:07:47
+# UPDATED: 2025-11-22 02:08:08
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32124
+# DOMAIN-SUFFIX: 32131
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32437
+# TOTAL: 32444
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -8307,6 +8311,7 @@ DOMAIN-SUFFIX,21heise360dh.cc
 DOMAIN-SUFFIX,21hub.com
 DOMAIN-SUFFIX,21naturals.com
 DOMAIN-SUFFIX,21vv.cc
+DOMAIN-SUFFIX,22112211.xyz
 DOMAIN-SUFFIX,2371tom.com
 DOMAIN-SUFFIX,24hjav.com
 DOMAIN-SUFFIX,24porn.com
@@ -24336,7 +24341,9 @@ DOMAIN-SUFFIX,noc.ac.uk
 DOMAIN-SUFFIX,nochubank.or.jp
 DOMAIN-SUFFIX,nocn.ac.uk
 DOMAIN-SUFFIX,nocs.ac.uk
+DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,nodequality.com
 DOMAIN-SUFFIX,nodes.ac.uk
 DOMAIN-SUFFIX,nodesnoop.com
 DOMAIN-SUFFIX,nodesource.com
