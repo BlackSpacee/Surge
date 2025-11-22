@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-20T13:41:08.241Z
-# Size: 4086
+# Last Updated: 2025-11-22T06:16:12.021Z
+# Size: 4089
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1160,6 +1160,7 @@ DOMAIN-SUFFIX,media.steampowered.com
 DOMAIN-SUFFIX,staticflickr.com
 DOMAIN-SUFFIX,cdn.staticdelivr.com
 DOMAIN-SUFFIX,ipfs.soul-network.com
+DOMAIN-SUFFIX,api-cdn.shutterstock.com
 DOMAIN-SUFFIX,image.shutterstock.com
 DOMAIN-SUFFIX,static.serverhunter.com
 DOMAIN-SUFFIX,scribdassets.com
@@ -1250,6 +1251,7 @@ DOMAIN-SUFFIX,img.atlasobscura.com
 DOMAIN-SUFFIX,cdn77-t.ashemaletube.com
 DOMAIN-SUFFIX,cdn77.ashemaletube.com
 DOMAIN-SUFFIX,ipfs.arching-kaos.com
+DOMAIN-SUFFIX,server.arcgisonline.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,photos5.appleinsider.com
 DOMAIN-SUFFIX,widgets.zohosalesiq.com
@@ -1427,6 +1429,7 @@ DOMAIN-SUFFIX,e.calibermind.com
 DOMAIN-SUFFIX,bstarstatic.com
 DOMAIN-SUFFIX,cdn77.boyfriendtv.com
 DOMAIN-SUFFIX,cc.boyfriendtv.com
+DOMAIN-SUFFIX,storage.boilerplate.com
 DOMAIN-SUFFIX,bleepstatic.com
 DOMAIN-SUFFIX,blade-public-static.blade-group.com
 DOMAIN-SUFFIX,checkout-sdk.bigcommerce.com
