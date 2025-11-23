@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 135
-# DOMAIN-SUFFIX: 32785
+# DOMAIN-SUFFIX: 32797
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33134
-# UPDATED: 2025-11-23 14:36:51
+# TOTAL: 33146
+# UPDATED: 2025-11-23 20:46:57
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7560,14 +7560,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-22 02:08:29
+# UPDATED: 2025-11-24 02:08:24
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6551
+# DOMAIN-SUFFIX: 6553
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6691
+# TOTAL: 6693
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7812,6 +7812,7 @@ DOMAIN-SUFFIX,mvdis.gov.tw
 DOMAIN-SUFFIX,mx.hao123.com
 DOMAIN-SUFFIX,myfontastic.com
 DOMAIN-SUFFIX,name.com
+DOMAIN-SUFFIX,namu.wiki
 DOMAIN-SUFFIX,nat.gov.tw
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,netmarble.com
@@ -7848,6 +7849,7 @@ DOMAIN-SUFFIX,pcc.gov.tw
 DOMAIN-SUFFIX,pdfexpert.com
 DOMAIN-SUFFIX,pewresearch.org
 DOMAIN-SUFFIX,piaotian.net
+DOMAIN-SUFFIX,picsart.com
 DOMAIN-SUFFIX,pinboard.in
 DOMAIN-SUFFIX,pixelmator.com
 DOMAIN-SUFFIX,playstation.com
@@ -8005,14 +8007,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-11-22 02:08:08
+# UPDATED: 2025-11-24 02:08:02
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32131
+# DOMAIN-SUFFIX: 32143
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32444
+# TOTAL: 32456
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -8808,6 +8810,7 @@ DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,addtoany.com
 DOMAIN-SUFFIX,adelaidenow.com.au
 DOMAIN-SUFFIX,adeptt.ac.uk
+DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,adgoogle.net
 DOMAIN-SUFFIX,adguard-dns.com
 DOMAIN-SUFFIX,adguard-mail.com
@@ -8838,6 +8841,7 @@ DOMAIN-SUFFIX,adinst.com
 DOMAIN-SUFFIX,adlib.ac.uk
 DOMAIN-SUFFIX,adls.ac.uk
 DOMAIN-SUFFIX,admeld.com
+DOMAIN-SUFFIX,admetrica.ru
 DOMAIN-SUFFIX,admob-cn.com
 DOMAIN-SUFFIX,adobe-aemassets-value.com
 DOMAIN-SUFFIX,adobe-audience-finder.com
@@ -18664,6 +18668,7 @@ DOMAIN-SUFFIX,heythropcollege.ac.uk
 DOMAIN-SUFFIX,heywire.com
 DOMAIN-SUFFIX,hf-iphone.com
 DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,hfaes.ac.uk
 DOMAIN-SUFFIX,hfals.ac.uk
 DOMAIN-SUFFIX,hfma.ac.uk
@@ -21032,6 +21037,7 @@ DOMAIN-SUFFIX,kinklive.com
 DOMAIN-SUFFIX,kinkoid.com
 DOMAIN-SUFFIX,kinkyfamily.com
 DOMAIN-SUFFIX,kinkypeepz.com
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kir2kos.net
 DOMAIN-SUFFIX,kirbysepicyarn.com
@@ -31560,6 +31566,8 @@ DOMAIN-SUFFIX,webpa.ac.uk
 DOMAIN-SUFFIX,webster.ac.uk
 DOMAIN-SUFFIX,webtoons.com
 DOMAIN-SUFFIX,webtoonscorp.com
+DOMAIN-SUFFIX,webvisor.com
+DOMAIN-SUFFIX,webvisor.org
 DOMAIN-SUFFIX,weekly-economist.com
 DOMAIN-SUFFIX,weeklytimesnow.com.au
 DOMAIN-SUFFIX,weimi180.com
@@ -32429,6 +32437,7 @@ DOMAIN-SUFFIX,yabang.org
 DOMAIN-SUFFIX,yaburi.men
 DOMAIN-SUFFIX,yaddal.tv
 DOMAIN-SUFFIX,yadori.club
+DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yaeby.info
 DOMAIN-SUFFIX,yaeby.pro
 DOMAIN-SUFFIX,yahoo-news.com.hk
@@ -32590,6 +32599,7 @@ DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yamoon.club
 DOMAIN-SUFFIX,yandex-bank.net
 DOMAIN-SUFFIX,yandex-images.clstorage.net
+DOMAIN-SUFFIX,yandex-team.ru
 DOMAIN-SUFFIX,yandex.aero
 DOMAIN-SUFFIX,yandex.az
 DOMAIN-SUFFIX,yandex.by
@@ -32621,6 +32631,7 @@ DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
+DOMAIN-SUFFIX,yandexmetrica.com
 DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yaohubaba.com
 DOMAIN-SUFFIX,yaoimangaonline.com
@@ -32632,6 +32643,7 @@ DOMAIN-SUFFIX,yaptube.com
 DOMAIN-SUFFIX,yarininsuyu.com
 DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN-SUFFIX,yasarang.net
+DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yatong.info
 DOMAIN-SUFFIX,yavtube.com
 DOMAIN-SUFFIX,yaya.cyou
