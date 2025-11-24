@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4091
+# DOMAIN-SUFFIX: 4092
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4117
-# UPDATED: 2025-11-24 14:39:45
+# TOTAL: 4118
+# UPDATED: 2025-11-24 20:56:51
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-23T13:07:16.093Z
-# Size: 4091
+# Last Updated: 2025-11-24T17:58:49.688Z
+# Size: 4092
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -589,6 +589,7 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,kakaocdn.net
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,img.javstore.net
+DOMAIN-SUFFIX,hsstatic.net
 DOMAIN-SUFFIX,img.highporn.net
 DOMAIN-SUFFIX,cdn.highporn.net
 DOMAIN-SUFFIX,forgecdn.net
