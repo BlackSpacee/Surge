@@ -1,14 +1,14 @@
 # NAME: Reject
 # AND: 1
-# DOMAIN: 476
-# DOMAIN-SUFFIX: 5784
-# DOMAIN-KEYWORD: 158
-# IP-CIDR: 42
+# DOMAIN: 481
+# DOMAIN-SUFFIX: 5785
+# DOMAIN-KEYWORD: 160
+# IP-CIDR: 43
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 3
-# TOTAL: 6469
-# UPDATED: 2025-11-25 10:03:30
+# TOTAL: 6478
+# UPDATED: 2025-11-25 14:40:43
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-11-07T20:16:06.225Z
-# Size: 343
+# Last Updated: 2025-11-25T10:33:07.487Z
+# Size: 353
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1615,13 +1615,19 @@ DOMAIN-SUFFIX,moebgp.com
 DOMAIN-SUFFIX,cnzz.mmstat.com
 DOMAIN,log.mmstat.com
 DOMAIN-SUFFIX,resolver.gslb.mi-idc.com
+DOMAIN,apidns-js.kwd.inkuai.com
 DOMAIN,httpdns.kwd.inkuai.com
+DOMAIN,apidns.kwd.inkuai.com
 DOMAIN-SUFFIX,esgltc.com
 DOMAIN,httpdns.alicdn.com
 DOMAIN-SUFFIX,tukif.com
+DOMAIN,dns2.q2cdn.com
 DOMAIN-SUFFIX,optmd.com
 DOMAIN-SUFFIX,l-cdn.com
+DOMAIN,serveraddr.service.kugou.com
+DOMAIN,dns.qiyipic.iqiyi.com
 DOMAIN,doh.iqiyi.com
+DOMAIN,dns.iqiyi.com
 DOMAIN,httpsdns.baidu.com
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpdns.browser.miui.com
@@ -1629,14 +1635,12 @@ DOMAIN,httpdns.cctv.com
 DOMAIN-SUFFIX,pgi.com
 DOMAIN,httpdns.music.163.com
 DOMAIN-SUFFIX,httpdns.c.163.com
-DOMAIN,yyapp-httpdns.gslb.yy.com
-DOMAIN,union-httpdns.gslb.yy.com
-DOMAIN,httpdns-v6.gslb.yy.com
-DOMAIN,httpdns.gslb.yy.com
 DOMAIN,aedns.weixin.qq.com
 DOMAIN,udns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com
+DOMAIN-SUFFIX,p2ptun.qq.com
 DOMAIN,httpdns.kg.qq.com
+DOMAIN,tp2p.kg.qq.com
 DOMAIN-SUFFIX,luminati-china.biz
 DOMAIN-SUFFIX,l-err.biz
 DOMAIN-SUFFIX,august.tw
@@ -1667,6 +1671,8 @@ DOMAIN-SUFFIX,whoisit.co
 DOMAIN-SUFFIX,brdtest.co
 DOMAIN-SUFFIX,bgp.co
 DOMAIN,httpdns-browser.platform.dbankcloud.cn
+DOMAIN,httpdns.platform.dbankcloud.cn
+DOMAIN,dotserver.douyucdn.cn
 DOMAIN-SUFFIX,juejin.cn
 DOMAIN,ttnet-doh.feishu.cn
 DOMAIN,ttnet-dig.feishu.cn
@@ -1812,6 +1818,8 @@ DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com
 DOMAIN-KEYWORD,-be-pack.pglstatp-toutiao.com
 DOMAIN-KEYWORD,-normal.zijieapi.com
 DOMAIN-KEYWORD,mon.zijieapi.com
+DOMAIN-KEYWORD,httpdns.gslb.yy.com
+DOMAIN-KEYWORD,httpdns-v6.gslb.yy.com
 DOMAIN-WILDCARD,info.*.aleragroup.com
 DOMAIN-WILDCARD,f-log*.grammarly.io
 DOMAIN-WILDCARD,*.ad.*.prod.hosts.ooklaserver.net
@@ -1848,6 +1856,7 @@ IP-CIDR,115.236.121.51/32,no-resolve
 IP-CIDR,115.236.121.195/32,no-resolve
 IP-CIDR,119.29.29.98/31,no-resolve
 IP-CIDR,123.151.54.50/32,no-resolve
+IP-CIDR,180.76.76.220/32,no-resolve
 IP-CIDR,182.254.116.117/32,no-resolve
 IP-CIDR,182.254.118.119/32,no-resolve
 IP-CIDR,202.90.108.13/32,no-resolve
