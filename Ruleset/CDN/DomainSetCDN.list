@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-24T17:58:49.688Z
-# Size: 4092
+# Last Updated: 2025-11-26T05:16:08.970Z
+# Size: 4102
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -459,6 +459,7 @@ DOMAIN-SUFFIX,dc-telemetry.net
 DOMAIN-SUFFIX,coral.coralproject.net
 DOMAIN-SUFFIX,blackbaudcdn.net
 DOMAIN-SUFFIX,storage.yandexcloud.net
+DOMAIN-SUFFIX,images.wurstclient.net
 DOMAIN-SUFFIX,images.wsjcommerce.net
 DOMAIN-SUFFIX,static.underhentai.net
 DOMAIN-SUFFIX,tapecontent.net
@@ -609,6 +610,7 @@ DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,lumiere-a.akamaihd.net
 DOMAIN-SUFFIX,img.adspower.net
 DOMAIN-SUFFIX,cdn.yamibuy.net
+DOMAIN-SUFFIX,image.xmanhua.net
 DOMAIN-SUFFIX,cdn.writeas.net
 DOMAIN-SUFFIX,unlimited-cdn.waifu2x.net
 DOMAIN-SUFFIX,social-cdn.vivaldi.net
@@ -1987,6 +1989,9 @@ DOMAIN-SUFFIX,i.1password.com
 DOMAIN-SUFFIX,c.1password.com
 DOMAIN-SUFFIX,ws-assets.zoominfo.com
 DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,image.yymanhua.com
+DOMAIN-SUFFIX,cover.yymanhua.com
+DOMAIN-SUFFIX,css.yymanhua.com
 DOMAIN-SUFFIX,static.xxxshake.com
 DOMAIN-SUFFIX,i.xxxshake.com
 DOMAIN-SUFFIX,xnxx-cdn.com
@@ -2606,6 +2611,10 @@ DOMAIN-SUFFIX,dellcdn.com
 DOMAIN-SUFFIX,import-cdn.default.com
 DOMAIN-SUFFIX,cdn.datdota.com
 DOMAIN-SUFFIX,proxy.csidetm.com
+DOMAIN-SUFFIX,static.comicbz.com
+DOMAIN-SUFFIX,image.comicbz.com
+DOMAIN-SUFFIX,cover.comicbz.com
+DOMAIN-SUFFIX,css.comicbz.com
 DOMAIN-SUFFIX,player-frontend.cnevids.com
 DOMAIN-SUFFIX,player.cnevids.com
 DOMAIN-SUFFIX,cmail20.com
@@ -2854,6 +2863,7 @@ DOMAIN-SUFFIX,staging-pubfeed.linkby.com
 DOMAIN-SUFFIX,ledger-wp-website-s3-prd.ledger.com
 DOMAIN-SUFFIX,assets-cms.kraken.com
 DOMAIN-SUFFIX,assets.kraken.com
+DOMAIN-SUFFIX,public.komiic.com
 DOMAIN-SUFFIX,brand-sdk.kmsmep.com
 DOMAIN-SUFFIX,js.klarna.com
 DOMAIN-SUFFIX,cdn.kinsta.com
