@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-26T05:16:08.970Z
-# Size: 4102
+# Last Updated: 2025-11-29T08:15:20.314Z
+# Size: 4106
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -447,6 +447,8 @@ DOMAIN-SUFFIX,cdn.prod.atlassian-dev.net
 DOMAIN-SUFFIX,d4.alternativeto.net
 DOMAIN-SUFFIX,vusercontent.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,tiles.virtualearth.net
+DOMAIN-SUFFIX,ecn.dev.virtualearth.net
 DOMAIN-SUFFIX,static.vesselfinder.net
 DOMAIN-SUFFIX,map.vesselfinder.net
 DOMAIN-SUFFIX,cdn.tokyo-motion.net
@@ -3266,6 +3268,7 @@ DOMAIN-SUFFIX,zephr-templates.cnbc.com
 DOMAIN-SUFFIX,production-cmp.isgprivacy.cbsi.com
 DOMAIN-SUFFIX,at.cbsi.com
 DOMAIN-SUFFIX,th.bing.com
+DOMAIN-SUFFIX,r.bing.com
 DOMAIN-SUFFIX,i.bang.com
 DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,img.atom.com
@@ -3959,6 +3962,7 @@ DOMAIN-SUFFIX,cdn.european-alternatives.eu
 DOMAIN-SUFFIX,1passwordusercontent.eu
 DOMAIN-SUFFIX,zohostatic.eu
 DOMAIN-SUFFIX,cravatar.eu
+DOMAIN-SUFFIX,upload.movim.eu
 DOMAIN-SUFFIX,img.agrd.eu
 DOMAIN-SUFFIX,st.agrd.eu
 DOMAIN-SUFFIX,versionbadg.es
