@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 135
-# DOMAIN-SUFFIX: 32816
+# DOMAIN-SUFFIX: 32822
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33165
-# UPDATED: 2025-12-01 14:43:37
+# TOTAL: 33171
+# UPDATED: 2025-12-01 20:58:03
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7561,14 +7561,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-24 02:08:24
+# UPDATED: 2025-12-02 02:08:18
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6553
+# DOMAIN-SUFFIX: 6554
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6693
+# TOTAL: 6694
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7970,6 +7970,7 @@ DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,yoyo.org
 DOMAIN-SUFFIX,z-library.ec
+DOMAIN-SUFFIX,zaochenbao.com
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoomgov.com
 DOMAIN-KEYWORD,dlercloud
@@ -8008,14 +8009,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-11-30 02:07:51
+# UPDATED: 2025-12-02 02:07:57
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32161
+# DOMAIN-SUFFIX: 32167
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32474
+# TOTAL: 32480
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -21574,6 +21575,7 @@ DOMAIN-SUFFIX,ljmu.ac.uk
 DOMAIN-SUFFIX,lkl.ac.uk
 DOMAIN-SUFFIX,ll82y2ifdd.top
 DOMAIN-SUFFIX,llakes.ac.uk
+DOMAIN-SUFFIX,llama.com
 DOMAIN-SUFFIX,llambed.ac.uk
 DOMAIN-SUFFIX,llandrillo.ac.uk
 DOMAIN-SUFFIX,llas.ac.uk
@@ -24818,6 +24820,8 @@ DOMAIN-SUFFIX,okazudouga.tokyo
 DOMAIN-SUFFIX,okcdn.ru
 DOMAIN-SUFFIX,okinawabank.co.jp
 DOMAIN-SUFFIX,okkisokuho.com
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
@@ -25725,6 +25729,7 @@ DOMAIN-SUFFIX,playcover.io
 DOMAIN-SUFFIX,playerjs.io
 DOMAIN-SUFFIX,playfab.com
 DOMAIN-SUFFIX,playfabapi.com
+DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,playforceone.com
 DOMAIN-SUFFIX,playhearthstone.com
 DOMAIN-SUFFIX,playmation.com
@@ -30110,6 +30115,7 @@ DOMAIN-SUFFIX,tukif.com
 DOMAIN-SUFFIX,tuncommercialbank.com
 DOMAIN-SUFFIX,turbo.com
 DOMAIN-SUFFIX,turbogvideos.com
+DOMAIN-SUFFIX,turbopages.org
 DOMAIN-SUFFIX,turborepo.org
 DOMAIN-SUFFIX,turbotax.com
 DOMAIN-SUFFIX,turbulence.ac.uk
