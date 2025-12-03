@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4107
+# DOMAIN-SUFFIX: 4110
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4133
-# UPDATED: 2025-12-03 14:41:11
+# TOTAL: 4136
+# UPDATED: 2025-12-03 20:58:53
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-02T17:56:37.397Z
-# Size: 4107
+# Last Updated: 2025-12-03T13:39:51.207Z
+# Size: 4110
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -685,6 +685,8 @@ DOMAIN-SUFFIX,static.vocadb.net
 DOMAIN-SUFFIX,images1.vinted.net
 DOMAIN-SUFFIX,craftassets.unraid.net
 DOMAIN-SUFFIX,components.trynow.net
+DOMAIN-SUFFIX,lzd-img-global.slatic.net
+DOMAIN-SUFFIX,icms-image.slatic.net
 DOMAIN-SUFFIX,sftcdn.net
 DOMAIN-SUFFIX,rspcdn.net
 DOMAIN-SUFFIX,redcdn.net
@@ -2870,6 +2872,7 @@ DOMAIN-SUFFIX,lodash.com
 DOMAIN-SUFFIX,locimg.com
 DOMAIN-SUFFIX,staging-pubfeed.linkby.com
 DOMAIN-SUFFIX,ledger-wp-website-s3-prd.ledger.com
+DOMAIN-SUFFIX,lazcdn.com
 DOMAIN-SUFFIX,assets-cms.kraken.com
 DOMAIN-SUFFIX,assets.kraken.com
 DOMAIN-SUFFIX,public.komiic.com

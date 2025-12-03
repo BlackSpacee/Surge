@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 135
-# DOMAIN-SUFFIX: 32822
+# DOMAIN-SUFFIX: 32834
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33171
-# UPDATED: 2025-12-03 14:41:11
+# TOTAL: 33183
+# UPDATED: 2025-12-03 20:58:53
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -8009,14 +8009,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-12-02 02:07:57
+# UPDATED: 2025-12-04 02:08:01
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32167
+# DOMAIN-SUFFIX: 32180
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32480
+# TOTAL: 32493
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -8523,6 +8523,8 @@ DOMAIN-SUFFIX,77maott.com
 DOMAIN-SUFFIX,7mm.tv
 DOMAIN-SUFFIX,7mmtv.sx
 DOMAIN-SUFFIX,7tb.cc
+DOMAIN-SUFFIX,7tv.app
+DOMAIN-SUFFIX,7tv.io
 DOMAIN-SUFFIX,8008206616.com
 DOMAIN-SUFFIX,8111y.top
 DOMAIN-SUFFIX,81jia.tv
@@ -12852,6 +12854,7 @@ DOMAIN-SUFFIX,cantab.ac.uk
 DOMAIN-SUFFIX,canterbury.ac.uk
 DOMAIN-SUFFIX,canterburycollege.ac.uk
 DOMAIN-SUFFIX,canterburytrust.ac.uk
+DOMAIN-SUFFIX,canvastatus.com
 DOMAIN-SUFFIX,cape.ac.uk
 DOMAIN-SUFFIX,capel.ac.uk
 DOMAIN-SUFFIX,capitalccg.ac.uk
@@ -18178,6 +18181,8 @@ DOMAIN-SUFFIX,h-webtoon.com
 DOMAIN-SUFFIX,h0930.com
 DOMAIN-SUFFIX,h18ani1.vip
 DOMAIN-SUFFIX,h2porn.com
+DOMAIN-SUFFIX,habr.com
+DOMAIN-SUFFIX,habrastorage.org
 DOMAIN-SUFFIX,hace.ac.uk
 DOMAIN-SUFFIX,hackday.com.au
 DOMAIN-SUFFIX,hackerfacebook.com
@@ -27171,6 +27176,7 @@ DOMAIN-SUFFIX,rsp.ac.uk
 DOMAIN-SUFFIX,rspao.com
 DOMAIN-SUFFIX,rstatic.net
 DOMAIN-SUFFIX,rt.com
+DOMAIN-SUFFIX,rtbcdn.ru
 DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com
 DOMAIN-SUFFIX,ru-northwest-201.myhuaweicloud.com
 DOMAIN-SUFFIX,rua-project.ac.uk
@@ -27220,6 +27226,7 @@ DOMAIN-SUFFIX,rutracker.cr
 DOMAIN-SUFFIX,rutracker.me
 DOMAIN-SUFFIX,rutracker.nl
 DOMAIN-SUFFIX,rutrecker.net
+DOMAIN-SUFFIX,rutubelist.ru
 DOMAIN-SUFFIX,ruvideos.net
 DOMAIN-SUFFIX,rvc.ac.uk
 DOMAIN-SUFFIX,rwcmd.ac.uk
@@ -29433,6 +29440,7 @@ DOMAIN-SUFFIX,tellusgb.ac.uk
 DOMAIN-SUFFIX,telri.ac.uk
 DOMAIN-SUFFIX,temenos.ac.uk
 DOMAIN-SUFFIX,temetube.xyz
+DOMAIN-SUFFIX,temp-mail.org
 DOMAIN-SUFFIX,tempusuk.ac.uk
 DOMAIN-SUFFIX,tenbyfotolia.com
 DOMAIN-SUFFIX,tentowns.ac.uk
@@ -30676,6 +30684,8 @@ DOMAIN-SUFFIX,vaultify.com
 DOMAIN-SUFFIX,vaultify.info
 DOMAIN-SUFFIX,vaultify.net
 DOMAIN-SUFFIX,vaultproject.io
+DOMAIN-SUFFIX,vbcdn.com
+DOMAIN-SUFFIX,vbcdn.net
 DOMAIN-SUFFIX,vbejeyv.shop
 DOMAIN-SUFFIX,vcanedge.com
 DOMAIN-SUFFIX,vce.com
@@ -30868,6 +30878,8 @@ DOMAIN-SUFFIX,viacbs.com
 DOMAIN-SUFFIX,viacom.com
 DOMAIN-SUFFIX,viacomcbs.com
 DOMAIN-SUFFIX,viacomcbspressexpress.com
+DOMAIN-SUFFIX,viber.co
+DOMAIN-SUFFIX,viber.me
 DOMAIN-SUFFIX,vicarious.ac.uk
 DOMAIN-SUFFIX,victoriacountyhistory.ac.uk
 DOMAIN-SUFFIX,viddeo-jav.net
