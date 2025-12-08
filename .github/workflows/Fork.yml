@@ -12,7 +12,7 @@ jobs:
       TZ: "Asia/Shanghai"
     steps:
       - name: Checkout target repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v6.0.1
         with:
           repository: blackspacee/Surge
           path: Surge-repo
@@ -138,7 +138,7 @@ jobs:
           
 
       - name: Fork ios_rule_script Repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v6.0.1
         with:
           repository: blackmatrix7/ios_rule_script
           path: tmp # 临时存放目录
