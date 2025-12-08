@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-07T06:26:06.663Z
-# Size: 4111
+# Last Updated: 2025-12-08T09:41:58.870Z
+# Size: 4113
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2435,6 +2435,7 @@ DOMAIN-SUFFIX,cdn.plus500.com
 DOMAIN-SUFFIX,cdn.pixabay.com
 DOMAIN-SUFFIX,static.pingcap.com
 DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,hawky.pcgamer.com
 DOMAIN-SUFFIX,c17.patreon.com
 DOMAIN-SUFFIX,c16.patreon.com
 DOMAIN-SUFFIX,c14.patreon.com
@@ -3786,6 +3787,7 @@ DOMAIN-SUFFIX,cdn.jetboost.io
 DOMAIN-SUFFIX,widget.intercom.io
 DOMAIN-SUFFIX,ik.imagekit.io
 DOMAIN-SUFFIX,icon.icepanel.io
+DOMAIN-SUFFIX,cdn.hackaday.io
 DOMAIN-SUFFIX,ipfs.denarius.io
 DOMAIN-SUFFIX,rum.cronitor.io
 DOMAIN-SUFFIX,cdn.commento.io
