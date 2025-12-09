@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/filter.list
 #!tg-channel=https://t.me/inaisi
-#!date=2025-11-10 08:17:00
+#!date=2025-12-09 21:49:00
 #!support=约9760行
 #############################################
 # "reject"        策略返回 HTTP 状态码 404,不附带任何额外内容
@@ -2700,6 +2700,8 @@ DOMAIN-KEYWORD,mpos-pic.helipay.com
 DOMAIN,mistat.xiaomi.com
 
 # > 晓晓优选
+DOMAIN-SUFFIX,adintl.cn
+DOMAIN-SUFFIX,zhangyuyidong.cn
 DOMAIN-SUFFIX,1sapp.com
 DOMAIN-SUFFIX,aiclk.com
 DOMAIN-SUFFIX,adbiding.com

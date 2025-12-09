@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 134
-# DOMAIN-SUFFIX: 32882
+# DOMAIN-SUFFIX: 32884
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33230
-# UPDATED: 2025-12-09 14:42:02
+# TOTAL: 33232
+# UPDATED: 2025-12-09 20:59:17
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -8010,14 +8010,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-12-08 02:07:42
+# UPDATED: 2025-12-10 02:07:53
 # DOMAIN: 113
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32229
+# DOMAIN-SUFFIX: 32231
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32541
+# TOTAL: 32543
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -19690,6 +19690,7 @@ DOMAIN-SUFFIX,image-guided-therapies.ac.uk
 DOMAIN-SUFFIX,imagebam.com
 DOMAIN-SUFFIX,imagecurl.com
 DOMAIN-SUFFIX,imagecurl.org
+DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,imagemodeler.com
 DOMAIN-SUFFIX,imageshack.com
 DOMAIN-SUFFIX,imagetwist.com
@@ -26622,6 +26623,7 @@ DOMAIN-SUFFIX,r18.clickme.net
 DOMAIN-SUFFIX,r18av.com
 DOMAIN-SUFFIX,r18lu-avi.shop
 DOMAIN-SUFFIX,r18lu.com
+DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,r34porn.net
 DOMAIN-SUFFIX,ra-review.ac.uk
 DOMAIN-SUFFIX,raa.ac.uk
