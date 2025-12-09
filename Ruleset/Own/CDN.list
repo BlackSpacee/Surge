@@ -1,20 +1,21 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4107
+# DOMAIN-SUFFIX: 4108
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4133
-# UPDATED: 2025-12-09 10:06:19
+# TOTAL: 4134
+# UPDATED: 2025-12-09 14:42:02
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-08T14:09:40.309Z
-# Size: 4107
+# Last Updated: 2025-12-09T09:50:28.055Z
+# Size: 4108
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 DOMAIN-SUFFIX,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
+DOMAIN-SUFFIX,website-cdn
 DOMAIN-SUFFIX,static.microsoft
 DOMAIN-SUFFIX,cdn.arcade.software
 DOMAIN-SUFFIX,media.infosec.exchange
@@ -3849,7 +3850,7 @@ DOMAIN-SUFFIX,favicon.pirsch.io
 DOMAIN-SUFFIX,nxedge.io
 DOMAIN-SUFFIX,edge.marker.io
 DOMAIN-SUFFIX,jbkcdn.io
-DOMAIN-SUFFIX,website-cdn.ipinfo.io
+DOMAIN-SUFFIX,assets.ipinfo.io
 DOMAIN-SUFFIX,cdn.ipinfo.io
 DOMAIN-SUFFIX,ipfs.infura.io
 DOMAIN-SUFFIX,assets.hackmd.io
