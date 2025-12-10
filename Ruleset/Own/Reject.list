@@ -2,13 +2,13 @@
 # AND: 1
 # DOMAIN: 481
 # DOMAIN-SUFFIX: 5993
-# DOMAIN-KEYWORD: 160
+# DOMAIN-KEYWORD: 161
 # IP-CIDR: 43
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 3
-# TOTAL: 6686
-# UPDATED: 2025-12-10 02:36:53
+# TOTAL: 6687
+# UPDATED: 2025-12-10 10:08:46
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-11-25T10:33:07.487Z
-# Size: 353
+# Last Updated: 2025-12-10T05:52:28.258Z
+# Size: 354
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1788,6 +1788,7 @@ DOMAIN-KEYWORD,adobeanalytics.
 DOMAIN-KEYWORD,adobemarketing.
 DOMAIN-KEYWORD,adtarget.
 DOMAIN-KEYWORD,iqmetrics.
+DOMAIN-KEYWORD,load.tracking.
 DOMAIN-KEYWORD,-mktg.vodafone.com
 DOMAIN-KEYWORD,-business.vodafone.com
 DOMAIN-KEYWORD,-ss.checkoutera.com
