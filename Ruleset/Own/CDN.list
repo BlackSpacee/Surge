@@ -1,21 +1,20 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4108
+# DOMAIN-SUFFIX: 4110
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4134
-# UPDATED: 2025-12-10 10:08:46
+# TOTAL: 4136
+# UPDATED: 2025-12-10 14:42:42
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-09T09:50:28.055Z
-# Size: 4108
+# Last Updated: 2025-12-10T09:17:15.337Z
+# Size: 4110
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 DOMAIN-SUFFIX,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
-DOMAIN-SUFFIX,website-cdn
 DOMAIN-SUFFIX,static.microsoft
 DOMAIN-SUFFIX,cdn.arcade.software
 DOMAIN-SUFFIX,media.infosec.exchange
@@ -1395,6 +1394,7 @@ DOMAIN-SUFFIX,jpgjingpinx.com
 DOMAIN-SUFFIX,asset.jamieoliver.com
 DOMAIN-SUFFIX,cdn.jamieoliver.com
 DOMAIN-SUFFIX,media.istockphoto.com
+DOMAIN-SUFFIX,cdn.ip2location.com
 DOMAIN-SUFFIX,content.invisioncic.com
 DOMAIN-SUFFIX,media.invisioncic.com
 DOMAIN-SUFFIX,intercomcdn.com
@@ -3811,6 +3811,7 @@ DOMAIN-SUFFIX,static.opensea.io
 DOMAIN-SUFFIX,favicons.nextdns.io
 DOMAIN-SUFFIX,cdn.logbase.io
 DOMAIN-SUFFIX,media.lantern.io
+DOMAIN-SUFFIX,cdn.ipwhois.io
 DOMAIN-SUFFIX,ipfscdn.io
 DOMAIN-SUFFIX,cdn.icomoon.io
 DOMAIN-SUFFIX,assets.holopin.io
@@ -3850,6 +3851,7 @@ DOMAIN-SUFFIX,favicon.pirsch.io
 DOMAIN-SUFFIX,nxedge.io
 DOMAIN-SUFFIX,edge.marker.io
 DOMAIN-SUFFIX,jbkcdn.io
+DOMAIN-SUFFIX,website-cdn.ipinfo.io
 DOMAIN-SUFFIX,assets.ipinfo.io
 DOMAIN-SUFFIX,cdn.ipinfo.io
 DOMAIN-SUFFIX,ipfs.infura.io
