@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 134
-# DOMAIN-SUFFIX: 32884
+# DOMAIN-SUFFIX: 32889
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33232
-# UPDATED: 2025-12-11 14:44:12
+# TOTAL: 33237
+# UPDATED: 2025-12-11 21:00:46
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -8010,14 +8010,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-12-10 02:07:53
+# UPDATED: 2025-12-12 02:08:19
 # DOMAIN: 113
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32231
+# DOMAIN-SUFFIX: 32236
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32543
+# TOTAL: 32548
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -25803,7 +25803,10 @@ DOMAIN-SUFFIX,podium.ac.uk
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,pogo.com
 DOMAIN-SUFFIX,pogobeta.com
+DOMAIN-SUFFIX,poi.icu
 DOMAIN-SUFFIX,poi.moe
+DOMAIN-SUFFIX,poi6.net
+DOMAIN-SUFFIX,poihub.com
 DOMAIN-SUFFIX,point.ac.uk
 DOMAIN-SUFFIX,pointblank.ac.uk
 DOMAIN-SUFFIX,pointblankmusicschool.ac.uk
@@ -26338,6 +26341,7 @@ DOMAIN-SUFFIX,profile.ac.uk
 DOMAIN-SUFFIX,profilemaster.com
 DOMAIN-SUFFIX,profreeporno.com
 DOMAIN-SUFFIX,programme3.ac.uk
+DOMAIN-SUFFIX,project-poi.com
 DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,projectara.com
 DOMAIN-SUFFIX,projectbaseline.com
@@ -26516,6 +26520,7 @@ DOMAIN-SUFFIX,qmul.ac.uk
 DOMAIN-SUFFIX,qmw.ac.uk
 DOMAIN-SUFFIX,qmzdd.com
 DOMAIN-SUFFIX,qnap.com
+DOMAIN-SUFFIX,qobuz.com
 DOMAIN-SUFFIX,qombol.com
 DOMAIN-SUFFIX,qoo10.jp
 DOMAIN-SUFFIX,qooqlevideo.com

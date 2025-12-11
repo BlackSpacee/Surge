@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-10T16:28:59.207Z
-# Size: 4113
+# Last Updated: 2025-12-11T14:24:57.060Z
+# Size: 4122
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -736,6 +736,7 @@ DOMAIN-SUFFIX,static-cdn.jtvnw.net
 DOMAIN-SUFFIX,jsdelivr.ioiox.net
 DOMAIN-SUFFIX,static-act.imoim.net
 DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,hrcdn.net
 DOMAIN-SUFFIX,file1.hkepc.net
 DOMAIN-SUFFIX,i.hkepc.net
 DOMAIN-SUFFIX,ftcdn.net
@@ -1627,6 +1628,9 @@ DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,chart.googleapis.com
 DOMAIN-SUFFIX,ajax.googleapis.com
 DOMAIN-SUFFIX,sync.getpublica.com
+DOMAIN-SUFFIX,identity-assets.getpostman.com
+DOMAIN-SUFFIX,static.getpostman.com
+DOMAIN-SUFFIX,assets.getpostman.com
 DOMAIN-SUFFIX,connect.getflowbox.com
 DOMAIN-SUFFIX,static-r2.gear4music.com
 DOMAIN-SUFFIX,r2.gear4music.com
@@ -2882,6 +2886,7 @@ DOMAIN-SUFFIX,code.jquery.com
 DOMAIN-SUFFIX,cdn.jitbit.com
 DOMAIN-SUFFIX,jbkcdn.com
 DOMAIN-SUFFIX,javtxt.com
+DOMAIN-SUFFIX,cache.ip-api.com
 DOMAIN-SUFFIX,imgtbl.com
 DOMAIN-SUFFIX,imgbox.com
 DOMAIN-SUFFIX,static.inferno.iheart.com
@@ -3090,6 +3095,7 @@ DOMAIN-SUFFIX,icdn.javxx.com
 DOMAIN-SUFFIX,cdn.javmg.com
 DOMAIN-SUFFIX,creator-image.javhd.com
 DOMAIN-SUFFIX,static.javhd.com
+DOMAIN-SUFFIX,assets.ipapi.com
 DOMAIN-SUFFIX,i.ioiox.com
 DOMAIN-SUFFIX,pim-media.intel.com
 DOMAIN-SUFFIX,imgopt.infoq.com
@@ -3719,6 +3725,7 @@ DOMAIN-SUFFIX,cdn.simplelocalize.io
 DOMAIN-SUFFIX,combinatronics.io
 DOMAIN-SUFFIX,edge.sitecorecloud.io
 DOMAIN-SUFFIX,opentelemetry.io
+DOMAIN-SUFFIX,static.ipgeolocation.io
 DOMAIN-SUFFIX,local.webcontainer.io
 DOMAIN-SUFFIX,telemetry.stepsecurity.io
 DOMAIN-SUFFIX,ipfs.scalaproject.io
@@ -3783,6 +3790,7 @@ DOMAIN-SUFFIX,permaweb.io
 DOMAIN-SUFFIX,ipfs.namebase.io
 DOMAIN-SUFFIX,cdn.metadata.io
 DOMAIN-SUFFIX,cdn.jetboost.io
+DOMAIN-SUFFIX,static.iplocate.io
 DOMAIN-SUFFIX,widget.intercom.io
 DOMAIN-SUFFIX,ik.imagekit.io
 DOMAIN-SUFFIX,icon.icepanel.io
@@ -3874,6 +3882,7 @@ DOMAIN-SUFFIX,js.smile.io
 DOMAIN-SUFFIX,js.short.io
 DOMAIN-SUFFIX,senja.io
 DOMAIN-SUFFIX,seadn.io
+DOMAIN-SUFFIX,documenter-assets.pstmn.io
 DOMAIN-SUFFIX,skills-assets.pstmn.io
 DOMAIN-SUFFIX,topbar-static.piano.io
 DOMAIN-SUFFIX,experience-ap.piano.io
