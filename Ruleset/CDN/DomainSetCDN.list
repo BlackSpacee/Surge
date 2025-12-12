@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-12T05:22:54.201Z
-# Size: 4124
+# Last Updated: 2025-12-12T16:53:48.217Z
+# Size: 4126
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -349,7 +349,6 @@ DOMAIN-SUFFIX,lsposed.org
 DOMAIN-SUFFIX,pcz.javidol.org
 DOMAIN-SUFFIX,haproxy.org
 DOMAIN-SUFFIX,graphql.org
-DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,web-static.archive.org
 DOMAIN-SUFFIX,image.ap-mail.org
 DOMAIN-SUFFIX,99avcdn.org
@@ -409,6 +408,7 @@ DOMAIN-SUFFIX,ps.w.org
 DOMAIN-SUFFIX,s.w.org
 DOMAIN-SUFFIX,ooo.0o0.ooo
 DOMAIN-SUFFIX,usercontent.one
+DOMAIN-SUFFIX,wiki.metacubex.one
 DOMAIN-SUFFIX,storageapi.fleek.one
 DOMAIN-SUFFIX,static.xns.one
 DOMAIN-SUFFIX,ipfs.jbb.one
@@ -817,6 +817,8 @@ DOMAIN-SUFFIX,img.skk.moe
 DOMAIN-SUFFIX,cdn.skk.moe
 DOMAIN-SUFFIX,objects.hit.moe
 DOMAIN-SUFFIX,assets-cdn.anh.moe
+DOMAIN-SUFFIX,static.ahu.moe
+DOMAIN-SUFFIX,file.ahu.moe
 DOMAIN-SUFFIX,cloudflare.ltd
 DOMAIN-SUFFIX,static.coinall.ltd
 DOMAIN-SUFFIX,image.acg.lol
