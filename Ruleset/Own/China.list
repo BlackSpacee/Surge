@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 142921
-# UPDATED: 2025-12-14 10:22:33
+# UPDATED: 2025-12-14 14:38:43
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -246,8 +246,8 @@ PROCESS-NAME,Logi Options Daemon
 ## Springer 旗下
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-11-19T15:21:32.671Z
-# Size: 835
+# Last Updated: 2025-12-14T08:08:16.558Z
+# Size: 838
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -312,6 +312,7 @@ DOMAIN-SUFFIX,webok.net
 DOMAIN-SUFFIX,lf127.net
 DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,eudic.net
+DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,zdic.net
 DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,wscn.net
@@ -622,7 +623,9 @@ DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,c-ctrip.com
+DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,bytetcc.com
+DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,biliimg.com
 DOMAIN-SUFFIX,biliapi.com
@@ -5094,7 +5097,6 @@ DOMAIN-SUFFIX,tmall.hk
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,qwen.ai
 # Baidu
-DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,hao123img.com
 # Bilibili
 DOMAIN-SUFFIX,acg.tv
@@ -5110,8 +5112,6 @@ DOMAIN-SUFFIX,bdxiguaimg.com
 DOMAIN-SUFFIX,bdxiguastatic.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedns.net
-DOMAIN-SUFFIX,bytescm.com
-DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,bytexservice.com
 DOMAIN-SUFFIX,kspkg.com
 DOMAIN-SUFFIX,toutiao13.com
