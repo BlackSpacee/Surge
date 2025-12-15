@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4135
+# DOMAIN-SUFFIX: 4138
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4161
-# UPDATED: 2025-12-15 10:19:51
+# TOTAL: 4164
+# UPDATED: 2025-12-15 14:46:07
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-15T02:21:27.393Z
-# Size: 4135
+# Last Updated: 2025-12-15T08:31:04.612Z
+# Size: 4138
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2087,6 +2087,7 @@ DOMAIN-SUFFIX,source.roboflow.com
 DOMAIN-SUFFIX,cdn.roboflow.com
 DOMAIN-SUFFIX,app.roboflow.com
 DOMAIN-SUFFIX,api.roboflow.com
+DOMAIN-SUFFIX,prod-images.rippling.com
 DOMAIN-SUFFIX,staticsource1.redotpay.com
 DOMAIN-SUFFIX,redircdn.com
 DOMAIN-SUFFIX,cacerts.rapidssl.com
@@ -3690,6 +3691,7 @@ DOMAIN-SUFFIX,img3.yna.co.kr
 DOMAIN-SUFFIX,img2.yna.co.kr
 DOMAIN-SUFFIX,img1.yna.co.kr
 DOMAIN-SUFFIX,img0.yna.co.kr
+DOMAIN-SUFFIX,img.yna.co.kr
 DOMAIN-SUFFIX,media.cmx.edu.kg
 DOMAIN-SUFFIX,misskeyusercontent.jp
 DOMAIN-SUFFIX,edge.storage-yahoo.jp
@@ -4011,6 +4013,7 @@ DOMAIN-SUFFIX,cdn.prod.www.spiegel.de
 DOMAIN-SUFFIX,www.acgpix.de
 DOMAIN-SUFFIX,cdn.ionos.de
 DOMAIN-SUFFIX,ipfs.slang.cx
+DOMAIN-SUFFIX,assets.openalternative.co
 DOMAIN-SUFFIX,cdn.stackoverflow.co
 DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
 DOMAIN-SUFFIX,cdn-uploads.huggingface.co
