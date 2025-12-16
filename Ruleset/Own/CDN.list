@@ -1,20 +1,21 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4138
+# DOMAIN-SUFFIX: 4142
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4164
-# UPDATED: 2025-12-16 14:44:08
+# TOTAL: 4168
+# UPDATED: 2025-12-16 20:59:56
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-15T08:31:04.612Z
-# Size: 4138
+# Last Updated: 2025-12-16T14:50:28.941Z
+# Size: 4142
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 DOMAIN-SUFFIX,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
+DOMAIN-SUFFIX,website-media
 DOMAIN-SUFFIX,static.microsoft
 DOMAIN-SUFFIX,cdn.arcade.software
 DOMAIN-SUFFIX,media.infosec.exchange
@@ -56,6 +57,7 @@ DOMAIN-SUFFIX,fonts1.unidays.world
 DOMAIN-SUFFIX,tubi.video
 DOMAIN-SUFFIX,img.api.video
 DOMAIN-SUFFIX,namedotcom-cdn.name.tools
+DOMAIN-SUFFIX,openreplay-new.deel.tools
 DOMAIN-SUFFIX,pics.javhd.today
 DOMAIN-SUFFIX,eth.sucks
 DOMAIN-SUFFIX,vanilla-extract.style
@@ -2166,6 +2168,7 @@ DOMAIN-SUFFIX,lowescdn.com
 DOMAIN-SUFFIX,media.loom-app.com
 DOMAIN-SUFFIX,linkstorage.linkfire.com
 DOMAIN-SUFFIX,services.linkfire.com
+DOMAIN-SUFFIX,media.letsdeel.com
 DOMAIN-SUFFIX,static-lccn.leetcode.com
 DOMAIN-SUFFIX,assets.leetcode.com
 DOMAIN-SUFFIX,cdn.leandata.com
@@ -2336,6 +2339,7 @@ DOMAIN-SUFFIX,zohocdn.com
 DOMAIN-SUFFIX,cdn.zigpoll.com
 DOMAIN-SUFFIX,media.zestyio.com
 DOMAIN-SUFFIX,web-assets.zendesk.com
+DOMAIN-SUFFIX,assets.zendesk.com
 DOMAIN-SUFFIX,img.youtube.com
 DOMAIN-SUFFIX,cdne-pics.youjizz.com
 DOMAIN-SUFFIX,yelpcdn.com
@@ -3289,7 +3293,6 @@ DOMAIN-SUFFIX,assets.goat.com
 DOMAIN-SUFFIX,image.goat.com
 DOMAIN-SUFFIX,fsdn.com
 DOMAIN-SUFFIX,images.dmca.com
-DOMAIN-SUFFIX,website-media.deel.com
 DOMAIN-SUFFIX,sf-coze-web-cdn.coze.com
 DOMAIN-SUFFIX,zephr-templates.cnbc.com
 DOMAIN-SUFFIX,production-cmp.isgprivacy.cbsi.com
@@ -3402,6 +3405,7 @@ DOMAIN-SUFFIX,a.pomf.cat
 DOMAIN-SUFFIX,oss.moe.cat
 DOMAIN-SUFFIX,ns-cdn.neustar.biz
 DOMAIN-SUFFIX,pics.mf8.biz
+DOMAIN-SUFFIX,static.sdkassets.chime.aws
 DOMAIN-SUFFIX,ipfs.kaleido.art
 DOMAIN-SUFFIX,disco-static.productessentials.app
 DOMAIN-SUFFIX,cdn.giftcardpro.app
