@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4142
+# DOMAIN-SUFFIX: 4149
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4168
-# UPDATED: 2025-12-17 14:43:11
+# TOTAL: 4175
+# UPDATED: 2025-12-17 20:59:58
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-16T14:50:28.941Z
-# Size: 4142
+# Last Updated: 2025-12-17T17:03:56.966Z
+# Size: 4149
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -116,6 +116,7 @@ DOMAIN-SUFFIX,res2.weblium.site
 DOMAIN-SUFFIX,nextra.site
 DOMAIN-SUFFIX,p.inari.site
 DOMAIN-SUFFIX,imgfile.shop
+DOMAIN-SUFFIX,placeholder.pics
 DOMAIN-SUFFIX,am-cdn.pics
 DOMAIN-SUFFIX,codeberg.page
 DOMAIN-SUFFIX,instant.page
@@ -846,6 +847,7 @@ DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,tuf-repo-cdn.sigstore.dev
 DOMAIN-SUFFIX,pkg-size.dev
 DOMAIN-SUFFIX,cdn-web.orbstack.dev
+DOMAIN-SUFFIX,logos.composio.dev
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,skypack.dev
 DOMAIN-SUFFIX,angular.dev
@@ -1969,6 +1971,7 @@ DOMAIN-SUFFIX,webstatic.chargebee.com
 DOMAIN-SUFFIX,js1.chargebee.com
 DOMAIN-SUFFIX,js.chargebee.com
 DOMAIN-SUFFIX,cdn.changelog.com
+DOMAIN-SUFFIX,cdn-plain.com
 DOMAIN-SUFFIX,sequoia.cdn-apple.com
 DOMAIN-SUFFIX,doppler-config.cbsivideo.com
 DOMAIN-SUFFIX,www-res.cablelabs.com
@@ -2499,6 +2502,8 @@ DOMAIN-SUFFIX,images.moegoat.com
 DOMAIN-SUFFIX,mktgcdn.com
 DOMAIN-SUFFIX,mintcdn.com
 DOMAIN-SUFFIX,image.mgstage.com
+DOMAIN-SUFFIX,acdn.mercury.com
+DOMAIN-SUFFIX,cdn.mercury.com
 DOMAIN-SUFFIX,static.maxmind.com
 DOMAIN-SUFFIX,img-cos.mandaoo.com
 DOMAIN-SUFFIX,assets.mailgun.com
@@ -3648,6 +3653,7 @@ DOMAIN-SUFFIX,javplayer.me
 DOMAIN-SUFFIX,dnvodcdn.me
 DOMAIN-SUFFIX,cdn.daradara.me
 DOMAIN-SUFFIX,cf.javfree.me
+DOMAIN-SUFFIX,circle-flags.zeljko.me
 DOMAIN-SUFFIX,cdn.picrew.me
 DOMAIN-SUFFIX,cdn.glitch.me
 DOMAIN-SUFFIX,static.start.me
@@ -3801,6 +3807,7 @@ DOMAIN-SUFFIX,media.hachyderm.io
 DOMAIN-SUFFIX,static.getbutton.io
 DOMAIN-SUFFIX,crossbell.io
 DOMAIN-SUFFIX,corsproxy.io
+DOMAIN-SUFFIX,assets.mcp.corespeed.io
 DOMAIN-SUFFIX,sandpack-cdn-staging.blazingly.io
 DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,img.badgesize.io
