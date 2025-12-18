@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-17T17:03:56.966Z
-# Size: 4149
+# Last Updated: 2025-12-18T09:19:04.386Z
+# Size: 4153
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1050,6 +1050,7 @@ DOMAIN-SUFFIX,datocms-assets.com
 DOMAIN-SUFFIX,customeriomail.com
 DOMAIN-SUFFIX,crunchyrollcdn.com
 DOMAIN-SUFFIX,colliderimages.com
+DOMAIN-SUFFIX,betterstackcdn.com
 DOMAIN-SUFFIX,b2c-contenthub.com
 DOMAIN-SUFFIX,cdn.answeroverflow.com
 DOMAIN-SUFFIX,alonestreaming.com
@@ -3433,6 +3434,7 @@ DOMAIN-SUFFIX,e.linear.app
 DOMAIN-SUFFIX,giscus.app
 DOMAIN-SUFFIX,udify.app
 DOMAIN-SUFFIX,tauri.app
+DOMAIN-SUFFIX,chat-assets.front.app
 DOMAIN-SUFFIX,xlog.app
 DOMAIN-SUFFIX,cdn.rive.app
 DOMAIN-SUFFIX,web-cdn.bsky.app
@@ -3445,6 +3447,7 @@ DOMAIN-SUFFIX,cdn.24.co.za
 DOMAIN-SUFFIX,ipfs.yt
 DOMAIN-SUFFIX,s.pacn.ws
 DOMAIN-SUFFIX,imageshack.us
+DOMAIN-SUFFIX,appstatico.electronic.us
 DOMAIN-SUFFIX,cdn.donmai.us
 DOMAIN-SUFFIX,us01ccistatic.zoom.us
 DOMAIN-SUFFIX,eu01ccistatic.zoom.us
@@ -3801,6 +3804,7 @@ DOMAIN-SUFFIX,media.hachyderm.io
 DOMAIN-SUFFIX,static.getbutton.io
 DOMAIN-SUFFIX,crossbell.io
 DOMAIN-SUFFIX,corsproxy.io
+DOMAIN-SUFFIX,r2cdn.corespeed.io
 DOMAIN-SUFFIX,assets.mcp.corespeed.io
 DOMAIN-SUFFIX,sandpack-cdn-staging.blazingly.io
 DOMAIN-SUFFIX,bitbucket.io
