@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 138
-# DOMAIN-SUFFIX: 32991
+# DOMAIN-SUFFIX: 32994
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33343
-# UPDATED: 2025-12-19 14:41:12
+# TOTAL: 33346
+# UPDATED: 2025-12-19 20:56:40
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-12-13T06:49:01.342Z
-# Size: 1225
+# Last Updated: 2025-12-19T15:11:40.923Z
+# Size: 1226
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1127,6 +1127,7 @@ DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,coveralls.io
 DOMAIN-SUFFIX,codeshare.io
 DOMAIN-SUFFIX,bitbucket.io
+DOMAIN-SUFFIX,readwise.io
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,imagekit.io
@@ -7634,14 +7635,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-16 02:08:30
+# UPDATED: 2025-12-20 02:08:18
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6559
+# DOMAIN-SUFFIX: 6561
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6699
+# TOTAL: 6701
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7687,6 +7688,7 @@ DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.com
+DOMAIN-SUFFIX,bitbaby.com
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
@@ -7772,6 +7774,7 @@ DOMAIN-SUFFIX,hpa.gov.tw
 DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,id.hao123.com
+DOMAIN-SUFFIX,idcflare.com
 DOMAIN-SUFFIX,immigration.gov.tw
 DOMAIN-SUFFIX,imore.com
 DOMAIN-SUFFIX,imtoken.fans
@@ -8016,14 +8019,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-12-18 02:08:02
+# UPDATED: 2025-12-20 02:07:57
 # DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32337
+# DOMAIN-SUFFIX: 32340
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32653
+# TOTAL: 32656
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
