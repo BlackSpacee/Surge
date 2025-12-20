@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-19T15:11:41.869Z
-# Size: 4157
+# Last Updated: 2025-12-20T14:01:57.067Z
+# Size: 4159
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1440,6 +1440,7 @@ DOMAIN-SUFFIX,cloudfront.codeproject.com
 DOMAIN-SUFFIX,cloudatacdn.com
 DOMAIN-SUFFIX,cdn-website.com
 DOMAIN-SUFFIX,events.ld.catamorphic.com
+DOMAIN-SUFFIX,cartastatic.com
 DOMAIN-SUFFIX,cdn.calibermind.com
 DOMAIN-SUFFIX,e.calibermind.com
 DOMAIN-SUFFIX,bstarstatic.com
@@ -2778,6 +2779,7 @@ DOMAIN-SUFFIX,heatmap-external-a.strava.com
 DOMAIN-SUFFIX,web-assets.strava.com
 DOMAIN-SUFFIX,content-a.strava.com
 DOMAIN-SUFFIX,cdn-1.strava.com
+DOMAIN-SUFFIX,cdn.stonly.com
 DOMAIN-SUFFIX,ss-cdn.com
 DOMAIN-SUFFIX,sndimg.com
 DOMAIN-SUFFIX,sndcdn.com
