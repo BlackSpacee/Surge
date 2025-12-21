@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 138
-# DOMAIN-SUFFIX: 32994
+# DOMAIN-SUFFIX: 33002
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33346
-# UPDATED: 2025-12-21 14:39:53
+# TOTAL: 33354
+# UPDATED: 2025-12-21 20:53:00
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7635,14 +7635,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-20 02:08:18
+# UPDATED: 2025-12-22 02:08:23
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6561
+# DOMAIN-SUFFIX: 6562
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6701
+# TOTAL: 6702
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7874,6 +7874,7 @@ DOMAIN-SUFFIX,paddleapi.com
 DOMAIN-SUFFIX,paoluz.com
 DOMAIN-SUFFIX,paoluz.link
 DOMAIN-SUFFIX,parallels.com
+DOMAIN-SUFFIX,partnerstack.xyz
 DOMAIN-SUFFIX,pcc.gov.tw
 DOMAIN-SUFFIX,pdfexpert.com
 DOMAIN-SUFFIX,piaotian.net
@@ -8019,14 +8020,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-12-20 02:07:57
+# UPDATED: 2025-12-22 02:08:02
 # DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32340
+# DOMAIN-SUFFIX: 32348
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32656
+# TOTAL: 32664
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -14950,6 +14951,8 @@ DOMAIN-SUFFIX,dlsitestudio.com
 DOMAIN-SUFFIX,dm-event.net
 DOMAIN-SUFFIX,dmed.technology
 DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
+DOMAIN-SUFFIX,dmit.io
+DOMAIN-SUFFIX,dmit.sh
 DOMAIN-SUFFIX,dml-lang.org
 DOMAIN-SUFFIX,dml.ac.uk
 DOMAIN-SUFFIX,dmm-extension.com
@@ -15972,6 +15975,7 @@ DOMAIN-SUFFIX,entrust.com
 DOMAIN-SUFFIX,entrustdatacard.com
 DOMAIN-SUFFIX,enveast.ac.uk
 DOMAIN-SUFFIX,environment-health.ac.uk
+DOMAIN-SUFFIX,eotarchive.org
 DOMAIN-SUFFIX,epa.gov.tw
 DOMAIN-SUFFIX,epc.ac.uk
 DOMAIN-SUFFIX,epic.ac.uk
@@ -17795,6 +17799,7 @@ DOMAIN-SUFFIX,ggsrv.com
 DOMAIN-SUFFIX,ghbi.ir
 DOMAIN-SUFFIX,ghettotube.com
 DOMAIN-SUFFIX,ghil.ac.uk
+DOMAIN-SUFFIX,ghostarchive.org
 DOMAIN-SUFFIX,ghostgames.com
 DOMAIN-SUFFIX,ghtv666.top
 DOMAIN-SUFFIX,giantessbooru.com
@@ -22561,6 +22566,7 @@ DOMAIN-SUFFIX,melonbooks.co.jp
 DOMAIN-SUFFIX,melonstube.com
 DOMAIN-SUFFIX,meme111.com
 DOMAIN-SUFFIX,memealerts.com
+DOMAIN-SUFFIX,mementoweb.org
 DOMAIN-SUFFIX,men.com
 DOMAIN-SUFFIX,men18.net
 DOMAIN-SUFFIX,menai.ac.uk
@@ -25649,6 +25655,7 @@ DOMAIN-SUFFIX,perfectshemales.com
 DOMAIN-SUFFIX,perfecttitspics.com
 DOMAIN-SUFFIX,performancescience.ac.uk
 DOMAIN-SUFFIX,perl.org
+DOMAIN-SUFFIX,perma.cc
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,persagg.com
 DOMAIN-SUFFIX,pershore.ac.uk
@@ -31731,6 +31738,7 @@ DOMAIN-SUFFIX,webcamjackers.com
 DOMAIN-SUFFIX,webcammedellin.co
 DOMAIN-SUFFIX,webcams.tv
 DOMAIN-SUFFIX,webcamtubexxx.com
+DOMAIN-SUFFIX,webcitation.org
 DOMAIN-SUFFIX,webex.ca
 DOMAIN-SUFFIX,webex.co.in
 DOMAIN-SUFFIX,webex.co.it
