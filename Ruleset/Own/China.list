@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 355
-# DOMAIN-SUFFIX: 117527
+# DOMAIN-SUFFIX: 117526
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12217
+# IP-CIDR: 12218
 # IP-CIDR6: 12300
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 142551
-# UPDATED: 2025-12-21 20:53:00
+# UPDATED: 2025-12-22 02:36:41
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -74,8 +74,8 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2025-12-21T18:26:22.852Z
-# Size: 221
+# Last Updated: 2025-12-21T18:49:38.484Z
+# Size: 220
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,bogon
@@ -137,7 +137,6 @@ DOMAIN-SUFFIX,joyhd.net
 DOMAIN-SUFFIX,m2m
 DOMAIN-SUFFIX,blackwell-synergy.com
 DOMAIN-SUFFIX,springernature.com
-DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,pterclub.com
@@ -1085,8 +1084,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2025-12-21T17:09:11.073Z
-# Size: 3941
+# Last Updated: 2025-12-21T18:49:40.095Z
+# Size: 3942
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -2139,6 +2138,7 @@ IP-CIDR,103.91.176.0/22
 IP-CIDR,103.93.180.0/22
 IP-CIDR,103.93.204.0/22
 IP-CIDR,103.94.12.0/22
+IP-CIDR,103.94.200.0/22
 IP-CIDR,103.95.68.0/22
 IP-CIDR,103.95.252.0/22
 IP-CIDR,103.96.8.0/22
