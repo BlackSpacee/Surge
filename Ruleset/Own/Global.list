@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 138
-# DOMAIN-SUFFIX: 33002
+# DOMAIN-SUFFIX: 33003
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33354
-# UPDATED: 2025-12-23 14:44:57
+# TOTAL: 33355
+# UPDATED: 2025-12-23 20:58:56
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7635,14 +7635,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-22 02:08:23
+# UPDATED: 2025-12-24 02:08:18
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6562
+# DOMAIN-SUFFIX: 6563
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6702
+# TOTAL: 6703
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7913,6 +7913,7 @@ DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,st.luluku.pw
 DOMAIN-SUFFIX,stat.gov.tw
 DOMAIN-SUFFIX,state.gov
+DOMAIN-SUFFIX,static.pocketcasts.com
 DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,symauth.com
