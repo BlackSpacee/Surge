@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4160
+# DOMAIN-SUFFIX: 4162
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4186
-# UPDATED: 2025-12-24 10:08:54
+# TOTAL: 4188
+# UPDATED: 2025-12-24 14:44:18
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-21T09:17:32.080Z
-# Size: 4160
+# Last Updated: 2025-12-24T09:47:12.696Z
+# Size: 4162
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -109,6 +109,7 @@ DOMAIN-SUFFIX,tn.txxx.tube
 DOMAIN-SUFFIX,js.txxx.tube
 DOMAIN-SUFFIX,ipfs.d.tube
 DOMAIN-SUFFIX,media.remax-prod.eng.remax.tech
+DOMAIN-SUFFIX,static.pepy.tech
 DOMAIN-SUFFIX,packages.jetbrains.team
 DOMAIN-SUFFIX,pkg-cdn.jetbrains.team
 DOMAIN-SUFFIX,zenwave56.site
@@ -815,6 +816,7 @@ DOMAIN-SUFFIX,fonts.cat.net
 DOMAIN-SUFFIX,cdnjs.cat.net
 DOMAIN-SUFFIX,ajax.cat.net
 DOMAIN-SUFFIX,static.bangumi.moe
+DOMAIN-SUFFIX,r2.dejavu.moe
 DOMAIN-SUFFIX,static.chaika.moe
 DOMAIN-SUFFIX,pic.cangku.moe
 DOMAIN-SUFFIX,touchgal-image.moyu.moe
