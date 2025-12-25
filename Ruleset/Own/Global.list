@@ -1,18 +1,18 @@
 # NAME: Global
 # DOMAIN: 138
-# DOMAIN-SUFFIX: 33003
+# DOMAIN-SUFFIX: 33017
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33355
-# UPDATED: 2025-12-25 14:42:59
+# TOTAL: 33369
+# UPDATED: 2025-12-25 20:56:04
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-12-19T15:11:40.923Z
-# Size: 1226
+# Last Updated: 2025-12-25T13:38:24.845Z
+# Size: 1227
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -567,6 +567,7 @@ DOMAIN-SUFFIX,sendbird.com
 DOMAIN-SUFFIX,scp-wiki.com
 DOMAIN-SUFFIX,saucenao.com
 DOMAIN-SUFFIX,roboflow.com
+DOMAIN-SUFFIX,regex101.com
 DOMAIN-SUFFIX,recombee.com
 DOMAIN-SUFFIX,quillbot.com
 DOMAIN-SUFFIX,porntube.com
@@ -7635,14 +7636,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-24 02:08:18
+# UPDATED: 2025-12-26 02:08:27
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6563
+# DOMAIN-SUFFIX: 6564
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6703
+# TOTAL: 6704
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7846,6 +7847,7 @@ DOMAIN-SUFFIX,mx.hao123.com
 DOMAIN-SUFFIX,myfontastic.com
 DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,nat.gov.tw
+DOMAIN-SUFFIX,nephobox.com
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,netmarble.com
 DOMAIN-SUFFIX,nhi.gov.tw
@@ -8021,14 +8023,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-12-22 02:08:02
+# UPDATED: 2025-12-26 02:08:06
 # DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32348
+# DOMAIN-SUFFIX: 32362
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32664
+# TOTAL: 32678
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -8168,6 +8170,7 @@ DOMAIN-SUFFIX,1111modpo.info
 DOMAIN-SUFFIX,112263.com
 DOMAIN-SUFFIX,114av.xyz
 DOMAIN-SUFFIX,114bank.co.jp
+DOMAIN-SUFFIX,119474.xyz
 DOMAIN-SUFFIX,11jav.com
 DOMAIN-SUFFIX,123-hp.com
 DOMAIN-SUFFIX,123bin.cc
@@ -13734,6 +13737,7 @@ DOMAIN-SUFFIX,collemergencymed.ac.uk
 DOMAIN-SUFFIX,colliderporn.com
 DOMAIN-SUFFIX,collins.co.uk
 DOMAIN-SUFFIX,collins.in
+DOMAIN-SUFFIX,collinsdictionary.com
 DOMAIN-SUFFIX,collyers.ac.uk
 DOMAIN-SUFFIX,colombianas.webcam
 DOMAIN-SUFFIX,colorfulstage.com
@@ -17484,6 +17488,7 @@ DOMAIN-SUFFIX,futanarihq.com
 DOMAIN-SUFFIX,futhead.com
 DOMAIN-SUFFIX,futpromos.com
 DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuhkapp.com
 DOMAIN-SUFFIX,futuholdings.com
 DOMAIN-SUFFIX,futunited.com
 DOMAIN-SUFFIX,future-media.ac.uk
@@ -21384,6 +21389,7 @@ DOMAIN-SUFFIX,lct.ac.uk
 DOMAIN-SUFFIX,lcuck.ac.uk
 DOMAIN-SUFFIX,lcwc.ac.uk
 DOMAIN-SUFFIX,ldoc-cdt.ac.uk
+DOMAIN-SUFFIX,ldoceonline.com
 DOMAIN-SUFFIX,ldstatic.com
 DOMAIN-SUFFIX,le-direct.tv
 DOMAIN-SUFFIX,le.ac.uk
@@ -22576,6 +22582,7 @@ DOMAIN-SUFFIX,mendel.ac.uk
 DOMAIN-SUFFIX,mendeley.com
 DOMAIN-SUFFIX,mengnan.shop
 DOMAIN-SUFFIX,menhdv.com
+DOMAIN-SUFFIX,mensheaven.jp
 DOMAIN-SUFFIX,menshin-channel.com
 DOMAIN-SUFFIX,meoriental.com
 DOMAIN-SUFFIX,meplg.ac.uk
@@ -24102,6 +24109,7 @@ DOMAIN-SUFFIX,newman.ac.uk
 DOMAIN-SUFFIX,newmonst1erbeatsto1re.com
 DOMAIN-SUFFIX,newmonsterbeatsheadphones.com
 DOMAIN-SUFFIX,newphd.ac.uk
+DOMAIN-SUFFIX,newpipe.net
 DOMAIN-SUFFIX,newport.ac.uk
 DOMAIN-SUFFIX,newpppp.com
 DOMAIN-SUFFIX,newroutephd.ac.uk
@@ -27028,7 +27036,6 @@ DOMAIN-SUFFIX,regentcollegelondon.ac.uk
 DOMAIN-SUFFIX,regents-tc.ac.uk
 DOMAIN-SUFFIX,regents.ac.uk
 DOMAIN-SUFFIX,regentscollege.ac.uk
-DOMAIN-SUFFIX,regex101.com
 DOMAIN-SUFFIX,regional-studies-assoc.ac.uk
 DOMAIN-SUFFIX,regionalhpc.ac.uk
 DOMAIN-SUFFIX,regionalsciencecentreoldham.ac.uk
@@ -30730,6 +30737,7 @@ DOMAIN-SUFFIX,usvimosquito.com
 DOMAIN-SUFFIX,usvimosquitoproject.com
 DOMAIN-SUFFIX,usw.ac.uk
 DOMAIN-SUFFIX,utcreading.ac.uk
+DOMAIN-SUFFIX,uug22.com
 DOMAIN-SUFFIX,uug23.com
 DOMAIN-SUFFIX,uug25.com
 DOMAIN-SUFFIX,uug26.com
@@ -31582,6 +31590,11 @@ DOMAIN-SUFFIX,vpro.com
 DOMAIN-SUFFIX,vpro.net
 DOMAIN-SUFFIX,vrbgay.com
 DOMAIN-SUFFIX,vrcams.io
+DOMAIN-SUFFIX,vrcdn.cloud
+DOMAIN-SUFFIX,vrcdn.live
+DOMAIN-SUFFIX,vrcdn.video
+DOMAIN-SUFFIX,vrchat.cloud
+DOMAIN-SUFFIX,vrchat.net
 DOMAIN-SUFFIX,vred-essentials.com
 DOMAIN-SUFFIX,vredessentials.com
 DOMAIN-SUFFIX,vredprofessional.com
@@ -31760,6 +31773,7 @@ DOMAIN-SUFFIX,webgirlsonline.net
 DOMAIN-SUFFIX,webhosting.com
 DOMAIN-SUFFIX,webkit.org
 DOMAIN-SUFFIX,webkitgtk.org
+DOMAIN-SUFFIX,weblate.org
 DOMAIN-SUFFIX,webmoneyinfo.com
 DOMAIN-SUFFIX,webnovel.com
 DOMAIN-SUFFIX,webobjects.co.uk

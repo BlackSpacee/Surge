@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2025-12-21T18:49:38.484Z
-# Size: 220
+# Last Updated: 2025-12-25T17:10:34.942Z
+# Size: 221
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -112,6 +112,7 @@ DOMAIN-SUFFIX,huaweimobilewifi.com
 DOMAIN-SUFFIX,springernature.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,instant.arubanetworks.com
+DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,asusrouter.com
 DOMAIN-SUFFIX,nanyangpt.com
@@ -229,4 +230,3 @@ PROCESS-NAME,Logi Options Daemon
 #
 #
 ################## EOF ##################
-
