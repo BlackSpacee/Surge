@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-26T01:37:38.155Z
-# Size: 4166
+# Last Updated: 2025-12-27T11:54:20.860Z
+# Size: 4169
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1088,7 +1088,7 @@ DOMAIN-SUFFIX,cdn.prowritingaid.com
 DOMAIN-SUFFIX,cdn.printfriendly.com
 DOMAIN-SUFFIX,pressidiumcdn.com
 DOMAIN-SUFFIX,media.pointandplace.com
-DOMAIN-SUFFIX,www.paypalobjects.com
+DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,oreillystatic.com
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,agechecker.northern-apps.com
@@ -1189,6 +1189,7 @@ DOMAIN-SUFFIX,pressablecdn.com
 DOMAIN-SUFFIX,ui.powerreviews.com
 DOMAIN-SUFFIX,js.partnerstack.com
 DOMAIN-SUFFIX,sbl.onfastspring.com
+DOMAIN-SUFFIX,cdn.onfastspring.com
 DOMAIN-SUFFIX,onelink-edge.com
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,omnisnippet1.com
@@ -1276,6 +1277,7 @@ DOMAIN-SUFFIX,widgets.zohosalesiq.com
 DOMAIN-SUFFIX,images.youracclaim.com
 DOMAIN-SUFFIX,bookface-static.ycombinator.com
 DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,image.worthepenny.com
 DOMAIN-SUFFIX,storage.windiscover.com
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,static.webclicks24.com
@@ -3441,6 +3443,7 @@ DOMAIN-SUFFIX,uploads.linear.app
 DOMAIN-SUFFIX,cms-cdn.linear.app
 DOMAIN-SUFFIX,static.linear.app
 DOMAIN-SUFFIX,public.linear.app
+DOMAIN-SUFFIX,s.linear.app
 DOMAIN-SUFFIX,e.linear.app
 DOMAIN-SUFFIX,giscus.app
 DOMAIN-SUFFIX,udify.app
