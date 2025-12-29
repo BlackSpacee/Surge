@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 135
-# DOMAIN-SUFFIX: 33018
+# DOMAIN-SUFFIX: 33022
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33367
-# UPDATED: 2025-12-29 14:46:54
+# TOTAL: 33371
+# UPDATED: 2025-12-29 21:00:02
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7633,14 +7633,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-28 02:08:10
+# UPDATED: 2025-12-30 02:08:27
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6565
+# DOMAIN-SUFFIX: 6567
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6705
+# TOTAL: 6707
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7659,6 +7659,7 @@ DOMAIN-SUFFIX,ae.hao123.com
 DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,aiss.anws.gov.tw
 DOMAIN-SUFFIX,alfredapp.com
+DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,amazon.co
 DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
@@ -7754,6 +7755,7 @@ DOMAIN-SUFFIX,gabia.net
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,getcloudapp.com
 DOMAIN-SUFFIX,getpricetag.com
+DOMAIN-SUFFIX,gfwbao.com
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,ghostnoteapp.com
@@ -8021,14 +8023,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2025-12-28 02:07:49
+# UPDATED: 2025-12-30 02:08:05
 # DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32363
+# DOMAIN-SUFFIX: 32367
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32679
+# TOTAL: 32683
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -9311,7 +9313,6 @@ DOMAIN-SUFFIX,alivertsm.com
 DOMAIN-SUFFIX,alivevm.com
 DOMAIN-SUFFIX,alivevmax.com
 DOMAIN-SUFFIX,alivevue.com
-DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,all-sex-links.com
 DOMAIN-SUFFIX,all3dsexpics.com
 DOMAIN-SUFFIX,allcu.ac.uk
@@ -10116,6 +10117,7 @@ DOMAIN-SUFFIX,archiveshub.ac.uk
 DOMAIN-SUFFIX,archivx.to
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
+DOMAIN-SUFFIX,archlinuxcn.org
 DOMAIN-SUFFIX,archway.ac.uk
 DOMAIN-SUFFIX,arcom.ac.uk
 DOMAIN-SUFFIX,arcraiders.com
@@ -17971,6 +17973,7 @@ DOMAIN-SUFFIX,gobuildx.net
 DOMAIN-SUFFIX,gobuyonlinestore.net
 DOMAIN-SUFFIX,gockhuatviet.com
 DOMAIN-SUFFIX,godalming.ac.uk
+DOMAIN-SUFFIX,godbolt.org
 DOMAIN-SUFFIX,goduckgo.com
 DOMAIN-SUFFIX,goetec.ac.uk
 DOMAIN-SUFFIX,gofile.me
@@ -27481,6 +27484,7 @@ DOMAIN-SUFFIX,samsunggalaxyfriends.com
 DOMAIN-SUFFIX,samsunghealth.com
 DOMAIN-SUFFIX,samsungiotcloud.com
 DOMAIN-SUFFIX,samsungknox.com
+DOMAIN-SUFFIX,samsungosp.com
 DOMAIN-SUFFIX,samsungqbe.com
 DOMAIN-SUFFIX,samsungrs.com
 DOMAIN-SUFFIX,sandisk.ae
