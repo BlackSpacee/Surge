@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-12-27T07:02:27.590Z
-# Size: 1224
+# Last Updated: 2025-12-31T17:55:18.691Z
+# Size: 1235
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,taipei
+DOMAIN-SUFFIX,studio
 DOMAIN-SUFFIX,social
 DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,animes.garden
@@ -180,6 +181,7 @@ DOMAIN-SUFFIX,sysctl-explorer.net
 DOMAIN-SUFFIX,minecraftforum.net
 DOMAIN-SUFFIX,hubspotstarter.net
 DOMAIN-SUFFIX,cloudfunctions.net
+DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,vesselfinder.net
 DOMAIN-SUFFIX,tokto-motion.net
@@ -296,6 +298,7 @@ DOMAIN-SUFFIX,orbstack.dev
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,sentry.dev
 DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,zenn.dev
 DOMAIN-SUFFIX,web.dev
 DOMAIN-SUFFIX,fly.dev
@@ -311,13 +314,16 @@ DOMAIN-SUFFIX,precisionhydration.com
 DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudflareresolve.com
+DOMAIN-SUFFIX,cloudflarepreview.com
 DOMAIN-SUFFIX,chromeexperiments.com
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,smashingmagazine.com
 DOMAIN-SUFFIX,fastly-analytics.com
 DOMAIN-SUFFIX,elasticbeanstalk.com
+DOMAIN-SUFFIX,cloudflaretunnel.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,bleepingcomputer.com
@@ -329,6 +335,7 @@ DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,spankinglibrary.com
 DOMAIN-SUFFIX,perfect-privacy.com
 DOMAIN-SUFFIX,downdetectorapi.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,businessinsider.com
 DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,thefreelibrary.com
@@ -338,9 +345,11 @@ DOMAIN-SUFFIX,rottentomatoes.com
 DOMAIN-SUFFIX,redtubepremium.com
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,line-apps-beta.com
+DOMAIN-SUFFIX,cloudflareapps.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,adguardaccount.com
 DOMAIN-SUFFIX,xpressunblock.com
+DOMAIN-SUFFIX,trycloudflare.com
 DOMAIN-SUFFIX,thaiheadlines.com
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,stackexchange.com
@@ -705,6 +714,7 @@ DOMAIN-SUFFIX,haproxy.com
 DOMAIN-SUFFIX,hanime1.com
 DOMAIN-SUFFIX,gumroad.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,grafana.com
 DOMAIN-SUFFIX,gooogle.com
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,gitbook.com
@@ -718,6 +728,7 @@ DOMAIN-SUFFIX,drtuber.com
 DOMAIN-SUFFIX,doujins.com
 DOMAIN-SUFFIX,dnsleak.com
 DOMAIN-SUFFIX,detnews.com
+DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,camsoda.com
 DOMAIN-SUFFIX,blogger.com
