@@ -1,13 +1,13 @@
 # NAME: Global
-# DOMAIN: 135
-# DOMAIN-SUFFIX: 33027
+# DOMAIN: 132
+# DOMAIN-SUFFIX: 33030
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 33376
-# UPDATED: 2026-01-01 14:44:02
+# UPDATED: 2026-01-01 20:57:03
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -8032,10 +8032,10 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-01-01 02:08:01
-# DOMAIN: 117
+# UPDATED: 2026-01-02 02:07:46
+# DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32369
+# DOMAIN-SUFFIX: 32372
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
@@ -8043,7 +8043,6 @@ USER-AGENT,hearthstone*
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
-DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api-p.videomarket.jp
 DOMAIN,apple.com.akadns.net
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
@@ -8133,11 +8132,9 @@ DOMAIN,rsshub.rssforever.com
 DOMAIN,rsshub.umzzz.com
 DOMAIN,rsshub.woodland.cafe
 DOMAIN,rsshub2.asailor.org
-DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 DOMAIN,tesla-cdn.thron.com
 DOMAIN,time.windows.com
-DOMAIN,tmdb-image-prod.b-cdn.net
 DOMAIN,translomatic.foxfortmobile.com
 DOMAIN,ut1-time.colorado.edu
 DOMAIN,utcnist.colorado.edu
@@ -10695,6 +10692,7 @@ DOMAIN-SUFFIX,azureplanetscale.net
 DOMAIN-SUFFIX,azureserviceprofiler.com
 DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,b-eroland.net
 DOMAIN-SUFFIX,b-ok.africa
 DOMAIN-SUFFIX,b-ok.asia
@@ -12562,6 +12560,8 @@ DOMAIN-SUFFIX,bumptop.net
 DOMAIN-SUFFIX,bumptop.org
 DOMAIN-SUFFIX,bumptunes.com
 DOMAIN-SUFFIX,bunka.go.jp
+DOMAIN-SUFFIX,bunny.net
+DOMAIN-SUFFIX,bunnycdn.com
 DOMAIN-SUFFIX,bunnylust.com
 DOMAIN-SUFFIX,burningcamel.com
 DOMAIN-SUFFIX,burnley.ac.uk
