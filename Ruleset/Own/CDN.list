@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4172
+# DOMAIN-SUFFIX: 4180
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4198
-# UPDATED: 2026-01-02 10:19:40
+# TOTAL: 4206
+# UPDATED: 2026-01-02 14:44:20
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-01T14:29:16.012Z
-# Size: 4172
+# Last Updated: 2026-01-02T08:26:52.832Z
+# Size: 4180
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -108,7 +108,7 @@ DOMAIN-SUFFIX,ipfs.litnet.work
 DOMAIN-SUFFIX,static.frame.work
 DOMAIN-SUFFIX,tn.txxx.tube
 DOMAIN-SUFFIX,js.txxx.tube
-DOMAIN-SUFFIX,ipfs.d.tube
+DOMAIN-SUFFIX,media.d.tube
 DOMAIN-SUFFIX,media.remax-prod.eng.remax.tech
 DOMAIN-SUFFIX,static.pepy.tech
 DOMAIN-SUFFIX,packages.jetbrains.team
@@ -240,6 +240,7 @@ DOMAIN-SUFFIX,pichost.top
 DOMAIN-SUFFIX,gitcdn.top
 DOMAIN-SUFFIX,balley.top
 DOMAIN-SUFFIX,akidoo.top
+DOMAIN-SUFFIX,dget.top
 DOMAIN-SUFFIX,css.4jpg.top
 DOMAIN-SUFFIX,cktu01.sbs
 DOMAIN-SUFFIX,bundle.run
@@ -650,7 +651,6 @@ DOMAIN-SUFFIX,cdn.mozilla.net
 DOMAIN-SUFFIX,minotar.net
 DOMAIN-SUFFIX,jscloud.net
 DOMAIN-SUFFIX,pg2dhpc3p5ec22g3.jkforum.net
-DOMAIN-SUFFIX,play.izanmei.net
 DOMAIN-SUFFIX,file.izanmei.net
 DOMAIN-SUFFIX,cdn-img3.iporntv.net
 DOMAIN-SUFFIX,cdn-img2.iporntv.net
@@ -789,6 +789,7 @@ DOMAIN-SUFFIX,img3.acsta.net
 DOMAIN-SUFFIX,img2.acsta.net
 DOMAIN-SUFFIX,img1.acsta.net
 DOMAIN-SUFFIX,cdn.ywxi.net
+DOMAIN-SUFFIX,static.wwto.net
 DOMAIN-SUFFIX,fonts.sony.net
 DOMAIN-SUFFIX,www-static.ripe.net
 DOMAIN-SUFFIX,static.plus.net
@@ -838,6 +839,7 @@ DOMAIN-SUFFIX,static.coinall.ltd
 DOMAIN-SUFFIX,image.acg.lol
 DOMAIN-SUFFIX,cdn.cbd.int
 DOMAIN-SUFFIX,tile2.intervals.icu
+DOMAIN-SUFFIX,static.izanmei.icu
 DOMAIN-SUFFIX,cthd.icu
 DOMAIN-SUFFIX,time-a.nist.gov
 DOMAIN-SUFFIX,images-assets.nasa.gov
@@ -854,6 +856,10 @@ DOMAIN-SUFFIX,cdn-web.orbstack.dev
 DOMAIN-SUFFIX,logos.composio.dev
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,skypack.dev
+DOMAIN-SUFFIX,latam.orbitor.dev
+DOMAIN-SUFFIX,ipfs.orbitor.dev
+DOMAIN-SUFFIX,apac.orbitor.dev
+DOMAIN-SUFFIX,eu.orbitor.dev
 DOMAIN-SUFFIX,angular.dev
 DOMAIN-SUFFIX,vercel.dev
 DOMAIN-SUFFIX,stats.setapp.macpaw.dev
@@ -1207,7 +1213,6 @@ DOMAIN-SUFFIX,meteorclient.com
 DOMAIN-SUFFIX,meetupstatic.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,cdn.manageengine.com
-DOMAIN-SUFFIX,player.louisvuitton.com
 DOMAIN-SUFFIX,assets.lemonsqueezy.com
 DOMAIN-SUFFIX,cdn.lemonsqueezy.com
 DOMAIN-SUFFIX,unsubscribe-imgs.leavemealone.com
@@ -2220,7 +2225,6 @@ DOMAIN-SUFFIX,cdn.getkoala.com
 DOMAIN-SUFFIX,assets.getkirby.com
 DOMAIN-SUFFIX,geoip-js.com
 DOMAIN-SUFFIX,maps.geoapify.com
-DOMAIN-SUFFIX,img4.gelbooru.com
 DOMAIN-SUFFIX,img2.gelbooru.com
 DOMAIN-SUFFIX,scripts.gatorapi.com
 DOMAIN-SUFFIX,gammacdn.com
@@ -2257,6 +2261,7 @@ DOMAIN-SUFFIX,cdn4.edgedatg.com
 DOMAIN-SUFFIX,cdn3.edgedatg.com
 DOMAIN-SUFFIX,cdn2.edgedatg.com
 DOMAIN-SUFFIX,cdn1.edgedatg.com
+DOMAIN-SUFFIX,ipfs.ecolatam.com
 DOMAIN-SUFFIX,vip.dytt-img.com
 DOMAIN-SUFFIX,drivecdn.com
 DOMAIN-SUFFIX,cdn.dribbble.com
@@ -2282,7 +2287,6 @@ DOMAIN-SUFFIX,dynamic-assets.coinbase.com
 DOMAIN-SUFFIX,static-assets.coinbase.com
 DOMAIN-SUFFIX,assets.coinbase.com
 DOMAIN-SUFFIX,assets.codeguru.com
-DOMAIN-SUFFIX,logo.clearbit.com
 DOMAIN-SUFFIX,assets-growth-common.circleci.com
 DOMAIN-SUFFIX,assets-docs.circleci.com
 DOMAIN-SUFFIX,cdn-assets.circleci.com
@@ -2453,6 +2457,8 @@ DOMAIN-SUFFIX,image.prntscr.com
 DOMAIN-SUFFIX,st.prntscr.com
 DOMAIN-SUFFIX,cdn.privacy.com
 DOMAIN-SUFFIX,app-static.eu.posthog.com
+DOMAIN-SUFFIX,us-assets.i.posthog.com
+DOMAIN-SUFFIX,eu-assets.i.posthog.com
 DOMAIN-SUFFIX,cdn77-t.pornoxo.com
 DOMAIN-SUFFIX,cdn77.pornoxo.com
 DOMAIN-SUFFIX,pics.pornfhd.com
@@ -2898,7 +2904,8 @@ DOMAIN-SUFFIX,miro.medium.com
 DOMAIN-SUFFIX,twemoji.maxcdn.com
 DOMAIN-SUFFIX,static-assets.mapbox.com
 DOMAIN-SUFFIX,tiles.mapbox.com
-DOMAIN-SUFFIX,sato.manyse.com
+DOMAIN-SUFFIX,test.manyse.com
+DOMAIN-SUFFIX,img.manyse.com
 DOMAIN-SUFFIX,cdn2-imgix.macpaw.com
 DOMAIN-SUFFIX,api-lytics.macpaw.com
 DOMAIN-SUFFIX,cdn2.macpaw.com
@@ -3577,8 +3584,6 @@ DOMAIN-SUFFIX,2024cdn.sx
 DOMAIN-SUFFIX,video2.7mmtv.sx
 DOMAIN-SUFFIX,video1.7mmtv.sx
 DOMAIN-SUFFIX,piccdn.7mmtv.sx
-DOMAIN-SUFFIX,img.kemono.su
-DOMAIN-SUFFIX,img.coomer.su
 DOMAIN-SUFFIX,jpg5.su
 DOMAIN-SUFFIX,0x0.st
 DOMAIN-SUFFIX,udata.namespace.so
@@ -3850,6 +3855,7 @@ DOMAIN-SUFFIX,widget.intercom.io
 DOMAIN-SUFFIX,ik.imagekit.io
 DOMAIN-SUFFIX,icon.icepanel.io
 DOMAIN-SUFFIX,cdn.hackaday.io
+DOMAIN-SUFFIX,ipfs.filebase.io
 DOMAIN-SUFFIX,ipfs.denarius.io
 DOMAIN-SUFFIX,rum.cronitor.io
 DOMAIN-SUFFIX,cdn.commento.io
@@ -4162,6 +4168,7 @@ DOMAIN-SUFFIX,assets.cloudpilot.ai
 DOMAIN-SUFFIX,api.instantly.ai
 DOMAIN-SUFFIX,sdk.customfit.ai
 DOMAIN-SUFFIX,static.returngo.ai
+DOMAIN-SUFFIX,file.xiaohai.ai
 DOMAIN-SUFFIX,prod-cdn.webtune.ai
 DOMAIN-SUFFIX,widget.docsbot.ai
 DOMAIN-SUFFIX,cdn.aimerce.ai
@@ -4169,6 +4176,7 @@ DOMAIN-SUFFIX,vetted.ai
 DOMAIN-SUFFIX,static.netify.ai
 DOMAIN-SUFFIX,r2.leadsy.ai
 DOMAIN-SUFFIX,cdn.fellou.ai
+DOMAIN-SUFFIX,play.xiaoh.ai
 DOMAIN-SUFFIX,tag.tvads.ai
 DOMAIN-SUFFIX,s3.masto.ai
 DOMAIN-SUFFIX,participants.evolv.ai
