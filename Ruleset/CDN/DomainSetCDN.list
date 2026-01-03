@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-02T08:26:52.832Z
-# Size: 4180
+# Last Updated: 2026-01-03T07:00:51.396Z
+# Size: 4189
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -937,6 +937,7 @@ DOMAIN-SUFFIX,chargebeestaticv2.com
 DOMAIN-SUFFIX,b5x-sentry.1passwordservices.com
 DOMAIN-SUFFIX,telemetry.1passwordservices.com
 DOMAIN-SUFFIX,cdn.virtuoussoftware.com
+DOMAIN-SUFFIX,thecontentserver.com
 DOMAIN-SUFFIX,superhumanstatic.com
 DOMAIN-SUFFIX,superfiliate-cdn.com
 DOMAIN-SUFFIX,steamusercontent.com
@@ -1737,6 +1738,7 @@ DOMAIN-SUFFIX,player.interactivity.brightcove.com
 DOMAIN-SUFFIX,app.brightback.com
 DOMAIN-SUFFIX,static.prd.borderfree.com
 DOMAIN-SUFFIX,boomio-cdn.com
+DOMAIN-SUFFIX,cdn.boldmethod.com
 DOMAIN-SUFFIX,cdn-www.bluestacks.com
 DOMAIN-SUFFIX,bestjavcdn.com
 DOMAIN-SUFFIX,widgets.automizely.com
@@ -1928,6 +1930,7 @@ DOMAIN-SUFFIX,assets.grammarly.com
 DOMAIN-SUFFIX,image.send.grammarly.com
 DOMAIN-SUFFIX,widget.gotolstoy.com
 DOMAIN-SUFFIX,play.gotolstoy.com
+DOMAIN-SUFFIX,media.glassdoor.com
 DOMAIN-SUFFIX,gitmirror.com
 DOMAIN-SUFFIX,assets.getpocket.com
 DOMAIN-SUFFIX,i.geekflare.com
@@ -2243,6 +2246,7 @@ DOMAIN-SUFFIX,favicone.com
 DOMAIN-SUFFIX,images.fandango.com
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,static.euronews.com
+DOMAIN-SUFFIX,images.euronews.com
 DOMAIN-SUFFIX,assets.euractiv.com
 DOMAIN-SUFFIX,cdn.equalweb.com
 DOMAIN-SUFFIX,aff.equalweb.com
@@ -2859,6 +2863,7 @@ DOMAIN-SUFFIX,cdn.openai.com
 DOMAIN-SUFFIX,static.oklink.com
 DOMAIN-SUFFIX,odycdn.com
 DOMAIN-SUFFIX,od-cdn.com
+DOMAIN-SUFFIX,assets.nypost.com
 DOMAIN-SUFFIX,pbc.nypost.com
 DOMAIN-SUFFIX,images.nvidia.com
 DOMAIN-SUFFIX,npmcdn.com
@@ -2936,6 +2941,8 @@ DOMAIN-SUFFIX,img.icons8.com
 DOMAIN-SUFFIX,bst.icons8.com
 DOMAIN-SUFFIX,statici.icloud.com
 DOMAIN-SUFFIX,icfcdn.com
+DOMAIN-SUFFIX,assets-v2.i-scmp.com
+DOMAIN-SUFFIX,cdn.i-scmp.com
 DOMAIN-SUFFIX,hugoal.com
 DOMAIN-SUFFIX,static.hotjar.com
 DOMAIN-SUFFIX,hommec.com
@@ -4144,12 +4151,14 @@ DOMAIN-SUFFIX,images.tg.cc
 DOMAIN-SUFFIX,img.tg.cc
 DOMAIN-SUFFIX,1passwordusercontent.ca
 DOMAIN-SUFFIX,cdn.adsninja.ca
+DOMAIN-SUFFIX,cdn4.focus.bg
 DOMAIN-SUFFIX,components.cyclingfactory.be
 DOMAIN-SUFFIX,images.cyclingfactory.be
 DOMAIN-SUFFIX,abc-cdn.net.au
 DOMAIN-SUFFIX,res.abc.net.au
 DOMAIN-SUFFIX,styleguide-assets.shannons.com.au
 DOMAIN-SUFFIX,newscdn.com.au
+DOMAIN-SUFFIX,subscriptions.news.com.au
 DOMAIN-SUFFIX,tags.news.com.au
 DOMAIN-SUFFIX,ipfs.greyh.at
 DOMAIN-SUFFIX,i.snap.as
