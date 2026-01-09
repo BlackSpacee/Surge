@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-07T17:17:54.197Z
-# Size: 4197
+# Last Updated: 2026-01-09T09:56:50.452Z
+# Size: 4212
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,ipfs.eth.aragon.network
 DOMAIN-SUFFIX,gateway.serph.network
 DOMAIN-SUFFIX,cdnjs.network
 DOMAIN-SUFFIX,cdn.robinpro.gallery
+DOMAIN-SUFFIX,screenshot.domains
 DOMAIN-SUFFIX,static.domains
 DOMAIN-SUFFIX,bcdn.starapps.studio
 DOMAIN-SUFFIX,cdn.starapps.studio
@@ -93,6 +94,7 @@ DOMAIN-SUFFIX,cdn-static.paw.cloud
 DOMAIN-SUFFIX,dsc.cloud
 DOMAIN-SUFFIX,static.bit.cloud
 DOMAIN-SUFFIX,cdn.bigcloud.click
+DOMAIN-SUFFIX,cpp-content.bhn.cards
 DOMAIN-SUFFIX,turbo.build
 DOMAIN-SUFFIX,lllcdn.autos
 DOMAIN-SUFFIX,safebrowsing.apple
@@ -102,6 +104,7 @@ DOMAIN-SUFFIX,static.frame.work
 DOMAIN-SUFFIX,tn.txxx.tube
 DOMAIN-SUFFIX,js.txxx.tube
 DOMAIN-SUFFIX,media.d.tube
+DOMAIN-SUFFIX,docs.mrchromebox.tech
 DOMAIN-SUFFIX,media.remax-prod.eng.remax.tech
 DOMAIN-SUFFIX,static.pepy.tech
 DOMAIN-SUFFIX,packages.jetbrains.team
@@ -247,6 +250,7 @@ DOMAIN-SUFFIX,static.themebuilder.aws.arc.pub
 DOMAIN-SUFFIX,cms-assets.webediamovies.pro
 DOMAIN-SUFFIX,img.foresightnews.pro
 DOMAIN-SUFFIX,pics.x-n-x-x.pro
+DOMAIN-SUFFIX,cdn.affine.pro
 DOMAIN-SUFFIX,play.xfvod.pro
 DOMAIN-SUFFIX,assets.gcore.pro
 DOMAIN-SUFFIX,bmp.ovh
@@ -957,6 +961,7 @@ DOMAIN-SUFFIX,js.braintreegateway.com
 DOMAIN-SUFFIX,jslibs.blackmagicdesign.com
 DOMAIN-SUFFIX,images.blackmagicdesign.com
 DOMAIN-SUFFIX,css.blackmagicdesign.com
+DOMAIN-SUFFIX,dd.blackhawknetwork.com
 DOMAIN-SUFFIX,imgs02.aventertainments.com
 DOMAIN-SUFFIX,js.assemblyexchange.com
 DOMAIN-SUFFIX,cdn.worldvectorlogo.com
@@ -1643,6 +1648,7 @@ DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
 DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,commondatastorage.googleapis.com
 DOMAIN-SUFFIX,clientmetrics-pa.googleapis.com
 DOMAIN-SUFFIX,firebasestorage.googleapis.com
 DOMAIN-SUFFIX,firebaselogging.googleapis.com
@@ -1715,6 +1721,7 @@ DOMAIN-SUFFIX,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,res.cloudinary.com
 DOMAIN-SUFFIX,privacy-gateway.cloudflare.com
 DOMAIN-SUFFIX,csp-reporting.cloudflare.com
+DOMAIN-SUFFIX,report-uri.cloudflare.com
 DOMAIN-SUFFIX,favicons.teams.cloudflare.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,time.cloudflare.com
@@ -2123,6 +2130,7 @@ DOMAIN-SUFFIX,static.pornpics.com
 DOMAIN-SUFFIX,cdni.pornpics.com
 DOMAIN-SUFFIX,porn-cdn.com
 DOMAIN-SUFFIX,static.politico.com
+DOMAIN-SUFFIX,poki-cdn.com
 DOMAIN-SUFFIX,cdn.playwire.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,signature.overwolf.com
@@ -2520,6 +2528,8 @@ DOMAIN-SUFFIX,static.moegoat.com
 DOMAIN-SUFFIX,images.moegoat.com
 DOMAIN-SUFFIX,mktgcdn.com
 DOMAIN-SUFFIX,mintcdn.com
+DOMAIN-SUFFIX,video3.mingpao.com
+DOMAIN-SUFFIX,fs.mingpao.com
 DOMAIN-SUFFIX,image.mgstage.com
 DOMAIN-SUFFIX,acdn.mercury.com
 DOMAIN-SUFFIX,cdn.mercury.com
@@ -3054,6 +3064,7 @@ DOMAIN-SUFFIX,cdn-widgetsrepository.yotpo.com
 DOMAIN-SUFFIX,cdn-swell-assets.yotpo.com
 DOMAIN-SUFFIX,cdn-loyalty.yotpo.com
 DOMAIN-SUFFIX,staticw2.yotpo.com
+DOMAIN-SUFFIX,img1.yeggi.com
 DOMAIN-SUFFIX,yep.video.yahoo.com
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,wsimg.com
@@ -3120,6 +3131,7 @@ DOMAIN-SUFFIX,static.music.com
 DOMAIN-SUFFIX,cdn.music.com
 DOMAIN-SUFFIX,assets.monei.com
 DOMAIN-SUFFIX,mlcdn.com
+DOMAIN-SUFFIX,imagecdn.mixlr.com
 DOMAIN-SUFFIX,cf.mhgui.com
 DOMAIN-SUFFIX,static.lingq.com
 DOMAIN-SUFFIX,cdn.lihkg.com
@@ -3324,6 +3336,7 @@ DOMAIN-SUFFIX,cms-cdn.goat.com
 DOMAIN-SUFFIX,assets.goat.com
 DOMAIN-SUFFIX,image.goat.com
 DOMAIN-SUFFIX,fsdn.com
+DOMAIN-SUFFIX,img04.en25.com
 DOMAIN-SUFFIX,images.dmca.com
 DOMAIN-SUFFIX,website-media.deel.com
 DOMAIN-SUFFIX,sf-coze-web-cdn.coze.com
@@ -3700,6 +3713,7 @@ DOMAIN-SUFFIX,static.fboom.me
 DOMAIN-SUFFIX,media-cms.ayoba.me
 DOMAIN-SUFFIX,dynamic-cdn.cms.ayoba.me
 DOMAIN-SUFFIX,emoji-css.afeld.me
+DOMAIN-SUFFIX,assets.about.me
 DOMAIN-SUFFIX,pic.7mmtv.me
 DOMAIN-SUFFIX,cdn.123av.me
 DOMAIN-SUFFIX,rsms.me
@@ -4013,6 +4027,7 @@ DOMAIN-SUFFIX,static.snaptube.in
 DOMAIN-SUFFIX,cdn.imgeng.in
 DOMAIN-SUFFIX,object.innei.in
 DOMAIN-SUFFIX,cloudfront.net.in
+DOMAIN-SUFFIX,favicon.im
 DOMAIN-SUFFIX,yygimg.im
 DOMAIN-SUFFIX,assets.monica.im
 DOMAIN-SUFFIX,img.majors.im
