@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4214
+# DOMAIN-SUFFIX: 4226
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4240
-# UPDATED: 2026-01-11 14:41:37
+# TOTAL: 4252
+# UPDATED: 2026-01-11 20:55:22
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-10T06:43:44.240Z
-# Size: 4214
+# Last Updated: 2026-01-11T15:53:05.404Z
+# Size: 4226
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -575,6 +575,7 @@ DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
 DOMAIN-SUFFIX,mwf-service.akamaized.net
 DOMAIN-SUFFIX,viu-static.akamaized.net
 DOMAIN-SUFFIX,mycommerce.akamaized.net
+DOMAIN-SUFFIX,melonbooks.akamaized.net
 DOMAIN-SUFFIX,amp.akamaized.net
 DOMAIN-SUFFIX,mixin-images.zeromesh.net
 DOMAIN-SUFFIX,static.zerochan.net
@@ -924,6 +925,7 @@ DOMAIN-SUFFIX,w-corp-staticblitz.com
 DOMAIN-SUFFIX,simpleflyingimages.com
 DOMAIN-SUFFIX,pocket-image-cache.com
 DOMAIN-SUFFIX,patreonusercontent.com
+DOMAIN-SUFFIX,im.np-payment-gateway.com
 DOMAIN-SUFFIX,misskeyusercontent.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,media.datacenterdynamics.com
@@ -1347,6 +1349,7 @@ DOMAIN-SUFFIX,s3media.squarespace.com
 DOMAIN-SUFFIX,assets.squarespace.com
 DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,assets.speedvitals.com
+DOMAIN-SUFFIX,cdn.activity.smart-bdash.com
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,shoplineimg.com
 DOMAIN-SUFFIX,img.shoplineapp.com
@@ -1433,6 +1436,7 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,static.hugedomains.com
 DOMAIN-SUFFIX,images.hothardware.com
 DOMAIN-SUFFIX,themes.hibootstrap.com
+DOMAIN-SUFFIX,sdk.helloextend.com
 DOMAIN-SUFFIX,media.graphassets.com
 DOMAIN-SUFFIX,static.gettyimages.com
 DOMAIN-SUFFIX,media.gettyimages.com
@@ -1783,6 +1787,7 @@ DOMAIN-SUFFIX,xdaimages.com
 DOMAIN-SUFFIX,cdn.scripts.wtwhmedia.com
 DOMAIN-SUFFIX,wowmodels.com
 DOMAIN-SUFFIX,hhhhhhome86227170.wordpress.com
+DOMAIN-SUFFIX,jetpack.wordpress.com
 DOMAIN-SUFFIX,files.wordpress.com
 DOMAIN-SUFFIX,s0.wordpress.com
 DOMAIN-SUFFIX,wixstatic.com
@@ -2257,6 +2262,7 @@ DOMAIN-SUFFIX,cdn-teams-slug.flaticon.com
 DOMAIN-SUFFIX,cdn-icons-png.flaticon.com
 DOMAIN-SUFFIX,cdn-uicons.flaticon.com
 DOMAIN-SUFFIX,media.flaticon.com
+DOMAIN-SUFFIX,flagsapi.com
 DOMAIN-SUFFIX,cdn.firebase.com
 DOMAIN-SUFFIX,widget.finlogix.com
 DOMAIN-SUFFIX,images.filepuma.com
@@ -3124,6 +3130,7 @@ DOMAIN-SUFFIX,images.pling.com
 DOMAIN-SUFFIX,cdn1.plesk.com
 DOMAIN-SUFFIX,cdn.plaid.com
 DOMAIN-SUFFIX,i.pcmag.com
+DOMAIN-SUFFIX,apps.paidy.com
 DOMAIN-SUFFIX,cdn.paidy.com
 DOMAIN-SUFFIX,package-assets.oomol.com
 DOMAIN-SUFFIX,registry.oomol.com
@@ -3225,6 +3232,7 @@ DOMAIN-SUFFIX,cdn.drata.com
 DOMAIN-SUFFIX,static.deepl.com
 DOMAIN-SUFFIX,cdn.db-ip.com
 DOMAIN-SUFFIX,static.cloud.coveo.com
+DOMAIN-SUFFIX,cdn.corso.com
 DOMAIN-SUFFIX,cdn.cliqz.com
 DOMAIN-SUFFIX,segapi.clerk.com
 DOMAIN-SUFFIX,scdn.clerk.com
@@ -3472,6 +3480,7 @@ DOMAIN-SUFFIX,cdn.announcekit.app
 DOMAIN-SUFFIX,payloadcms.app
 DOMAIN-SUFFIX,cdn.matterhorn.app
 DOMAIN-SUFFIX,weather.istatmenus.app
+DOMAIN-SUFFIX,cdn.accessibly.app
 DOMAIN-SUFFIX,on-fleek.app
 DOMAIN-SUFFIX,cdn.langshop.app
 DOMAIN-SUFFIX,assets.airbuddy.app
@@ -3765,6 +3774,8 @@ DOMAIN-SUFFIX,placehold.jp
 DOMAIN-SUFFIX,listing-thumbnail.live.nicovideo.jp
 DOMAIN-SUFFIX,resource.akashic.coe.nicovideo.jp
 DOMAIN-SUFFIX,cdn.wikiwiki.jp
+DOMAIN-SUFFIX,rt.rtoaster.jp
+DOMAIN-SUFFIX,js.rtoaster.jp
 DOMAIN-SUFFIX,parts.blog.livedoor.jp
 DOMAIN-SUFFIX,resize.blogsys.jp
 DOMAIN-SUFFIX,livedoor.blogimg.jp
@@ -3873,6 +3884,7 @@ DOMAIN-SUFFIX,img.badgesize.io
 DOMAIN-SUFFIX,events.backtrace.io
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,unavatar.io
 DOMAIN-SUFFIX,img.telemetr.io
 DOMAIN-SUFFIX,cdn.manage.runcloud.io
 DOMAIN-SUFFIX,cdn.runcloud.io
