@@ -3,12 +3,12 @@
 # DOMAIN-SUFFIX: 116117
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12133
+# IP-CIDR: 12124
 # IP-CIDR6: 4287
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 133049
-# UPDATED: 2026-01-15 02:44:04
+# TOTAL: 133040
+# UPDATED: 2026-01-15 10:19:19
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -74,7 +74,7 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2026-01-14T17:19:15.720Z
+# Last Updated: 2026-01-15T05:23:42.913Z
 # Size: 222
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
@@ -1086,8 +1086,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-01-13T17:18:54.212Z
-# Size: 3846
+# Last Updated: 2026-01-15T05:23:43.845Z
+# Size: 3837
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -2806,7 +2806,6 @@ IP-CIDR,115.168.0.0/14
 IP-CIDR,115.172.32.0/21
 IP-CIDR,115.172.46.0/23
 IP-CIDR,115.173.0.0/19
-IP-CIDR,115.174.64.0/19
 IP-CIDR,115.175.0.0/18
 IP-CIDR,115.175.64.0/19
 IP-CIDR,115.175.96.0/21
@@ -4271,9 +4270,7 @@ IP-CIDR,203.148.0.0/18
 IP-CIDR,203.148.64.0/20
 IP-CIDR,203.156.192.0/18
 IP-CIDR,203.160.129.0/24
-IP-CIDR,203.160.192.0/24
-IP-CIDR,203.160.196.0/24
-IP-CIDR,203.160.212.0/24
+IP-CIDR,203.160.192.0/19
 IP-CIDR,203.161.192.0/19
 IP-CIDR,203.166.160.0/22
 IP-CIDR,203.166.165.0/24
@@ -4284,12 +4281,7 @@ IP-CIDR,203.166.177.0/24
 IP-CIDR,203.166.186.0/23
 IP-CIDR,203.166.188.0/23
 IP-CIDR,203.166.191.0/24
-IP-CIDR,203.168.0.0/22
-IP-CIDR,203.168.5.0/24
-IP-CIDR,203.168.6.0/23
-IP-CIDR,203.168.8.0/21
-IP-CIDR,203.168.16.0/23
-IP-CIDR,203.168.18.0/24
+IP-CIDR,203.168.0.0/19
 IP-CIDR,203.170.58.0/23
 IP-CIDR,203.174.4.0/24
 IP-CIDR,203.174.96.0/19
@@ -4739,7 +4731,6 @@ IP-CIDR,220.112.40.0/21
 IP-CIDR,220.112.50.0/23
 IP-CIDR,220.112.52.0/23
 IP-CIDR,220.112.54.0/24
-IP-CIDR,220.112.59.0/24
 IP-CIDR,220.112.194.0/24
 IP-CIDR,220.112.196.0/24
 IP-CIDR,220.112.200.0/21
