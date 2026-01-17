@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 367
-# DOMAIN-SUFFIX: 116000
+# DOMAIN-SUFFIX: 115999
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 12114
 # IP-CIDR6: 4292
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 132925
-# UPDATED: 2026-01-17 10:08:28
+# TOTAL: 132924
+# UPDATED: 2026-01-17 14:40:18
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -74,8 +74,8 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2026-01-17T05:18:48.679Z
-# Size: 222
+# Last Updated: 2026-01-17T10:36:28.713Z
+# Size: 221
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,bogon
@@ -93,7 +93,6 @@ DOMAIN-SUFFIX,moecat.best
 DOMAIN-SUFFIX,blutopia.xyz
 DOMAIN-SUFFIX,hd4.xyz
 DOMAIN-SUFFIX,hdpost.top
-DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,icetorrent.org

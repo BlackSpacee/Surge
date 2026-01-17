@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-14T15:33:40.025Z
-# Size: 4227
+# Last Updated: 2026-01-17T10:36:29.428Z
+# Size: 4223
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -44,7 +44,6 @@ DOMAIN-SUFFIX,static.generated.photos
 DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,files.mastodon.online
 DOMAIN-SUFFIX,am-cdn.online
-DOMAIN-SUFFIX,cdn.glitch.global
 DOMAIN-SUFFIX,code.iconify.design
 DOMAIN-SUFFIX,api.iconify.design
 DOMAIN-SUFFIX,ant.design
@@ -988,9 +987,8 @@ DOMAIN-SUFFIX,project1content.com
 DOMAIN-SUFFIX,static.planetminecraft.com
 DOMAIN-SUFFIX,pipedriveassets.com
 DOMAIN-SUFFIX,openseauserdata.com
-DOMAIN-SUFFIX,gt1.onlyhentaistuff.com
 DOMAIN-SUFFIX,fs2.onlyhentaistuff.com
-DOMAIN-SUFFIX,cdn.onlyhentaistuff.com
+DOMAIN-SUFFIX,ca1.onlyhentaistuff.com
 DOMAIN-SUFFIX,cdn.northropgrumman.com
 DOMAIN-SUFFIX,irp-cdn.multiscreensite.com
 DOMAIN-SUFFIX,msftconnecttest.com
@@ -2034,7 +2032,6 @@ DOMAIN-SUFFIX,wa1.aninoapps.com
 DOMAIN-SUFFIX,pm1.aninoapps.com
 DOMAIN-SUFFIX,pa1.aninoapps.com
 DOMAIN-SUFFIX,images.anandtech.com
-DOMAIN-SUFFIX,cm1.aminoapps.com
 DOMAIN-SUFFIX,ip-ranges.amazonaws.com
 DOMAIN-SUFFIX,assets.as2.amazonaws.com
 DOMAIN-SUFFIX,abcnewsfe.com
@@ -2469,6 +2466,7 @@ DOMAIN-SUFFIX,cdn.readmoo.com
 DOMAIN-SUFFIX,cdn-rdstaticassets.readdle.com
 DOMAIN-SUFFIX,ravenjs.com
 DOMAIN-SUFFIX,static.rakuten.com
+DOMAIN-SUFFIX,devicons.railway.com
 DOMAIN-SUFFIX,rackcdn.com
 DOMAIN-SUFFIX,cdn.quadpay.com
 DOMAIN-SUFFIX,pxlecdn.com
@@ -2554,6 +2552,7 @@ DOMAIN-SUFFIX,img.logokit.com
 DOMAIN-SUFFIX,aurora-customization-usw2.lithium.com
 DOMAIN-SUFFIX,kym-cdn.com
 DOMAIN-SUFFIX,static-forms.klaviyo.com
+DOMAIN-SUFFIX,static-app.klaviyo.com
 DOMAIN-SUFFIX,static.klaviyo.com
 DOMAIN-SUFFIX,a.klaviyo.com
 DOMAIN-SUFFIX,cdnsecakmi.kaltura.com
@@ -2989,8 +2988,6 @@ DOMAIN-SUFFIX,static.corp.google.com
 DOMAIN-SUFFIX,crashlytics2.l.google.com
 DOMAIN-SUFFIX,s3.go2778.com
 DOMAIN-SUFFIX,static.gmgard.com
-DOMAIN-SUFFIX,content.product.glitch.com
-DOMAIN-SUFFIX,cdn.glitch.com
 DOMAIN-SUFFIX,glbimg.com
 DOMAIN-SUFFIX,tuf-repo.github.com
 DOMAIN-SUFFIX,raw.github.com
@@ -3713,7 +3710,6 @@ DOMAIN-SUFFIX,cdn.daradara.me
 DOMAIN-SUFFIX,cf.javfree.me
 DOMAIN-SUFFIX,circle-flags.zeljko.me
 DOMAIN-SUFFIX,cdn.picrew.me
-DOMAIN-SUFFIX,cdn.glitch.me
 DOMAIN-SUFFIX,static.start.me
 DOMAIN-SUFFIX,f.start.me
 DOMAIN-SUFFIX,c.start.me
@@ -3896,7 +3892,6 @@ DOMAIN-SUFFIX,cdn.hackaday.io
 DOMAIN-SUFFIX,ipfs.filebase.io
 DOMAIN-SUFFIX,ipfs.denarius.io
 DOMAIN-SUFFIX,rum.cronitor.io
-DOMAIN-SUFFIX,cdn.commento.io
 DOMAIN-SUFFIX,cloudimg.io
 DOMAIN-SUFFIX,static.assetlab.io
 DOMAIN-SUFFIX,code.upscope.io
@@ -4138,6 +4133,7 @@ DOMAIN-SUFFIX,storageapi.fleek.co
 DOMAIN-SUFFIX,previews.fleek.co
 DOMAIN-SUFFIX,ipfs.fleek.co
 DOMAIN-SUFFIX,load.csell.co
+DOMAIN-SUFFIX,cdn.chord.co
 DOMAIN-SUFFIX,log-collector.17app.co
 DOMAIN-SUFFIX,webcdn.17app.co
 DOMAIN-SUFFIX,cdn.17app.co
