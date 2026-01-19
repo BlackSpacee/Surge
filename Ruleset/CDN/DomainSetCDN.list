@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-17T10:36:29.428Z
-# Size: 4223
+# Last Updated: 2026-01-19T12:19:04.126Z
+# Size: 4228
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -874,6 +874,7 @@ DOMAIN-SUFFIX,ah-cdn.merge.dev
 DOMAIN-SUFFIX,p.depot.dev
 DOMAIN-SUFFIX,media.daily.dev
 DOMAIN-SUFFIX,cdn.daily.dev
+DOMAIN-SUFFIX,ingest.atoms.dev
 DOMAIN-SUFFIX,npm.antfu.dev
 DOMAIN-SUFFIX,p.sda1.dev
 DOMAIN-SUFFIX,rss3.dev
@@ -2331,6 +2332,7 @@ DOMAIN-SUFFIX,static-2.bitchute.com
 DOMAIN-SUFFIX,static-1.bitchute.com
 DOMAIN-SUFFIX,bcmedia.bitchute.com
 DOMAIN-SUFFIX,bgstatic.com
+DOMAIN-SUFFIX,cdn1.bambulab.com
 DOMAIN-SUFFIX,badoocdn.com
 DOMAIN-SUFFIX,assets.awwwards.com
 DOMAIN-SUFFIX,cdn.accounts.autodesk.com
@@ -2916,6 +2918,8 @@ DOMAIN-SUFFIX,static.missav.com
 DOMAIN-SUFFIX,video.missav.com
 DOMAIN-SUFFIX,cdn.missav.com
 DOMAIN-SUFFIX,mfcimg.com
+DOMAIN-SUFFIX,public-frontend-cos.metadl.com
+DOMAIN-SUFFIX,mgx-backend-cdn.metadl.com
 DOMAIN-SUFFIX,static.meiguo.com
 DOMAIN-SUFFIX,cdn-static-1.medium.com
 DOMAIN-SUFFIX,cdn-images-1.medium.com
@@ -4226,6 +4230,7 @@ DOMAIN-SUFFIX,cdn.roof.ai
 DOMAIN-SUFFIX,metrics.kapa.ai
 DOMAIN-SUFFIX,widget.kapa.ai
 DOMAIN-SUFFIX,cdn.fera.ai
+DOMAIN-SUFFIX,assets-docs.dify.ai
 DOMAIN-SUFFIX,assets.dify.ai
 DOMAIN-SUFFIX,limitless.cmax.ai
 DOMAIN-SUFFIX,cdn.s7s.ai
