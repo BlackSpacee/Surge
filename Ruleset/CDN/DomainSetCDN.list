@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-20T09:57:26.119Z
-# Size: 4232
+# Last Updated: 2026-01-22T16:03:26.029Z
+# Size: 4240
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -854,6 +854,7 @@ DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,tuf-repo-cdn.sigstore.dev
 DOMAIN-SUFFIX,pkg-size.dev
 DOMAIN-SUFFIX,cdn-web.orbstack.dev
+DOMAIN-SUFFIX,storybooks.fluentui.dev
 DOMAIN-SUFFIX,logos.composio.dev
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,skypack.dev
@@ -1148,6 +1149,7 @@ DOMAIN-SUFFIX,images8.design-editor.com
 DOMAIN-SUFFIX,images7.design-editor.com
 DOMAIN-SUFFIX,images.design-editor.com
 DOMAIN-SUFFIX,assets.cyberghostvpn.com
+DOMAIN-SUFFIX,storage.courtlistener.com
 DOMAIN-SUFFIX,s3.cointelegraph.com
 DOMAIN-SUFFIX,academy-public.coinmarketcap.com
 DOMAIN-SUFFIX,s3.coinmarketcap.com
@@ -1307,6 +1309,7 @@ DOMAIN-SUFFIX,app.viral-loops.com
 DOMAIN-SUFFIX,vectorified.com
 DOMAIN-SUFFIX,static-cdn.usertesting.com
 DOMAIN-SUFFIX,js.usemessages.com
+DOMAIN-SUFFIX,usehooks-ts.com
 DOMAIN-SUFFIX,asset-cdn.uscardforum.com
 DOMAIN-SUFFIX,www-cdn.uscardforum.com
 DOMAIN-SUFFIX,psp-logos.uptimerobot.com
@@ -2018,6 +2021,7 @@ DOMAIN-SUFFIX,bitgetimg.com
 DOMAIN-SUFFIX,upos-sz-mirrorcosbstar1.bilivideo.com
 DOMAIN-SUFFIX,upos-sz-mirroralibstar1.bilivideo.com
 DOMAIN-SUFFIX,secure.beer7live.com
+DOMAIN-SUFFIX,assets.bbystatic.com
 DOMAIN-SUFFIX,cdn.babylonjs.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,atl-global.atlassian.com
@@ -2315,6 +2319,10 @@ DOMAIN-SUFFIX,app.chatwoot.com
 DOMAIN-SUFFIX,chasecdn.com
 DOMAIN-SUFFIX,js.chargify.com
 DOMAIN-SUFFIX,cdnfonts.com
+DOMAIN-SUFFIX,cdn-stamplib.casetify.com
+DOMAIN-SUFFIX,cdn-image02.casetify.com
+DOMAIN-SUFFIX,cdn-image01.casetify.com
+DOMAIN-SUFFIX,cdn.casetify.com
 DOMAIN-SUFFIX,cartocdn.com
 DOMAIN-SUFFIX,reviews-badge.capterra.com
 DOMAIN-SUFFIX,assets.capterra.com
