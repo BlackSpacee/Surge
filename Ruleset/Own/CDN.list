@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4240
+# DOMAIN-SUFFIX: 4243
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4266
-# UPDATED: 2026-01-23 14:47:01
+# TOTAL: 4269
+# UPDATED: 2026-01-23 21:03:21
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-22T16:03:26.029Z
-# Size: 4240
+# Last Updated: 2026-01-23T16:44:58.181Z
+# Size: 4243
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -487,6 +487,7 @@ DOMAIN-SUFFIX,sourcemaps.squarespace.net
 DOMAIN-SUFFIX,static-resource.np.community.playstation.net
 DOMAIN-SUFFIX,akamai-origin.myanimelist.net
 DOMAIN-SUFFIX,cdn.myanimelist.net
+DOMAIN-SUFFIX,sdk-static.loyaltylion.net
 DOMAIN-SUFFIX,sdk.loyaltylion.net
 DOMAIN-SUFFIX,f.hubspotfree.net
 DOMAIN-SUFFIX,hsappstatic.net
@@ -2027,7 +2028,7 @@ DOMAIN-SUFFIX,bitgetimg.com
 DOMAIN-SUFFIX,upos-sz-mirrorcosbstar1.bilivideo.com
 DOMAIN-SUFFIX,upos-sz-mirroralibstar1.bilivideo.com
 DOMAIN-SUFFIX,secure.beer7live.com
-DOMAIN-SUFFIX,assets.bbystatic.com
+DOMAIN-SUFFIX,bbystatic.com
 DOMAIN-SUFFIX,cdn.babylonjs.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,atl-global.atlassian.com
@@ -2247,6 +2248,7 @@ DOMAIN-SUFFIX,snippet.growsumo.com
 DOMAIN-SUFFIX,widget.cluster.groovehq.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,cdn.gofundme.com
+DOMAIN-SUFFIX,static.goaffpro.com
 DOMAIN-SUFFIX,static.gigabyte.com
 DOMAIN-SUFFIX,cdn.ghostery.com
 DOMAIN-SUFFIX,cdn.getkoala.com
@@ -2816,8 +2818,7 @@ DOMAIN-SUFFIX,cdn2.ttloli.com
 DOMAIN-SUFFIX,cdn.ttloli.com
 DOMAIN-SUFFIX,cdn.tracxn.com
 DOMAIN-SUFFIX,tpucdn.com
-DOMAIN-SUFFIX,static.toiimg.com
-DOMAIN-SUFFIX,assets.toiimg.com
+DOMAIN-SUFFIX,toiimg.com
 DOMAIN-SUFFIX,tmsimg.com
 DOMAIN-SUFFIX,tkcdns.com
 DOMAIN-SUFFIX,tiqcdn.com
@@ -3380,6 +3381,7 @@ DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,img.atom.com
 DOMAIN-SUFFIX,g-static.ap4r.com
 DOMAIN-SUFFIX,a1tb.com
+DOMAIN-SUFFIX,content.9gtb.com
 DOMAIN-SUFFIX,bundle.9gtb.com
 DOMAIN-SUFFIX,accounts-cdn.9gag.com
 DOMAIN-SUFFIX,bundle.5gtb.com
@@ -3882,6 +3884,7 @@ DOMAIN-SUFFIX,bigcontent.io
 DOMAIN-SUFFIX,wixstudio.io
 DOMAIN-SUFFIX,cdn.transcend.io
 DOMAIN-SUFFIX,static.tokenview.io
+DOMAIN-SUFFIX,storage.synctrack.io
 DOMAIN-SUFFIX,cdn.simplesat.io
 DOMAIN-SUFFIX,assets.keysquare.io
 DOMAIN-SUFFIX,media.hachyderm.io
