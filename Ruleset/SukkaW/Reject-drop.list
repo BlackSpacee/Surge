@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Anti Bogus Domain
-# Last Updated: 2026-01-21T05:26:22.330Z
-# Size: 506
+# Last Updated: 2026-01-24T13:52:39.620Z
+# Size: 507
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13,7 +13,6 @@
 #   - https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@master/GameConsoleAdblockList.txt
 #   - https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list@master/nocoin.txt
 #   - https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
-#   - https://easylist.to/easylist/easyprivacy.txt
 #   - https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
 #   - https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
 #   - https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt
@@ -23,6 +22,7 @@
 #   - https://filters.adtidy.org/extension/ublock/filters/7_optimized.txt
 #   - https://github.com/curbengh/botnet-filter
 #   - https://github.com/felixonmars/dnsmasq-china-list
+#   - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 #   - https://ublockorigin.github.io/uAssets/thirdparties/easylist-cookies.txt
 #   - https://ublockorigin.github.io/uAssets/thirdparties/easylist-notifications.txt
 #   - https://ublockorigin.github.io/uAssetsCDN/filters/annoyances.min.txt
@@ -91,6 +91,7 @@ IP-CIDR,13.248.148.254/32
 IP-CIDR,15.197.244.48/32
 IP-CIDR,18.142.131.147/32
 IP-CIDR,18.202.86.139/32
+IP-CIDR,23.22.126.183/32
 IP-CIDR,23.82.169.37/32
 IP-CIDR,23.82.169.38/31
 IP-CIDR,23.82.169.40/31

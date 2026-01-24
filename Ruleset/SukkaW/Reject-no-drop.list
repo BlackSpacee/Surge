@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject No Drop
-# Last Updated: 2025-11-04T09:27:40.099Z
-# Size: 39
+# Last Updated: 2026-01-24T17:09:43.571Z
+# Size: 43
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,12 +10,15 @@
 #########################################
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN-SUFFIX,ppio.cloud
+DOMAIN-SUFFIX,bsccdn.net
 DOMAIN-SUFFIX,yfp2p.net
 DOMAIN-SUFFIX,yfcdn.net
 DOMAIN-SUFFIX,ietheivaicai.com
 DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN-SUFFIX,nexusedgeio.com
 DOMAIN-SUFFIX,tianwenca.com
+DOMAIN,upos-sz-302ppio.bilivideo.com
+DOMAIN,upos-sz-302kodo.bilivideo.com
 DOMAIN-SUFFIX,pkoplink.com
 DOMAIN,qn-cdnfile1pcdn.msstatic.com
 DOMAIN,livewebbs2pcdn.msstatic.com
@@ -38,6 +41,7 @@ DOMAIN-SUFFIX,p2perrorlog.douyucdn.cn
 DOMAIN-SUFFIX,p2plog.douyucdn.cn
 DOMAIN,stun1.douyucdn.cn
 DOMAIN,stun.douyucdn.cn
+DOMAIN-SUFFIX,gjfzpt.cn
 DOMAIN-KEYWORD,-p2p.pull.yximgs.com
 DOMAIN-KEYWORD,-p2p-v2.pull.yximgs.com
 DOMAIN-WILDCARD,p2p*.qq.com
@@ -48,4 +52,3 @@ DOMAIN-WILDCARD,p2plive-*.douyucdn.cn
 DOMAIN-WILDCARD,stun*.douyucdn.cn
 AND,((PROTOCOL,UDP), (DOMAIN-SUFFIX,googlevideo.com))
 ################## EOF ##################
-
