@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 135
-# DOMAIN-SUFFIX: 33239
+# DOMAIN-SUFFIX: 33240
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33588
-# UPDATED: 2026-01-25 14:41:46
+# TOTAL: 33589
+# UPDATED: 2026-01-25 20:57:32
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -8057,14 +8057,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-01-24 02:08:27
+# UPDATED: 2026-01-26 02:07:54
 # DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32581
+# DOMAIN-SUFFIX: 32582
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32897
+# TOTAL: 32898
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -11555,6 +11555,7 @@ DOMAIN-SUFFIX,binance.net
 DOMAIN-SUFFIX,binance.vision
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binanceru.net
 DOMAIN-SUFFIX,binancezh.be
 DOMAIN-SUFFIX,binancezh.biz
 DOMAIN-SUFFIX,binancezh.co

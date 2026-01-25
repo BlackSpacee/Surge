@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4247
+# DOMAIN-SUFFIX: 4254
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4273
-# UPDATED: 2026-01-25 14:41:46
+# TOTAL: 4280
+# UPDATED: 2026-01-25 20:57:32
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-25T10:37:19.298Z
-# Size: 4247
+# Last Updated: 2026-01-25T14:21:36.330Z
+# Size: 4254
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -219,6 +219,7 @@ DOMAIN-SUFFIX,picjs.xyz
 DOMAIN-SUFFIX,chcdn.xyz
 DOMAIN-SUFFIX,cdn-longterm.mee6.xyz
 DOMAIN-SUFFIX,vod.jfly.xyz
+DOMAIN-SUFFIX,sdk-cdn.fun.xyz
 DOMAIN-SUFFIX,img.hentaihaven.xxx
 DOMAIN-SUFFIX,imhentai.xxx
 DOMAIN-SUFFIX,i.xozilla.xxx
@@ -1253,6 +1254,7 @@ DOMAIN-SUFFIX,rest.happierleads.com
 DOMAIN-SUFFIX,cdn.googlesource.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,m3u8.girigirilove.com
+DOMAIN-SUFFIX,getaroom-cdn.com
 DOMAIN-SUFFIX,framerstatic.com
 DOMAIN-SUFFIX,static.filestackapi.com
 DOMAIN-SUFFIX,staticm.fastcomments.com
@@ -1564,6 +1566,7 @@ DOMAIN-SUFFIX,img.sparknotes.com
 DOMAIN-SUFFIX,w.soundcloud.com
 DOMAIN-SUFFIX,static.solarwinds.com
 DOMAIN-SUFFIX,rum-agent.na-01.cloud.solarwinds.com
+DOMAIN-SUFFIX,cdn.snaptravel.com
 DOMAIN-SUFFIX,webappassets.smartsheet.com
 DOMAIN-SUFFIX,slack-imgs.com
 DOMAIN-SUFFIX,slack-edge.com
@@ -1871,6 +1874,7 @@ DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,siteintercept.qualtrics.com
 DOMAIN-SUFFIX,jfe-cdn.qualtrics.com
 DOMAIN-SUFFIX,js.qualified.com
+DOMAIN-SUFFIX,plugins.pubtailer.com
 DOMAIN-SUFFIX,vpncdn.protonweb.com
 DOMAIN-SUFFIX,pmecdn.protonweb.com
 DOMAIN-SUFFIX,content.powerapps.com
@@ -3127,7 +3131,9 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,media1.tenor.com
 DOMAIN-SUFFIX,media.tenor.com
 DOMAIN-SUFFIX,c.tadst.com
+DOMAIN-SUFFIX,tacdn.com
 DOMAIN-SUFFIX,t8cdn.com
+DOMAIN-SUFFIX,cdn.super.com
 DOMAIN-SUFFIX,assets.stash.com
 DOMAIN-SUFFIX,cdn.stash.com
 DOMAIN-SUFFIX,srcdn.com
@@ -3920,6 +3926,7 @@ DOMAIN-SUFFIX,icon.icepanel.io
 DOMAIN-SUFFIX,cdn.hackaday.io
 DOMAIN-SUFFIX,ipfs.filebase.io
 DOMAIN-SUFFIX,ipfs.denarius.io
+DOMAIN-SUFFIX,assets.customer.io
 DOMAIN-SUFFIX,rum.cronitor.io
 DOMAIN-SUFFIX,cloudimg.io
 DOMAIN-SUFFIX,static.assetlab.io
