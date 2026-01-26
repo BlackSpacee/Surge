@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-25T14:21:36.330Z
-# Size: 4254
+# Last Updated: 2026-01-26T17:01:40.038Z
+# Size: 4256
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1599,6 +1599,7 @@ DOMAIN-SUFFIX,images1.cmp.optimizely.com
 DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-SUFFIX,static.openreplay.com
 DOMAIN-SUFFIX,static-www.onlyoffice.com
+DOMAIN-SUFFIX,assets.northflank.com
 DOMAIN-SUFFIX,nincontent.com
 DOMAIN-SUFFIX,cdn.nerdschalk.com
 DOMAIN-SUFFIX,cdn.app.neononepay.com
@@ -3088,6 +3089,7 @@ DOMAIN-SUFFIX,static.zuora.com
 DOMAIN-SUFFIX,barracuda-assets.zoovu.com
 DOMAIN-SUFFIX,barracuda-cdn.zoovu.com
 DOMAIN-SUFFIX,hello.zonos.com
+DOMAIN-SUFFIX,assets.zephr.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ypcdn.com
 DOMAIN-SUFFIX,cdn-yotpo-images-production.yotpo.com
