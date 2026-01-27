@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-26T17:01:40.038Z
-# Size: 4256
+# Last Updated: 2026-01-27T16:09:02.012Z
+# Size: 4262
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2328,6 +2328,9 @@ DOMAIN-SUFFIX,assets-app.circleci.com
 DOMAIN-SUFFIX,app.chatwoot.com
 DOMAIN-SUFFIX,chasecdn.com
 DOMAIN-SUFFIX,js.chargify.com
+DOMAIN-SUFFIX,img-new.cgtrader.com
+DOMAIN-SUFFIX,assets.cgtrader.com
+DOMAIN-SUFFIX,media.cgtrader.com
 DOMAIN-SUFFIX,cdnfonts.com
 DOMAIN-SUFFIX,cdn-stamplib.casetify.com
 DOMAIN-SUFFIX,cdn-image02.casetify.com
@@ -2741,9 +2744,12 @@ DOMAIN-SUFFIX,media.beehiiv.com
 DOMAIN-SUFFIX,bdzybf7.com
 DOMAIN-SUFFIX,assets.basehub.com
 DOMAIN-SUFFIX,hiveplayer-static.bamgrid.com
+DOMAIN-SUFFIX,static-images.aptoide.com
 DOMAIN-SUFFIX,cdn-mobile.aptoide.com
 DOMAIN-SUFFIX,ws2-cache.aptoide.com
+DOMAIN-SUFFIX,cdn-en.aptoide.com
 DOMAIN-SUFFIX,cdn6.aptoide.com
+DOMAIN-SUFFIX,cdn.aptoide.com
 DOMAIN-SUFFIX,images.en.aptoide.com
 DOMAIN-SUFFIX,img.apponic.com
 DOMAIN-SUFFIX,cdn.apponic.com
