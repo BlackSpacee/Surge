@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-28T08:24:13.081Z
-# Size: 4263
+# Last Updated: 2026-01-29T13:28:36.778Z
+# Size: 4268
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -710,6 +710,7 @@ DOMAIN-SUFFIX,myanalytics.cdn.office.net
 DOMAIN-SUFFIX,res-geo.cdn.office.net
 DOMAIN-SUFFIX,public.cdn.office.net
 DOMAIN-SUFFIX,shell.cdn.office.net
+DOMAIN-SUFFIX,res-3.cdn.office.net
 DOMAIN-SUFFIX,mxmcdn.net
 DOMAIN-SUFFIX,az700632.vo.msecnd.net
 DOMAIN-SUFFIX,alcdn.msauth.net
@@ -868,6 +869,7 @@ DOMAIN-SUFFIX,biomejs.dev
 DOMAIN-SUFFIX,angular.dev
 DOMAIN-SUFFIX,vercel.dev
 DOMAIN-SUFFIX,stats.setapp.macpaw.dev
+DOMAIN-SUFFIX,lucide.dev
 DOMAIN-SUFFIX,assets.github.dev
 DOMAIN-SUFFIX,fiddle.fastly.dev
 DOMAIN-SUFFIX,plugins.dprint.dev
@@ -2023,6 +2025,7 @@ DOMAIN-SUFFIX,badge.buildkite.com
 DOMAIN-SUFFIX,media.breitbart.com
 DOMAIN-SUFFIX,static.bravoporn.com
 DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,sourcepointcmp.bloomberg.com
 DOMAIN-SUFFIX,cdn.blogarama.com
 DOMAIN-SUFFIX,images.blockscan.com
 DOMAIN-SUFFIX,assets.bitwarden.com
@@ -3871,6 +3874,7 @@ DOMAIN-SUFFIX,badges.greenkeeper.io
 DOMAIN-SUFFIX,cdn.document360.io
 DOMAIN-SUFFIX,prod-packager-packages.codesandbox.io
 DOMAIN-SUFFIX,sandpack-cdn-v2.codesandbox.io
+DOMAIN-SUFFIX,nodebox-runtime.codesandbox.io
 DOMAIN-SUFFIX,screenshots.codesandbox.io
 DOMAIN-SUFFIX,uploads.codesandbox.io
 DOMAIN-SUFFIX,stats.codesandbox.io
@@ -3907,6 +3911,7 @@ DOMAIN-SUFFIX,corsproxy.io
 DOMAIN-SUFFIX,static.corespeed.io
 DOMAIN-SUFFIX,r2cdn.corespeed.io
 DOMAIN-SUFFIX,assets.mcp.corespeed.io
+DOMAIN-SUFFIX,fast.chameleon.io
 DOMAIN-SUFFIX,sandpack-cdn-staging.blazingly.io
 DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,img.badgesize.io

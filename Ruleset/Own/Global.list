@@ -1,18 +1,18 @@
 # NAME: Global
-# DOMAIN: 135
-# DOMAIN-SUFFIX: 33240
+# DOMAIN: 134
+# DOMAIN-SUFFIX: 33257
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33589
-# UPDATED: 2026-01-29 14:59:05
+# TOTAL: 33605
+# UPDATED: 2026-01-29 21:14:32
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-01-19T12:19:03.199Z
-# Size: 1239
+# Last Updated: 2026-01-29T13:28:35.717Z
+# Size: 1240
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -383,6 +383,7 @@ DOMAIN-SUFFIX,spankingtube.com
 DOMAIN-SUFFIX,shutterstock.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,ovpnleaktest.com
+DOMAIN-SUFFIX,orionbrowser.com
 DOMAIN-SUFFIX,myanimeshelf.com
 DOMAIN-SUFFIX,malwarebytes.com
 DOMAIN-SUFFIX,madewithcode.com
@@ -1111,7 +1112,7 @@ DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,md
 DOMAIN-SUFFIX,ly
 DOMAIN-SUFFIX,archive.li
-DOMAIN-SUFFIX,la
+DOMAIN-SUFFIX,hitomi.la
 DOMAIN-SUFFIX,kr
 DOMAIN-SUFFIX,kg
 DOMAIN-SUFFIX,jp
@@ -3794,7 +3795,6 @@ DOMAIN-SUFFIX,himemix.com
 DOMAIN-SUFFIX,himemix.net
 DOMAIN-SUFFIX,hindustantimes.com
 DOMAIN-SUFFIX,hitbtc.com
-DOMAIN-SUFFIX,hitomi.la
 DOMAIN-SUFFIX,hiveon.net
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,hizb-ut-tahrir.info
@@ -7644,14 +7644,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-22 02:17:22
+# UPDATED: 2026-01-30 02:13:49
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6590
+# DOMAIN-SUFFIX: 6592
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6730
+# TOTAL: 6732
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7694,6 +7694,7 @@ DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,backend-v2.crixet.com
 DOMAIN-SUFFIX,bandisoft.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
@@ -8057,14 +8058,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-01-26 02:07:54
-# DOMAIN: 117
+# UPDATED: 2026-01-30 02:13:28
+# DOMAIN: 116
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32582
+# DOMAIN-SUFFIX: 32598
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32898
+# TOTAL: 32913
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -8134,7 +8135,6 @@ DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.ipp
 DOMAIN,practivate.adobe.newoa
 DOMAIN,practivate.adobe.ntp
-DOMAIN,pubg1.battleye.com
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,push-apple.com.akadns.net
 DOMAIN,qualcomm.sc.omtrdc.net
@@ -8194,6 +8194,7 @@ DOMAIN-SUFFIX,1010.com.hk
 DOMAIN-SUFFIX,101boyvideos.com
 DOMAIN-SUFFIX,101tubeporn.com
 DOMAIN-SUFFIX,101xxx.xyz
+DOMAIN-SUFFIX,1024terabox.com
 DOMAIN-SUFFIX,10bet.com
 DOMAIN-SUFFIX,10c10qoo.one
 DOMAIN-SUFFIX,10xfotolia.com
@@ -10230,7 +10231,9 @@ DOMAIN-SUFFIX,ark.ac.uk
 DOMAIN-SUFFIX,ark.to
 DOMAIN-SUFFIX,arm.ac.uk
 DOMAIN-SUFFIX,arma.ac.uk
+DOMAIN-SUFFIX,arma3.com
 DOMAIN-SUFFIX,armagh.ac.uk
+DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,armovs.com
 DOMAIN-SUFFIX,arnold-carlton.ac.uk
 DOMAIN-SUFFIX,arnoldrenderer.com
@@ -10923,6 +10926,7 @@ DOMAIN-SUFFIX,battleforcecomix.com
 DOMAIN-SUFFIX,battlefront2.com
 DOMAIN-SUFFIX,battlefrontii.com
 DOMAIN-SUFFIX,battlelog.com
+DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,bavs.ac.uk
 DOMAIN-SUFFIX,baxsound.com
 DOMAIN-SUFFIX,bayareabmw.com
@@ -11368,6 +11372,7 @@ DOMAIN-SUFFIX,bestbuystores.com
 DOMAIN-SUFFIX,bestbuytradein.com
 DOMAIN-SUFFIX,bestbuyus.com
 DOMAIN-SUFFIX,bestcamsites.net
+DOMAIN-SUFFIX,bestclouddrive.com
 DOMAIN-SUFFIX,besterpornos.com
 DOMAIN-SUFFIX,bestescortgirls.nl
 DOMAIN-SUFFIX,bestfreecams.club
@@ -11621,6 +11626,7 @@ DOMAIN-SUFFIX,bishopg.ac.uk
 DOMAIN-SUFFIX,bisi.ac.uk
 DOMAIN-SUFFIX,bisq.io
 DOMAIN-SUFFIX,bisq.network
+DOMAIN-SUFFIX,bistudio.com
 DOMAIN-SUFFIX,bisyoujyogyaruge.topaz.ne.jp
 DOMAIN-SUFFIX,bitballoon.com
 DOMAIN-SUFFIX,bitbank.cc
@@ -12249,6 +12255,7 @@ DOMAIN-SUFFIX,bodyandsoul.com.au
 DOMAIN-SUFFIX,bodyfluids-jav.com
 DOMAIN-SUFFIX,bognor-training.ac.uk
 DOMAIN-SUFFIX,bognor.ac.uk
+DOMAIN-SUFFIX,bohemia.net
 DOMAIN-SUFFIX,boj.or.jp
 DOMAIN-SUFFIX,bokep.net
 DOMAIN-SUFFIX,bokepseks.org
@@ -14111,6 +14118,7 @@ DOMAIN-SUFFIX,critical.ac.uk
 DOMAIN-SUFFIX,criticalfriend.ac.uk
 DOMAIN-SUFFIX,criticaltheology.ac.uk
 DOMAIN-SUFFIX,critiquebrainz.org
+DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,crmdynint-gcc.com
 DOMAIN-SUFFIX,crmdynint.com
 DOMAIN-SUFFIX,crocels.ac.uk
@@ -14418,6 +14426,7 @@ DOMAIN-SUFFIX,day24.ir
 DOMAIN-SUFFIX,daylenerio.com
 DOMAIN-SUFFIX,daytonbmw.com
 DOMAIN-SUFFIX,daytontrucktires.com
+DOMAIN-SUFFIX,dayz.com
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,dazndn.com
 DOMAIN-SUFFIX,daznfeeds.com
@@ -17469,6 +17478,7 @@ DOMAIN-SUFFIX,freesexyindians.com
 DOMAIN-SUFFIX,freesexyindians.org
 DOMAIN-SUFFIX,freesitexxx.com
 DOMAIN-SUFFIX,freessl.com
+DOMAIN-SUFFIX,freeterabox.com
 DOMAIN-SUFFIX,freeuseporn.com
 DOMAIN-SUFFIX,freeviewplus.net.au
 DOMAIN-SUFFIX,freexvideos.org
@@ -22276,6 +22286,7 @@ DOMAIN-SUFFIX,maintracker.org
 DOMAIN-SUFFIX,mairbeats.com
 DOMAIN-SUFFIX,makaan.com
 DOMAIN-SUFFIX,makeanything.com
+DOMAIN-SUFFIX,makearmanotwar.com
 DOMAIN-SUFFIX,makebettercode.com
 DOMAIN-SUFFIX,makecode.org
 DOMAIN-SUFFIX,makeitopen.com
@@ -25367,6 +25378,7 @@ DOMAIN-SUFFIX,osmfoundation.org
 DOMAIN-SUFFIX,osmosis.ac.uk
 DOMAIN-SUFFIX,ospray.net
 DOMAIN-SUFFIX,ospray.org
+DOMAIN-SUFFIX,ospserver.net
 DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com
@@ -28462,6 +28474,7 @@ DOMAIN-SUFFIX,sih.app
 DOMAIN-SUFFIX,sihe.ac.uk
 DOMAIN-SUFFIX,sikh-uni.ac.uk
 DOMAIN-SUFFIX,sikiswap.com
+DOMAIN-SUFFIX,silicagame.com
 DOMAIN-SUFFIX,silicon-mobility.com
 DOMAIN-SUFFIX,siliconmobility.com
 DOMAIN-SUFFIX,silkengirl.com
@@ -29818,6 +29831,7 @@ DOMAIN-SUFFIX,temp-mail.org
 DOMAIN-SUFFIX,tempusuk.ac.uk
 DOMAIN-SUFFIX,tenbyfotolia.com
 DOMAIN-SUFFIX,tentowns.ac.uk
+DOMAIN-SUFFIX,terabox1024.com
 DOMAIN-SUFFIX,terapeack.com
 DOMAIN-SUFFIX,terapeak.ca
 DOMAIN-SUFFIX,terapeak.com
@@ -31301,6 +31315,7 @@ DOMAIN-SUFFIX,viet69.news
 DOMAIN-SUFFIX,viewerswives.net
 DOMAIN-SUFFIX,viewgals.com
 DOMAIN-SUFFIX,viewpointsfromfacebook.com
+DOMAIN-SUFFIX,vigorgame.com
 DOMAIN-SUFFIX,vikiporn.com
 DOMAIN-SUFFIX,vilavpn.xyz
 DOMAIN-SUFFIX,vilavpn1.xyz
@@ -33127,6 +33142,7 @@ DOMAIN-SUFFIX,yinya.shop
 DOMAIN-SUFFIX,yiqiedoushiganggangkaishi.org
 DOMAIN-SUFFIX,yiyechat.com
 DOMAIN-SUFFIX,yjcontentdelivery.com
+DOMAIN-SUFFIX,ylands.com
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,ymca-wales.ac.uk
 DOMAIN-SUFFIX,ymca.ac.uk

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-12-14T08:08:16.558Z
-# Size: 838
+# Last Updated: 2026-01-29T13:28:35.900Z
+# Size: 859
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,haowu.link
 DOMAIN-SUFFIX,yqkk.link
 DOMAIN-SUFFIX,gorouter.info
+DOMAIN-SUFFIX,cnb.cool
 DOMAIN-SUFFIX,landian.vip
 DOMAIN,dot.pub
 DOMAIN,doh.pub
@@ -49,6 +50,7 @@ DOMAIN-SUFFIX,dizzylab.net
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,oschina.net
+DOMAIN-SUFFIX,oneplus.net
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,baixing.net
@@ -92,6 +94,7 @@ DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,39.net
 DOMAIN-SUFFIX,kingsoft-office-service.com
 DOMAIN-SUFFIX,alibabausercontent.com
+DOMAIN-SUFFIX,luckincoffeecdn.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,samsungcloudcn.com
@@ -216,9 +219,11 @@ DOMAIN-SUFFIX,freshhema.com
 DOMAIN-SUFFIX,feishupkg.com
 DOMAIN-SUFFIX,feishucdn.com
 DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,duokanbox.com
 DOMAIN-SUFFIX,douyuscdn.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinpay.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,dongchedi.com
 DOMAIN-SUFFIX,didialift.com
@@ -269,6 +274,7 @@ DOMAIN-SUFFIX,myalicdn.com
 DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,luojilab.com
+DOMAIN-SUFFIX,lkcoffee.com
 DOMAIN-SUFFIX,lenovomm.com
 DOMAIN,www.layuicdn.com
 DOMAIN-SUFFIX,kuaishou.com
@@ -358,7 +364,9 @@ DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,ialicdn.com
 DOMAIN-SUFFIX,huoshan.com
+DOMAIN-SUFFIX,huanqiu.com
 DOMAIN-SUFFIX,hongxiu.com
+DOMAIN-SUFFIX,hisense.com
 DOMAIN-SUFFIX,hihonor.com
 DOMAIN-SUFFIX,hicloud.com
 DOMAIN-SUFFIX,hichina.com
@@ -374,6 +382,8 @@ DOMAIN-SUFFIX,dida365.com
 DOMAIN-SUFFIX,dcarvod.com
 DOMAIN-SUFFIX,dcarimg.com
 DOMAIN-SUFFIX,dcarapi.com
+DOMAIN-SUFFIX,d-ctrip.com
+DOMAIN-SUFFIX,cqcbank.com
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coloros.com
 DOMAIN-SUFFIX,cnblogs.com
@@ -421,6 +431,7 @@ DOMAIN-SUFFIX,wpscdn.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,wegame.com
+DOMAIN-SUFFIX,webank.com
 DOMAIN-SUFFIX,wangsu.com
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,udache.com
@@ -457,6 +468,7 @@ DOMAIN-SUFFIX,ngabbs.com
 DOMAIN-SUFFIX,myoppo.com
 DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,mihayo.com
 DOMAIN-SUFFIX,mi-img.com
@@ -550,8 +562,10 @@ DOMAIN-SUFFIX,pipix.com
 DOMAIN-SUFFIX,nubia.com
 DOMAIN-SUFFIX,nlark.com
 DOMAIN-SUFFIX,mzres.com
+DOMAIN-SUFFIX,myssl.com
 DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,mtyun.com
+DOMAIN-SUFFIX,mipay.com
 DOMAIN-SUFFIX,meizu.com
 DOMAIN-SUFFIX,meitu.com
 DOMAIN-SUFFIX,m1905.com
@@ -646,10 +660,12 @@ DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,1905.com
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,zui.com
+DOMAIN-SUFFIX,zol.com
 DOMAIN-SUFFIX,ys7.com
 DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,qcc.com
 DOMAIN-SUFFIX,okr.com
+DOMAIN-SUFFIX,niu.com
 DOMAIN-SUFFIX,ku6.com
 DOMAIN-SUFFIX,id6.com
 DOMAIN-SUFFIX,ccb.com
@@ -689,10 +705,13 @@ DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,tool.lu
+DOMAIN-SUFFIX,dns.la
 DOMAIN-SUFFIX,openinstall.io
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,daocloud.io
 DOMAIN-SUFFIX,jianshu.io
+DOMAIN-SUFFIX,dcloud.io
 DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,netease.im
 DOMAIN-SUFFIX,jd.hk
@@ -707,6 +726,7 @@ DOMAIN-SUFFIX,chinaunicom.cn
 DOMAIN-SUFFIX,baishancdnx.cn
 DOMAIN-SUFFIX,toutiaoimg.cn
 DOMAIN-SUFFIX,sharepoint.cn
+DOMAIN-SUFFIX,huanqiucdn.cn
 DOMAIN-SUFFIX,tencentcs.cn
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,robloxdev.cn
@@ -774,6 +794,7 @@ DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,udesk.cn
 DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,tbcdn.cn
+DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qiyou.cn
 DOMAIN-SUFFIX,nubia.cn
