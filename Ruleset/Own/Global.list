@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 134
-# DOMAIN-SUFFIX: 33257
+# DOMAIN-SUFFIX: 33265
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33605
-# UPDATED: 2026-01-31 14:51:17
+# TOTAL: 33613
+# UPDATED: 2026-01-31 21:03:44
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7644,14 +7644,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-30 02:13:49
+# UPDATED: 2026-02-01 02:08:43
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6592
+# DOMAIN-SUFFIX: 6594
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6732
+# TOTAL: 6734
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7766,6 +7766,7 @@ DOMAIN-SUFFIX,fiftythree.com
 DOMAIN-SUFFIX,files.oaiusercontent.com
 DOMAIN-SUFFIX,flexibits.com
 DOMAIN-SUFFIX,freeopenproxy.com
+DOMAIN-SUFFIX,freeterabox.com
 DOMAIN-SUFFIX,fubo.tv
 DOMAIN-SUFFIX,fzlm.net
 DOMAIN-SUFFIX,gabia.net
@@ -7932,6 +7933,7 @@ DOMAIN-SUFFIX,sciencedaily.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,shadowverse.jp
 DOMAIN-SUFFIX,shazam.com
+DOMAIN-SUFFIX,simianx.ai
 DOMAIN-SUFFIX,simp.ly
 DOMAIN-SUFFIX,simplecd.me
 DOMAIN-SUFFIX,simplenote.com
@@ -8017,6 +8019,7 @@ DOMAIN-SUFFIX,xeeno.com
 DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,yoyo.org
@@ -8058,14 +8061,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-01-30 02:13:28
+# UPDATED: 2026-02-01 02:08:22
 # DOMAIN: 116
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32598
+# DOMAIN-SUFFIX: 32606
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32913
+# TOTAL: 32921
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -10372,11 +10375,13 @@ DOMAIN-SUFFIX,atdmt2.com
 DOMAIN-SUFFIX,ateam-oracle.com
 DOMAIN-SUFFIX,athens.ac.uk
 DOMAIN-SUFFIX,atkgallery.com
+DOMAIN-SUFFIX,atl-paas.net
 DOMAIN-SUFFIX,atlantaminidealers.com
 DOMAIN-SUFFIX,atlars.ac.uk
 DOMAIN-SUFFIX,atlas.ac.uk
 DOMAIN-SUFFIX,atlasdmt.com
 DOMAIN-SUFFIX,atlasonepoint.com
+DOMAIN-SUFFIX,atlassian-dev.net
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,atos.net
 DOMAIN-SUFFIX,atp.ac.uk
@@ -17221,6 +17226,9 @@ DOMAIN-SUFFIX,fotolia.tv
 DOMAIN-SUFFIX,fotolja.com
 DOMAIN-SUFFIX,fotoscaserasx.com
 DOMAIN-SUFFIX,foundationdb.org
+DOMAIN-SUFFIX,foundationdns.com
+DOMAIN-SUFFIX,foundationdns.net
+DOMAIN-SUFFIX,foundationdns.org
 DOMAIN-SUFFIX,foundationyear.ac.uk
 DOMAIN-SUFFIX,fourthns.systems
 DOMAIN-SUFFIX,fox-corporation.com
@@ -17478,7 +17486,6 @@ DOMAIN-SUFFIX,freesexyindians.com
 DOMAIN-SUFFIX,freesexyindians.org
 DOMAIN-SUFFIX,freesitexxx.com
 DOMAIN-SUFFIX,freessl.com
-DOMAIN-SUFFIX,freeterabox.com
 DOMAIN-SUFFIX,freeuseporn.com
 DOMAIN-SUFFIX,freeviewplus.net.au
 DOMAIN-SUFFIX,freexvideos.org
@@ -20893,6 +20900,7 @@ DOMAIN-SUFFIX,jimeng22.com
 DOMAIN-SUFFIX,jinmantiankong.com
 DOMAIN-SUFFIX,jinnaju.com
 DOMAIN-SUFFIX,jinsilubanzhao.com
+DOMAIN-SUFFIX,jira.com
 DOMAIN-SUFFIX,jisc-collections.ac.uk
 DOMAIN-SUFFIX,jisc-content.ac.uk
 DOMAIN-SUFFIX,jisc-liberate-migrate1.ac.uk
@@ -29052,6 +29060,7 @@ DOMAIN-SUFFIX,srtcdn.net
 DOMAIN-SUFFIX,srttu.edu
 DOMAIN-SUFFIX,sruc.ac.uk
 DOMAIN-SUFFIX,srwwu.uno
+DOMAIN-SUFFIX,ss-inf.net
 DOMAIN-SUFFIX,ss2.us
 DOMAIN-SUFFIX,ss7.app
 DOMAIN-SUFFIX,ssdevrd.com
@@ -33120,7 +33129,6 @@ DOMAIN-SUFFIX,yeswegays.com
 DOMAIN-SUFFIX,yeyuehuachao11.com
 DOMAIN-SUFFIX,yeyuehuachao12.com
 DOMAIN-SUFFIX,yeyuehuachao13.com
-DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,yft-mv.sbs
 DOMAIN-SUFFIX,ygugu4.com
 DOMAIN-SUFFIX,yhelln.ac.uk
