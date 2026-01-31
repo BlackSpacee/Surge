@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-29T13:28:36.778Z
-# Size: 4268
+# Last Updated: 2026-01-30T20:44:46.186Z
+# Size: 4281
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -351,6 +351,7 @@ DOMAIN-SUFFIX,static.aizanmei.org
 DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,tools-static.wmflabs.org
 DOMAIN-SUFFIX,proxy.ustclug.org
+DOMAIN-SUFFIX,cdn.userway.org
 DOMAIN-SUFFIX,typedoc.org
 DOMAIN-SUFFIX,s.slideme.org
 DOMAIN-SUFFIX,reactjs.org
@@ -802,6 +803,8 @@ DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,texture.laby.net
 DOMAIN-SUFFIX,static1.e621.net
 DOMAIN-SUFFIX,c-dn.net
+DOMAIN-SUFFIX,static.blip.net
+DOMAIN-SUFFIX,logs.blip.net
 DOMAIN-SUFFIX,mm.bing.net
 DOMAIN-SUFFIX,mapi.4kvm.net
 DOMAIN-SUFFIX,2mdn.net
@@ -976,6 +979,7 @@ DOMAIN-SUFFIX,css.blackmagicdesign.com
 DOMAIN-SUFFIX,dd.blackhawknetwork.com
 DOMAIN-SUFFIX,imgs02.aventertainments.com
 DOMAIN-SUFFIX,js.assemblyexchange.com
+DOMAIN-SUFFIX,cdn.animenewsnetwork.com
 DOMAIN-SUFFIX,cdn.worldvectorlogo.com
 DOMAIN-SUFFIX,cms.worldpokerdeals.com
 DOMAIN-SUFFIX,analytics.welcomesoftware.com
@@ -1012,6 +1016,7 @@ DOMAIN-SUFFIX,images.financemagnates.com
 DOMAIN-SUFFIX,ui-cdn.digitalocean-ui.com
 DOMAIN-SUFFIX,customerioforms.com
 DOMAIN-SUFFIX,imgssl.constantcontact.com
+DOMAIN-SUFFIX,conf.config-security.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,shopify.cleverecommerce.com
 DOMAIN-SUFFIX,thumbnails.applegamingwiki.com
@@ -1368,6 +1373,7 @@ DOMAIN-SUFFIX,c.s-microsoft.com
 DOMAIN-SUFFIX,dataplane.rudderstack.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,assets.redbullshop.com
+DOMAIN-SUFFIX,rechargecdn.com
 DOMAIN-SUFFIX,cached.rebuyengine.com
 DOMAIN-SUFFIX,cdn.rebuyengine.com
 DOMAIN-SUFFIX,assets-www.readspeaker.com
@@ -1516,6 +1522,7 @@ DOMAIN-SUFFIX,f001.backblazeb2.com
 DOMAIN-SUFFIX,f000.backblazeb2.com
 DOMAIN-SUFFIX,img.applealmond.com
 DOMAIN-SUFFIX,ancestrycdn.com
+DOMAIN-SUFFIX,cdn.amgreatness.com
 DOMAIN-SUFFIX,showcase.abovemarket.com
 DOMAIN-SUFFIX,assets.aboutamazon.com
 DOMAIN-SUFFIX,cdn2.abiresearch.com
@@ -1898,7 +1905,9 @@ DOMAIN-SUFFIX,cdn.nodeimage.com
 DOMAIN-SUFFIX,cms-assets.nodecraft.com
 DOMAIN-SUFFIX,nhentaimg.com
 DOMAIN-SUFFIX,media.newyorker.com
+DOMAIN-SUFFIX,static.newsbreak.com
 DOMAIN-SUFFIX,files.namecheap.com
+DOMAIN-SUFFIX,jssdkcdns.mparticle.com
 DOMAIN-SUFFIX,images.moovitapp.com
 DOMAIN-SUFFIX,static.mocortech.com
 DOMAIN-SUFFIX,public.mocortech.com
@@ -2133,6 +2142,7 @@ DOMAIN-SUFFIX,embed.savvycal.com
 DOMAIN-SUFFIX,public.saasexch.com
 DOMAIN-SUFFIX,rrcdnbf3.com
 DOMAIN-SUFFIX,apps-static.route4me.com
+DOMAIN-SUFFIX,cdn.roseperl.com
 DOMAIN-SUFFIX,roseimgs.com
 DOMAIN-SUFFIX,media-cdn.rollcall.com
 DOMAIN-SUFFIX,cdnassets.roboflow.com
@@ -2875,6 +2885,7 @@ DOMAIN-SUFFIX,scene7.com
 DOMAIN-SUFFIX,sc-cdn.com
 DOMAIN-SUFFIX,sascdn.com
 DOMAIN-SUFFIX,embed.runkit.com
+DOMAIN-SUFFIX,static.rumble.com
 DOMAIN-SUFFIX,i.rtings.com
 DOMAIN-SUFFIX,cms.replit.com
 DOMAIN-SUFFIX,cdn.replit.com
@@ -4040,6 +4051,7 @@ DOMAIN-SUFFIX,cdn.filen.io
 DOMAIN-SUFFIX,ipfs.decoo.io
 DOMAIN-SUFFIX,assets2.canny.io
 DOMAIN-SUFFIX,assets.canny.io
+DOMAIN-SUFFIX,cdn.bogos.io
 DOMAIN-SUFFIX,code.benco.io
 DOMAIN-SUFFIX,polyfill.bbhub.io
 DOMAIN-SUFFIX,assets.bbhub.io
@@ -4137,6 +4149,7 @@ DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
 DOMAIN-SUFFIX,cdn-uploads.huggingface.co
 DOMAIN-SUFFIX,cdn-avatars.huggingface.co
 DOMAIN-SUFFIX,cdn-lfs.huggingface.co
+DOMAIN-SUFFIX,js.convertflow.co
 DOMAIN-SUFFIX,waitlisted.co
 DOMAIN-SUFFIX,widgets.listenlive.co
 DOMAIN-SUFFIX,sdk.listenlive.co
