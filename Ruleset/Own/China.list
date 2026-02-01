@@ -3,12 +3,12 @@
 # DOMAIN-SUFFIX: 116528
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12117
+# IP-CIDR: 12138
 # IP-CIDR6: 4266
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 133433
-# UPDATED: 2026-01-31 21:03:44
+# TOTAL: 133454
+# UPDATED: 2026-02-01 02:42:33
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -74,7 +74,7 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2026-01-31T17:15:24.554Z
+# Last Updated: 2026-01-31T20:21:30.429Z
 # Size: 221
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
@@ -1106,8 +1106,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-01-31T17:15:25.920Z
-# Size: 3837
+# Last Updated: 2026-01-31T20:21:31.359Z
+# Size: 3858
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -4864,7 +4864,28 @@ IP-CIDR,222.50.0.0/16
 IP-CIDR,222.59.128.0/17
 IP-CIDR,222.64.0.0/11
 IP-CIDR,222.125.0.0/16
-IP-CIDR,222.126.128.0/17
+IP-CIDR,222.126.128.0/23
+IP-CIDR,222.126.132.0/23
+IP-CIDR,222.126.141.0/24
+IP-CIDR,222.126.142.0/23
+IP-CIDR,222.126.146.0/23
+IP-CIDR,222.126.148.0/23
+IP-CIDR,222.126.152.0/21
+IP-CIDR,222.126.164.0/24
+IP-CIDR,222.126.170.0/23
+IP-CIDR,222.126.172.0/22
+IP-CIDR,222.126.180.0/22
+IP-CIDR,222.126.186.0/23
+IP-CIDR,222.126.188.0/23
+IP-CIDR,222.126.192.0/22
+IP-CIDR,222.126.196.0/23
+IP-CIDR,222.126.200.0/22
+IP-CIDR,222.126.208.0/23
+IP-CIDR,222.126.212.0/22
+IP-CIDR,222.126.216.0/23
+IP-CIDR,222.126.234.0/23
+IP-CIDR,222.126.236.0/23
+IP-CIDR,222.126.240.0/20
 IP-CIDR,222.128.0.0/12
 IP-CIDR,222.160.0.0/14
 IP-CIDR,222.168.0.0/13
