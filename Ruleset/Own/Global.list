@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 134
-# DOMAIN-SUFFIX: 33265
+# DOMAIN-SUFFIX: 33266
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33613
-# UPDATED: 2026-02-01 15:00:04
+# TOTAL: 33614
+# UPDATED: 2026-02-01 21:05:59
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7644,14 +7644,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-01 02:08:43
+# UPDATED: 2026-02-02 02:09:56
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6594
+# DOMAIN-SUFFIX: 6595
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6734
+# TOTAL: 6735
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7698,6 +7698,7 @@ DOMAIN-SUFFIX,backend-v2.crixet.com
 DOMAIN-SUFFIX,bandisoft.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
 DOMAIN-SUFFIX,bbs.sina.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
@@ -8061,7 +8062,7 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-02-01 02:08:22
+# UPDATED: 2026-02-02 02:09:34
 # DOMAIN: 116
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 32606
@@ -22013,6 +22014,7 @@ DOMAIN-SUFFIX,lothiancolleges.ac.uk
 DOMAIN-SUFFIX,lou.ac.uk
 DOMAIN-SUFFIX,loucoll.ac.uk
 DOMAIN-SUFFIX,loughborough.ac.uk
+DOMAIN-SUFFIX,louisvuitton.com
 DOMAIN-SUFFIX,love-sextoys.co.uk
 DOMAIN-SUFFIX,love4porn.com
 DOMAIN-SUFFIX,love6.tv
@@ -25954,7 +25956,6 @@ DOMAIN-SUFFIX,pifpafarabia.com
 DOMAIN-SUFFIX,piirus.ac.uk
 DOMAIN-SUFFIX,pikabu.monster
 DOMAIN-SUFFIX,pikpak.io
-DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN-SUFFIX,pilgrimageandcathedrals.ac.uk
 DOMAIN-SUFFIX,pilgrimagestudies.ac.uk
 DOMAIN-SUFFIX,pillbeatsblackfridaysale.com
