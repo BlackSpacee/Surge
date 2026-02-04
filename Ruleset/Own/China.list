@@ -3,12 +3,12 @@
 # DOMAIN-SUFFIX: 116590
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12139
+# IP-CIDR: 12140
 # IP-CIDR6: 4269
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 133521
-# UPDATED: 2026-02-04 10:42:03
+# TOTAL: 133522
+# UPDATED: 2026-02-04 15:03:10
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -74,7 +74,7 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2026-02-04T05:45:56.505Z
+# Last Updated: 2026-02-04T09:55:48.945Z
 # Size: 221
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
@@ -1106,8 +1106,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-02-02T17:30:08.294Z
-# Size: 3857
+# Last Updated: 2026-02-04T09:55:53.975Z
+# Size: 3858
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -4766,6 +4766,7 @@ IP-CIDR,220.154.128.0/21
 IP-CIDR,220.154.136.0/23
 IP-CIDR,220.154.139.0/24
 IP-CIDR,220.154.140.0/22
+IP-CIDR,220.154.144.0/24
 IP-CIDR,220.154.147.0/24
 IP-CIDR,220.160.0.0/12
 IP-CIDR,220.176.0.0/14
