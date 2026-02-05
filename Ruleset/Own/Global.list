@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 134
-# DOMAIN-SUFFIX: 33270
+# DOMAIN-SUFFIX: 33271
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33618
-# UPDATED: 2026-02-05 15:09:04
+# TOTAL: 33619
+# UPDATED: 2026-02-05 21:19:30
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7644,14 +7644,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-04 02:21:28
+# UPDATED: 2026-02-06 02:20:07
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6596
+# DOMAIN-SUFFIX: 6597
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6736
+# TOTAL: 6737
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7931,6 +7931,7 @@ DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,sa.hao123.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,sciencedaily.com
+DOMAIN-SUFFIX,sef.org.tw
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,shadowverse.jp
 DOMAIN-SUFFIX,shazam.com
@@ -8063,14 +8064,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-02-04 02:21:06
+# UPDATED: 2026-02-06 02:19:46
 # DOMAIN: 116
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32610
+# DOMAIN-SUFFIX: 32612
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32925
+# TOTAL: 32927
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
