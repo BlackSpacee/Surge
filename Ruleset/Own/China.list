@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 371
-# DOMAIN-SUFFIX: 116590
+# DOMAIN-SUFFIX: 116591
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12154
+# IP-CIDR: 12153
 # IP-CIDR6: 4269
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 133536
-# UPDATED: 2026-02-06 10:44:22
+# UPDATED: 2026-02-06 15:03:46
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -74,7 +74,7 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2026-02-06T05:51:15.164Z
+# Last Updated: 2026-02-06T07:55:47.175Z
 # Size: 221
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
@@ -244,8 +244,7 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2026-01-29T13:28:35.900Z
-# Size: 859
+# Size: 861
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -377,6 +376,7 @@ DOMAIN-SUFFIX,laiqukankan.com
 DOMAIN-SUFFIX,jcloudcache.com
 DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,heytapimage.com
+DOMAIN-SUFFIX,geovisearth.com
 DOMAIN-SUFFIX,didichuxing.com
 DOMAIN-SUFFIX,cowtransfer.com
 DOMAIN-SUFFIX,chinamobile.com
@@ -1034,6 +1034,7 @@ DOMAIN-SUFFIX,tbcdn.cn
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qiyou.cn
+DOMAIN-SUFFIX,osgeo.cn
 DOMAIN-SUFFIX,nubia.cn
 DOMAIN-SUFFIX,meizu.cn
 DOMAIN-SUFFIX,m1905.cn
@@ -1106,8 +1107,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-02-06T05:51:16.264Z
-# Size: 3869
+# Last Updated: 2026-02-06T07:55:47.997Z
+# Size: 3868
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -1144,8 +1145,7 @@ IP-CIDR,8.136.0.0/13
 IP-CIDR,8.144.0.0/14
 IP-CIDR,8.148.0.0/19
 IP-CIDR,8.148.36.0/22
-IP-CIDR,8.148.40.0/23
-IP-CIDR,8.148.43.0/24
+IP-CIDR,8.148.40.0/22
 IP-CIDR,8.148.64.0/18
 IP-CIDR,8.148.128.0/17
 IP-CIDR,8.149.0.0/16
@@ -45246,7 +45246,6 @@ DOMAIN-SUFFIX,geons.host
 DOMAIN-SUFFIX,georginaarmadas.com
 DOMAIN-SUFFIX,geosheen.com
 DOMAIN-SUFFIX,geospatialsmart.com
-DOMAIN-SUFFIX,geovisearth.com
 DOMAIN-SUFFIX,gepcc.com
 DOMAIN-SUFFIX,gephb.com
 DOMAIN-SUFFIX,gepresearch.com
