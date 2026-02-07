@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 134
-# DOMAIN-SUFFIX: 33271
+# DOMAIN-SUFFIX: 33280
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33619
-# UPDATED: 2026-02-07 14:54:02
+# TOTAL: 33628
+# UPDATED: 2026-02-07 21:05:16
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7644,14 +7644,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-06 02:20:07
+# UPDATED: 2026-02-08 02:10:00
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6597
+# DOMAIN-SUFFIX: 6601
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6737
+# TOTAL: 6741
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7705,6 +7705,7 @@ DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bitbaby.com
+DOMAIN-SUFFIX,bittorrent.com
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
@@ -7784,7 +7785,9 @@ DOMAIN-SUFFIX,gmocloud.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,go.jp
 DOMAIN-SUFFIX,gosetsuden.jp
+DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,hk.hao123img.com
 DOMAIN-SUFFIX,home.sina.com
@@ -8000,6 +8003,7 @@ DOMAIN-SUFFIX,upwork.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,usgs.gov
 DOMAIN-SUFFIX,v.gd
+DOMAIN-SUFFIX,v2.hysteria.network
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,vbstatic.co
 DOMAIN-SUFFIX,venturebeat.com
@@ -8064,14 +8068,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-02-06 02:19:46
+# UPDATED: 2026-02-08 02:09:39
 # DOMAIN: 116
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32612
+# DOMAIN-SUFFIX: 32621
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32927
+# TOTAL: 32936
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -22381,6 +22385,8 @@ DOMAIN-SUFFIX,mantan-web.jp
 DOMAIN-SUFFIX,mantochichi.com
 DOMAIN-SUFFIX,manufacturingedc.ac.uk
 DOMAIN-SUFFIX,manurefetish.com
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,manytoon.com
 DOMAIN-SUFFIX,manyvids.com
 DOMAIN-SUFFIX,maoeraobjects.ac.uk
@@ -26968,6 +26974,7 @@ DOMAIN-SUFFIX,rada.ac.uk
 DOMAIN-SUFFIX,radeon.com
 DOMAIN-SUFFIX,radgametools.com
 DOMAIN-SUFFIX,radian6.com
+DOMAIN-SUFFIX,radiko-cf.com
 DOMAIN-SUFFIX,radiofarda.com
 DOMAIN-SUFFIX,radiomango.fm
 DOMAIN-SUFFIX,radiomarsho.com
@@ -28573,6 +28580,7 @@ DOMAIN-SUFFIX,sketchbookmobile.com
 DOMAIN-SUFFIX,sketchbooknews.com
 DOMAIN-SUFFIX,sketchbookpro.com
 DOMAIN-SUFFIX,sketchfab.com
+DOMAIN-SUFFIX,skills.sh
 DOMAIN-SUFFIX,skillsbridge.ac.uk
 DOMAIN-SUFFIX,skillscompetitionwales.ac.uk
 DOMAIN-SUFFIX,skillsgroupuk.ac.uk
@@ -28659,6 +28667,7 @@ DOMAIN-SUFFIX,smartoneholdings.com
 DOMAIN-SUFFIX,smartonerobotics.com
 DOMAIN-SUFFIX,smartonesolutions.com.hk
 DOMAIN-SUFFIX,smartonesolutions.hk
+DOMAIN-SUFFIX,smartstream.ne.jp
 DOMAIN-SUFFIX,smashed.xxx
 DOMAIN-SUFFIX,smbc.co.jp
 DOMAIN-SUFFIX,smbctb.co.jp
