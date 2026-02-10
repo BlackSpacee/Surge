@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-02-06T07:55:48.121Z
-# Size: 4341
+# Last Updated: 2026-02-10T18:50:32.291Z
+# Size: 4347
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1204,6 +1204,9 @@ DOMAIN-SUFFIX,images.arigatotravel.com
 DOMAIN-SUFFIX,images.arcpublishing.com
 DOMAIN-SUFFIX,adobeccstatic.com
 DOMAIN-SUFFIX,jac.yahoosandbox.com
+DOMAIN-SUFFIX,i3.xiaoyakankan.com
+DOMAIN-SUFFIX,i2.xiaoyakankan.com
+DOMAIN-SUFFIX,i1.xiaoyakankan.com
 DOMAIN-SUFFIX,cms-assets.xboxservices.com
 DOMAIN-SUFFIX,assets.xboxservices.com
 DOMAIN-SUFFIX,wpcomstaging.com
@@ -2237,6 +2240,7 @@ DOMAIN-SUFFIX,cdn-public-apis.moonlock.com
 DOMAIN-SUFFIX,pp-static.monotype.com
 DOMAIN-SUFFIX,sny.monosnap.com
 DOMAIN-SUFFIX,momentjs.com
+DOMAIN-SUFFIX,play.modujx11.com
 DOMAIN-SUFFIX,launcher-files.modrinth.com
 DOMAIN-SUFFIX,cdn-raw.modrinth.com
 DOMAIN-SUFFIX,cdn.modrinth.com
@@ -4224,6 +4228,7 @@ DOMAIN-SUFFIX,smilecdn.co
 DOMAIN-SUFFIX,ipfs.sloppyta.co
 DOMAIN-SUFFIX,assets.jolipage.co
 DOMAIN-SUFFIX,cdn.jolipage.co
+DOMAIN-SUFFIX,cdn.inviter.co
 DOMAIN-SUFFIX,doodcdn.co
 DOMAIN-SUFFIX,img.decrypt.co
 DOMAIN-SUFFIX,cdn.decrypt.co
@@ -4324,6 +4329,7 @@ DOMAIN-SUFFIX,sdk.customfit.ai
 DOMAIN-SUFFIX,static.returngo.ai
 DOMAIN-SUFFIX,file.xiaohai.ai
 DOMAIN-SUFFIX,prod-cdn.webtune.ai
+DOMAIN-SUFFIX,cms.mistral.ai
 DOMAIN-SUFFIX,widget.docsbot.ai
 DOMAIN-SUFFIX,cdn.aimerce.ai
 DOMAIN-SUFFIX,vetted.ai
