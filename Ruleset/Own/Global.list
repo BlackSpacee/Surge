@@ -7,7 +7,7 @@
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 33654
-# UPDATED: 2026-02-11 15:13:18
+# UPDATED: 2026-02-11 21:38:19
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7644,14 +7644,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-10 02:20:23
+# UPDATED: 2026-02-12 02:22:54
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6602
+# DOMAIN-SUFFIX: 6595
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6742
+# TOTAL: 6735
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7666,7 +7666,6 @@ DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,adult.friendfinder.com
-DOMAIN-SUFFIX,ae.hao123.com
 DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aiss.anws.gov.tw
@@ -7699,7 +7698,6 @@ DOMAIN-SUFFIX,bandisoft.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
-DOMAIN-SUFFIX,bbs.sina.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bintray.com
@@ -7710,7 +7708,6 @@ DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,blogsmithmedia.com
-DOMAIN-SUFFIX,br.hao123.com
 DOMAIN-SUFFIX,c.gle
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
@@ -7733,7 +7730,6 @@ DOMAIN-SUFFIX,culturalspot.org
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,d.pr
-DOMAIN-SUFFIX,dailynews.sina.com
 DOMAIN-SUFFIX,danilo.to
 DOMAIN-SUFFIX,dartlang.org
 DOMAIN-SUFFIX,data.gov.tw
@@ -7753,7 +7749,6 @@ DOMAIN-SUFFIX,dueapp.com
 DOMAIN-SUFFIX,east-plus.net
 DOMAIN-SUFFIX,easybib.com
 DOMAIN-SUFFIX,edgekey.net
-DOMAIN-SUFFIX,en.hao123.com
 DOMAIN-SUFFIX,entrust.net
 DOMAIN-SUFFIX,even.stream
 DOMAIN-SUFFIX,evernote.com
@@ -7775,6 +7770,13 @@ DOMAIN-SUFFIX,gabia.net
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,getcloudapp.com
 DOMAIN-SUFFIX,getpricetag.com
+DOMAIN-SUFFIX,gettyimages.ae
+DOMAIN-SUFFIX,gettyimages.ca
+DOMAIN-SUFFIX,gettyimages.de
+DOMAIN-SUFFIX,gettyimages.hk
+DOMAIN-SUFFIX,gettyimages.in
+DOMAIN-SUFFIX,gettyimages.it
+DOMAIN-SUFFIX,gettyimages.us
 DOMAIN-SUFFIX,gfwbao.com
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,ghcr.io
@@ -7789,13 +7791,11 @@ DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,hitun.io
-DOMAIN-SUFFIX,hk.hao123img.com
-DOMAIN-SUFFIX,home.sina.com
 DOMAIN-SUFFIX,hotbak.net
 DOMAIN-SUFFIX,hpa.gov.tw
-DOMAIN-SUFFIX,hrtsea.com
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,huobi.li
 DOMAIN-SUFFIX,icons8.com
-DOMAIN-SUFFIX,id.hao123.com
 DOMAIN-SUFFIX,idcflare.com
 DOMAIN-SUFFIX,immigration.gov.tw
 DOMAIN-SUFFIX,imore.com
@@ -7817,7 +7817,6 @@ DOMAIN-SUFFIX,itun.es
 DOMAIN-SUFFIX,jetbra.in
 DOMAIN-SUFFIX,jhelab.org
 DOMAIN-SUFFIX,jiehua.tv
-DOMAIN-SUFFIX,jp.hao123.com
 DOMAIN-SUFFIX,js.revsci.net
 DOMAIN-SUFFIX,jshint.com
 DOMAIN-SUFFIX,judicial.gov.tw
@@ -7825,7 +7824,6 @@ DOMAIN-SUFFIX,justgetflux.com
 DOMAIN-SUFFIX,kat.cr
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,krypt.com
-DOMAIN-SUFFIX,ld.hao123img.com
 DOMAIN-SUFFIX,leancloud.com
 DOMAIN-SUFFIX,level-plus.net
 DOMAIN-SUFFIX,libsyn.com
@@ -7838,7 +7836,6 @@ DOMAIN-SUFFIX,liyuans.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,lovart.ai
 DOMAIN-SUFFIX,ly.gov.tw
-DOMAIN-SUFFIX,ma.hao123.com
 DOMAIN-SUFFIX,macid.co
 DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,macrumors.com
@@ -7865,7 +7862,6 @@ DOMAIN-SUFFIX,mol.gov.tw
 DOMAIN-SUFFIX,moves-export.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,mvdis.gov.tw
-DOMAIN-SUFFIX,mx.hao123.com
 DOMAIN-SUFFIX,myfontastic.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,name.com
@@ -7923,6 +7919,8 @@ DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,podwise.ai
 DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,pp.ua
+DOMAIN-SUFFIX,prompthero.com
+DOMAIN-SUFFIX,pullfolio.co
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,radio.co
@@ -7931,7 +7929,6 @@ DOMAIN-SUFFIX,rime.im
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
 DOMAIN-SUFFIX,s.team
-DOMAIN-SUFFIX,sa.hao123.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,sciencedaily.com
 DOMAIN-SUFFIX,sef.org.tw
@@ -7964,12 +7961,10 @@ DOMAIN-SUFFIX,taipei.gov.tw
 DOMAIN-SUFFIX,taiwanjobs.gov.tw
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
-DOMAIN-SUFFIX,tbskkinabalu.page.tl
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
-DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,thb.gov.tw
 DOMAIN-SUFFIX,timeinc.net
 DOMAIN-SUFFIX,tinder.com
@@ -7986,7 +7981,6 @@ DOMAIN-SUFFIX,trustasiassl.com
 DOMAIN-SUFFIX,tt-rss.org
 DOMAIN-SUFFIX,tumblr.co
 DOMAIN-SUFFIX,tvbanywhere.com
-DOMAIN-SUFFIX,tw.hao123.com
 DOMAIN-SUFFIX,tweetmarker.net
 DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,typcn.com
@@ -8007,7 +8001,6 @@ DOMAIN-SUFFIX,v2.hysteria.network
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,vbstatic.co
 DOMAIN-SUFFIX,venturebeat.com
-DOMAIN-SUFFIX,vn.hao123.com
 DOMAIN-SUFFIX,vox-cdn.com
 DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vultr.com
@@ -8069,14 +8062,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-02-10 02:20:01
+# UPDATED: 2026-02-12 02:22:33
 # DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32646
+# DOMAIN-SUFFIX: 32655
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32962
+# TOTAL: 32971
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -9114,6 +9107,7 @@ DOMAIN-SUFFIX,adwords.com
 DOMAIN-SUFFIX,adwordsexpress.com
 DOMAIN-SUFFIX,adx.promo
 DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com
+DOMAIN-SUFFIX,ae.hao123.com
 DOMAIN-SUFFIX,aeasyshop.com
 DOMAIN-SUFFIX,aebn.com
 DOMAIN-SUFFIX,aecc-chiropractic.ac.uk
@@ -12392,6 +12386,7 @@ DOMAIN-SUFFIX,bpi.ir
 DOMAIN-SUFFIX,bpmf.ac.uk
 DOMAIN-SUFFIX,bppuniversity.ac.uk
 DOMAIN-SUFFIX,bps.ac.uk
+DOMAIN-SUFFIX,br.hao123.com
 DOMAIN-SUFFIX,bracknell.ac.uk
 DOMAIN-SUFFIX,brad.ac.uk
 DOMAIN-SUFFIX,bradcoll.ac.uk
@@ -16042,6 +16037,7 @@ DOMAIN-SUFFIX,emttp.ac.uk
 DOMAIN-SUFFIX,emua.ac.uk
 DOMAIN-SUFFIX,emwprep.ac.uk
 DOMAIN-SUFFIX,en-compass.ac.uk
+DOMAIN-SUFFIX,en.hao123.com
 DOMAIN-SUFFIX,enablementadobe.com
 DOMAIN-SUFFIX,enbank.ir
 DOMAIN-SUFFIX,enbit.ac.uk
@@ -17913,10 +17909,8 @@ DOMAIN-SUFFIX,getporn.tv
 DOMAIN-SUFFIX,getprintersupports.com
 DOMAIN-SUFFIX,getscorecash.com
 DOMAIN-SUFFIX,getsexgames.com
-DOMAIN-SUFFIX,gettyimages.ae
 DOMAIN-SUFFIX,gettyimages.at
 DOMAIN-SUFFIX,gettyimages.be
-DOMAIN-SUFFIX,gettyimages.ca
 DOMAIN-SUFFIX,gettyimages.ch
 DOMAIN-SUFFIX,gettyimages.co.jp
 DOMAIN-SUFFIX,gettyimages.co.nz
@@ -17924,15 +17918,11 @@ DOMAIN-SUFFIX,gettyimages.co.uk
 DOMAIN-SUFFIX,gettyimages.com.au
 DOMAIN-SUFFIX,gettyimages.com.br
 DOMAIN-SUFFIX,gettyimages.com.mx
-DOMAIN-SUFFIX,gettyimages.de
 DOMAIN-SUFFIX,gettyimages.dk
 DOMAIN-SUFFIX,gettyimages.es
 DOMAIN-SUFFIX,gettyimages.fi
 DOMAIN-SUFFIX,gettyimages.fr
-DOMAIN-SUFFIX,gettyimages.hk
 DOMAIN-SUFFIX,gettyimages.ie
-DOMAIN-SUFFIX,gettyimages.in
-DOMAIN-SUFFIX,gettyimages.it
 DOMAIN-SUFFIX,gettyimages.nl
 DOMAIN-SUFFIX,gettyimages.no
 DOMAIN-SUFFIX,gettyimages.pt
@@ -19017,6 +19007,7 @@ DOMAIN-SUFFIX,hitxhot.com
 DOMAIN-SUFFIX,hjb246.top
 DOMAIN-SUFFIX,hjb7e9.top
 DOMAIN-SUFFIX,hk.file.myqcloud.com
+DOMAIN-SUFFIX,hk.hao123img.com
 DOMAIN-SUFFIX,hk.weibo.com
 DOMAIN-SUFFIX,hk1lib.org
 DOMAIN-SUFFIX,hkbigman.net
@@ -19438,7 +19429,6 @@ DOMAIN-SUFFIX,httpsfacebook.com
 DOMAIN-SUFFIX,httpwwwfacebook.com
 DOMAIN-SUFFIX,htvncdn.net
 DOMAIN-SUFFIX,htwhbook.com
-DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,htyj-bj.com
 DOMAIN-SUFFIX,htznr.li
 DOMAIN-SUFFIX,hu1u.com
@@ -19698,6 +19688,7 @@ DOMAIN-SUFFIX,icsd.fiz-karlsruhe.de
 DOMAIN-SUFFIX,icsl.ac.uk
 DOMAIN-SUFFIX,ictheatre.ac.uk
 DOMAIN-SUFFIX,icuminside.com
+DOMAIN-SUFFIX,id.hao123.com
 DOMAIN-SUFFIX,idarkdoll.com
 DOMAIN-SUFFIX,idcore.ac.uk
 DOMAIN-SUFFIX,idea-server.com
@@ -21059,6 +21050,7 @@ DOMAIN-SUFFIX,joylovedolls.com
 DOMAIN-SUFFIX,joyobank.co.jp
 DOMAIN-SUFFIX,joysporn.com
 DOMAIN-SUFFIX,jp-bank.japanpost.jp
+DOMAIN-SUFFIX,jp.hao123.com
 DOMAIN-SUFFIX,jp.net
 DOMAIN-SUFFIX,jpav.us
 DOMAIN-SUFFIX,jpavcom.com
@@ -21588,6 +21580,7 @@ DOMAIN-SUFFIX,lcssp.ac.uk
 DOMAIN-SUFFIX,lct.ac.uk
 DOMAIN-SUFFIX,lcuck.ac.uk
 DOMAIN-SUFFIX,lcwc.ac.uk
+DOMAIN-SUFFIX,ld.hao123img.com
 DOMAIN-SUFFIX,ldoc-cdt.ac.uk
 DOMAIN-SUFFIX,ldoceonline.com
 DOMAIN-SUFFIX,ldstatic.com
@@ -22198,6 +22191,7 @@ DOMAIN-SUFFIX,m2m.com
 DOMAIN-SUFFIX,m5ir5np1.shop
 DOMAIN-SUFFIX,m5servicedesk.ac.uk
 DOMAIN-SUFFIX,m5universities.ac.uk
+DOMAIN-SUFFIX,ma.hao123.com
 DOMAIN-SUFFIX,ma1lib.org
 DOMAIN-SUFFIX,mabbank.com
 DOMAIN-SUFFIX,mablethorpe.ac.uk
@@ -23734,6 +23728,7 @@ DOMAIN-SUFFIX,mwdbank.com
 DOMAIN-SUFFIX,mwell.ac.uk
 DOMAIN-SUFFIX,mwhentai.net
 DOMAIN-SUFFIX,mwrc.ac.uk
+DOMAIN-SUFFIX,mx.hao123.com
 DOMAIN-SUFFIX,mxlogin.com
 DOMAIN-SUFFIX,mxmcdn.net
 DOMAIN-SUFFIX,mxroute.com
@@ -27659,6 +27654,7 @@ DOMAIN-SUFFIX,s8ds5gfm.xyz
 DOMAIN-SUFFIX,sa-saopaulo.myqcloud.com
 DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com
 DOMAIN-SUFFIX,sa.com
+DOMAIN-SUFFIX,sa.hao123.com
 DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.co
 DOMAIN-SUFFIX,saasexch.com
@@ -29777,6 +29773,7 @@ DOMAIN-SUFFIX,tbib.org
 DOMAIN-SUFFIX,tblop.com
 DOMAIN-SUFFIX,tbm.ac.uk
 DOMAIN-SUFFIX,tbr.tangbr.net
+DOMAIN-SUFFIX,tbskkinabalu.page.tl
 DOMAIN-SUFFIX,tcat.ac.uk
 DOMAIN-SUFFIX,tcch.ac.uk
 DOMAIN-SUFFIX,tccr.ac.uk
@@ -29936,6 +29933,7 @@ DOMAIN-SUFFIX,tgirlpostop.com
 DOMAIN-SUFFIX,tgp6.com
 DOMAIN-SUFFIX,tgtube.com
 DOMAIN-SUFFIX,tgutube.com
+DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,th.weibo.com
 DOMAIN-SUFFIX,thai-xxx.com
 DOMAIN-SUFFIX,thai69.com
@@ -30587,6 +30585,7 @@ DOMAIN-SUFFIX,tvnaviweb.jp
 DOMAIN-SUFFIX,tvof.ac.uk
 DOMAIN-SUFFIX,tvpromise.com
 DOMAIN-SUFFIX,tvu.ac.uk
+DOMAIN-SUFFIX,tw.hao123.com
 DOMAIN-SUFFIX,tw.iqiyi.com
 DOMAIN-SUFFIX,tw.weibo.com
 DOMAIN-SUFFIX,tw985.com
@@ -31632,6 +31631,7 @@ DOMAIN-SUFFIX,vmworld2013.com
 DOMAIN-SUFFIX,vmwsalesrewards.com
 DOMAIN-SUFFIX,vmwservices.com
 DOMAIN-SUFFIX,vmwxw.com
+DOMAIN-SUFFIX,vn.hao123.com
 DOMAIN-SUFFIX,vnanchoi.ca
 DOMAIN-SUFFIX,vnware.net
 DOMAIN-SUFFIX,voa.gov
