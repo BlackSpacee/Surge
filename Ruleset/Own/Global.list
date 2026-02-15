@@ -1,13 +1,13 @@
 # NAME: Global
-# DOMAIN: 135
-# DOMAIN-SUFFIX: 33305
+# DOMAIN: 136
+# DOMAIN-SUFFIX: 33324
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33654
-# UPDATED: 2026-02-15 14:59:38
+# TOTAL: 33674
+# UPDATED: 2026-02-15 21:07:40
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7647,14 +7647,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-12 02:22:54
+# UPDATED: 2026-02-16 02:10:00
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6595
+# DOMAIN-SUFFIX: 6596
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6735
+# TOTAL: 6736
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -8008,6 +8008,7 @@ DOMAIN-SUFFIX,vox-cdn.com
 DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,w.org
+DOMAIN-SUFFIX,wallzhihu.com
 DOMAIN-SUFFIX,wda.gov.tw
 DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,weights.com
@@ -8065,14 +8066,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-02-12 02:22:33
-# DOMAIN: 117
+# UPDATED: 2026-02-16 02:09:39
+# DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32655
+# DOMAIN-SUFFIX: 32674
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32971
+# TOTAL: 32991
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -8171,6 +8172,7 @@ DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 DOMAIN,tesla-cdn.thron.com
 DOMAIN,time.windows.com
 DOMAIN,translomatic.foxfortmobile.com
+DOMAIN,ubisoft.siteintercept.qualtrics.com
 DOMAIN,ut1-time.colorado.edu
 DOMAIN,utcnist.colorado.edu
 DOMAIN,utcnist2.colorado.edu
@@ -9833,6 +9835,7 @@ DOMAIN-SUFFIX,apina.biz
 DOMAIN-SUFFIX,apis.ac.uk
 DOMAIN-SUFFIX,apisof.net
 DOMAIN-SUFFIX,apkfind.com
+DOMAIN-SUFFIX,apkpures.xyz
 DOMAIN-SUFFIX,aple.com
 DOMAIN-SUFFIX,aplestore.com
 DOMAIN-SUFFIX,aplleipods.com
@@ -10417,6 +10420,7 @@ DOMAIN-SUFFIX,attcenter.com
 DOMAIN-SUFFIX,attcollaborate.com
 DOMAIN-SUFFIX,attdns.com
 DOMAIN-SUFFIX,attdns.net
+DOMAIN-SUFFIX,attestation.app
 DOMAIN-SUFFIX,attexperts.com
 DOMAIN-SUFFIX,attglobal.net
 DOMAIN-SUFFIX,atthelimits.ac.uk
@@ -18295,6 +18299,19 @@ DOMAIN-SUFFIX,grantham.ac.uk
 DOMAIN-SUFFIX,grantleyhall.ac.uk
 DOMAIN-SUFFIX,granulate.io
 DOMAIN-SUFFIX,graphenecentre.ac.uk
+DOMAIN-SUFFIX,grapheneos.app
+DOMAIN-SUFFIX,grapheneos.ca
+DOMAIN-SUFFIX,grapheneos.com
+DOMAIN-SUFFIX,grapheneos.dev
+DOMAIN-SUFFIX,grapheneos.foundation
+DOMAIN-SUFFIX,grapheneos.info
+DOMAIN-SUFFIX,grapheneos.net
+DOMAIN-SUFFIX,grapheneos.network
+DOMAIN-SUFFIX,grapheneos.online
+DOMAIN-SUFFIX,grapheneos.org
+DOMAIN-SUFFIX,grapheneos.ovh
+DOMAIN-SUFFIX,grapheneos.page
+DOMAIN-SUFFIX,grapheneos.social
 DOMAIN-SUFFIX,graphengine.io
 DOMAIN-SUFFIX,gravitytank.com
 DOMAIN-SUFFIX,gray.ac.uk
@@ -27992,6 +28009,7 @@ DOMAIN-SUFFIX,sea-mammal-research-unit.ac.uk
 DOMAIN-SUFFIX,seacams.ac.uk
 DOMAIN-SUFFIX,seagroup.com
 DOMAIN-SUFFIX,seaha-cdt.ac.uk
+DOMAIN-SUFFIX,seamlessupdate.app
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,seancody.com
 DOMAIN-SUFFIX,seaofsolitude.com
@@ -30252,6 +30270,7 @@ DOMAIN-SUFFIX,tombola.ac.uk
 DOMAIN-SUFFIX,tomibank.co.jp
 DOMAIN-SUFFIX,tomovie.net
 DOMAIN-SUFFIX,tomsguide.com
+DOMAIN-SUFFIX,ton.org
 DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,tonicmovies.com
 DOMAIN-SUFFIX,toolmaking-cadcam.com
@@ -31065,6 +31084,7 @@ DOMAIN-SUFFIX,valoryirene.com
 DOMAIN-SUFFIX,valuegb.com
 DOMAIN-SUFFIX,vam.ac.uk
 DOMAIN-SUFFIX,vamsas.ac.uk
+DOMAIN-SUFFIX,vanadium.app
 DOMAIN-SUFFIX,vancouverbmwretailers.ca
 DOMAIN-SUFFIX,vanish.at
 DOMAIN-SUFFIX,vanish.be
