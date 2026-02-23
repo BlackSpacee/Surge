@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 136
-# DOMAIN-SUFFIX: 33493
+# DOMAIN-SUFFIX: 33499
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33843
-# UPDATED: 2026-02-23 15:16:01
+# TOTAL: 33849
+# UPDATED: 2026-02-23 21:22:18
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7647,14 +7647,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-20 02:20:44
+# UPDATED: 2026-02-24 02:24:20
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6566
+# DOMAIN-SUFFIX: 6573
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6706
+# TOTAL: 6713
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7671,6 +7671,7 @@ DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,adult.friendfinder.com
 DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,akile.io
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,amazon.co
@@ -7689,6 +7690,7 @@ DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,arcgis.com
 DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,assets.nxtrace.org
 DOMAIN-SUFFIX,async.be
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,awsstatic.com
@@ -7837,6 +7839,7 @@ DOMAIN-SUFFIX,manhuaren.com
 DOMAIN-SUFFIX,marketwatch.com
 DOMAIN-SUFFIX,mashable.com
 DOMAIN-SUFFIX,mathjax.org
+DOMAIN-SUFFIX,meee.com.tw
 DOMAIN-SUFFIX,megaupload.com
 DOMAIN-SUFFIX,microsoft-falcon.io
 DOMAIN-SUFFIX,microsoftapp.net
@@ -7867,6 +7870,7 @@ DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,ooni.io
 DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,ooyala.com
+DOMAIN-SUFFIX,opencritic.com
 DOMAIN-SUFFIX,orkut.com
 DOMAIN-SUFFIX,osha.gov
 DOMAIN-SUFFIX,osxdaily.com
@@ -7946,6 +7950,7 @@ DOMAIN-SUFFIX,tmblr.co
 DOMAIN-SUFFIX,todoist.com
 DOMAIN-SUFFIX,toggleable.com
 DOMAIN-SUFFIX,tomshardware.com
+DOMAIN-SUFFIX,tor.eff.org
 DOMAIN-SUFFIX,torrentmac.net
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,trello.com
@@ -7963,6 +7968,7 @@ DOMAIN-SUFFIX,ubnt.com
 DOMAIN-SUFFIX,ulyssesapp.com
 DOMAIN-SUFFIX,unblocksites.co
 DOMAIN-SUFFIX,unfiltered.news
+DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,up.audio
 DOMAIN-SUFFIX,uploader.jp
@@ -7987,6 +7993,7 @@ DOMAIN-SUFFIX,wikis.tw
 DOMAIN-SUFFIX,workflow.is
 DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,wr.pvp.net
+DOMAIN-SUFFIX,www.clashverge.dev
 DOMAIN-SUFFIX,xcancel.com
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
@@ -8036,14 +8043,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-02-22 02:08:48
+# UPDATED: 2026-02-24 02:23:59
 # DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32846
+# DOMAIN-SUFFIX: 32851
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 33163
+# TOTAL: 33168
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -31039,7 +31046,6 @@ DOMAIN-SUFFIX,unisat.io
 DOMAIN-SUFFIX,unistats.ac.uk
 DOMAIN-SUFFIX,unisurreydirect.ac.uk
 DOMAIN-SUFFIX,uniswales.ac.uk
-DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,unitedcollegegroup.ac.uk
 DOMAIN-SUFFIX,unitedcollegesgroup.ac.uk
 DOMAIN-SUFFIX,unity.ac.uk
