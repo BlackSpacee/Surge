@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-02-21T13:20:28.285Z
-# Size: 4352
+# Last Updated: 2026-02-23T05:58:25.051Z
+# Size: 4354
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1764,6 +1764,7 @@ DOMAIN-SUFFIX,cdn.conveythis.com
 DOMAIN-SUFFIX,assets.convertkit.com
 DOMAIN-SUFFIX,media.convertkit.com
 DOMAIN-SUFFIX,f.convertkit.com
+DOMAIN-SUFFIX,cdn.convertbox.com
 DOMAIN-SUFFIX,images.contentful.com
 DOMAIN-SUFFIX,cdn.contentful.com
 DOMAIN-SUFFIX,cdn.eu.contentful.com
@@ -4103,6 +4104,7 @@ DOMAIN-SUFFIX,data.pendo.io
 DOMAIN-SUFFIX,cdn.pendo.io
 DOMAIN-SUFFIX,nxcli.io
 DOMAIN-SUFFIX,media.mstdn.io
+DOMAIN-SUFFIX,purehalo.logto.io
 DOMAIN-SUFFIX,strapi.logto.io
 DOMAIN-SUFFIX,cdn-blocks.karte.io
 DOMAIN-SUFFIX,cdn-edge.karte.io

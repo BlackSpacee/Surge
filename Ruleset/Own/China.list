@@ -3,12 +3,12 @@
 # DOMAIN-SUFFIX: 116704
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12222
+# IP-CIDR: 12235
 # IP-CIDR6: 4293
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 133742
-# UPDATED: 2026-02-23 02:47:28
+# TOTAL: 133755
+# UPDATED: 2026-02-23 10:50:52
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -74,7 +74,7 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2026-02-22T17:17:22.412Z
+# Last Updated: 2026-02-23T06:03:34.267Z
 # Size: 221
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
@@ -1108,8 +1108,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-02-22T17:17:23.690Z
-# Size: 3906
+# Last Updated: 2026-02-23T05:58:24.989Z
+# Size: 3919
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -2554,6 +2554,10 @@ IP-CIDR,106.112.0.0/12
 IP-CIDR,106.224.0.0/14
 IP-CIDR,106.228.0.0/15
 IP-CIDR,106.230.0.0/16
+IP-CIDR,107.148.240.0/21
+IP-CIDR,107.148.248.0/24
+IP-CIDR,107.148.250.0/23
+IP-CIDR,107.148.252.0/23
 IP-CIDR,107.151.212.0/24
 IP-CIDR,107.190.229.0/24
 IP-CIDR,109.244.0.0/16
@@ -2717,7 +2721,16 @@ IP-CIDR,113.130.96.0/20
 IP-CIDR,113.130.112.0/21
 IP-CIDR,113.132.0.0/14
 IP-CIDR,113.136.0.0/13
-IP-CIDR,113.160.96.0/20
+IP-CIDR,113.185.80.0/20
+IP-CIDR,113.185.96.0/19
+IP-CIDR,113.185.128.0/20
+IP-CIDR,113.185.240.0/20
+IP-CIDR,113.186.144.0/20
+IP-CIDR,113.188.112.0/20
+IP-CIDR,113.190.16.0/20
+IP-CIDR,113.190.48.0/20
+IP-CIDR,113.190.64.0/20
+IP-CIDR,113.190.96.0/20
 IP-CIDR,113.194.0.0/15
 IP-CIDR,113.197.101.0/24
 IP-CIDR,113.197.104.0/23

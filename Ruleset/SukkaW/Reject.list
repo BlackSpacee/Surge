@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2026-02-04T09:55:48.690Z
-# Size: 366
+# Last Updated: 2026-02-23T05:59:42.075Z
+# Size: 367
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -211,6 +211,7 @@ DOMAIN-KEYWORD,fb-community-standards
 DOMAIN-KEYWORD,fb-business-appeal
 DOMAIN-KEYWORD,cp-home-pl-
 DOMAIN-KEYWORD,tlauncher
+DOMAIN-KEYWORD,packetsdk
 DOMAIN-KEYWORD,this_rule_set_is_made_by_sukkaw
 DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,adsby

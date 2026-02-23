@@ -2,13 +2,13 @@
 # AND: 1
 # DOMAIN: 481
 # DOMAIN-SUFFIX: 5993
-# DOMAIN-KEYWORD: 161
+# DOMAIN-KEYWORD: 162
 # IP-CIDR: 55
 # IP-CIDR6: 4
 # USER-AGENT: 1
 # URL-REGEX: 3
-# TOTAL: 6699
-# UPDATED: 2026-02-23 02:47:28
+# TOTAL: 6700
+# UPDATED: 2026-02-23 10:50:52
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2026-02-04T09:55:48.690Z
-# Size: 366
+# Last Updated: 2026-02-23T05:59:42.075Z
+# Size: 367
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1699,6 +1699,7 @@ DOMAIN-KEYWORD,fb-community-standards
 DOMAIN-KEYWORD,fb-business-appeal
 DOMAIN-KEYWORD,cp-home-pl-
 DOMAIN-KEYWORD,tlauncher
+DOMAIN-KEYWORD,packetsdk
 DOMAIN-KEYWORD,this_rule_set_is_made_by_sukkaw
 DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,adsby
