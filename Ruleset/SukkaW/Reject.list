@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2026-02-23T05:59:42.075Z
-# Size: 367
+# Last Updated: 2026-02-23T07:22:35.277Z
+# Size: 369
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -77,6 +77,8 @@ DOMAIN-SUFFIX,thecodeil.com
 DOMAIN,stun.smartgslb.com
 DOMAIN-SUFFIX,notifysrv.com
 DOMAIN-SUFFIX,newzgames.com
+DOMAIN,ttnet-doh.larksuite.com
+DOMAIN,ttnet-dig.larksuite.com
 DOMAIN-SUFFIX,brightvpn.com
 DOMAIN,httpdns.bilivideo.com
 DOMAIN-SUFFIX,amplitude.com
