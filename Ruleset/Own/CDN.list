@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4355
+# DOMAIN-SUFFIX: 4362
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4381
-# UPDATED: 2026-02-25 10:49:07
+# TOTAL: 4388
+# UPDATED: 2026-02-25 15:11:31
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-02-24T11:01:35.897Z
-# Size: 4355
+# Last Updated: 2026-02-25T07:43:47.516Z
+# Size: 4362
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -626,6 +626,7 @@ DOMAIN-SUFFIX,img.javstore.net
 DOMAIN-SUFFIX,hsstatic.net
 DOMAIN-SUFFIX,img.highporn.net
 DOMAIN-SUFFIX,cdn.highporn.net
+DOMAIN-SUFFIX,files.gempages.net
 DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,static.esimplus.net
@@ -1393,6 +1394,7 @@ DOMAIN-SUFFIX,s3media.squarespace.com
 DOMAIN-SUFFIX,assets.squarespace.com
 DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,assets.speedvitals.com
+DOMAIN-SUFFIX,images.socialblade.com
 DOMAIN-SUFFIX,cdn.activity.smart-bdash.com
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,shoplineimg.com
@@ -1487,6 +1489,7 @@ DOMAIN-SUFFIX,media.graphassets.com
 DOMAIN-SUFFIX,static.gettyimages.com
 DOMAIN-SUFFIX,media.gettyimages.com
 DOMAIN-SUFFIX,cdn.getfeedback.com
+DOMAIN-SUFFIX,assets.gemcommerce.com
 DOMAIN-SUFFIX,gauthstatic.com
 DOMAIN-SUFFIX,stories.freepiklabs.com
 DOMAIN-SUFFIX,static.foxbusiness.com
@@ -1980,6 +1983,7 @@ DOMAIN-SUFFIX,lowendbox.com
 DOMAIN-SUFFIX,cdn.lineicons.com
 DOMAIN-SUFFIX,scdn.line-apps.com
 DOMAIN-SUFFIX,cdn.lgrckt-in.com
+DOMAIN-SUFFIX,images.klipfolio.com
 DOMAIN-SUFFIX,kinja-img.com
 DOMAIN-SUFFIX,images.justwatch.com
 DOMAIN-SUFFIX,cdn.joypixels.com
@@ -3589,6 +3593,7 @@ DOMAIN-SUFFIX,weather.istatmenus.app
 DOMAIN-SUFFIX,cdn.accessibly.app
 DOMAIN-SUFFIX,on-fleek.app
 DOMAIN-SUFFIX,cdn.langshop.app
+DOMAIN-SUFFIX,widgets.goaffpro.app
 DOMAIN-SUFFIX,assets.airbuddy.app
 DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,videos.elephas.app
@@ -3928,6 +3933,8 @@ DOMAIN-SUFFIX,images.microcms-assets.io
 DOMAIN-SUFFIX,assets-next.mattersprotocol.io
 DOMAIN-SUFFIX,cdn.simplelocalize.io
 DOMAIN-SUFFIX,combinatronics.io
+DOMAIN-SUFFIX,imgs.socialinsider.io
+DOMAIN-SUFFIX,cms.socialinsider.io
 DOMAIN-SUFFIX,edge.sitecorecloud.io
 DOMAIN-SUFFIX,opentelemetry.io
 DOMAIN-SUFFIX,static.ipgeolocation.io
