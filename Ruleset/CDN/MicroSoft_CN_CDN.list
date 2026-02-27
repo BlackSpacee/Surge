@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Microsoft CDN
-# Last Updated: 2026-02-26T17:51:05.355Z
-# Size: 58
+# Last Updated: 2026-02-27T05:50:17.274Z
+# Size: 61
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,collaborateppe.download.prss.microsoft.com
 DOMAIN-SUFFIX,dreamsparkuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,azurestackhub.download.prss.microsoft.com
 DOMAIN-SUFFIX,officemktuat.download.prss.microsoft.com
+DOMAIN-SUFFIX,msproductuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,itacademyuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,azuremigrate.download.prss.microsoft.com
 DOMAIN-SUFFIX,mpnbenefits.download.prss.microsoft.com
@@ -50,9 +51,11 @@ DOMAIN-SUFFIX,vlportal.download.prss.microsoft.com
 DOMAIN-SUFFIX,software.download.prss.microsoft.com
 DOMAIN-SUFFIX,cbdstest.download.prss.microsoft.com
 DOMAIN-SUFFIX,surface.download.prss.microsoft.com
+DOMAIN-SUFFIX,myvsuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,windbg.download.prss.microsoft.com
 DOMAIN-SUFFIX,vscode.download.prss.microsoft.com
 DOMAIN-SUFFIX,oemsoc.download.prss.microsoft.com
+DOMAIN-SUFFIX,mbsuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,lexuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,volic.download.prss.microsoft.com
 DOMAIN-SUFFIX,myvs.download.prss.microsoft.com
