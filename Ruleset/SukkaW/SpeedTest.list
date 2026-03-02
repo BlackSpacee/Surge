@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-03-01T17:14:31.455Z
-# Size: 2900
+# Last Updated: 2026-03-02T17:36:42.061Z
+# Size: 2903
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,6 +9,7 @@
 # This file contains common speedtest endpoints.
 #########################################
 7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
+net-ookla-dc.p.foundation
 speedtest.kouten.barcelona
 spdtestkpr.myinternet.services
 chdspd.myinternet.services
@@ -2428,6 +2429,7 @@ yyc-speedtest.xplore.ca
 .speedtest.vianet.ca
 speed.newmarket.telmax.ca
 speed.toronto.telmax.ca
+speed.markham.telmax.ca
 speedtest.mtl.telkel.ca
 speedtest.switch.ca
 speedtest-engine.primus.ca
@@ -2842,6 +2844,7 @@ speedtest-tdc3.tasmanet.com.au
 speedtest.pentanet.com.au
 speedtest-limestonecoast-sa.optusnet.com.au
 speedtest-limestonecoast.optusnet.com.au
+speedtest-sunshinecoast.optusnet.com.au
 speedtest-eastburwood.optusnet.com.au
 speedtest-townsville.optusnet.com.au
 speedtest-rockingham.optusnet.com.au
