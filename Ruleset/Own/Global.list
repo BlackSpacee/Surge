@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 136
-# DOMAIN-SUFFIX: 33522
+# DOMAIN-SUFFIX: 33531
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33872
-# UPDATED: 2026-03-05 15:04:40
+# TOTAL: 33881
+# UPDATED: 2026-03-05 21:17:41
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7647,14 +7647,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-04 02:17:46
+# UPDATED: 2026-03-06 02:38:56
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6576
+# DOMAIN-SUFFIX: 6579
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6716
+# TOTAL: 6719
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7689,6 +7689,8 @@ DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,arcgis.com
+DOMAIN-SUFFIX,arena.ai
+DOMAIN-SUFFIX,arweave.org
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,assets.nxtrace.org
 DOMAIN-SUFFIX,async.be
@@ -7993,6 +7995,7 @@ DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,weights.com
 DOMAIN-SUFFIX,wikileaks.info
 DOMAIN-SUFFIX,wikis.tw
+DOMAIN-SUFFIX,wispbyte.com
 DOMAIN-SUFFIX,workflow.is
 DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,wr.pvp.net
@@ -8046,14 +8049,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-03-04 02:17:24
+# UPDATED: 2026-03-06 02:38:35
 # DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32874
+# DOMAIN-SUFFIX: 32883
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 33191
+# TOTAL: 33200
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -14920,6 +14923,7 @@ DOMAIN-SUFFIX,diabetes-healthnet.ac.uk
 DOMAIN-SUFFIX,diablo3.com
 DOMAIN-SUFFIX,diabloimmortal.com
 DOMAIN-SUFFIX,diabrowser.com
+DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,dialga.com
 DOMAIN-SUFFIX,diamantewebcam.com
 DOMAIN-SUFFIX,diamm.ac.uk
@@ -15183,6 +15187,7 @@ DOMAIN-SUFFIX,dkrecttv.com
 DOMAIN-SUFFIX,dl-iphone.com
 DOMAIN-SUFFIX,dl.ac.uk
 DOMAIN-SUFFIX,dl4d.ac.uk
+DOMAIN-SUFFIX,dlaf.jp
 DOMAIN-SUFFIX,dlap001.xyz
 DOMAIN-SUFFIX,dlap301.com
 DOMAIN-SUFFIX,dldlinks.com
@@ -20033,6 +20038,7 @@ DOMAIN-SUFFIX,ilex-tutorial.ac.uk
 DOMAIN-SUFFIX,ilife.eu
 DOMAIN-SUFFIX,ilife.gr
 DOMAIN-SUFFIX,ilife.wang
+DOMAIN-SUFFIX,illgames.jp
 DOMAIN-SUFFIX,illianacomputerrecycling.com
 DOMAIN-SUFFIX,illusion.co.jp
 DOMAIN-SUFFIX,illusion.jp
@@ -20826,6 +20832,7 @@ DOMAIN-SUFFIX,janetbrokerage.ac.uk
 DOMAIN-SUFFIX,janetcollaborate.ac.uk
 DOMAIN-SUFFIX,janor6.net
 DOMAIN-SUFFIX,japan-forward.com
+DOMAIN-SUFFIX,japan-illgames.com
 DOMAIN-SUFFIX,japan18tube.com
 DOMAIN-SUFFIX,japanbeast.com
 DOMAIN-SUFFIX,japanese-scat.net
@@ -21023,6 +21030,7 @@ DOMAIN-SUFFIX,jerkofftocelebs.com
 DOMAIN-SUFFIX,jessicaturner.co.uk
 DOMAIN-SUFFIX,jessicaturner.com
 DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,jetbrains.cloud
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.net
 DOMAIN-SUFFIX,jetbrains.space
@@ -30682,6 +30690,7 @@ DOMAIN-SUFFIX,tsundora.com
 DOMAIN-SUFFIX,tsuradou.noonvob.com
 DOMAIN-SUFFIX,tsyum.com
 DOMAIN-SUFFIX,ttc.ac.uk
+DOMAIN-SUFFIX,ttcdn-us.com
 DOMAIN-SUFFIX,tte-lisa.ac.uk
 DOMAIN-SUFFIX,tteshop.com
 DOMAIN-SUFFIX,ttetraining.ac.uk
