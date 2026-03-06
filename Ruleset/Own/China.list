@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 371
-# DOMAIN-SUFFIX: 117591
+# DOMAIN-SUFFIX: 117592
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12250
+# IP-CIDR: 12249
 # IP-CIDR6: 4314
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 134678
-# UPDATED: 2026-03-06 10:41:34
+# UPDATED: 2026-03-06 15:00:56
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -74,8 +74,8 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2026-03-06T05:42:20.307Z
-# Size: 221
+# Last Updated: 2026-03-06T12:17:17.438Z
+# Size: 222
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,bogon
@@ -156,6 +156,7 @@ DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,hitpt.com
 DOMAIN-SUFFIX,hdupt.com
 DOMAIN-SUFFIX,dxdhd.com
+DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN,captive.apple.com
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,msg.vg
@@ -244,8 +245,7 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2026-02-06T07:55:47.175Z
-# Size: 861
+# Size: 862
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -354,6 +354,7 @@ DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,wallstreetcn.com
 DOMAIN-SUFFIX,toutiaocloud.com
 DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,segmentfault.com
 DOMAIN-SUFFIX,realmemobile.com
 DOMAIN-SUFFIX,huoshanzhibo.com
@@ -1108,8 +1109,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-03-06T05:42:21.150Z
-# Size: 3912
+# Last Updated: 2026-03-06T12:17:18.295Z
+# Size: 3911
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -2601,7 +2602,7 @@ IP-CIDR,110.203.0.0/23
 IP-CIDR,110.211.0.0/16
 IP-CIDR,110.218.0.0/15
 IP-CIDR,110.228.0.0/14
-IP-CIDR,110.236.0.0/15
+IP-CIDR,110.236.0.0/16
 IP-CIDR,110.240.0.0/12
 IP-CIDR,111.0.0.0/10
 IP-CIDR,111.72.0.0/13
@@ -2885,7 +2886,7 @@ IP-CIDR,116.76.0.0/15
 IP-CIDR,116.78.0.0/16
 IP-CIDR,116.85.0.0/22
 IP-CIDR,116.85.13.0/24
-IP-CIDR,116.85.14.0/23
+IP-CIDR,116.85.14.0/24
 IP-CIDR,116.85.16.0/23
 IP-CIDR,116.85.64.0/20
 IP-CIDR,116.85.240.0/20
@@ -3994,7 +3995,6 @@ IP-CIDR,202.1.112.0/23
 IP-CIDR,202.4.128.0/19
 IP-CIDR,202.4.252.0/22
 IP-CIDR,202.6.202.0/23
-IP-CIDR,202.13.71.0/24
 IP-CIDR,202.14.235.0/24
 IP-CIDR,202.14.236.0/23
 IP-CIDR,202.14.238.0/24
@@ -5187,7 +5187,6 @@ DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 # SteamCN
-DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN,csgo.wmsj.cn

@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4387
+# DOMAIN-SUFFIX: 4392
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4413
-# UPDATED: 2026-03-06 10:41:34
+# TOTAL: 4418
+# UPDATED: 2026-03-06 15:00:56
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-04T08:58:25.670Z
-# Size: 4387
+# Last Updated: 2026-03-06T12:17:17.957Z
+# Size: 4392
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1855,6 +1855,8 @@ DOMAIN-SUFFIX,cache.armorgames.com
 DOMAIN-SUFFIX,agi.armorgames.com
 DOMAIN-SUFFIX,anpustream.com
 DOMAIN-SUFFIX,anpoimages.com
+DOMAIN-SUFFIX,widget.allkeyshop.com
+DOMAIN-SUFFIX,cdn.allkeyshop.com
 DOMAIN-SUFFIX,algolianet.com
 DOMAIN-SUFFIX,static.adguardvpn.com
 DOMAIN-SUFFIX,adguardcdn.com
@@ -2786,6 +2788,8 @@ DOMAIN-SUFFIX,els-cdn.com
 DOMAIN-SUFFIX,ebayimg.com
 DOMAIN-SUFFIX,comm.res.easebar.com
 DOMAIN-SUFFIX,static.drtuber.com
+DOMAIN-SUFFIX,static.driffle.com
+DOMAIN-SUFFIX,assets.driffle.com
 DOMAIN-SUFFIX,static.doujins.com
 DOMAIN-SUFFIX,cdn.docsbot.com
 DOMAIN-SUFFIX,global.divhunt.com
@@ -3402,7 +3406,6 @@ DOMAIN-SUFFIX,static-clst.avgle.com
 DOMAIN-SUFFIX,cdn2.auth0.com
 DOMAIN-SUFFIX,cdn.auth0.com
 DOMAIN-SUFFIX,events-delivery.apple.com
-DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,news-assets.apple.com
 DOMAIN-SUFFIX,events-live.apple.com
 DOMAIN-SUFFIX,time.apple.com
@@ -4054,6 +4057,8 @@ DOMAIN-SUFFIX,cdn2.stamped.io
 DOMAIN-SUFFIX,cdn1.stamped.io
 DOMAIN-SUFFIX,shields.io
 DOMAIN-SUFFIX,images.scalero.io
+DOMAIN-SUFFIX,widget.reviews.io
+DOMAIN-SUFFIX,assets.reviews.io
 DOMAIN-SUFFIX,js.prosopo.io
 DOMAIN-SUFFIX,images.prismic.io
 DOMAIN-SUFFIX,cdn.prismic.io
