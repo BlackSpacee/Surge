@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 134678
-# UPDATED: 2026-03-06 03:21:41
+# UPDATED: 2026-03-06 10:41:34
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -74,7 +74,7 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2026-03-05T18:45:45.660Z
+# Last Updated: 2026-03-06T05:42:20.307Z
 # Size: 221
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
@@ -1108,7 +1108,7 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-03-05T18:45:46.502Z
+# Last Updated: 2026-03-06T05:42:21.150Z
 # Size: 3912
 # License: CC BY-SA 2.0
 # This file contains data from:
@@ -1416,7 +1416,7 @@ IP-CIDR,43.249.0.0/23
 IP-CIDR,43.249.2.0/24
 IP-CIDR,43.249.136.0/22
 IP-CIDR,43.249.144.0/22
-IP-CIDR,43.249.168.0/23
+IP-CIDR,43.249.169.0/24
 IP-CIDR,43.249.236.0/22
 IP-CIDR,43.250.4.0/22
 IP-CIDR,43.250.32.0/22
@@ -1725,7 +1725,7 @@ IP-CIDR,61.4.80.0/23
 IP-CIDR,61.10.208.0/20
 IP-CIDR,61.15.112.0/20
 IP-CIDR,61.15.128.0/17
-IP-CIDR,61.18.64.0/18
+IP-CIDR,61.18.0.0/17
 IP-CIDR,61.28.20.0/24
 IP-CIDR,61.28.22.0/24
 IP-CIDR,61.28.49.0/24
