@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-06T12:17:17.957Z
-# Size: 4392
+# Last Updated: 2026-03-08T18:33:58.644Z
+# Size: 4397
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1399,6 +1399,7 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,staticimgly.com
 DOMAIN-SUFFIX,staticblitz.com
 DOMAIN-SUFFIX,static.staff-start.com
+DOMAIN-SUFFIX,stackassets.com
 DOMAIN-SUFFIX,akamai-assets.squarespace.com
 DOMAIN-SUFFIX,static3.squarespace.com
 DOMAIN-SUFFIX,static1.squarespace.com
@@ -1847,6 +1848,7 @@ DOMAIN-SUFFIX,quests.armorgames.com
 DOMAIN-SUFFIX,files.armorgames.com
 DOMAIN-SUFFIX,cache.armorgames.com
 DOMAIN-SUFFIX,agi.armorgames.com
+DOMAIN-SUFFIX,data3.answerbase.com
 DOMAIN-SUFFIX,anpustream.com
 DOMAIN-SUFFIX,anpoimages.com
 DOMAIN-SUFFIX,widget.allkeyshop.com
@@ -2017,6 +2019,7 @@ DOMAIN-SUFFIX,i.imagepost.com
 DOMAIN-SUFFIX,cdni.iconscout.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,js.hs-banner.com
+DOMAIN-SUFFIX,cdn.himetrica.com
 DOMAIN-SUFFIX,freeshippingbar.herokuapp.com
 DOMAIN-SUFFIX,snyk-widget.herokuapp.com
 DOMAIN-SUFFIX,heroicons.com
@@ -2346,6 +2349,7 @@ DOMAIN-SUFFIX,media.gamestop.com
 DOMAIN-SUFFIX,assets.frontegg.com
 DOMAIN-SUFFIX,frontapp.com
 DOMAIN-SUFFIX,badges.frapsoft.com
+DOMAIN-SUFFIX,cdn.foxycart.com
 DOMAIN-SUFFIX,filestore.fortinet.com
 DOMAIN-SUFFIX,resizing.flixster.com
 DOMAIN-SUFFIX,static-assets-web.flixcart.com
@@ -3959,6 +3963,7 @@ DOMAIN-SUFFIX,cms.socialinsider.io
 DOMAIN-SUFFIX,edge.sitecorecloud.io
 DOMAIN-SUFFIX,opentelemetry.io
 DOMAIN-SUFFIX,static.ipgeolocation.io
+DOMAIN-SUFFIX,cdn.boostcommerce.io
 DOMAIN-SUFFIX,local.webcontainer.io
 DOMAIN-SUFFIX,telemetry.stepsecurity.io
 DOMAIN-SUFFIX,ipfs.scalaproject.io
