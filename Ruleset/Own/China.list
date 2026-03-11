@@ -1,14 +1,14 @@
 # NAME: China
-# DOMAIN: 371
+# DOMAIN: 372
 # DOMAIN-SUFFIX: 118684
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12222
+# IP-CIDR: 12213
 # IP-CIDR6: 4272
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 135701
-# UPDATED: 2026-03-11 10:39:52
+# TOTAL: 135693
+# UPDATED: 2026-03-11 15:04:39
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -74,8 +74,8 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2026-03-10T05:42:43.408Z
-# Size: 222
+# Last Updated: 2026-03-11T09:07:33.747Z
+# Size: 223
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,bogon
@@ -96,6 +96,7 @@ DOMAIN-SUFFIX,hdpost.top
 DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,icetorrent.org
+DOMAIN,public.localsend.org
 DOMAIN-SUFFIX,cabdirect.org
 DOMAIN-SUFFIX,hd-space.org
 DOMAIN-SUFFIX,eastgame.org
@@ -245,7 +246,7 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2026-03-11T05:46:01.096Z
+# Last Updated: 2026-03-11T11:03:01.049Z
 # Size: 862
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
@@ -1110,8 +1111,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-03-11T05:46:01.965Z
-# Size: 3918
+# Last Updated: 2026-03-11T11:03:02.427Z
+# Size: 3909
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -2717,16 +2718,7 @@ IP-CIDR,113.130.96.0/20
 IP-CIDR,113.130.112.0/21
 IP-CIDR,113.132.0.0/14
 IP-CIDR,113.136.0.0/13
-IP-CIDR,113.185.80.0/20
-IP-CIDR,113.185.96.0/19
-IP-CIDR,113.185.128.0/20
-IP-CIDR,113.185.240.0/20
-IP-CIDR,113.186.144.0/20
-IP-CIDR,113.188.112.0/20
-IP-CIDR,113.190.16.0/20
-IP-CIDR,113.190.48.0/20
-IP-CIDR,113.190.64.0/20
-IP-CIDR,113.190.96.0/20
+IP-CIDR,113.160.96.0/20
 IP-CIDR,113.194.0.0/15
 IP-CIDR,113.197.101.0/24
 IP-CIDR,113.197.104.0/23

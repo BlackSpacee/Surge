@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-11T05:46:01.651Z
-# Size: 4398
+# Last Updated: 2026-03-11T11:03:02.352Z
+# Size: 4401
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3477,6 +3477,9 @@ DOMAIN-SUFFIX,assets.kagi.com
 DOMAIN-SUFFIX,social-reaction-api.hk01.com
 DOMAIN-SUFFIX,cdn.hk01.com
 DOMAIN-SUFFIX,assets.habr.com
+DOMAIN-SUFFIX,event-assets.gsma.com
+DOMAIN-SUFFIX,fonts.gsma.com
+DOMAIN-SUFFIX,fa.gsma.com
 DOMAIN-SUFFIX,cms-cdn.goat.com
 DOMAIN-SUFFIX,assets.goat.com
 DOMAIN-SUFFIX,image.goat.com
