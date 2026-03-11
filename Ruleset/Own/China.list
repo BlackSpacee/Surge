@@ -3,12 +3,12 @@
 # DOMAIN-SUFFIX: 118684
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12220
+# IP-CIDR: 12222
 # IP-CIDR6: 4272
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 135699
-# UPDATED: 2026-03-11 03:00:19
+# TOTAL: 135701
+# UPDATED: 2026-03-11 10:39:52
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -245,7 +245,7 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2026-03-10T17:38:04.486Z
+# Last Updated: 2026-03-11T05:46:01.096Z
 # Size: 862
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
@@ -1110,8 +1110,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-03-10T17:38:05.550Z
-# Size: 3916
+# Last Updated: 2026-03-11T05:46:01.965Z
+# Size: 3918
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -1202,6 +1202,7 @@ IP-CIDR,27.184.0.0/13
 IP-CIDR,27.192.0.0/11
 IP-CIDR,27.224.0.0/14
 IP-CIDR,31.40.214.0/24
+IP-CIDR,31.130.224.0/20
 IP-CIDR,31.133.128.0/18
 IP-CIDR,36.1.0.0/16
 IP-CIDR,36.4.0.0/14
@@ -2890,7 +2891,8 @@ IP-CIDR,116.68.176.0/21
 IP-CIDR,116.70.64.0/18
 IP-CIDR,116.76.0.0/15
 IP-CIDR,116.78.0.0/16
-IP-CIDR,116.85.0.0/22
+IP-CIDR,116.85.1.0/24
+IP-CIDR,116.85.2.0/23
 IP-CIDR,116.85.13.0/24
 IP-CIDR,116.85.14.0/24
 IP-CIDR,116.85.16.0/23
