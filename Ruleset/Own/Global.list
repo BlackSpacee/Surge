@@ -1,17 +1,17 @@
 # NAME: Global
 # DOMAIN: 137
-# DOMAIN-SUFFIX: 33553
+# DOMAIN-SUFFIX: 33554
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33904
-# UPDATED: 2026-03-11 15:04:39
+# TOTAL: 33905
+# UPDATED: 2026-03-11 21:18:21
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-03-11T11:03:00.894Z
+# Last Updated: 2026-03-11T17:40:43.830Z
 # Size: 1250
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8051,14 +8051,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-03-10 02:18:28
+# UPDATED: 2026-03-12 02:20:04
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32905
+# DOMAIN-SUFFIX: 32906
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 33223
+# TOTAL: 33224
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -14420,6 +14420,7 @@ DOMAIN-SUFFIX,cutt.ly
 DOMAIN-SUFFIX,cuv.ac.uk
 DOMAIN-SUFFIX,cuwm.ac.uk
 DOMAIN-SUFFIX,cvcp.ac.uk
+DOMAIN-SUFFIX,cve.org
 DOMAIN-SUFFIX,cvma.ac.uk
 DOMAIN-SUFFIX,cvr.ac.uk
 DOMAIN-SUFFIX,cvs.ac.uk
