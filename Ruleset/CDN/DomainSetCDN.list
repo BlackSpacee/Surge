@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-14T05:42:24.266Z
-# Size: 4402
+# Last Updated: 2026-03-14T09:27:52.519Z
+# Size: 4404
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -426,6 +426,7 @@ DOMAIN-SUFFIX,pgl.yoyo.org
 DOMAIN-SUFFIX,tnmr.org
 DOMAIN-SUFFIX,image.tmdb.org
 DOMAIN-SUFFIX,o.n1mp.org
+DOMAIN-SUFFIX,jspm.org
 DOMAIN-SUFFIX,static.ietf.org
 DOMAIN-SUFFIX,hsto.org
 DOMAIN-SUFFIX,ehgt.org
@@ -3775,6 +3776,7 @@ DOMAIN-SUFFIX,cdn.birdie.so
 DOMAIN-SUFFIX,storage.tally.so
 DOMAIN-SUFFIX,assets-v2.super.so
 DOMAIN-SUFFIX,sites.super.so
+DOMAIN-SUFFIX,assets.shots.so
 DOMAIN-SUFFIX,assets.cello.so
 DOMAIN-SUFFIX,cdn.mida.so
 DOMAIN-SUFFIX,images.spr.so
