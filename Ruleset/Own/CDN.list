@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4404
+# DOMAIN-SUFFIX: 4406
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4430
-# UPDATED: 2026-03-14 14:59:17
+# TOTAL: 4432
+# UPDATED: 2026-03-14 21:08:43
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-14T09:27:52.519Z
-# Size: 4404
+# Last Updated: 2026-03-14T17:17:46.059Z
+# Size: 4406
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -891,6 +891,7 @@ DOMAIN-SUFFIX,static.izanmei.icu
 DOMAIN-SUFFIX,cthd.icu
 DOMAIN-SUFFIX,time-a.nist.gov
 DOMAIN-SUFFIX,images-assets.nasa.gov
+DOMAIN-SUFFIX,gibs-c.earthdata.nasa.gov
 DOMAIN-SUFFIX,assets.science.nasa.gov
 DOMAIN-SUFFIX,tile.loc.gov
 DOMAIN-SUFFIX,cdn.usd.fan
@@ -1360,6 +1361,7 @@ DOMAIN-SUFFIX,ipfs.arching-kaos.com
 DOMAIN-SUFFIX,server.arcgisonline.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,photos5.appleinsider.com
+DOMAIN-SUFFIX,map.adsbexchange.com
 DOMAIN-SUFFIX,widgets.zohosalesiq.com
 DOMAIN-SUFFIX,images.youracclaim.com
 DOMAIN-SUFFIX,bookface-static.ycombinator.com
