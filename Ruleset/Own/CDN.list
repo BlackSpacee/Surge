@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4407
+# DOMAIN-SUFFIX: 4408
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4433
-# UPDATED: 2026-03-17 10:45:38
+# TOTAL: 4434
+# UPDATED: 2026-03-17 15:14:27
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-17T05:56:35.860Z
-# Size: 4407
+# Last Updated: 2026-03-17T08:54:48.089Z
+# Size: 4408
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2600,6 +2600,7 @@ DOMAIN-SUFFIX,pxlecdn.com
 DOMAIN-SUFFIX,image.prntscr.com
 DOMAIN-SUFFIX,st.prntscr.com
 DOMAIN-SUFFIX,cdn.privacy.com
+DOMAIN-SUFFIX,app-static-prod.posthog.com
 DOMAIN-SUFFIX,app-static.eu.posthog.com
 DOMAIN-SUFFIX,us-assets.i.posthog.com
 DOMAIN-SUFFIX,eu-assets.i.posthog.com

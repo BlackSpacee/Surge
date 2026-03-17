@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2026-03-10T14:56:40.526Z
-# Size: 52
+# Last Updated: 2026-03-17T08:54:47.269Z
+# Size: 50
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -46,7 +46,6 @@ DOMAIN-SUFFIX,tplinkmodem.net
 DOMAIN-SUFFIX,routerlogin.net
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,tplinkap.net
-DOMAIN-SUFFIX,127.atlas.skk.moe
 DOMAIN-SUFFIX,lan
 DOMAIN,homerouter.cpe
 DOMAIN-SUFFIX,huaweimobilewifi.com
@@ -58,6 +57,5 @@ DOMAIN,console.gl-inet.com
 DOMAIN,repeater.asus.com
 DOMAIN,router.asus.com
 DOMAIN,aterm.me
-DOMAIN-SUFFIX,127.0.0.1.sslip.io
 DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################

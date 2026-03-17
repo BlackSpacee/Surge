@@ -1,19 +1,19 @@
 # NAME: China
-# DOMAIN: 372
-# DOMAIN-SUFFIX: 118684
+# DOMAIN: 373
+# DOMAIN-SUFFIX: 118682
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 12218
 # IP-CIDR6: 4269
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 135695
-# UPDATED: 2026-03-17 10:45:38
+# TOTAL: 135694
+# UPDATED: 2026-03-17 15:14:27
 
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2026-03-10T14:56:40.526Z
-# Size: 52
+# Last Updated: 2026-03-17T08:54:47.269Z
+# Size: 50
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -57,7 +57,6 @@ DOMAIN-SUFFIX,tplinkmodem.net
 DOMAIN-SUFFIX,routerlogin.net
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,tplinkap.net
-DOMAIN-SUFFIX,127.atlas.skk.moe
 DOMAIN-SUFFIX,lan
 DOMAIN,homerouter.cpe
 DOMAIN-SUFFIX,huaweimobilewifi.com
@@ -69,13 +68,11 @@ DOMAIN,console.gl-inet.com
 DOMAIN,repeater.asus.com
 DOMAIN,router.asus.com
 DOMAIN,aterm.me
-DOMAIN-SUFFIX,127.0.0.1.sslip.io
 DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2026-03-11T09:07:33.747Z
-# Size: 223
+# Size: 222
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,bogon
@@ -135,6 +132,7 @@ DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,joyhd.net
+DOMAIN,127.atlas.skk.moe
 DOMAIN-SUFFIX,m2m
 DOMAIN-SUFFIX,blackwell-synergy.com
 DOMAIN-SUFFIX,springernature.com
@@ -246,7 +244,6 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2026-03-17T05:56:35.133Z
 # Size: 862
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
@@ -1111,7 +1108,7 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-03-17T05:56:35.981Z
+# Last Updated: 2026-03-17T08:54:48.499Z
 # Size: 3918
 # License: CC BY-SA 2.0
 # This file contains data from:

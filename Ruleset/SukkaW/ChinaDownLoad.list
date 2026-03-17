@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2026-03-11T09:07:33.747Z
-# Size: 223
+# Last Updated: 2026-03-17T08:54:47.269Z
+# Size: 222
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -104,7 +104,7 @@ DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,joyhd.net
-DOMAIN-SUFFIX,127.atlas.skk.moe
+DOMAIN,127.atlas.skk.moe
 DOMAIN-SUFFIX,m2m
 DOMAIN-SUFFIX,lan
 DOMAIN,homerouter.cpe
@@ -164,7 +164,6 @@ DOMAIN,aterm.me
 DOMAIN-SUFFIX,lztr.me
 DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,filelist.io
-DOMAIN-SUFFIX,127.0.0.1.sslip.io
 DOMAIN-SUFFIX,karagarga.in
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,jpopsuki.eu
