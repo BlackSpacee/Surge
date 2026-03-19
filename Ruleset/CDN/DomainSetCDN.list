@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-18T17:51:53.893Z
-# Size: 4408
+# Last Updated: 2026-03-19T05:56:19.112Z
+# Size: 4411
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -947,6 +947,7 @@ DOMAIN-SUFFIX,w-credentialless-staticblitz.com
 DOMAIN-SUFFIX,cdn-a.sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,agechecker-northern-apps.com
 DOMAIN-SUFFIX,useruploads.visualwebsiteoptimizer.com
+DOMAIN-SUFFIX,dev.visualwebsiteoptimizer.com
 DOMAIN-SUFFIX,runkit-packages-static.com
 DOMAIN-SUFFIX,cdn.quickemailverification.com
 DOMAIN-SUFFIX,hackerone-user-content.com
@@ -2278,7 +2279,9 @@ DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,cdnl.moviefap.com
 DOMAIN-SUFFIX,img.moviefap.com
 DOMAIN-SUFFIX,cdn-public-apis.moonlock.com
+DOMAIN-SUFFIX,antiqua-ux-cdn.monotype.com
 DOMAIN-SUFFIX,pp-static.monotype.com
+DOMAIN-SUFFIX,static.monotype.com
 DOMAIN-SUFFIX,sny.monosnap.com
 DOMAIN-SUFFIX,momentjs.com
 DOMAIN-SUFFIX,play.modujx11.com
