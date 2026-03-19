@@ -1,17 +1,17 @@
 # NAME: Global
 # DOMAIN: 137
-# DOMAIN-SUFFIX: 33563
+# DOMAIN-SUFFIX: 33568
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33914
-# UPDATED: 2026-03-19 15:07:42
+# TOTAL: 33919
+# UPDATED: 2026-03-19 21:23:36
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-03-19T05:56:18.392Z
+# Last Updated: 2026-03-19T17:46:38.173Z
 # Size: 1250
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -7647,14 +7647,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-16 02:11:02
+# UPDATED: 2026-03-20 02:20:50
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6582
+# DOMAIN-SUFFIX: 6583
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6722
+# TOTAL: 6723
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7663,6 +7663,7 @@ DOMAIN,developer.apple.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
+DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,abpchina.org
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,adobe.com
@@ -8051,14 +8052,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-03-18 02:21:41
+# UPDATED: 2026-03-20 02:20:28
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32915
+# DOMAIN-SUFFIX: 32920
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 33233
+# TOTAL: 33238
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -8718,7 +8719,6 @@ DOMAIN-SUFFIX,aanaan.com
 DOMAIN-SUFFIX,aapl.tw
 DOMAIN-SUFFIX,aaschool.ac.uk
 DOMAIN-SUFFIX,aau.ac.uk
-DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,aavs.xyz
 DOMAIN-SUFFIX,abank.com.mm
 DOMAIN-SUFFIX,abb.travel
@@ -30411,6 +30411,11 @@ DOMAIN-SUFFIX,tiktokminis.us
 DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,tilda.cc
+DOMAIN-SUFFIX,tilda.ru
+DOMAIN-SUFFIX,tilda.ws
+DOMAIN-SUFFIX,tildaapi.com
+DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,tilehill.ac.uk
 DOMAIN-SUFFIX,time.gov
 DOMAIN-SUFFIX,time.nrc.ca
