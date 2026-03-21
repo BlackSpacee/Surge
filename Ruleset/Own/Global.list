@@ -1,17 +1,17 @@
 # NAME: Global
 # DOMAIN: 137
-# DOMAIN-SUFFIX: 33568
+# DOMAIN-SUFFIX: 33575
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33919
-# UPDATED: 2026-03-21 14:56:17
+# TOTAL: 33926
+# UPDATED: 2026-03-21 21:05:36
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-03-21T08:57:45.262Z
+# Last Updated: 2026-03-21T17:16:48.091Z
 # Size: 1250
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -7647,14 +7647,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-20 02:20:50
+# UPDATED: 2026-03-22 02:10:04
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6583
+# DOMAIN-SUFFIX: 6586
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6723
+# TOTAL: 6726
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7720,6 +7720,7 @@ DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,celestrak.com
 DOMAIN-SUFFIX,census.gov
 DOMAIN-SUFFIX,chinatimes.com
+DOMAIN-SUFFIX,cia.gov
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,clien.net
@@ -7872,6 +7873,7 @@ DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,novafile.com
+DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,ooni.io
@@ -8052,14 +8054,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-03-20 02:20:28
+# UPDATED: 2026-03-22 02:09:41
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32920
+# DOMAIN-SUFFIX: 32928
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 33238
+# TOTAL: 33246
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -11410,6 +11412,7 @@ DOMAIN-SUFFIX,bedstegratisporno.com
 DOMAIN-SUFFIX,beeg.rest
 DOMAIN-SUFFIX,beegfree.com
 DOMAIN-SUFFIX,beejp.net
+DOMAIN-SUFFIX,beeline.tv
 DOMAIN-SUFFIX,beep.ac.uk
 DOMAIN-SUFFIX,bees.ac.uk
 DOMAIN-SUFFIX,beforeigners.com
@@ -11499,6 +11502,7 @@ DOMAIN-SUFFIX,bestbuytradein.com
 DOMAIN-SUFFIX,bestbuyus.com
 DOMAIN-SUFFIX,bestcamsites.net
 DOMAIN-SUFFIX,bestclouddrive.com
+DOMAIN-SUFFIX,bestdori.com
 DOMAIN-SUFFIX,besterpornos.com
 DOMAIN-SUFFIX,bestescortgirls.nl
 DOMAIN-SUFFIX,bestfreecams.club
@@ -16433,6 +16437,7 @@ DOMAIN-SUFFIX,esoir.be
 DOMAIN-SUFFIX,esopworld.com
 DOMAIN-SUFFIX,esp-scotland.ac.uk
 DOMAIN-SUFFIX,esp32.com
+DOMAIN-SUFFIX,esp8266.com
 DOMAIN-SUFFIX,espa-headlines.ac.uk
 DOMAIN-SUFFIX,espa.ac.uk
 DOMAIN-SUFFIX,espadoldettol.com.ar
@@ -16444,6 +16449,7 @@ DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,espnqa.com
 DOMAIN-SUFFIX,esports.gg
 DOMAIN-SUFFIX,esposasymaridos.com
+DOMAIN-SUFFIX,espressif.com
 DOMAIN-SUFFIX,esrc.ac.uk
 DOMAIN-SUFFIX,esrcfestival.ac.uk
 DOMAIN-SUFFIX,esrcmanchesterfest.ac.uk
@@ -33835,6 +33841,7 @@ DOMAIN-SUFFIX,zhtv01.com
 DOMAIN-SUFFIX,zhuangbi.me
 DOMAIN-SUFFIX,zhuzhushipin-app.com
 DOMAIN-SUFFIX,zibacity.com
+DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zigzag.kr
 DOMAIN-SUFFIX,zind.cloud
 DOMAIN-SUFFIX,zingtruyen.net

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2026-03-10T05:42:43.330Z
-# Size: 49
+# Last Updated: 2026-03-21T15:12:50.583Z
+# Size: 50
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -57,4 +57,5 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,g.ai
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
+URL-REGEX,https://www\.google\.com/.*continue=https://gemini\.google\.com.+
 ################## EOF ##################
