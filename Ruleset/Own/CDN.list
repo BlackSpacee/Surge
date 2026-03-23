@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4411
+# DOMAIN-SUFFIX: 4412
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4437
-# UPDATED: 2026-03-23 10:54:15
+# TOTAL: 4438
+# UPDATED: 2026-03-23 15:22:26
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-23T06:09:06.844Z
-# Size: 4411
+# Last Updated: 2026-03-23T13:02:00.086Z
+# Size: 4412
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -904,6 +904,7 @@ DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,tuf-repo-cdn.sigstore.dev
 DOMAIN-SUFFIX,pkg-size.dev
 DOMAIN-SUFFIX,cdn-web.orbstack.dev
+DOMAIN-SUFFIX,www.fumadocs.dev
 DOMAIN-SUFFIX,storybooks.fluentui.dev
 DOMAIN-SUFFIX,logos.composio.dev
 DOMAIN-SUFFIX,workers.dev
@@ -4427,7 +4428,7 @@ DOMAIN-SUFFIX,bot.ivy.ai
 DOMAIN-SUFFIX,rules.ac
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
-# Last Updated: 2026-03-10T14:56:40.480Z
+# Last Updated: 2026-03-23T13:01:59.231Z
 # Size: 84
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,cdn-msp.18comic.vip
@@ -4481,7 +4482,7 @@ DOMAIN-WILDCARD,img?.porngo.com
 DOMAIN-WILDCARD,img??.porngo.com
 DOMAIN-WILDCARD,th-*.pornone.com
 DOMAIN-WILDCARD,s???.pornone.com
-DOMAIN-WILDCARD,browser-intake-*-datadoghq.com
+DOMAIN-WILDCARD,*-intake-*-datadoghq.com
 DOMAIN-WILDCARD,video-thumbnail2.fc2.com
 DOMAIN-WILDCARD,video?-thumbnail?.fc2.com
 DOMAIN-WILDCARD,video-thumbnail?.liaoningmovie.net
