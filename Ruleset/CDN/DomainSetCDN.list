@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-25T05:58:56.180Z
-# Size: 4412
+# Last Updated: 2026-03-25T10:45:59.537Z
+# Size: 4417
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2076,6 +2076,7 @@ DOMAIN-SUFFIX,epic-social-social-modules-prod.ol.epicgames.com
 DOMAIN-SUFFIX,ensighten.com
 DOMAIN-SUFFIX,assets.endorsely.com
 DOMAIN-SUFFIX,embedgram.com
+DOMAIN-SUFFIX,static.assets-stash.eet-china.com
 DOMAIN-SUFFIX,design-system.economist.com
 DOMAIN-SUFFIX,marber-cdn.economist.com
 DOMAIN-SUFFIX,cmp-cdn.p.aws.economist.com
@@ -2491,6 +2492,7 @@ DOMAIN-SUFFIX,static.afterpay.com
 DOMAIN-SUFFIX,assets.adobedtm.com
 DOMAIN-SUFFIX,static.addtoany.com
 DOMAIN-SUFFIX,image.p-c2-x.abema-tv.com
+DOMAIN-SUFFIX,cdn.zolplay.com
 DOMAIN-SUFFIX,zohocdn.com
 DOMAIN-SUFFIX,cdn.zigpoll.com
 DOMAIN-SUFFIX,media.zestyio.com
@@ -2832,6 +2834,7 @@ DOMAIN-SUFFIX,sessions.bugsnag.com
 DOMAIN-SUFFIX,notify.bugsnag.com
 DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,botsrv2.com
+DOMAIN-SUFFIX,assets2.blubrry.com
 DOMAIN-SUFFIX,blobcdn.com
 DOMAIN-SUFFIX,cms.blavity.com
 DOMAIN-SUFFIX,organizer.bizzabo.com
@@ -3657,6 +3660,7 @@ DOMAIN-SUFFIX,web-cdn.bsky.app
 DOMAIN-SUFFIX,video.bsky.app
 DOMAIN-SUFFIX,cdn.bsky.app
 DOMAIN-SUFFIX,web.app
+DOMAIN-SUFFIX,images.rss.app
 DOMAIN-SUFFIX,csb.app
 DOMAIN-SUFFIX,cdn.7tv.app
 DOMAIN-SUFFIX,cdn.24.co.za
@@ -4190,6 +4194,7 @@ DOMAIN-SUFFIX,fonts.loox.io
 DOMAIN-SUFFIX,logz.io
 DOMAIN-SUFFIX,jspm.io
 DOMAIN-SUFFIX,static.itch.io
+DOMAIN-SUFFIX,ipxy.io
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,iili.io
 DOMAIN-SUFFIX,libraries.hund.io
