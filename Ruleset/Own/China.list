@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 135722
-# UPDATED: 2026-03-25 03:14:51
+# UPDATED: 2026-03-25 10:50:51
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -244,7 +244,7 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2026-03-24T17:47:24.450Z
+# Last Updated: 2026-03-25T05:58:55.549Z
 # Size: 862
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
@@ -1109,7 +1109,7 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-03-24T17:47:25.512Z
+# Last Updated: 2026-03-25T05:58:56.749Z
 # Size: 3928
 # License: CC BY-SA 2.0
 # This file contains data from:
@@ -2559,7 +2559,6 @@ IP-CIDR,106.112.0.0/12
 IP-CIDR,106.224.0.0/14
 IP-CIDR,106.228.0.0/15
 IP-CIDR,106.230.0.0/16
-IP-CIDR,107.148.240.0/21
 IP-CIDR,107.151.212.0/24
 IP-CIDR,107.190.229.0/24
 IP-CIDR,109.244.0.0/16
@@ -3707,6 +3706,7 @@ IP-CIDR,144.48.212.0/22
 IP-CIDR,144.52.0.0/16
 IP-CIDR,144.79.10.0/23
 IP-CIDR,144.79.54.0/23
+IP-CIDR,144.79.148.0/24
 IP-CIDR,144.123.0.0/16
 IP-CIDR,144.255.0.0/16
 IP-CIDR,146.56.192.0/18
