@@ -1,17 +1,17 @@
 # NAME: Global
 # DOMAIN: 137
-# DOMAIN-SUFFIX: 33575
+# DOMAIN-SUFFIX: 33585
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33926
-# UPDATED: 2026-03-25 15:12:40
+# TOTAL: 33936
+# UPDATED: 2026-03-25 21:40:28
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-03-25T10:45:58.701Z
+# Last Updated: 2026-03-25T17:49:00.480Z
 # Size: 1250
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -7647,14 +7647,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-22 02:10:04
+# UPDATED: 2026-03-26 02:22:44
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6586
+# DOMAIN-SUFFIX: 6588
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6726
+# TOTAL: 6728
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7919,6 +7919,7 @@ DOMAIN-SUFFIX,radiojar.com
 DOMAIN-SUFFIX,rime.im
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,s.rmimg.com
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,sciencedaily.com
@@ -8009,6 +8010,7 @@ DOMAIN-SUFFIX,xcancel.com
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xeeno.com
+DOMAIN-SUFFIX,xn--1jqvh729avzfcy2d8ummib.com
 DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yastatic.net
@@ -8054,14 +8056,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-03-22 02:09:41
+# UPDATED: 2026-03-26 02:22:21
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32928
+# DOMAIN-SUFFIX: 32938
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 33246
+# TOTAL: 33256
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -25509,6 +25511,7 @@ DOMAIN-SUFFIX,opengw.net
 DOMAIN-SUFFIX,openjsf.org
 DOMAIN-SUFFIX,openmaps.org
 DOMAIN-SUFFIX,openreality.com
+DOMAIN-SUFFIX,openrec.tv
 DOMAIN-SUFFIX,openresty.org
 DOMAIN-SUFFIX,openreview.net
 DOMAIN-SUFFIX,openrouter.ai
@@ -25688,8 +25691,15 @@ DOMAIN-SUFFIX,oystermercury.top
 DOMAIN-SUFFIX,ozeex.com
 DOMAIN-SUFFIX,ozodi.org
 DOMAIN-SUFFIX,ozodlik.org
+DOMAIN-SUFFIX,ozon.by
+DOMAIN-SUFFIX,ozon.com
+DOMAIN-SUFFIX,ozon.com.by
+DOMAIN-SUFFIX,ozon.com.kz
+DOMAIN-SUFFIX,ozon.kz
 DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,ozon.tm
 DOMAIN-SUFFIX,ozone.ru
+DOMAIN-SUFFIX,ozonru.me
 DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,pa9pal.com
