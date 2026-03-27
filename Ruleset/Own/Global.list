@@ -1,17 +1,17 @@
 # NAME: Global
 # DOMAIN: 137
-# DOMAIN-SUFFIX: 33585
+# DOMAIN-SUFFIX: 33597
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 33936
-# UPDATED: 2026-03-27 15:19:41
+# TOTAL: 33948
+# UPDATED: 2026-03-27 21:23:07
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-03-27T07:31:35.274Z
+# Last Updated: 2026-03-27T17:41:03.963Z
 # Size: 1250
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -7647,14 +7647,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-26 02:22:44
+# UPDATED: 2026-03-28 02:21:05
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6588
+# DOMAIN-SUFFIX: 6589
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6728
+# TOTAL: 6729
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -8011,6 +8011,7 @@ DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xeeno.com
 DOMAIN-SUFFIX,xn--1jqvh729avzfcy2d8ummib.com
+DOMAIN-SUFFIX,xn--kcrv3utim32hx9f6qe.com
 DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yastatic.net
@@ -8056,14 +8057,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-03-26 02:22:21
+# UPDATED: 2026-03-28 02:20:43
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32938
+# DOMAIN-SUFFIX: 32950
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 33256
+# TOTAL: 33268
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -13644,6 +13645,7 @@ DOMAIN-SUFFIX,chugokubank.co.jp
 DOMAIN-SUFFIX,chuls.ac.uk
 DOMAIN-SUFFIX,chuneo.xyz
 DOMAIN-SUFFIX,chunja19.net
+DOMAIN-SUFFIX,chunkbase.com
 DOMAIN-SUFFIX,chuokoron.jp
 DOMAIN-SUFFIX,chuporno.com
 DOMAIN-SUFFIX,churchill.ac.uk
@@ -16306,6 +16308,7 @@ DOMAIN-SUFFIX,epsrc.ac.uk
 DOMAIN-SUFFIX,equal.ac.uk
 DOMAIN-SUFFIX,equalityhigher.ac.uk
 DOMAIN-SUFFIX,equator.ac.uk
+DOMAIN-SUFFIX,equinox.io
 DOMAIN-SUFFIX,equistudy.ac.uk
 DOMAIN-SUFFIX,era.ac.uk
 DOMAIN-SUFFIX,eraofconnection.com
@@ -23203,6 +23206,7 @@ DOMAIN-SUFFIX,mimizy-go.buzz
 DOMAIN-SUFFIX,minbrowser.org
 DOMAIN-SUFFIX,mindgeek.com
 DOMAIN-SUFFIX,mindmeld.com
+DOMAIN-SUFFIX,minecraftforge.net
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mineofinfo.ac.uk
 DOMAIN-SUFFIX,minerva.ac.uk
@@ -24145,6 +24149,7 @@ DOMAIN-SUFFIX,nakedmodelsxxx.com
 DOMAIN-SUFFIX,nakednews.com
 DOMAIN-SUFFIX,naln.ac.uk
 DOMAIN-SUFFIX,nam.ac.uk
+DOMAIN-SUFFIX,namemc.com
 DOMAIN-SUFFIX,namemybeats.com
 DOMAIN-SUFFIX,namethatporn.com
 DOMAIN-SUFFIX,namethatpornad.com
@@ -24593,6 +24598,7 @@ DOMAIN-SUFFIX,nginx.com
 DOMAIN-SUFFIX,nginx.org
 DOMAIN-SUFFIX,nginxconfig.io
 DOMAIN-SUFFIX,ngodupdongchung.com
+DOMAIN-SUFFIX,ngrok-agent.com
 DOMAIN-SUFFIX,ngrok-free.app
 DOMAIN-SUFFIX,ngrok-free.dev
 DOMAIN-SUFFIX,ngrok-free.pizza
@@ -25548,6 +25554,7 @@ DOMAIN-SUFFIX,opte.org
 DOMAIN-SUFFIX,optica.org
 DOMAIN-SUFFIX,opticore.com
 DOMAIN-SUFFIX,opticsforthecloud.net
+DOMAIN-SUFFIX,optifine.net
 DOMAIN-SUFFIX,optima-cdt.ac.uk
 DOMAIN-SUFFIX,optimumssl.com
 DOMAIN-SUFFIX,opwall.ac.uk
@@ -27042,6 +27049,7 @@ DOMAIN-SUFFIX,qattdh6.top
 DOMAIN-SUFFIX,qbmengmei6.mom
 DOMAIN-SUFFIX,qbsc.ac.uk
 DOMAIN-SUFFIX,qckprn.com
+DOMAIN-SUFFIX,qcomgeo2.com
 DOMAIN-SUFFIX,qctconnect.com
 DOMAIN-SUFFIX,qdiehzz7.me
 DOMAIN-SUFFIX,qdmomentum.com
@@ -27094,6 +27102,7 @@ DOMAIN-SUFFIX,quadram.ac.uk
 DOMAIN-SUFFIX,quadraminstitute.ac.uk
 DOMAIN-SUFFIX,quadrat.ac.uk
 DOMAIN-SUFFIX,qualcomm-email.com
+DOMAIN-SUFFIX,qualcomm-inc.com
 DOMAIN-SUFFIX,qualcomm.co.id
 DOMAIN-SUFFIX,qualcomm.co.in
 DOMAIN-SUFFIX,qualcomm.co.jp
@@ -29247,6 +29256,7 @@ DOMAIN-SUFFIX,spicystory.net
 DOMAIN-SUFFIX,spicywriter.com
 DOMAIN-SUFFIX,spider.ac.uk
 DOMAIN-SUFFIX,spiegel.de
+DOMAIN-SUFFIX,spigotmc.org
 DOMAIN-SUFFIX,spinesurgeons.ac.uk
 DOMAIN-SUFFIX,spiritclubs.com
 DOMAIN-SUFFIX,spiritofecstasy.com
@@ -30088,6 +30098,8 @@ DOMAIN-SUFFIX,tegrazone.kr
 DOMAIN-SUFFIX,tejaratbank.ir
 DOMAIN-SUFFIX,tel.ac.uk
 DOMAIN-SUFFIX,telebay.com
+DOMAIN-SUFFIX,telega.info
+DOMAIN-SUFFIX,telega.me
 DOMAIN-SUFFIX,telegram-cdn.org
 DOMAIN-SUFFIX,telegram-porn.com
 DOMAIN-SUFFIX,telekom.com
