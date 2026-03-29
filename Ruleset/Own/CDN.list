@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4420
+# DOMAIN-SUFFIX: 4424
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4446
-# UPDATED: 2026-03-29 15:14:39
+# TOTAL: 4450
+# UPDATED: 2026-03-29 21:12:17
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-29T06:10:13.881Z
-# Size: 4420
+# Last Updated: 2026-03-29T17:30:52.394Z
+# Size: 4424
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -835,6 +835,7 @@ DOMAIN-SUFFIX,s3.arkjp.net
 DOMAIN-SUFFIX,img3.acsta.net
 DOMAIN-SUFFIX,img2.acsta.net
 DOMAIN-SUFFIX,img1.acsta.net
+DOMAIN-SUFFIX,zobj.net
 DOMAIN-SUFFIX,cdn.ywxi.net
 DOMAIN-SUFFIX,static.wwto.net
 DOMAIN-SUFFIX,fonts.sony.net
@@ -1737,6 +1738,7 @@ DOMAIN-SUFFIX,assets.hearstapps.com
 DOMAIN-SUFFIX,hips.hearstapps.com
 DOMAIN-SUFFIX,hanime-cdn.com
 DOMAIN-SUFFIX,cdn.hackernoon.com
+DOMAIN-SUFFIX,grouponcdn.com
 DOMAIN-SUFFIX,assets.grooveapps.com
 DOMAIN-SUFFIX,content-storage-upload.googleapis.com
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
@@ -3739,6 +3741,8 @@ DOMAIN-SUFFIX,clips-media-assets2.twitch.tv
 DOMAIN-SUFFIX,assets.twitch.tv
 DOMAIN-SUFFIX,embed.twitch.tv
 DOMAIN-SUFFIX,storry.tv
+DOMAIN-SUFFIX,starlight.nebula.tv
+DOMAIN-SUFFIX,images.nebula.tv
 DOMAIN-SUFFIX,static.tella.tv
 DOMAIN-SUFFIX,static-homepage-en.pluto.tv
 DOMAIN-SUFFIX,images.pluto.tv
