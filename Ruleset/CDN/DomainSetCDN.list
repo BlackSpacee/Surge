@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-31T06:14:51.519Z
-# Size: 4424
+# Last Updated: 2026-03-31T15:36:18.442Z
+# Size: 4429
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2053,6 +2053,7 @@ DOMAIN-SUFFIX,media.glassdoor.com
 DOMAIN-SUFFIX,gitmirror.com
 DOMAIN-SUFFIX,assets.getpocket.com
 DOMAIN-SUFFIX,i.geekflare.com
+DOMAIN-SUFFIX,garmincdn.com
 DOMAIN-SUFFIX,mosaic-blender.fxtwitter.com
 DOMAIN-SUFFIX,mosaic.fxtwitter.com
 DOMAIN-SUFFIX,webp.frostming.com
@@ -3142,6 +3143,10 @@ DOMAIN-SUFFIX,tuf-repo.github.com
 DOMAIN-SUFFIX,raw.github.com
 DOMAIN-SUFFIX,pkg.github.com
 DOMAIN-SUFFIX,assets.genius.com
+DOMAIN-SUFFIX,static.garmin.com
+DOMAIN-SUFFIX,fonts.garmin.com
+DOMAIN-SUFFIX,res.garmin.com
+DOMAIN-SUFFIX,share-assets.fe.garmin.com
 DOMAIN-SUFFIX,fw-cdn.com
 DOMAIN-SUFFIX,fsvod1.com
 DOMAIN-SUFFIX,assets.foxdcg.com
@@ -4433,4 +4438,3 @@ DOMAIN-SUFFIX,cdn.s7s.ai
 DOMAIN-SUFFIX,bot.ivy.ai
 DOMAIN-SUFFIX,rules.ac
 ################## EOF ##################
-

@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/filter.list
 #!tg-channel=https://t.me/inaisi
-#!date=2025-12-25 20:30:00
+#!date=2026-03-31 23:00:00
 #!support=约9760行
 #############################################
 # "reject"        策略返回 HTTP 状态码 404,不附带任何额外内容
@@ -888,6 +888,8 @@ DOMAIN-SUFFIX,staticxx.facebook.com
 
 # > 番茄小说
 DOMAIN,i-lq.snssdk.com
+DOMAIN,is-lq.snssdk.com
+DOMAIN,ug-sinfonlinea.bytedance.com
 DOMAIN,dig.bdurl.net
 DOMAIN,activity-ag.awemeughun.com
 DOMAIN,mcs.snssdk.com
