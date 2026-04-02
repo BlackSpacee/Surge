@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-04-01T04:19:41.481Z
-# Size: 4431
+# Last Updated: 2026-04-02T12:46:50.308Z
+# Size: 4434
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,images.web3.storage
 DOMAIN-SUFFIX,api.web3.storage
 DOMAIN-SUFFIX,cdn.neustar
 DOMAIN-SUFFIX,mangadex.network
+DOMAIN-SUFFIX,assets.tangled.network
 DOMAIN-SUFFIX,ipfs.eth.aragon.network
 DOMAIN-SUFFIX,gateway.serph.network
 DOMAIN-SUFFIX,cdnjs.network
@@ -3811,12 +3812,14 @@ DOMAIN-SUFFIX,gitpage.si
 DOMAIN-SUFFIX,gitapp.si
 DOMAIN-SUFFIX,gcr.si
 DOMAIN-SUFFIX,assets.vantage.sh
+DOMAIN-SUFFIX,avatar.tangled.sh
 DOMAIN-SUFFIX,cdn.cracked.sh
 DOMAIN-SUFFIX,api-frameworks.vercel.sh
 DOMAIN-SUFFIX,gitpkg-fork.vercel.sh
 DOMAIN-SUFFIX,openapi.vercel.sh
 DOMAIN-SUFFIX,s3.doujin.sh
 DOMAIN-SUFFIX,surge.sh
+DOMAIN-SUFFIX,gateway.scarf.sh
 DOMAIN-SUFFIX,static.scarf.sh
 DOMAIN-SUFFIX,proxy.cors.sh
 DOMAIN-SUFFIX,brew.sh
