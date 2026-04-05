@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4435
+# DOMAIN-SUFFIX: 4437
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4461
-# UPDATED: 2026-04-05 15:17:55
+# TOTAL: 4463
+# UPDATED: 2026-04-05 21:14:00
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-04-03T14:07:49.377Z
-# Size: 4435
+# Last Updated: 2026-04-05T16:34:38.257Z
+# Size: 4437
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -788,6 +788,7 @@ DOMAIN-SUFFIX,img.reimu.net
 DOMAIN-SUFFIX,cdn.reimu.net
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,pixfs.net
+DOMAIN-SUFFIX,origin.picgo.net
 DOMAIN-SUFFIX,img.pawoo.net
 DOMAIN-SUFFIX,nsimg.net
 DOMAIN-SUFFIX,static.monei.net
@@ -1273,6 +1274,7 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,cdn.privacy-mgmt.com
 DOMAIN-SUFFIX,pressablecdn.com
 DOMAIN-SUFFIX,ui.powerreviews.com
+DOMAIN-SUFFIX,cdna.pcpartpicker.com
 DOMAIN-SUFFIX,js.partnerstack.com
 DOMAIN-SUFFIX,sbl.onfastspring.com
 DOMAIN-SUFFIX,cdn.onfastspring.com
