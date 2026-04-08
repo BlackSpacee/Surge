@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-04-06T13:21:04.772Z
-# Size: 4437
+# Last Updated: 2026-04-08T12:05:28.536Z
+# Size: 4441
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -632,6 +632,7 @@ DOMAIN-SUFFIX,img.javstore.net
 DOMAIN-SUFFIX,hsstatic.net
 DOMAIN-SUFFIX,img.highporn.net
 DOMAIN-SUFFIX,cdn.highporn.net
+DOMAIN-SUFFIX,embed.getwally.net
 DOMAIN-SUFFIX,files.gempages.net
 DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,connect.facebook.net
@@ -2707,6 +2708,7 @@ DOMAIN-SUFFIX,img3.javmost.com
 DOMAIN-SUFFIX,img2.javmost.com
 DOMAIN-SUFFIX,cdn.javmiku.com
 DOMAIN-SUFFIX,img2.javdove.com
+DOMAIN-SUFFIX,static.isitetv.com
 DOMAIN-SUFFIX,assets.ipstack.com
 DOMAIN-SUFFIX,i.insider.com
 DOMAIN-SUFFIX,static.iris.informa.com
@@ -3635,6 +3637,7 @@ DOMAIN-SUFFIX,tilemaps.icgc.cat
 DOMAIN-SUFFIX,oss.moe.cat
 DOMAIN-SUFFIX,tile.openstreetmap.bzh
 DOMAIN-SUFFIX,ns-cdn.neustar.biz
+DOMAIN-SUFFIX,media.currys.biz
 DOMAIN-SUFFIX,pics.mf8.biz
 DOMAIN-SUFFIX,static.sdkassets.chime.aws
 DOMAIN-SUFFIX,ipfs.kaleido.art
@@ -4129,6 +4132,7 @@ DOMAIN-SUFFIX,tiles.terria.io
 DOMAIN-SUFFIX,scripts.tabler.io
 DOMAIN-SUFFIX,static.status.io
 DOMAIN-SUFFIX,image.status.io
+DOMAIN-SUFFIX,cdn.socket.io
 DOMAIN-SUFFIX,media.smooch.io
 DOMAIN-SUFFIX,cdn.smooch.io
 DOMAIN-SUFFIX,webfe.shopee.io
