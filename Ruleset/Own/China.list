@@ -3,12 +3,12 @@
 # DOMAIN-SUFFIX: 118776
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12135
+# IP-CIDR: 12134
 # IP-CIDR6: 4055
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 135494
-# UPDATED: 2026-04-08 03:15:45
+# TOTAL: 135493
+# UPDATED: 2026-04-08 11:21:28
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -1109,8 +1109,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-04-07T17:48:09.823Z
-# Size: 3929
+# Last Updated: 2026-04-08T06:19:28.819Z
+# Size: 3928
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -4761,7 +4761,6 @@ IP-CIDR,218.247.64.0/19
 IP-CIDR,218.247.128.0/17
 IP-CIDR,218.249.0.0/16
 IP-CIDR,218.252.0.0/17
-IP-CIDR,218.252.128.0/19
 IP-CIDR,218.253.0.0/18
 IP-CIDR,219.72.0.0/16
 IP-CIDR,219.82.0.0/16
