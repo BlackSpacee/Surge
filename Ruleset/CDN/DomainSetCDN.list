@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-04-14T03:34:04.208Z
-# Size: 4444
+# Last Updated: 2026-04-14T12:21:08.391Z
+# Size: 4451
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1389,6 +1389,8 @@ DOMAIN-SUFFIX,uber-assets.com
 DOMAIN-SUFFIX,fastly-cloud.typenetwork.com
 DOMAIN-SUFFIX,cloud.typenetwork.com
 DOMAIN-SUFFIX,cms.typenetwork.com
+DOMAIN-SUFFIX,static.tryprofound.com
+DOMAIN-SUFFIX,ph.tryprofound.com
 DOMAIN-SUFFIX,static-assets-1.truthsocial.com
 DOMAIN-SUFFIX,cdn.trustedsite.com
 DOMAIN-SUFFIX,widgets.tree-nation.com
@@ -2585,6 +2587,7 @@ DOMAIN-SUFFIX,cdn.sheetjs.com
 DOMAIN-SUFFIX,i.servimg.com
 DOMAIN-SUFFIX,videos2-h.sendvid.com
 DOMAIN-SUFFIX,thumbs2.sendvid.com
+DOMAIN-SUFFIX,static.semrush.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,ocsp.sectigo.com
 DOMAIN-SUFFIX,crt.sectigo.com
@@ -2822,6 +2825,7 @@ DOMAIN-SUFFIX,cdn.devdojo.com
 DOMAIN-SUFFIX,denopkg.com
 DOMAIN-SUFFIX,dellcdn.com
 DOMAIN-SUFFIX,import-cdn.default.com
+DOMAIN-SUFFIX,pixel-cdn.default.com
 DOMAIN-SUFFIX,cdn.datdota.com
 DOMAIN-SUFFIX,proxy.csidetm.com
 DOMAIN-SUFFIX,static.comicbz.com
@@ -3220,6 +3224,7 @@ DOMAIN-SUFFIX,i.anysex.com
 DOMAIN-SUFFIX,code.buywithprime.amazon.com
 DOMAIN-SUFFIX,d2c.aws.amazon.com
 DOMAIN-SUFFIX,time.akamai.com
+DOMAIN-SUFFIX,static-app.ahrefs.com
 DOMAIN-SUFFIX,static.ahrefs.com
 DOMAIN-SUFFIX,cdn1.affirm.com
 DOMAIN-SUFFIX,assets.adidas.com
@@ -3315,6 +3320,7 @@ DOMAIN-SUFFIX,static-exp2.licdn.com
 DOMAIN-SUFFIX,static-exp1.licdn.com
 DOMAIN-SUFFIX,static.licdn.com
 DOMAIN-SUFFIX,media.licdn.com
+DOMAIN-SUFFIX,ahrefscomscreenshot-3b70.kxcdn.com
 DOMAIN-SUFFIX,wikiwandv2-19431.kxcdn.com
 DOMAIN-SUFFIX,searchanise-ef84.kxcdn.com
 DOMAIN-SUFFIX,wandi-6402.kxcdn.com
@@ -4439,6 +4445,7 @@ DOMAIN-SUFFIX,s3.masto.ai
 DOMAIN-SUFFIX,participants.evolv.ai
 DOMAIN-SUFFIX,media.evolv.ai
 DOMAIN-SUFFIX,cdn.candy.ai
+DOMAIN-SUFFIX,cdn.candu.ai
 DOMAIN-SUFFIX,telemetry.services.yofi.ai
 DOMAIN-SUFFIX,cdn2.suno.ai
 DOMAIN-SUFFIX,cdn1.suno.ai
