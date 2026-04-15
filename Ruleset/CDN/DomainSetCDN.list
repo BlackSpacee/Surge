@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-04-14T12:21:08.391Z
-# Size: 4451
+# Last Updated: 2026-04-15T19:26:22.868Z
+# Size: 4452
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1390,6 +1390,7 @@ DOMAIN-SUFFIX,fastly-cloud.typenetwork.com
 DOMAIN-SUFFIX,cloud.typenetwork.com
 DOMAIN-SUFFIX,cms.typenetwork.com
 DOMAIN-SUFFIX,static.tryprofound.com
+DOMAIN-SUFFIX,img.api.tryprofound.com
 DOMAIN-SUFFIX,ph.tryprofound.com
 DOMAIN-SUFFIX,static-assets-1.truthsocial.com
 DOMAIN-SUFFIX,cdn.trustedsite.com
