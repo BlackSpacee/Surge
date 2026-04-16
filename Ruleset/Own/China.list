@@ -3,12 +3,12 @@
 # DOMAIN-SUFFIX: 118773
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12121
+# IP-CIDR: 12123
 # IP-CIDR6: 4048
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 135472
-# UPDATED: 2026-04-16 11:35:02
+# TOTAL: 135474
+# UPDATED: 2026-04-16 15:58:43
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,tplogin.cn
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
+# Last Updated: 2026-04-16T09:46:43.751Z
 # Size: 222
 # This file contains domains and process that should not be proxied.
 DOMAIN-SUFFIX,orpheus.network
@@ -132,7 +133,7 @@ DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,joyhd.net
-DOMAIN,127.atlas.skk.moe
+DOMAIN,127.skk.moe
 DOMAIN-SUFFIX,m2m
 DOMAIN-SUFFIX,blackwell-synergy.com
 DOMAIN-SUFFIX,springernature.com
@@ -1109,8 +1110,8 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-04-16T06:55:45.715Z
-# Size: 3920
+# Last Updated: 2026-04-16T09:46:44.473Z
+# Size: 3922
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
@@ -1176,9 +1177,11 @@ IP-CIDR,14.104.0.0/13
 IP-CIDR,14.112.0.0/12
 IP-CIDR,14.134.0.0/15
 IP-CIDR,14.144.0.0/12
+IP-CIDR,14.167.176.0/20
 IP-CIDR,14.204.0.0/15
 IP-CIDR,14.208.0.0/12
 IP-CIDR,14.238.34.0/24
+IP-CIDR,14.241.232.0/21
 IP-CIDR,14.255.16.0/24
 IP-CIDR,14.255.238.0/24
 IP-CIDR,14.255.254.0/24
@@ -1519,7 +1522,7 @@ IP-CIDR,45.127.129.0/24
 IP-CIDR,45.127.144.0/21
 IP-CIDR,45.150.236.0/23
 IP-CIDR,45.248.8.0/22
-IP-CIDR,45.248.110.0/23
+IP-CIDR,45.248.108.0/22
 IP-CIDR,45.249.212.0/22
 IP-CIDR,45.250.32.0/21
 IP-CIDR,45.250.40.0/22
