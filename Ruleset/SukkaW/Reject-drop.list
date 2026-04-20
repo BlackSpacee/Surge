@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Anti Bogus Domain
-# Last Updated: 2026-03-31T15:36:17.062Z
-# Size: 761
+# Last Updated: 2026-04-20T15:49:08.148Z
+# Size: 765
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -23,15 +23,15 @@
 #   - https://github.com/curbengh/botnet-filter
 #   - https://github.com/felixonmars/dnsmasq-china-list
 #   - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
-#   - https://ublockorigin.github.io/uAssets/thirdparties/easylist-cookies.txt
-#   - https://ublockorigin.github.io/uAssets/thirdparties/easylist-notifications.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/filters/annoyances.min.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/filters/badware.min.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/filters/filters.min.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/filters/privacy.min.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/filters/unbreak.min.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/thirdparties/easylist-annoyances.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/thirdparties/easylist-newsletters.txt
+#   - https://ublockorigin.pages.dev/filters/annoyances.min.txt
+#   - https://ublockorigin.pages.dev/filters/badware.min.txt
+#   - https://ublockorigin.pages.dev/filters/filters.min.txt
+#   - https://ublockorigin.pages.dev/filters/privacy.min.txt
+#   - https://ublockorigin.pages.dev/filters/unbreak.min.txt
+#   - https://ublockorigin.pages.dev/thirdparties/easylist-annoyances.txt
+#   - https://ublockorigin.pages.dev/thirdparties/easylist-cookies.txt
+#   - https://ublockorigin.pages.dev/thirdparties/easylist-newsletters.txt
+#   - https://ublockorigin.pages.dev/thirdparties/easylist-notifications.txt
 #########################################
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 IP-CIDR,10.72.25.0/24,no-resolve
@@ -188,6 +188,7 @@ IP-CIDR,45.33.23.183/32
 IP-CIDR,45.33.30.197/32
 IP-CIDR,45.56.79.23/32
 IP-CIDR,45.79.19.196/32
+IP-CIDR,45.82.68.79/32
 IP-CIDR,45.90.58.90/32
 IP-CIDR,45.90.109.196/32
 IP-CIDR,45.95.169.115/32
@@ -251,6 +252,8 @@ IP-CIDR,61.139.8.104/32
 IP-CIDR,61.183.1.186/32
 IP-CIDR,61.191.206.4/32
 IP-CIDR,61.213.209.42/32
+IP-CIDR,62.76.25.27/32
+IP-CIDR,62.76.25.28/32
 IP-CIDR,62.122.168.42/32
 IP-CIDR,62.210.6.153/32
 IP-CIDR,62.210.7.209/32
@@ -361,6 +364,7 @@ IP-CIDR,104.239.213.7/32
 IP-CIDR,106.86.172.194/32
 IP-CIDR,106.162.242.73/32
 IP-CIDR,106.162.242.74/32
+IP-CIDR,107.148.45.21/32
 IP-CIDR,107.161.189.164/32
 IP-CIDR,107.173.176.183/32
 IP-CIDR,108.61.99.63/32
