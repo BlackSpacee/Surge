@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 142
-# DOMAIN-SUFFIX: 34381
+# DOMAIN-SUFFIX: 34383
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 34737
-# UPDATED: 2026-04-21 16:04:07
+# TOTAL: 34739
+# UPDATED: 2026-04-21 22:00:58
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -8068,14 +8068,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-04-18 02:20:52
+# UPDATED: 2026-04-22 02:25:00
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33732
+# DOMAIN-SUFFIX: 33735
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34055
+# TOTAL: 34058
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -23710,6 +23710,7 @@ DOMAIN-SUFFIX,minilondon.co
 DOMAIN-SUFFIX,minim.ac.uk
 DOMAIN-SUFFIX,minimarkham.ca
 DOMAIN-SUFFIX,minimarkham.com
+DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,minimoncton.ca
 DOMAIN-SUFFIX,minimoncton.com
 DOMAIN-SUFFIX,minimontrealcentre.ca
@@ -28616,6 +28617,7 @@ DOMAIN-SUFFIX,scop.ac.uk
 DOMAIN-SUFFIX,scope-uk.ac.uk
 DOMAIN-SUFFIX,scopic.ac.uk
 DOMAIN-SUFFIX,score.ac.uk
+DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,scoreclassics.com
 DOMAIN-SUFFIX,scorediscounts.club
 DOMAIN-SUFFIX,scoregroup.com
