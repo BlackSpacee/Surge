@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 142
-# DOMAIN-SUFFIX: 34383
+# DOMAIN-SUFFIX: 34394
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 34739
-# UPDATED: 2026-04-23 16:06:12
+# TOTAL: 34750
+# UPDATED: 2026-04-23 22:02:46
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7653,14 +7653,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-18 02:21:13
+# UPDATED: 2026-04-24 02:26:49
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6598
+# DOMAIN-SUFFIX: 6606
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6738
+# TOTAL: 6746
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7693,11 +7693,13 @@ DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.termius.com
+DOMAIN-SUFFIX,app.element.io
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,arcgis.com
 DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,arweave.org
+DOMAIN-SUFFIX,asiasociety.org
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,assets.nxtrace.org
 DOMAIN-SUFFIX,async.be
@@ -7711,6 +7713,7 @@ DOMAIN-SUFFIX,bandisoft.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
+DOMAIN-SUFFIX,bellingcat.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bintray.com
@@ -7835,6 +7838,7 @@ DOMAIN-SUFFIX,justgetflux.com
 DOMAIN-SUFFIX,kat.cr
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,krypt.com
+DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,leancloud.com
 DOMAIN-SUFFIX,level-plus.net
 DOMAIN-SUFFIX,libsyn.com
@@ -7927,9 +7931,12 @@ DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,radio.co
 DOMAIN-SUFFIX,radiojar.com
+DOMAIN-SUFFIX,rawstory.com
+DOMAIN-SUFFIX,recordedfuture.com
 DOMAIN-SUFFIX,rime.im
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,sbti.unun.dev
 DOMAIN-SUFFIX,scdn.co
@@ -7965,6 +7972,7 @@ DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
+DOMAIN-SUFFIX,thinkchina.sg
 DOMAIN-SUFFIX,timeinc.net
 DOMAIN-SUFFIX,tinder.com
 DOMAIN-SUFFIX,tinypic.com
@@ -8068,14 +8076,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-04-22 02:25:00
+# UPDATED: 2026-04-24 02:26:26
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33735
+# DOMAIN-SUFFIX: 33745
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34058
+# TOTAL: 34068
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -14340,6 +14348,7 @@ DOMAIN-SUFFIX,crescentlearning.ac.uk
 DOMAIN-SUFFIX,crest.ac.uk
 DOMAIN-SUFFIX,crestresearch.ac.uk
 DOMAIN-SUFFIX,crew.ac.uk
+DOMAIN-SUFFIX,crewai.com
 DOMAIN-SUFFIX,crfr.ac.uk
 DOMAIN-SUFFIX,crh.ac.uk
 DOMAIN-SUFFIX,cri.ac.uk
@@ -20411,6 +20420,7 @@ DOMAIN-SUFFIX,imsrbx.xyz
 DOMAIN-SUFFIX,imstagram.com
 DOMAIN-SUFFIX,imt.ac.uk
 DOMAIN-SUFFIX,imtagram.com
+DOMAIN-SUFFIX,imtintl.com
 DOMAIN-SUFFIX,imzog.com
 DOMAIN-SUFFIX,inaporn.com
 DOMAIN-SUFFIX,inasian.club
@@ -21979,6 +21989,7 @@ DOMAIN-SUFFIX,lancsngfl.ac.uk
 DOMAIN-SUFFIX,landmap.ac.uk
 DOMAIN-SUFFIX,landmarks.ac.uk
 DOMAIN-SUFFIX,landscape.ac.uk
+DOMAIN-SUFFIX,langchain.com
 DOMAIN-SUFFIX,langdoncollege.ac.uk
 DOMAIN-SUFFIX,langpol.ac.uk
 DOMAIN-SUFFIX,langside.ac.uk
@@ -21990,7 +22001,6 @@ DOMAIN-SUFFIX,languagessoutheast.ac.uk
 DOMAIN-SUFFIX,lanik.us
 DOMAIN-SUFFIX,lanmdh.net
 DOMAIN-SUFFIX,lanniser-ylo.shop
-DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,lanternal.com
 DOMAIN-SUFFIX,laosijifuli9009.top
 DOMAIN-SUFFIX,laowang.vip
@@ -22394,6 +22404,7 @@ DOMAIN-SUFFIX,lmm167.shop
 DOMAIN-SUFFIX,lmmbtc.com
 DOMAIN-SUFFIX,lms.ac.uk
 DOMAIN-SUFFIX,lms01.com
+DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,lmu.ac.uk
 DOMAIN-SUFFIX,lnat.ac.uk
 DOMAIN-SUFFIX,lncn.org
@@ -25764,6 +25775,7 @@ DOMAIN-SUFFIX,olevodtv.com
 DOMAIN-SUFFIX,olf.ac.uk
 DOMAIN-SUFFIX,oli-school.com
 DOMAIN-SUFFIX,oli.ac.uk
+DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,omafotze.com
 DOMAIN-SUFFIX,omagh.ac.uk
 DOMAIN-SUFFIX,omaghcollege.ac.uk
@@ -28094,7 +28106,6 @@ DOMAIN-SUFFIX,roblox.cc
 DOMAIN-SUFFIX,roblox.cl
 DOMAIN-SUFFIX,roblox.co.jp
 DOMAIN-SUFFIX,roblox.co.uk
-DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,roblox.de
 DOMAIN-SUFFIX,roblox.dk
 DOMAIN-SUFFIX,roblox.eu
