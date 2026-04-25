@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4453
+# DOMAIN-SUFFIX: 4457
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4479
-# UPDATED: 2026-04-25 11:20:16
+# TOTAL: 4483
+# UPDATED: 2026-04-25 15:40:12
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-04-24T03:31:11.843Z
-# Size: 4453
+# Last Updated: 2026-04-25T10:44:04.492Z
+# Size: 4457
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -364,6 +364,9 @@ DOMAIN-SUFFIX,static.spigotmc.org
 DOMAIN-SUFFIX,proxy.spigotmc.org
 DOMAIN-SUFFIX,rollupjs.org
 DOMAIN-SUFFIX,recharts.org
+DOMAIN-SUFFIX,gis.pinkbike.org
+DOMAIN-SUFFIX,ep1.pinkbike.org
+DOMAIN-SUFFIX,es.pinkbike.org
 DOMAIN-SUFFIX,parceljs.org
 DOMAIN-SUFFIX,static.opensuse.org
 DOMAIN-SUFFIX,open-vsx.org
@@ -2918,6 +2921,7 @@ DOMAIN-SUFFIX,img.xbooru.com
 DOMAIN-SUFFIX,website-prod.cache.wpscdn.com
 DOMAIN-SUFFIX,frontend-apps.workos.com
 DOMAIN-SUFFIX,cdn.workos.com
+DOMAIN-SUFFIX,wklcdn.com
 DOMAIN-SUFFIX,embed-cloudfront.wistia.com
 DOMAIN-SUFFIX,embed-ssl.wistia.com
 DOMAIN-SUFFIX,fast.wistia.com
