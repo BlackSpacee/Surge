@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 142
-# DOMAIN-SUFFIX: 34394
+# DOMAIN-SUFFIX: 34398
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 34750
-# UPDATED: 2026-04-25 15:40:12
+# TOTAL: 34754
+# UPDATED: 2026-04-25 21:21:17
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7653,14 +7653,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-24 02:26:49
+# UPDATED: 2026-04-26 02:16:43
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6606
+# DOMAIN-SUFFIX: 6607
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6746
+# TOTAL: 6747
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7969,6 +7969,7 @@ DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
 DOMAIN-SUFFIX,teamviewer.com
+DOMAIN-SUFFIX,techbang.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
@@ -8076,14 +8077,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-04-24 02:26:26
+# UPDATED: 2026-04-26 02:16:20
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33745
+# DOMAIN-SUFFIX: 33749
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34068
+# TOTAL: 34072
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -9199,6 +9200,7 @@ DOMAIN-SUFFIX,agedm.tv
 DOMAIN-SUFFIX,agemys.org
 DOMAIN-SUFFIX,agendaweek.com
 DOMAIN-SUFFIX,agenet.ac.uk
+DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,agocg.ac.uk
 DOMAIN-SUFFIX,agrd.eu
@@ -26696,6 +26698,7 @@ DOMAIN-SUFFIX,placemyad.com.au
 DOMAIN-SUFFIX,placesdocs.com
 DOMAIN-SUFFIX,planetminecraft.com
 DOMAIN-SUFFIX,planetsuzy.org
+DOMAIN-SUFFIX,plannotator.ai
 DOMAIN-SUFFIX,plansondemand.com
 DOMAIN-SUFFIX,plant-phenomics.ac.uk
 DOMAIN-SUFFIX,plantsvszombies2.com
@@ -31475,6 +31478,7 @@ DOMAIN-SUFFIX,twinsuk.ac.uk
 DOMAIN-SUFFIX,twirl.ac.uk
 DOMAIN-SUFFIX,twistedlinks.net
 DOMAIN-SUFFIX,twistys.com
+DOMAIN-SUFFIX,twitchcon.com
 DOMAIN-SUFFIX,twitchsvc.net
 DOMAIN-SUFFIX,twitcomike.jp
 DOMAIN-SUFFIX,twitter.biz
