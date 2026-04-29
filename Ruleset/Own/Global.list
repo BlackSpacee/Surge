@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 142
-# DOMAIN-SUFFIX: 34400
+# DOMAIN-SUFFIX: 34406
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 34756
-# UPDATED: 2026-04-29 16:28:38
+# TOTAL: 34762
+# UPDATED: 2026-04-29 22:21:17
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7653,14 +7653,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-26 02:16:43
+# UPDATED: 2026-04-30 02:32:53
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6607
+# DOMAIN-SUFFIX: 6608
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6747
+# TOTAL: 6748
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -8003,6 +8003,7 @@ DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,up.audio
 DOMAIN-SUFFIX,uploader.jp
+DOMAIN-SUFFIX,upsangel.com
 DOMAIN-SUFFIX,upwork.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,usgs.gov
@@ -8077,14 +8078,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-04-28 02:28:40
+# UPDATED: 2026-04-30 02:32:30
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33751
+# DOMAIN-SUFFIX: 33757
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34074
+# TOTAL: 34080
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -10342,6 +10343,7 @@ DOMAIN-SUFFIX,apture.com
 DOMAIN-SUFFIX,apu.ac.uk
 DOMAIN-SUFFIX,apuc-scot.ac.uk
 DOMAIN-SUFFIX,apyle.com
+DOMAIN-SUFFIX,aqdlt.net
 DOMAIN-SUFFIX,aqmen.ac.uk
 DOMAIN-SUFFIX,aquinas.ac.uk
 DOMAIN-SUFFIX,ar.hao123.com
@@ -12845,6 +12847,7 @@ DOMAIN-SUFFIX,builtenvsigns.ac.uk
 DOMAIN-SUFFIX,builtfromebay.com
 DOMAIN-SUFFIX,bukkake-jav.com
 DOMAIN-SUFFIX,bukkake.link
+DOMAIN-SUFFIX,bululusexdoll.com
 DOMAIN-SUFFIX,bumpshare.com
 DOMAIN-SUFFIX,bumptop.ca
 DOMAIN-SUFFIX,bumptop.com
@@ -27398,6 +27401,7 @@ DOMAIN-SUFFIX,ptt.sex
 DOMAIN-SUFFIX,ptt2.cc
 DOMAIN-SUFFIX,ptt3.cc
 DOMAIN-SUFFIX,ptzwx.com
+DOMAIN-SUFFIX,pu82.vip
 DOMAIN-SUFFIX,pub.dev
 DOMAIN-SUFFIX,pubg.com
 DOMAIN-SUFFIX,public-sex-porn.com
@@ -32904,6 +32908,7 @@ DOMAIN-SUFFIX,warwick.ac.uk
 DOMAIN-SUFFIX,warwickequine.ac.uk
 DOMAIN-SUFFIX,warwickhri.ac.uk
 DOMAIN-SUFFIX,warwickshire.ac.uk
+DOMAIN-SUFFIX,wasdj.com
 DOMAIN-SUFFIX,washa.tv
 DOMAIN-SUFFIX,washingtondcbmw.com
 DOMAIN-SUFFIX,waskucity.com
@@ -34569,6 +34574,7 @@ DOMAIN-SUFFIX,ysmany.com
 DOMAIN-SUFFIX,ysmass.com
 DOMAIN-SUFFIX,ysmeal.com
 DOMAIN-SUFFIX,ysmeat.com
+DOMAIN-SUFFIX,ysmeet.com
 DOMAIN-SUFFIX,ysmelf.com
 DOMAIN-SUFFIX,ysmere.com
 DOMAIN-SUFFIX,ysmuch.com
