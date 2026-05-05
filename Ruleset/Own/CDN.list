@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4459
+# DOMAIN-SUFFIX: 4462
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4485
-# UPDATED: 2026-05-05 16:21:17
+# TOTAL: 4488
+# UPDATED: 2026-05-05 22:14:27
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-04-30T02:40:41.361Z
-# Size: 4459
+# Last Updated: 2026-05-05T16:21:47.782Z
+# Size: 4462
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -380,6 +380,7 @@ DOMAIN-SUFFIX,modules.kernelsu.org
 DOMAIN-SUFFIX,api.indexnow.org
 DOMAIN-SUFFIX,assets.exercism.org
 DOMAIN-SUFFIX,david-dm.org
+DOMAIN-SUFFIX,get-it-on.codeberg.org
 DOMAIN-SUFFIX,design.codeberg.org
 DOMAIN-SUFFIX,fonts.codeberg.org
 DOMAIN-SUFFIX,static.aizanmei.org
@@ -920,6 +921,7 @@ DOMAIN-SUFFIX,eu.orbitor.dev
 DOMAIN-SUFFIX,biomejs.dev
 DOMAIN-SUFFIX,angular.dev
 DOMAIN-SUFFIX,vercel.dev
+DOMAIN-SUFFIX,shields.rbtlog.dev
 DOMAIN-SUFFIX,stats.setapp.macpaw.dev
 DOMAIN-SUFFIX,lucide.dev
 DOMAIN-SUFFIX,assets.github.dev
@@ -4439,6 +4441,7 @@ DOMAIN-SUFFIX,i.snap.as
 DOMAIN-SUFFIX,solve-widget.forethought.ai
 DOMAIN-SUFFIX,shortpixel.ai
 DOMAIN-SUFFIX,pplx-next-static-public.perplexity.ai
+DOMAIN-SUFFIX,frontend-cdn.perplexity.ai
 DOMAIN-SUFFIX,r2cdn.perplexity.ai
 DOMAIN-SUFFIX,cdn.engagement.ai
 DOMAIN-SUFFIX,assets.cloudpilot.ai
