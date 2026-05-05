@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 132307
-# UPDATED: 2026-05-05 03:49:42
+# UPDATED: 2026-05-05 11:36:03
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -1110,7 +1110,7 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-05-05T03:01:32.109Z
+# Last Updated: 2026-05-05T07:14:12.525Z
 # Size: 3917
 # License: CC BY-SA 2.0
 # This file contains data from:
@@ -3808,7 +3808,7 @@ IP-CIDR,163.177.0.0/16
 IP-CIDR,163.179.0.0/16
 IP-CIDR,163.204.0.0/16
 IP-CIDR,163.223.72.0/23
-IP-CIDR,163.227.40.0/23
+IP-CIDR,163.227.40.0/24
 IP-CIDR,163.228.0.0/16
 IP-CIDR,163.244.246.0/24
 IP-CIDR,165.101.70.0/24
