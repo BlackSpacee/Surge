@@ -1,9 +1,9 @@
 # NAME: Apple_MicroSoft_CDN
 # DOMAIN: 7
-# DOMAIN-SUFFIX: 225
+# DOMAIN-SUFFIX: 223
 # URL-REGEX: 2
-# TOTAL: 234
-# UPDATED: 2026-05-10 03:14:07
+# TOTAL: 232
+# UPDATED: 2026-05-10 11:59:30
 
 #########################################
 # Sukka's Ruleset - Apple CDN
@@ -192,8 +192,8 @@ DOMAIN-SUFFIX,xp.apple.com
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Microsoft CDN
-# Last Updated: 2026-03-10T05:42:44.400Z
-# Size: 61
+# Last Updated: 2026-05-10T06:25:19.377Z
+# Size: 59
 # This file contains Microsoft's domains using their China mainland CDN servers.
 # This file contains data from:
 #   - https://github.com/felixonmars/dnsmasq-china-list
@@ -237,11 +237,9 @@ DOMAIN-SUFFIX,vlportal.download.prss.microsoft.com
 DOMAIN-SUFFIX,software.download.prss.microsoft.com
 DOMAIN-SUFFIX,cbdstest.download.prss.microsoft.com
 DOMAIN-SUFFIX,surface.download.prss.microsoft.com
-DOMAIN-SUFFIX,myvsuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,windbg.download.prss.microsoft.com
 DOMAIN-SUFFIX,vscode.download.prss.microsoft.com
 DOMAIN-SUFFIX,oemsoc.download.prss.microsoft.com
-DOMAIN-SUFFIX,mbsuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,lexuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,volic.download.prss.microsoft.com
 DOMAIN-SUFFIX,myvs.download.prss.microsoft.com
