@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-05-05T16:21:47.782Z
-# Size: 4462
+# Last Updated: 2026-05-12T15:43:33.564Z
+# Size: 4466
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2983,6 +2983,7 @@ DOMAIN-SUFFIX,heatmap-external-a.strava.com
 DOMAIN-SUFFIX,web-assets.strava.com
 DOMAIN-SUFFIX,content-a.strava.com
 DOMAIN-SUFFIX,wre-assets.prod.mapping.strava.com
+DOMAIN-SUFFIX,tiles.strava.com
 DOMAIN-SUFFIX,cdn-1.strava.com
 DOMAIN-SUFFIX,cdn.stonly.com
 DOMAIN-SUFFIX,tile.stamen.com
@@ -3833,6 +3834,7 @@ DOMAIN-SUFFIX,assets.cello.so
 DOMAIN-SUFFIX,cdn.mida.so
 DOMAIN-SUFFIX,images.spr.so
 DOMAIN-SUFFIX,cdn-zlib.sk
+DOMAIN-SUFFIX,tiles.freemap.sk
 DOMAIN-SUFFIX,registry.gitplac.si
 DOMAIN-SUFFIX,gitpage.si
 DOMAIN-SUFFIX,gitapp.si
@@ -4313,6 +4315,7 @@ DOMAIN-SUFFIX,cdn.prod.www.spiegel.de
 DOMAIN-SUFFIX,www.acgpix.de
 DOMAIN-SUFFIX,cdn.ionos.de
 DOMAIN-SUFFIX,tile.mtbmap.cz
+DOMAIN-SUFFIX,mapserver.mapy.cz
 DOMAIN-SUFFIX,ipfs.slang.cx
 DOMAIN-SUFFIX,zpi.cx
 DOMAIN-SUFFIX,assets.openalternative.co
@@ -4353,6 +4356,7 @@ DOMAIN-SUFFIX,img.ifunny.co
 DOMAIN-SUFFIX,erocdn.co
 DOMAIN-SUFFIX,widget.clutch.co
 DOMAIN-SUFFIX,us-js.zonka.co
+DOMAIN-SUFFIX,cdn.videy.co
 DOMAIN-SUFFIX,unpkg.co
 DOMAIN-SUFFIX,app-static.turtl.co
 DOMAIN-SUFFIX,prcdn.co
