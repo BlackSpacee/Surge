@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4466
+# DOMAIN-SUFFIX: 4470
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4492
-# UPDATED: 2026-05-13 12:02:34
+# TOTAL: 4496
+# UPDATED: 2026-05-13 16:53:13
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-05-12T15:43:33.564Z
-# Size: 4466
+# Last Updated: 2026-05-13T12:52:48.501Z
+# Size: 4470
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -356,6 +356,7 @@ DOMAIN-SUFFIX,cdn.fosstodon.org
 DOMAIN-SUFFIX,doppiocdn.org
 DOMAIN-SUFFIX,cdn.cookielaw.org
 DOMAIN-SUFFIX,moderate.cleantalk.org
+DOMAIN-SUFFIX,uploads.bikeindex.org
 DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,images.videolan.org
 DOMAIN-SUFFIX,static.tvtropes.org
@@ -2696,6 +2697,7 @@ DOMAIN-SUFFIX,mintcdn.com
 DOMAIN-SUFFIX,video3.mingpao.com
 DOMAIN-SUFFIX,fs.mingpao.com
 DOMAIN-SUFFIX,image.mgstage.com
+DOMAIN-SUFFIX,cdn.app.metorik.com
 DOMAIN-SUFFIX,acdn.mercury.com
 DOMAIN-SUFFIX,cdn.mercury.com
 DOMAIN-SUFFIX,static.maxmind.com
@@ -4174,6 +4176,7 @@ DOMAIN-SUFFIX,cdn.readme.io
 DOMAIN-SUFFIX,raygun.io
 DOMAIN-SUFFIX,ipfs1.pixura.io
 DOMAIN-SUFFIX,favicon.pirsch.io
+DOMAIN-SUFFIX,cdn-static.okendo.io
 DOMAIN-SUFFIX,nxedge.io
 DOMAIN-SUFFIX,edge.marker.io
 DOMAIN-SUFFIX,jbkcdn.io
@@ -4442,6 +4445,7 @@ DOMAIN-SUFFIX,tags.news.com.au
 DOMAIN-SUFFIX,ipfs.greyh.at
 DOMAIN-SUFFIX,tiles.maps.eox.at
 DOMAIN-SUFFIX,i.snap.as
+DOMAIN-SUFFIX,cdn.tabarn.ap
 DOMAIN-SUFFIX,solve-widget.forethought.ai
 DOMAIN-SUFFIX,shortpixel.ai
 DOMAIN-SUFFIX,pplx-next-static-public.perplexity.ai
