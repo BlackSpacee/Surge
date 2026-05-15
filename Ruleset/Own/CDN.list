@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4471
+# DOMAIN-SUFFIX: 4476
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4497
-# UPDATED: 2026-05-15 12:06:36
+# TOTAL: 4502
+# UPDATED: 2026-05-15 17:18:57
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-05-14T09:28:31.353Z
-# Size: 4471
+# Last Updated: 2026-05-15T09:25:15.774Z
+# Size: 4476
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1659,6 +1659,7 @@ DOMAIN-SUFFIX,pics.serviporno.com
 DOMAIN-SUFFIX,cdn.serverable.com
 DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,static-www.sendsafely.com
+DOMAIN-SUFFIX,app-static.sendsafely.com
 DOMAIN-SUFFIX,assets.sendinblue.com
 DOMAIN-SUFFIX,sbcdnvideo.com
 DOMAIN-SUFFIX,resources.help.salesforce.com
@@ -2422,6 +2423,7 @@ DOMAIN-SUFFIX,cdn3.edgedatg.com
 DOMAIN-SUFFIX,cdn2.edgedatg.com
 DOMAIN-SUFFIX,cdn1.edgedatg.com
 DOMAIN-SUFFIX,ipfs.ecolatam.com
+DOMAIN-SUFFIX,cdn.easyling.com
 DOMAIN-SUFFIX,vip.dytt-img.com
 DOMAIN-SUFFIX,drivecdn.com
 DOMAIN-SUFFIX,cdn.dribbble.com
@@ -3651,6 +3653,9 @@ DOMAIN-SUFFIX,resource.fs.com
 DOMAIN-SUFFIX,img-en.fs.com
 DOMAIN-SUFFIX,media.fs.com
 DOMAIN-SUFFIX,genesis-cdn.ff.com
+DOMAIN-SUFFIX,cdn.studio.f5.com
+DOMAIN-SUFFIX,tags.f5.com
+DOMAIN-SUFFIX,cdn.f5.com
 DOMAIN-SUFFIX,media.contentapi.ea.com
 DOMAIN-SUFFIX,cdn.mcr.ea.com
 DOMAIN-SUFFIX,pl.ea.com
