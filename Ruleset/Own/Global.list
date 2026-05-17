@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 142
-# DOMAIN-SUFFIX: 34638
+# DOMAIN-SUFFIX: 34642
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 34994
-# UPDATED: 2026-05-17 16:29:34
+# TOTAL: 34998
+# UPDATED: 2026-05-17 21:48:13
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -8103,14 +8103,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-05-16 02:34:50
+# UPDATED: 2026-05-18 02:24:03
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33992
+# DOMAIN-SUFFIX: 33996
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34315
+# TOTAL: 34319
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -10402,6 +10402,7 @@ DOMAIN-SUFFIX,archiveshub.ac.uk
 DOMAIN-SUFFIX,archivx.to
 DOMAIN-SUFFIX,archlinux.de
 DOMAIN-SUFFIX,archlinux.org
+DOMAIN-SUFFIX,archlinux.page
 DOMAIN-SUFFIX,archlinuxarm.org
 DOMAIN-SUFFIX,archlinuxcn.org
 DOMAIN-SUFFIX,archway.ac.uk
@@ -28231,6 +28232,7 @@ DOMAIN-SUFFIX,ridepenguin.com
 DOMAIN-SUFFIX,riding.ac.uk
 DOMAIN-SUFFIX,right-2.ac.uk
 DOMAIN-SUFFIX,rightster.com
+DOMAIN-SUFFIX,rigums.xyz
 DOMAIN-SUFFIX,rimg.com.tw
 DOMAIN-SUFFIX,rin.ac.uk
 DOMAIN-SUFFIX,rinvdh7.xyz
@@ -29243,6 +29245,7 @@ DOMAIN-SUFFIX,sgspt.buzz
 DOMAIN-SUFFIX,sgsss.ac.uk
 DOMAIN-SUFFIX,sgul.ac.uk
 DOMAIN-SUFFIX,sh-xuxingda.com
+DOMAIN-SUFFIX,sh83.xyz
 DOMAIN-SUFFIX,shadbase.com
 DOMAIN-SUFFIX,shadowcomplex.com
 DOMAIN-SUFFIX,shadowslaves.com
@@ -33049,6 +33052,7 @@ DOMAIN-SUFFIX,vtvan.com
 DOMAIN-SUFFIX,vuasanhrong.com
 DOMAIN-SUFFIX,vulgarx.com
 DOMAIN-SUFFIX,vuvuzela.io
+DOMAIN-SUFFIX,vv1865.com
 DOMAIN-SUFFIX,vxnbbrs.xyz
 DOMAIN-SUFFIX,vxxsred.xyz
 DOMAIN-SUFFIX,w-mt.co
