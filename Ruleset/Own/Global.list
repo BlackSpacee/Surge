@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 142
-# DOMAIN-SUFFIX: 34642
+# DOMAIN-SUFFIX: 34663
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 34998
-# UPDATED: 2026-05-19 17:59:02
+# TOTAL: 35019
+# UPDATED: 2026-05-19 23:40:29
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7654,14 +7654,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-16 02:35:13
+# UPDATED: 2026-05-20 02:39:23
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6635
+# DOMAIN-SUFFIX: 6637
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6775
+# TOTAL: 6777
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7965,6 +7965,7 @@ DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,shadowverse.jp
 DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,shitjournal.org
+DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,simianx.ai
 DOMAIN-SUFFIX,simp.ly
 DOMAIN-SUFFIX,simplecd.me
@@ -8065,6 +8066,7 @@ DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,yoyo.org
+DOMAIN-SUFFIX,zhangzhehan.net
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoomgov.com
 DOMAIN-KEYWORD,dlercloud
@@ -8103,14 +8105,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-05-18 02:24:03
+# UPDATED: 2026-05-20 02:39:01
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33996
+# DOMAIN-SUFFIX: 34017
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34319
+# TOTAL: 34340
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -8592,6 +8594,7 @@ DOMAIN-SUFFIX,54647.org
 DOMAIN-SUFFIX,55dndn.com
 DOMAIN-SUFFIX,567321.online
 DOMAIN-SUFFIX,568xe.com
+DOMAIN-SUFFIX,573.jp
 DOMAIN-SUFFIX,58avgo.com
 DOMAIN-SUFFIX,592r.com
 DOMAIN-SUFFIX,59mvmv.com
@@ -21876,6 +21879,7 @@ DOMAIN-SUFFIX,keytransparency.com
 DOMAIN-SUFFIX,keytransparency.foo
 DOMAIN-SUFFIX,keytransparency.org
 DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,kgslb.com
 DOMAIN-SUFFIX,kgv.ac.uk
 DOMAIN-SUFFIX,khanacademy.org
@@ -21978,6 +21982,7 @@ DOMAIN-SUFFIX,kismia.com
 DOMAIN-SUFFIX,kissjav.li
 DOMAIN-SUFFIX,kitakyushubank.co.jp
 DOMAIN-SUFFIX,kitts.ac.uk
+DOMAIN-SUFFIX,kiwi.jp
 DOMAIN-SUFFIX,kiwibrowser.com
 DOMAIN-SUFFIX,kiyobank.co.jp
 DOMAIN-SUFFIX,kk.stream
@@ -22017,6 +22022,19 @@ DOMAIN-SUFFIX,kompoz.com
 DOMAIN-SUFFIX,kompoz2.com
 DOMAIN-SUFFIX,konachan.net
 DOMAIN-SUFFIX,konachan.wjcodes.com
+DOMAIN-SUFFIX,konami-igaming.online
+DOMAIN-SUFFIX,konami.co.jp
+DOMAIN-SUFFIX,konami.com
+DOMAIN-SUFFIX,konami.net
+DOMAIN-SUFFIX,konami.org
+DOMAIN-SUFFIX,konamicrossmedia.com
+DOMAIN-SUFFIX,konamigaming.com
+DOMAIN-SUFFIX,konamigaming.net
+DOMAIN-SUFFIX,konamigaming.online
+DOMAIN-SUFFIX,konamionline.com
+DOMAIN-SUFFIX,konamiopen.jp
+DOMAIN-SUFFIX,konamisportsclub.jp
+DOMAIN-SUFFIX,konamistyle.jp
 DOMAIN-SUFFIX,kopfhorergunstigshop.com
 DOMAIN-SUFFIX,korbit.co.kr
 DOMAIN-SUFFIX,koreanpornmovie.com
@@ -28161,6 +28179,8 @@ DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,researchkit.tv
 DOMAIN-SUFFIX,researchscotland.ac.uk
 DOMAIN-SUFFIX,researchwales.ac.uk
+DOMAIN-SUFFIX,resella.jp
+DOMAIN-SUFFIX,resellablue.com
 DOMAIN-SUFFIX,resilient-decarbonised-energy-cdt.ac.uk
 DOMAIN-SUFFIX,resilient-decarbonised-energy-dtc.ac.uk
 DOMAIN-SUFFIX,resl.ac.uk
@@ -34827,6 +34847,7 @@ DOMAIN-SUFFIX,yswet.com
 DOMAIN-SUFFIX,ysx-mm.com
 DOMAIN-SUFFIX,yuenuge113.xyz
 DOMAIN-SUFFIX,yuenuge18.cc
+DOMAIN-SUFFIX,yugioh-card.com
 DOMAIN-SUFFIX,yunlaopo.cc
 DOMAIN-SUFFIX,yunlaopo.com
 DOMAIN-SUFFIX,yunlaopo.net
