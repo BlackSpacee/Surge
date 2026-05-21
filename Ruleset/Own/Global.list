@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 142
-# DOMAIN-SUFFIX: 34663
+# DOMAIN-SUFFIX: 34674
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35019
-# UPDATED: 2026-05-21 17:56:31
+# TOTAL: 35030
+# UPDATED: 2026-05-21 23:43:58
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7654,14 +7654,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-20 02:39:23
+# UPDATED: 2026-05-22 02:40:21
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6637
+# DOMAIN-SUFFIX: 6643
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6777
+# TOTAL: 6783
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7781,6 +7781,7 @@ DOMAIN-SUFFIX,edigest.hk
 DOMAIN-SUFFIX,entrust.net
 DOMAIN-SUFFIX,even.stream
 DOMAIN-SUFFIX,evernote.com
+DOMAIN-SUFFIX,f95zone.to
 DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,feedsportal.com
@@ -7792,6 +7793,7 @@ DOMAIN-SUFFIX,freeopenproxy.com
 DOMAIN-SUFFIX,freeterabox.com
 DOMAIN-SUFFIX,fubo.tv
 DOMAIN-SUFFIX,fzlm.net
+DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,gabia.net
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,getcloudapp.com
@@ -7851,6 +7853,7 @@ DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,krypt.com
 DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,leancloud.com
+DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,level-plus.net
 DOMAIN-SUFFIX,libgen.is
 DOMAIN-SUFFIX,libsyn.com
@@ -7950,6 +7953,7 @@ DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,radio.co
 DOMAIN-SUFFIX,radiojar.com
+DOMAIN-SUFFIX,raphael.app
 DOMAIN-SUFFIX,rawstory.com
 DOMAIN-SUFFIX,recordedfuture.com
 DOMAIN-SUFFIX,rime.im
@@ -7957,6 +7961,7 @@ DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
 DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,rts.ch
+DOMAIN-SUFFIX,rule34.us
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,sbti.unun.dev
 DOMAIN-SUFFIX,scdn.co
@@ -7972,6 +7977,7 @@ DOMAIN-SUFFIX,simplecd.me
 DOMAIN-SUFFIX,simplenote.com
 DOMAIN-SUFFIX,slack-edge.com
 DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-SUFFIX,sotwe.com
 DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,speedsmart.net
 DOMAIN-SUFFIX,spring-plus.net
@@ -8105,14 +8111,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-05-20 02:39:01
+# UPDATED: 2026-05-22 02:40:00
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34017
+# DOMAIN-SUFFIX: 34028
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34340
+# TOTAL: 34351
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -9512,6 +9518,7 @@ DOMAIN-SUFFIX,alefbank.com
 DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alexanderlondoncollege.ac.uk
 DOMAIN-SUFFIX,alexanderstreet.com
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
@@ -16827,7 +16834,6 @@ DOMAIN-SUFFIX,f6.dev
 DOMAIN-SUFFIX,f6.ru
 DOMAIN-SUFFIX,f6.security
 DOMAIN-SUFFIX,f6988.com
-DOMAIN-SUFFIX,f95zone.to
 DOMAIN-SUFFIX,fa.gov.tw
 DOMAIN-SUFFIX,faacebok.com
 DOMAIN-SUFFIX,faacebook.com
@@ -19750,7 +19756,6 @@ DOMAIN-SUFFIX,hpcmw.net
 DOMAIN-SUFFIX,hpcodewarsbcn.com
 DOMAIN-SUFFIX,hpcomputers.com
 DOMAIN-SUFFIX,hpcomputerservices.com
-DOMAIN-SUFFIX,hpconnected.com
 DOMAIN-SUFFIX,hpconnected.net
 DOMAIN-SUFFIX,hpconnected.org
 DOMAIN-SUFFIX,hpconnected.us
@@ -24279,8 +24284,10 @@ DOMAIN-SUFFIX,moxing.mobi
 DOMAIN-SUFFIX,moxing.news
 DOMAIN-SUFFIX,moystoys.com
 DOMAIN-SUFFIX,mozgcp.net
+DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozillafoundation.org
 DOMAIN-SUFFIX,mp.world
 DOMAIN-SUFFIX,mpa-mpp.ac.uk
 DOMAIN-SUFFIX,mpa-uk.ac.uk
@@ -24637,6 +24644,7 @@ DOMAIN-SUFFIX,myxxgirl.com
 DOMAIN-SUFFIX,myyoungmomisnude.com
 DOMAIN-SUFFIX,myyoungwifeisnude.com
 DOMAIN-SUFFIX,mzed.com
+DOMAIN-SUFFIX,mzl.la
 DOMAIN-SUFFIX,n15zev3w.shop
 DOMAIN-SUFFIX,n26.com
 DOMAIN-SUFFIX,n3ro.lol
@@ -30770,6 +30778,7 @@ DOMAIN-SUFFIX,taoil-cn.sbs
 DOMAIN-SUFFIX,taose.in
 DOMAIN-SUFFIX,tapb.ac.uk
 DOMAIN-SUFFIX,tapestry.ac.uk
+DOMAIN-SUFFIX,tapnow.ai
 DOMAIN-SUFFIX,taptotokyo.com
 DOMAIN-SUFFIX,taqunuhai.vip
 DOMAIN-SUFFIX,taradinhos.com
@@ -30830,6 +30839,8 @@ DOMAIN-SUFFIX,teachingshakespeare.ac.uk
 DOMAIN-SUFFIX,teachmyass.com
 DOMAIN-SUFFIX,teamneedforspeed.com
 DOMAIN-SUFFIX,teamskeet.com
+DOMAIN-SUFFIX,teamspeak-services.com
+DOMAIN-SUFFIX,teamspeak.com
 DOMAIN-SUFFIX,teamviewer.us
 DOMAIN-SUFFIX,teamwork.ac.uk
 DOMAIN-SUFFIX,tean.ac.uk
