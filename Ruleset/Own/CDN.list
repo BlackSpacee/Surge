@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4477
+# DOMAIN-SUFFIX: 4480
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4503
-# UPDATED: 2026-05-25 12:39:48
+# TOTAL: 4506
+# UPDATED: 2026-05-25 18:23:48
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-05-16T15:21:58.325Z
-# Size: 4477
+# Last Updated: 2026-05-25T11:17:53.471Z
+# Size: 4480
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3414,6 +3414,7 @@ DOMAIN-SUFFIX,static.fc2cn.com
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,cdn.faire.com
+DOMAIN-SUFFIX,f-cdn.com
 DOMAIN-SUFFIX,img.etimg.com
 DOMAIN-SUFFIX,dz2cdn1.dzone.com
 DOMAIN-SUFFIX,drtst.com
@@ -4465,6 +4466,7 @@ DOMAIN-SUFFIX,sdk.customfit.ai
 DOMAIN-SUFFIX,static.returngo.ai
 DOMAIN-SUFFIX,prod-cdn.webtune.ai
 DOMAIN-SUFFIX,cms.mistral.ai
+DOMAIN-SUFFIX,widget.prod.equally.ai
 DOMAIN-SUFFIX,widget.docsbot.ai
 DOMAIN-SUFFIX,cdn.aimerce.ai
 DOMAIN-SUFFIX,static.zanmei.ai
@@ -4484,6 +4486,7 @@ DOMAIN-SUFFIX,cdn1.suno.ai
 DOMAIN-SUFFIX,cdn.roof.ai
 DOMAIN-SUFFIX,metrics.kapa.ai
 DOMAIN-SUFFIX,widget.kapa.ai
+DOMAIN-SUFFIX,cdn.gist.ai
 DOMAIN-SUFFIX,cdn.fera.ai
 DOMAIN-SUFFIX,assets-docs.dify.ai
 DOMAIN-SUFFIX,assets.dify.ai
