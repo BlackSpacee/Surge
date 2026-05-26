@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-05-25T11:17:53.471Z
-# Size: 4480
+# Last Updated: 2026-05-26T15:09:49.330Z
+# Size: 4482
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -426,6 +426,7 @@ DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,tileserver.gnome.org
 DOMAIN-SUFFIX,static.gnome.org
 DOMAIN-SUFFIX,eggjs.org
+DOMAIN-SUFFIX,error.c.cdn77.org
 DOMAIN-SUFFIX,hits.b3log.org
 DOMAIN-SUFFIX,static.arxiv.org
 DOMAIN-SUFFIX,91pic.org
@@ -4119,6 +4120,7 @@ DOMAIN-SUFFIX,ipfs.filebase.io
 DOMAIN-SUFFIX,ipfs.denarius.io
 DOMAIN-SUFFIX,assets.customer.io
 DOMAIN-SUFFIX,rum.cronitor.io
+DOMAIN-SUFFIX,fonts.coollabs.io
 DOMAIN-SUFFIX,cloudimg.io
 DOMAIN-SUFFIX,static.assetlab.io
 DOMAIN-SUFFIX,code.upscope.io
