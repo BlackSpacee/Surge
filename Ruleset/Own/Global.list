@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 142
-# DOMAIN-SUFFIX: 34679
+# DOMAIN-SUFFIX: 34680
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35035
-# UPDATED: 2026-05-27 18:09:09
+# TOTAL: 35036
+# UPDATED: 2026-05-28 00:02:08
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7654,14 +7654,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-24 02:23:41
+# UPDATED: 2026-05-28 02:48:36
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6646
+# DOMAIN-SUFFIX: 6647
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6786
+# TOTAL: 6787
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7892,6 +7892,7 @@ DOMAIN-SUFFIX,mlssoccer.com
 DOMAIN-SUFFIX,modmyi.com
 DOMAIN-SUFFIX,mosavi.io
 DOMAIN-SUFFIX,moves-export.com
+DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,myfontastic.com
 DOMAIN-SUFFIX,mytvsuper.com
@@ -8114,14 +8115,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-05-26 02:35:14
+# UPDATED: 2026-05-28 02:48:13
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34033
+# DOMAIN-SUFFIX: 34034
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34356
+# TOTAL: 34357
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -23654,6 +23655,7 @@ DOMAIN-SUFFIX,middlesex.ac.uk
 DOMAIN-SUFFIX,midentsolutions.com
 DOMAIN-SUFFIX,midfife.ac.uk
 DOMAIN-SUFFIX,midhurst.ac.uk
+DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,midkent.ac.uk
 DOMAIN-SUFFIX,midlands3cities.ac.uk
 DOMAIN-SUFFIX,midlands4cities.ac.uk
@@ -24288,7 +24290,6 @@ DOMAIN-SUFFIX,moxing.mobi
 DOMAIN-SUFFIX,moxing.news
 DOMAIN-SUFFIX,moystoys.com
 DOMAIN-SUFFIX,mozgcp.net
-DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozillafoundation.org
