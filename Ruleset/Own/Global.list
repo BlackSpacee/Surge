@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 142
-# DOMAIN-SUFFIX: 34680
+# DOMAIN-SUFFIX: 34713
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35036
-# UPDATED: 2026-05-29 18:07:41
+# TOTAL: 35069
+# UPDATED: 2026-05-29 23:59:57
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7654,14 +7654,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-28 02:48:36
+# UPDATED: 2026-05-30 02:54:37
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6647
+# DOMAIN-SUFFIX: 6648
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6787
+# TOTAL: 6788
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7771,6 +7771,7 @@ DOMAIN-SUFFIX,dnsimple.com
 DOMAIN-SUFFIX,dockerhub.com
 DOMAIN-SUFFIX,doh.sb
 DOMAIN-SUFFIX,dot.sb
+DOMAIN-SUFFIX,dowjones.io
 DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,droplr.com
 DOMAIN-SUFFIX,dt18.com
@@ -8115,14 +8116,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-05-28 02:48:13
+# UPDATED: 2026-05-30 02:54:15
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34034
+# DOMAIN-SUFFIX: 34068
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34357
+# TOTAL: 34391
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -15571,7 +15572,6 @@ DOMAIN-SUFFIX,douyintt10.me
 DOMAIN-SUFFIX,douzinnsi-eromannga.com
 DOMAIN-SUFFIX,dovercollege.ac.uk
 DOMAIN-SUFFIX,dovertechnicalcollege.ac.uk
-DOMAIN-SUFFIX,dowjones.io
 DOMAIN-SUFFIX,dowjoneson.com
 DOMAIN-SUFFIX,download.com
 DOMAIN-SUFFIX,download.qatp1.net
@@ -16296,6 +16296,7 @@ DOMAIN-SUFFIX,electronicarts.fr
 DOMAIN-SUFFIX,electronicsignature.ru
 DOMAIN-SUFFIX,electronjs.org
 DOMAIN-SUFFIX,element.io
+DOMAIN-SUFFIX,elementary.io
 DOMAIN-SUFFIX,elephantlist.com
 DOMAIN-SUFFIX,elephantsdream.org
 DOMAIN-SUFFIX,elephanttube.com
@@ -18570,6 +18571,7 @@ DOMAIN-SUFFIX,gnai-dh.sbs
 DOMAIN-SUFFIX,gnailapp.sbs
 DOMAIN-SUFFIX,gnatwork.ac.uk
 DOMAIN-SUFFIX,gnom-cham.com
+DOMAIN-SUFFIX,gnome.org
 DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,gnzi.xyz
 DOMAIN-SUFFIX,gnzi1.top
@@ -19218,6 +19220,7 @@ DOMAIN-SUFFIX,heise360182.buzz
 DOMAIN-SUFFIX,helf.ac.uk
 DOMAIN-SUFFIX,hellofuture.ac.uk
 DOMAIN-SUFFIX,hellokittybeats.com
+DOMAIN-SUFFIX,hellomoto.com
 DOMAIN-SUFFIX,hellosmartbook.com
 DOMAIN-SUFFIX,hellporno.com
 DOMAIN-SUFFIX,hellven.net
@@ -22826,6 +22829,7 @@ DOMAIN-SUFFIX,lwms.ac.uk
 DOMAIN-SUFFIX,lww-cetl.ac.uk
 DOMAIN-SUFFIX,lwwcn.buzz
 DOMAIN-SUFFIX,lwwcn.xyz
+DOMAIN-SUFFIX,lxqt-project.org
 DOMAIN-SUFFIX,lxxlxx.com
 DOMAIN-SUFFIX,ly.gov.tw
 DOMAIN-SUFFIX,lyellcentre.ac.uk
@@ -23232,6 +23236,7 @@ DOMAIN-SUFFIX,masturbate2gether.com
 DOMAIN-SUFFIX,mat6tube.com
 DOMAIN-SUFFIX,match.ac.uk
 DOMAIN-SUFFIX,matchmover.com
+DOMAIN-SUFFIX,mate-desktop.org
 DOMAIN-SUFFIX,materials.ac.uk
 DOMAIN-SUFFIX,materialsnexus.ac.uk
 DOMAIN-SUFFIX,mathcentre.ac.uk
@@ -24257,7 +24262,31 @@ DOMAIN-SUFFIX,mostpopularpornsites.com
 DOMAIN-SUFFIX,motherwell.ac.uk
 DOMAIN-SUFFIX,motiongraphicsandmore.com
 DOMAIN-SUFFIX,motionpictureser.com
+DOMAIN-SUFFIX,moto.com
 DOMAIN-SUFFIX,motolia.com
+DOMAIN-SUFFIX,motorola.ca
+DOMAIN-SUFFIX,motorola.cl
+DOMAIN-SUFFIX,motorola.co
+DOMAIN-SUFFIX,motorola.co.id
+DOMAIN-SUFFIX,motorola.co.jp
+DOMAIN-SUFFIX,motorola.co.th
+DOMAIN-SUFFIX,motorola.co.uk
+DOMAIN-SUFFIX,motorola.com
+DOMAIN-SUFFIX,motorola.com.au
+DOMAIN-SUFFIX,motorola.com.co
+DOMAIN-SUFFIX,motorola.com.pe
+DOMAIN-SUFFIX,motorola.com.pr
+DOMAIN-SUFFIX,motorola.de
+DOMAIN-SUFFIX,motorola.es
+DOMAIN-SUFFIX,motorola.fr
+DOMAIN-SUFFIX,motorola.gr
+DOMAIN-SUFFIX,motorola.in
+DOMAIN-SUFFIX,motorola.it
+DOMAIN-SUFFIX,motorola.net
+DOMAIN-SUFFIX,motorola.vn
+DOMAIN-SUFFIX,motorolacareers.com
+DOMAIN-SUFFIX,motorolanews.com
+DOMAIN-SUFFIX,motorolasolutions.com
 DOMAIN-SUFFIX,motorshowblog.com
 DOMAIN-SUFFIX,mottainai.info
 DOMAIN-SUFFIX,moulton.ac.uk
@@ -26899,6 +26928,7 @@ DOMAIN-SUFFIX,plannotator.ai
 DOMAIN-SUFFIX,plansondemand.com
 DOMAIN-SUFFIX,plant-phenomics.ac.uk
 DOMAIN-SUFFIX,plantsvszombies2.com
+DOMAIN-SUFFIX,plasma-mobile.org
 DOMAIN-SUFFIX,plasticlabs.com
 DOMAIN-SUFFIX,plastics-cadcam.com
 DOMAIN-SUFFIX,platiecom.ru
@@ -30698,6 +30728,7 @@ DOMAIN-SUFFIX,synsym.ac.uk
 DOMAIN-SUFFIX,syntheticbiology.ac.uk
 DOMAIN-SUFFIX,sysinternals.com
 DOMAIN-SUFFIX,sysmic.ac.uk
+DOMAIN-SUFFIX,system76.com
 DOMAIN-SUFFIX,systemicrisk.ac.uk
 DOMAIN-SUFFIX,syzbj36.xyz
 DOMAIN-SUFFIX,szabadeuropa.hu
@@ -33844,6 +33875,7 @@ DOMAIN-SUFFIX,xemales.com
 DOMAIN-SUFFIX,xenoblade.com
 DOMAIN-SUFFIX,xeon.com
 DOMAIN-SUFFIX,xfantazy.com
+DOMAIN-SUFFIX,xfce.org
 DOMAIN-SUFFIX,xfemaledom.com
 DOMAIN-SUFFIX,xfockers.com
 DOMAIN-SUFFIX,xfreehd.com
@@ -33876,6 +33908,7 @@ DOMAIN-SUFFIX,xiaoou.tv
 DOMAIN-SUFFIX,xiaoshuobb.life
 DOMAIN-SUFFIX,xiaoyaoge.xyz
 DOMAIN-SUFFIX,xie56.xyz
+DOMAIN-SUFFIX,xin21.xyz
 DOMAIN-SUFFIX,xinaia-av.buzz
 DOMAIN-SUFFIX,xindelu.com
 DOMAIN-SUFFIX,xinfhw.com
