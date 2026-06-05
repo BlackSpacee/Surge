@@ -8,7 +8,7 @@
 # USER-AGENT: 1
 # URL-REGEX: 3
 # TOTAL: 6707
-# UPDATED: 2026-06-05 12:26:19
+# UPDATED: 2026-06-05 18:04:28
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1503,7 +1503,7 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2026-03-31T15:36:17.062Z
+# Last Updated: 2026-06-05T14:37:37.460Z
 # Size: 369
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -1523,16 +1523,17 @@ DOMAIN,track.tenjin.io
 #   - https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
 #   - https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
 #   - https://filters.adtidy.org/extension/ublock/filters/7_optimized.txt
+#   - https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 #   - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
-#   - https://ublockorigin.github.io/uAssets/thirdparties/easylist-cookies.txt
-#   - https://ublockorigin.github.io/uAssets/thirdparties/easylist-notifications.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/filters/annoyances.min.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/filters/badware.min.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/filters/filters.min.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/filters/privacy.min.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/filters/unbreak.min.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/thirdparties/easylist-annoyances.txt
-#   - https://ublockorigin.github.io/uAssetsCDN/thirdparties/easylist-newsletters.txt
+#   - https://ublockorigin.pages.dev/filters/annoyances.min.txt
+#   - https://ublockorigin.pages.dev/filters/badware.min.txt
+#   - https://ublockorigin.pages.dev/filters/filters.min.txt
+#   - https://ublockorigin.pages.dev/filters/privacy.min.txt
+#   - https://ublockorigin.pages.dev/filters/unbreak.min.txt
+#   - https://ublockorigin.pages.dev/thirdparties/easylist-annoyances.txt
+#   - https://ublockorigin.pages.dev/thirdparties/easylist-cookies.txt
+#   - https://ublockorigin.pages.dev/thirdparties/easylist-newsletters.txt
+#   - https://ublockorigin.pages.dev/thirdparties/easylist-notifications.txt
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN-SUFFIX,data
 DOMAIN-SUFFIX,httpdns.pro
