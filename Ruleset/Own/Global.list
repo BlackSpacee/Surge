@@ -7,12 +7,12 @@
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 35253
-# UPDATED: 2026-06-06 12:08:43
+# UPDATED: 2026-06-06 16:42:52
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-06-03T04:52:05.682Z
-# Size: 1260
+# Last Updated: 2026-06-06T13:24:30.447Z
+# Size: 1261
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1072,6 +1072,7 @@ DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,cableav.tv
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,hanime.tv
+DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,pscp.tv
@@ -8023,7 +8024,6 @@ DOMAIN-SUFFIX,toggleable.com
 DOMAIN-SUFFIX,tomshardware.com
 DOMAIN-SUFFIX,tor.eff.org
 DOMAIN-SUFFIX,torrentmac.net
-DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trustasiassl.com
 DOMAIN-SUFFIX,tt-rss.org
