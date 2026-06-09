@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-06-08T06:14:39.123Z
-# Size: 4491
+# Last Updated: 2026-06-09T08:42:19.236Z
+# Size: 4495
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -397,6 +397,7 @@ DOMAIN-SUFFIX,lsposed.org
 DOMAIN-SUFFIX,pcz.javidol.org
 DOMAIN-SUFFIX,haproxy.org
 DOMAIN-SUFFIX,graphql.org
+DOMAIN-SUFFIX,imgproxy.flathub.org
 DOMAIN-SUFFIX,web-static.archive.org
 DOMAIN-SUFFIX,image.ap-mail.org
 DOMAIN-SUFFIX,99avcdn.org
@@ -622,6 +623,7 @@ DOMAIN-SUFFIX,static.whatsapp.net
 DOMAIN-SUFFIX,cdn.viafoura.net
 DOMAIN-SUFFIX,turboimg.net
 DOMAIN-SUFFIX,tildacdn.net
+DOMAIN-SUFFIX,t-assets.net
 DOMAIN-SUFFIX,cdn.pi.spectrum.net
 DOMAIN-SUFFIX,smassets.net
 DOMAIN-SUFFIX,sitescdn.net
@@ -1536,6 +1538,7 @@ DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,cdn.fluidplayer.com
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,google-ohttp-relay-safebrowsing.fastly-edge.com
+DOMAIN-SUFFIX,mozilla-ohttp.fastly-edge.com
 DOMAIN-SUFFIX,ohttp-relay1.fastly-edge.com
 DOMAIN-SUFFIX,live.fanmingming.com
 DOMAIN-SUFFIX,assets.embeddables.com
@@ -2432,6 +2435,7 @@ DOMAIN-SUFFIX,cdn.dnsimple.com
 DOMAIN-SUFFIX,cdn-node.diskpart.com
 DOMAIN-SUFFIX,cacerts.digicert.com
 DOMAIN-SUFFIX,ocsp.digicert.com
+DOMAIN-SUFFIX,crl3.digicert.com
 DOMAIN-SUFFIX,avatars.dicebear.com
 DOMAIN-SUFFIX,api.dicebear.com
 DOMAIN-SUFFIX,dditscdn.com
