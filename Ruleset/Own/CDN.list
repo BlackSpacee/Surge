@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4495
+# DOMAIN-SUFFIX: 4498
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4521
-# UPDATED: 2026-06-09 12:12:48
+# TOTAL: 4524
+# UPDATED: 2026-06-09 17:57:43
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-06-09T08:42:19.236Z
-# Size: 4495
+# Last Updated: 2026-06-09T15:16:08.294Z
+# Size: 4498
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -520,6 +520,7 @@ DOMAIN-SUFFIX,storage.yandexcloud.net
 DOMAIN-SUFFIX,images.wurstclient.net
 DOMAIN-SUFFIX,images.wsjcommerce.net
 DOMAIN-SUFFIX,static.underhentai.net
+DOMAIN-SUFFIX,assets.transfernow.net
 DOMAIN-SUFFIX,tapecontent.net
 DOMAIN-SUFFIX,staticworld.net
 DOMAIN-SUFFIX,staticstack.net
@@ -597,6 +598,7 @@ DOMAIN-SUFFIX,edge-consumer-static.azureedge.net
 DOMAIN-SUFFIX,edge-mobile-static.azureedge.net
 DOMAIN-SUFFIX,edgeassetservice.azureedge.net
 DOMAIN-SUFFIX,edgestorewebcdn.azureedge.net
+DOMAIN-SUFFIX,catalogartifact.azureedge.net
 DOMAIN-SUFFIX,xpaywalletcdn.azureedge.net
 DOMAIN-SUFFIX,claritystatic.azureedge.net
 DOMAIN-SUFFIX,mobilecenter.azureedge.net
@@ -3458,6 +3460,7 @@ DOMAIN-SUFFIX,designsystem.brevo.com
 DOMAIN-SUFFIX,corp-backend.brevo.com
 DOMAIN-SUFFIX,assets.brevo.com
 DOMAIN-SUFFIX,safebrowsing.brave.com
+DOMAIN-SUFFIX,variations.brave.com
 DOMAIN-SUFFIX,imgs.search.brave.com
 DOMAIN-SUFFIX,cdn.search.brave.com
 DOMAIN-SUFFIX,static.bodor.com
