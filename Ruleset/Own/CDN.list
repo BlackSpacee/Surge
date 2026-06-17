@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4503
+# DOMAIN-SUFFIX: 4504
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4529
-# UPDATED: 2026-06-17 01:10:48
+# TOTAL: 4530
+# UPDATED: 2026-06-17 05:12:17
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-06-16T02:54:44.090Z
-# Size: 4503
+# Last Updated: 2026-06-17T04:04:19.355Z
+# Size: 4504
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1312,6 +1312,7 @@ DOMAIN-SUFFIX,clientstream.launchdarkly.com
 DOMAIN-SUFFIX,clientsdk.launchdarkly.com
 DOMAIN-SUFFIX,static.launchdarkly.com
 DOMAIN-SUFFIX,events.launchdarkly.com
+DOMAIN-SUFFIX,larksuitepkg.com
 DOMAIN-SUFFIX,lf16-larkversion.larksuitecdn.com
 DOMAIN-SUFFIX,sf19-scmcdn.larksuitecdn.com
 DOMAIN-SUFFIX,p16-hera-va.larksuitecdn.com
