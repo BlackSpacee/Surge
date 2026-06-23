@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4508
+# DOMAIN-SUFFIX: 4516
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4534
-# UPDATED: 2026-06-22 20:19:19
+# TOTAL: 4542
+# UPDATED: 2026-06-23 05:07:28
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-06-22T09:36:21.247Z
-# Size: 4508
+# Last Updated: 2026-06-23T02:39:25.856Z
+# Size: 4516
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -855,6 +855,7 @@ DOMAIN-SUFFIX,static.plus.net
 DOMAIN-SUFFIX,ipfs.mttk.net
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,texture.laby.net
+DOMAIN-SUFFIX,cdn1.espn.net
 DOMAIN-SUFFIX,static1.e621.net
 DOMAIN-SUFFIX,c-dn.net
 DOMAIN-SUFFIX,static.blip.net
@@ -1091,6 +1092,8 @@ DOMAIN-SUFFIX,img.washingtonpost.com
 DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,static.global.visioncritical.com
 DOMAIN-SUFFIX,static.na1.visioncritical.com
+DOMAIN-SUFFIX,stories.usestoryteller.com
+DOMAIN-SUFFIX,cdn.usestoryteller.com
 DOMAIN-SUFFIX,trafficdeposit.com
 DOMAIN-SUFFIX,media.telanganatoday.com
 DOMAIN-SUFFIX,image.telanganatoday.com
@@ -1822,6 +1825,7 @@ DOMAIN-SUFFIX,assets.dictionary.com
 DOMAIN-SUFFIX,descopecdn.com
 DOMAIN-SUFFIX,cdn.delight-vr.com
 DOMAIN-SUFFIX,static.websites.data-crypt.com
+DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,static-beta.curseforge.com
 DOMAIN-SUFFIX,images.crunchbase.com
 DOMAIN-SUFFIX,cdn.conveythis.com
@@ -2669,6 +2673,7 @@ DOMAIN-SUFFIX,www.pngmart.com
 DOMAIN-SUFFIX,cdn-main.plus500.com
 DOMAIN-SUFFIX,cdn.plus500.com
 DOMAIN-SUFFIX,cdn.pixabay.com
+DOMAIN-SUFFIX,assets.pingone.com
 DOMAIN-SUFFIX,static.pingcap.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,hawky.pcgamer.com
@@ -2869,6 +2874,7 @@ DOMAIN-SUFFIX,static.comicbz.com
 DOMAIN-SUFFIX,image.comicbz.com
 DOMAIN-SUFFIX,cover.comicbz.com
 DOMAIN-SUFFIX,css.comicbz.com
+DOMAIN-SUFFIX,unleash.codeium.com
 DOMAIN-SUFFIX,player-frontend.cnevids.com
 DOMAIN-SUFFIX,embed-audio.cnevids.com
 DOMAIN-SUFFIX,player.cnevids.com
@@ -3568,6 +3574,7 @@ DOMAIN-SUFFIX,cms-cdn.goat.com
 DOMAIN-SUFFIX,assets.goat.com
 DOMAIN-SUFFIX,image.goat.com
 DOMAIN-SUFFIX,fsdn.com
+DOMAIN-SUFFIX,digitalhub.fifa.com
 DOMAIN-SUFFIX,img04.en25.com
 DOMAIN-SUFFIX,images.dmca.com
 DOMAIN-SUFFIX,website-media.deel.com
@@ -4362,6 +4369,7 @@ DOMAIN-SUFFIX,tile.mtbmap.cz
 DOMAIN-SUFFIX,mapserver.mapy.cz
 DOMAIN-SUFFIX,ipfs.slang.cx
 DOMAIN-SUFFIX,zpi.cx
+DOMAIN-SUFFIX,img.kemono.cr
 DOMAIN-SUFFIX,assets.openalternative.co
 DOMAIN-SUFFIX,cdn.stackoverflow.co
 DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
