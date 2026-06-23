@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-06-23T02:39:25.856Z
-# Size: 4516
+# Last Updated: 2026-06-23T12:52:02.130Z
+# Size: 4517
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2641,7 +2641,9 @@ DOMAIN-SUFFIX,cdn.readmoo.com
 DOMAIN-SUFFIX,cdn-rdstaticassets.readdle.com
 DOMAIN-SUFFIX,ravenjs.com
 DOMAIN-SUFFIX,static.rakuten.com
+DOMAIN-SUFFIX,luminaire.railway.com
 DOMAIN-SUFFIX,devicons.railway.com
+DOMAIN-SUFFIX,cms.railway.com
 DOMAIN-SUFFIX,rackcdn.com
 DOMAIN-SUFFIX,cdn.quadpay.com
 DOMAIN-SUFFIX,pxlecdn.com
@@ -2650,8 +2652,7 @@ DOMAIN-SUFFIX,st.prntscr.com
 DOMAIN-SUFFIX,cdn.privacy.com
 DOMAIN-SUFFIX,app-static-prod.posthog.com
 DOMAIN-SUFFIX,app-static.eu.posthog.com
-DOMAIN-SUFFIX,us-assets.i.posthog.com
-DOMAIN-SUFFIX,eu-assets.i.posthog.com
+DOMAIN-SUFFIX,i.posthog.com
 DOMAIN-SUFFIX,cdn77-t.pornoxo.com
 DOMAIN-SUFFIX,cdn77.pornoxo.com
 DOMAIN-SUFFIX,pics.pornfhd.com
