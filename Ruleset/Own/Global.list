@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 144
-# DOMAIN-SUFFIX: 35123
+# DOMAIN-SUFFIX: 35125
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35481
-# UPDATED: 2026-06-23 17:57:09
+# TOTAL: 35483
+# UPDATED: 2026-06-23 23:16:51
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -8199,14 +8199,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-06-22 02:35:46
+# UPDATED: 2026-06-24 02:45:28
 # DOMAIN: 126
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34474
+# DOMAIN-SUFFIX: 34476
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34799
+# TOTAL: 34801
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -18785,8 +18785,10 @@ DOMAIN-SUFFIX,gofile.me
 DOMAIN-SUFFIX,gofit.ac.uk
 DOMAIN-SUFFIX,gofucker.com
 DOMAIN-SUFFIX,gofuckmenow.com
+DOMAIN-SUFFIX,gog-services.com
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gogalaxy.com
 DOMAIN-SUFFIX,gogeo.ac.uk
 DOMAIN-SUFFIX,gogettaxi.org
 DOMAIN-SUFFIX,gogle.com
