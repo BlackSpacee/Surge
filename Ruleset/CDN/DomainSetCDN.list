@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-06-23T12:52:02.130Z
-# Size: 4517
+# Last Updated: 2026-06-24T05:48:35.635Z
+# Size: 4523
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -312,6 +312,7 @@ DOMAIN-SUFFIX,play.publicradio.org
 DOMAIN-SUFFIX,tile.opentopomap.org
 DOMAIN-SUFFIX,covers.openlibrary.org
 DOMAIN-SUFFIX,tiles.openfreemap.org
+DOMAIN-SUFFIX,dlstats.izzyondroid.org
 DOMAIN-SUFFIX,media.hentaifreak.org
 DOMAIN-SUFFIX,ipfs.genenetwork.org
 DOMAIN-SUFFIX,ximage.c-spanvideo.org
@@ -1537,6 +1538,8 @@ DOMAIN-SUFFIX,media.gettyimages.com
 DOMAIN-SUFFIX,cdn.getfeedback.com
 DOMAIN-SUFFIX,assets.gemcommerce.com
 DOMAIN-SUFFIX,gauthstatic.com
+DOMAIN-SUFFIX,static.fundraiseup.com
+DOMAIN-SUFFIX,cdn.fundraiseup.com
 DOMAIN-SUFFIX,stories.freepiklabs.com
 DOMAIN-SUFFIX,static.foxbusiness.com
 DOMAIN-SUFFIX,use.fortawesome.com
@@ -1901,6 +1904,7 @@ DOMAIN-SUFFIX,xhpingcdn.com
 DOMAIN-SUFFIX,xdaimages.com
 DOMAIN-SUFFIX,cdn.scripts.wtwhmedia.com
 DOMAIN-SUFFIX,wowmodels.com
+DOMAIN-SUFFIX,workoscdn.com
 DOMAIN-SUFFIX,hhhhhhome86227170.wordpress.com
 DOMAIN-SUFFIX,jetpack.wordpress.com
 DOMAIN-SUFFIX,files.wordpress.com
@@ -2947,6 +2951,7 @@ DOMAIN-SUFFIX,cdn.xvidzz.com
 DOMAIN-SUFFIX,img.xhacgn.com
 DOMAIN-SUFFIX,img.xbooru.com
 DOMAIN-SUFFIX,website-prod.cache.wpscdn.com
+DOMAIN-SUFFIX,frontend-apps-multi-region.workos.com
 DOMAIN-SUFFIX,frontend-apps.workos.com
 DOMAIN-SUFFIX,cdn.workos.com
 DOMAIN-SUFFIX,wklcdn.com
@@ -4173,6 +4178,7 @@ DOMAIN-SUFFIX,pagecdn.io
 DOMAIN-SUFFIX,favicons.nextdns.io
 DOMAIN-SUFFIX,cdn.logbase.io
 DOMAIN-SUFFIX,media.lantern.io
+DOMAIN-SUFFIX,embed.lantern.io
 DOMAIN-SUFFIX,cdn.ipwhois.io
 DOMAIN-SUFFIX,ipfscdn.io
 DOMAIN-SUFFIX,cdn.icomoon.io
