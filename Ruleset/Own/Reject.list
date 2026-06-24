@@ -8,7 +8,7 @@
 # USER-AGENT: 1
 # URL-REGEX: 3
 # TOTAL: 6707
-# UPDATED: 2026-06-24 12:13:19
+# UPDATED: 2026-06-24 17:44:29
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1465,7 +1465,6 @@ DOMAIN,hmma.baidu.com
 # > Daum
 DOMAIN,track.tiara.daum.net
 DOMAIN,track.tiara.kakao.com
-DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,safebrowsing.googleapis-cn.com
@@ -3790,6 +3789,7 @@ DOMAIN-SUFFIX,goi08211kh.com
 DOMAIN-SUFFIX,gokrafxr.icu
 DOMAIN-SUFFIX,gold.szonline.net
 DOMAIN-SUFFIX,googlehm.cc
+DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,goose64.top
 DOMAIN-SUFFIX,gotadd.cn
 DOMAIN-SUFFIX,goto.www.iciba.com
