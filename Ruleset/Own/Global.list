@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 143
-# DOMAIN-SUFFIX: 35140
+# DOMAIN-SUFFIX: 35159
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35497
-# UPDATED: 2026-06-29 19:16:35
+# TOTAL: 35516
+# UPDATED: 2026-06-30 00:00:35
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7660,14 +7660,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-28 02:29:41
+# UPDATED: 2026-06-30 02:45:14
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6731
+# DOMAIN-SUFFIX: 6746
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6871
+# TOTAL: 6886
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7690,6 +7690,7 @@ DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,adult.friendfinder.com
 DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,airuniversity.af.edu
 DOMAIN-SUFFIX,akile.io
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,aljazeera.net
@@ -7842,6 +7843,7 @@ DOMAIN-SUFFIX,fututrustee.com
 DOMAIN-SUFFIX,fzlm.net
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,gabia.net
+DOMAIN-SUFFIX,gate.com
 DOMAIN-SUFFIX,gencraft.com
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,get.dappcdn.com
@@ -7871,6 +7873,7 @@ DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,hiddify.com
 DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,hive.blog
+DOMAIN-SUFFIX,hkong.hk
 DOMAIN-SUFFIX,hotbak.net
 DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,huobi.li
@@ -7901,6 +7904,7 @@ DOMAIN-SUFFIX,justgetflux.com
 DOMAIN-SUFFIX,kat.cr
 DOMAIN-SUFFIX,kathmandupost.com
 DOMAIN-SUFFIX,keyhole.com
+DOMAIN-SUFFIX,kfor.com
 DOMAIN-SUFFIX,krypt.com
 DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,laohu8.com
@@ -7942,6 +7946,7 @@ DOMAIN-SUFFIX,mathjax.org
 DOMAIN-SUFFIX,mediamatters.org
 DOMAIN-SUFFIX,meee.com.tw
 DOMAIN-SUFFIX,megaupload.com
+DOMAIN-SUFFIX,mhwindow.org
 DOMAIN-SUFFIX,microsoft-falcon.io
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,microsoftpersonalcontent.com
@@ -7997,9 +8002,11 @@ DOMAIN-SUFFIX,paoluz.com
 DOMAIN-SUFFIX,paoluz.link
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,partnerstack.xyz
+DOMAIN-SUFFIX,pcgamesn.com
 DOMAIN-SUFFIX,pdfexpert.com
 DOMAIN-SUFFIX,pdst.fm
 DOMAIN-SUFFIX,penguin.com.au
+DOMAIN-SUFFIX,perma.cc
 DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,pinboard.in
 DOMAIN-SUFFIX,pinterest.cl
@@ -8027,6 +8034,7 @@ DOMAIN-SUFFIX,radiojar.com
 DOMAIN-SUFFIX,raphael.app
 DOMAIN-SUFFIX,rawstory.com
 DOMAIN-SUFFIX,recordedfuture.com
+DOMAIN-SUFFIX,restofworld.org
 DOMAIN-SUFFIX,rime.im
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
@@ -8056,6 +8064,7 @@ DOMAIN-SUFFIX,sinyalee.com
 DOMAIN-SUFFIX,slack-edge.com
 DOMAIN-SUFFIX,slack-msgs.com
 DOMAIN-SUFFIX,sotwe.com
+DOMAIN-SUFFIX,spaceforce.mil
 DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,speedsmart.net
 DOMAIN-SUFFIX,spring-plus.net
@@ -8066,6 +8075,7 @@ DOMAIN-SUFFIX,st.luluku.pw
 DOMAIN-SUFFIX,state.gov
 DOMAIN-SUFFIX,static.pocketcasts.com
 DOMAIN-SUFFIX,supermariorun.com
+DOMAIN-SUFFIX,supremecourt.gov
 DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,suyingtv.com
 DOMAIN-SUFFIX,symauth.com
@@ -8080,6 +8090,7 @@ DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,the-sun.com
+DOMAIN-SUFFIX,theintercept.com
 DOMAIN-SUFFIX,theweek.com
 DOMAIN-SUFFIX,thinkchina.sg
 DOMAIN-SUFFIX,tigerbbs.cn
@@ -8099,6 +8110,7 @@ DOMAIN-SUFFIX,tor.eff.org
 DOMAIN-SUFFIX,torrentmac.net
 DOMAIN-SUFFIX,tradeup.com
 DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trtworld.com
 DOMAIN-SUFFIX,trustasiassl.com
 DOMAIN-SUFFIX,tt-rss.org
 DOMAIN-SUFFIX,tumblr.co
@@ -8106,6 +8118,7 @@ DOMAIN-SUFFIX,tvbanywhere.com
 DOMAIN-SUFFIX,tvdy1.com
 DOMAIN-SUFFIX,tweetmarker.net
 DOMAIN-SUFFIX,twgov.tw
+DOMAIN-SUFFIX,twstalker.com
 DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,typcn.com
 DOMAIN-SUFFIX,typography.com
@@ -8136,6 +8149,7 @@ DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,wallzhihu.com
+DOMAIN-SUFFIX,washingtontimes.com
 DOMAIN-SUFFIX,wbrks.com
 DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,weights.com
@@ -8156,6 +8170,7 @@ DOMAIN-SUFFIX,xn--1jqvh729avzfcy2d8ummib.com
 DOMAIN-SUFFIX,xn--kcrv3utim32hx9f6qe.com
 DOMAIN-SUFFIX,xn--vuqv2cf7wzyig79c.com
 DOMAIN-SUFFIX,xteko.com
+DOMAIN-SUFFIX,xuan.com.my
 DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yfsp.tv
@@ -8203,14 +8218,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-06-28 02:29:21
+# UPDATED: 2026-06-30 02:44:52
 # DOMAIN: 125
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34489
+# DOMAIN-SUFFIX: 34508
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34813
+# TOTAL: 34832
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -10399,6 +10414,7 @@ DOMAIN-SUFFIX,applepremiumresellers.com.au
 DOMAIN-SUFFIX,applereach.com
 DOMAIN-SUFFIX,applereach.net
 DOMAIN-SUFFIX,apples-msk.ru
+DOMAIN-SUFFIX,appleschoolcontent.com
 DOMAIN-SUFFIX,applescreensavers.com
 DOMAIN-SUFFIX,applescript.info
 DOMAIN-SUFFIX,appleshare.info
@@ -10486,6 +10502,7 @@ DOMAIN-SUFFIX,apture.com
 DOMAIN-SUFFIX,apu.ac.uk
 DOMAIN-SUFFIX,apuc-scot.ac.uk
 DOMAIN-SUFFIX,apyle.com
+DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,aqdlt.net
 DOMAIN-SUFFIX,aqmen.ac.uk
 DOMAIN-SUFFIX,aquinas.ac.uk
@@ -11060,6 +11077,7 @@ DOMAIN-SUFFIX,awwcn.xyz
 DOMAIN-SUFFIX,awxcdn.com
 DOMAIN-SUFFIX,axbdoll.com.tw
 DOMAIN-SUFFIX,axept.io
+DOMAIN-SUFFIX,axm-usercontent-apple.com
 DOMAIN-SUFFIX,ayabank.com
 DOMAIN-SUFFIX,aylesbury.ac.uk
 DOMAIN-SUFFIX,ayrcoll.ac.uk
@@ -14827,6 +14845,7 @@ DOMAIN-SUFFIX,damnhotz.com
 DOMAIN-SUFFIX,damplips.com
 DOMAIN-SUFFIX,dance-archives.ac.uk
 DOMAIN-SUFFIX,dandalinvoa.com
+DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,dandanzan.cc
 DOMAIN-SUFFIX,danemarket.com
 DOMAIN-SUFFIX,danmarkbeatsbydrdre.com
@@ -27012,7 +27031,6 @@ DOMAIN-SUFFIX,perfectshemales.com
 DOMAIN-SUFFIX,perfecttitspics.com
 DOMAIN-SUFFIX,performancescience.ac.uk
 DOMAIN-SUFFIX,perl.org
-DOMAIN-SUFFIX,perma.cc
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,persagg.com
 DOMAIN-SUFFIX,pershore.ac.uk
@@ -31915,6 +31933,7 @@ DOMAIN-SUFFIX,trinitycollegebristol.ac.uk
 DOMAIN-SUFFIX,trinitylaban.ac.uk
 DOMAIN-SUFFIX,trinitysaintdavid.ac.uk
 DOMAIN-SUFFIX,triokini.com
+DOMAIN-SUFFIX,tripo3d.ai
 DOMAIN-SUFFIX,tristatebmw.com
 DOMAIN-SUFFIX,trithucvn.net
 DOMAIN-SUFFIX,trithucvn.org
