@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 358
-# DOMAIN-SUFFIX: 112726
+# DOMAIN-SUFFIX: 112727
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
 # IP-CIDR: 12187
 # IP-CIDR6: 4127
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 129550
-# UPDATED: 2026-06-29 03:40:17
+# TOTAL: 129551
+# UPDATED: 2026-06-29 12:47:51
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -245,8 +245,8 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2026-06-22T09:36:20.859Z
-# Size: 866
+# Last Updated: 2026-06-29T11:00:23.517Z
+# Size: 868
 # This file contains known addresses that are avaliable in the Mainland China.
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,mijia.tech
@@ -721,6 +721,7 @@ DOMAIN-SUFFIX,mi-fds.com
 DOMAIN-SUFFIX,meipai.com
 DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,lofter.com
+DOMAIN-SUFFIX,lltskb.com
 DOMAIN-SUFFIX,lancdn.com
 DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,koubei.com
@@ -1104,6 +1105,7 @@ DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,tb.cn
 DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,i4.cn
+DOMAIN-SUFFIX,ac.cn
 DOMAIN-SUFFIX,22.cn
 DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,6.cn
@@ -1114,7 +1116,7 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-06-28T18:17:09.873Z
+# Last Updated: 2026-06-29T11:07:41.252Z
 # Size: 3908
 # License: CC BY-SA 2.0
 # This file contains data from:
@@ -2232,6 +2234,7 @@ IP-CIDR,103.152.28.0/23
 IP-CIDR,103.152.56.0/23
 IP-CIDR,103.152.76.0/23
 IP-CIDR,103.152.150.0/23
+IP-CIDR,103.152.186.0/23
 IP-CIDR,103.152.209.0/24
 IP-CIDR,103.152.224.0/24
 IP-CIDR,103.154.30.0/23
@@ -3971,7 +3974,6 @@ IP-CIDR,185.80.200.0/22
 IP-CIDR,185.183.84.0/24
 IP-CIDR,185.194.148.0/24
 IP-CIDR,185.201.226.0/23
-IP-CIDR,187.54.48.0/23
 IP-CIDR,188.131.128.0/17
 IP-CIDR,192.6.161.0/24
 IP-CIDR,192.6.243.0/24
@@ -67892,7 +67894,6 @@ DOMAIN-SUFFIX,llsops.com
 DOMAIN-SUFFIX,llssite.com
 DOMAIN-SUFFIX,llsun.com
 DOMAIN-SUFFIX,lltoken.com
-DOMAIN-SUFFIX,lltskb.com
 DOMAIN-SUFFIX,llumar-cn.com
 DOMAIN-SUFFIX,llwx.net
 DOMAIN-SUFFIX,llx168.com
