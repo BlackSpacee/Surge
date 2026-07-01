@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Sogou Input
-# Last Updated: 2026-03-10T14:56:40.495Z
+# Last Updated: 2026-06-30T21:42:09.873Z
 # Size: 15
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -9,14 +9,14 @@
 # This file contains rules for Sogou Input.
 #########################################
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
-DOMAIN-SUFFIX,account.sogou.com
-DOMAIN-SUFFIX,shouji.sogou.com
-DOMAIN-SUFFIX,pinyin.sogou.com
-DOMAIN-SUFFIX,macime.sogou.com
-DOMAIN-SUFFIX,ime.sogou.com
-DOMAIN-SUFFIX,get.sogou.com
-DOMAIN-SUFFIX,sginput.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,get.sogou.com
+DOMAIN-SUFFIX,ime.sogou.com
+DOMAIN-SUFFIX,sginput.qq.com
+DOMAIN-SUFFIX,macime.sogou.com
+DOMAIN-SUFFIX,pinyin.sogou.com
+DOMAIN-SUFFIX,shouji.sogou.com
+DOMAIN-SUFFIX,account.sogou.com
 DOMAIN,oth.str.mdt.qq.com
 USER-AGENT,SogouInput
 USER-AGENT,com.sogou.sogouinput.BaseKeyboard

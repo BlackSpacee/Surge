@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-04-08T12:05:27.745Z
+# Last Updated: 2026-06-30T21:42:09.831Z
 # Size: 85
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -9,10 +9,10 @@
 # This file contains object storage and static assets CDN domains.
 #########################################
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
-DOMAIN,cdn-msp.18comic.vip
-DOMAIN,cdn-msp.18comic.org
-DOMAIN,cdn-msp.jmcomic-zzz.one
 DOMAIN,cdn-msp.jmcomic.me
+DOMAIN,cdn-msp.18comic.org
+DOMAIN,cdn-msp.18comic.vip
+DOMAIN,cdn-msp.jmcomic-zzz.one
 DOMAIN-KEYWORD,-files.gitbook.io
 DOMAIN-KEYWORD,vod-adaptive.akamaized.net
 DOMAIN-KEYWORD,web-assets.zendesk
