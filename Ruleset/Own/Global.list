@@ -1,13 +1,13 @@
 # NAME: Global
-# DOMAIN: 143
-# DOMAIN-SUFFIX: 35171
+# DOMAIN: 142
+# DOMAIN-SUFFIX: 35175
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35528
-# UPDATED: 2026-07-05 17:16:31
+# TOTAL: 35531
+# UPDATED: 2026-07-05 21:56:30
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -8220,14 +8220,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-07-04 02:32:57
-# DOMAIN: 125
+# UPDATED: 2026-07-06 03:09:05
+# DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34520
+# DOMAIN-SUFFIX: 34524
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34844
+# TOTAL: 34847
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -8274,7 +8274,6 @@ DOMAIN,hpstore.corpmerchandise.com
 DOMAIN,hub.slarker.me
 DOMAIN,i.jeded.com
 DOMAIN,imperial.insendi.com
-DOMAIN,ingest.apple-studies.com
 DOMAIN,lgelectronics.122.2o7.net
 DOMAIN,linkedin.sc.omtrdc.net
 DOMAIN,live-patreon-marketing.pantheonsite.io
@@ -10199,6 +10198,7 @@ DOMAIN-SUFFIX,apple-pay.rs
 DOMAIN-SUFFIX,apple-pay.wang
 DOMAIN-SUFFIX,apple-store.net
 DOMAIN-SUFFIX,apple-store.wang
+DOMAIN-SUFFIX,apple-studies.com
 DOMAIN-SUFFIX,apple-usa.net
 DOMAIN-SUFFIX,apple.ae
 DOMAIN-SUFFIX,apple.at
@@ -10721,6 +10721,7 @@ DOMAIN-SUFFIX,atlas.ac.uk
 DOMAIN-SUFFIX,atlasdmt.com
 DOMAIN-SUFFIX,atlasonepoint.com
 DOMAIN-SUFFIX,atlassian-dev.net
+DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,atokara.jp
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,atomyze.ru
@@ -11098,6 +11099,7 @@ DOMAIN-SUFFIX,azbukainterneta.ru
 DOMAIN-SUFFIX,aziani.com
 DOMAIN-SUFFIX,aznude.com
 DOMAIN-SUFFIX,azubu.tv
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-devices-int.net
 DOMAIN-SUFFIX,azure-devices.net
 DOMAIN-SUFFIX,azure-dns.com
@@ -11131,6 +11133,7 @@ DOMAIN-SUFFIX,azureplanetscale.net
 DOMAIN-SUFFIX,azureserviceprofiler.com
 DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,b-eroland.net
 DOMAIN-SUFFIX,b-ok.africa
