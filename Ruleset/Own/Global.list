@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 142
-# DOMAIN-SUFFIX: 35183
+# DOMAIN-SUFFIX: 35185
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35539
-# UPDATED: 2026-07-11 16:06:23
+# TOTAL: 35541
+# UPDATED: 2026-07-11 21:42:44
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -8220,14 +8220,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-07-10 03:29:21
+# UPDATED: 2026-07-12 02:51:51
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34532
+# DOMAIN-SUFFIX: 34534
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34855
+# TOTAL: 34857
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -23231,6 +23231,7 @@ DOMAIN-SUFFIX,makeappli.jp
 DOMAIN-SUFFIX,makearmanotwar.com
 DOMAIN-SUFFIX,makebettercode.com
 DOMAIN-SUFFIX,makecode.org
+DOMAIN-SUFFIX,makeeu.com
 DOMAIN-SUFFIX,makeitopen.com
 DOMAIN-SUFFIX,makeitrealcontest.com
 DOMAIN-SUFFIX,makerepeater.jp
@@ -24269,6 +24270,7 @@ DOMAIN-SUFFIX,misskeyusercontent.jp
 DOMAIN-SUFFIX,mist.ac.uk
 DOMAIN-SUFFIX,mistresskym.com
 DOMAIN-SUFFIX,mit.net
+DOMAIN-SUFFIX,mitao.bar
 DOMAIN-SUFFIX,miteam.com
 DOMAIN-SUFFIX,mitnaka.com
 DOMAIN-SUFFIX,mitpressjournals.org
