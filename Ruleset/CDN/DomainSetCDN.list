@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-07-13T06:30:02.736Z
-# Size: 4552
+# Last Updated: 2026-07-15T18:01:25.090Z
+# Size: 4557
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1323,6 +1323,9 @@ DOMAIN-SUFFIX,report-uri.com
 DOMAIN-SUFFIX,res.abc.net.au
 DOMAIN-SUFFIX,res.garmin.com
 DOMAIN-SUFFIX,rt.rtoaster.jp
+DOMAIN-SUFFIX,rt1.maphub.net
+DOMAIN-SUFFIX,rt2.maphub.net
+DOMAIN-SUFFIX,rt3.maphub.net
 DOMAIN-SUFFIX,s.midishow.net
 DOMAIN-SUFFIX,s1.divhunt.com
 DOMAIN-SUFFIX,s3.2233778.xyz
@@ -2371,6 +2374,7 @@ DOMAIN-SUFFIX,static.gmgard.com
 DOMAIN-SUFFIX,static.guim.co.uk
 DOMAIN-SUFFIX,static.hotjar.com
 DOMAIN-SUFFIX,static.linear.app
+DOMAIN-SUFFIX,static.maphub.net
 DOMAIN-SUFFIX,static.mega.co.nz
 DOMAIN-SUFFIX,static.meiguo.com
 DOMAIN-SUFFIX,static.missav.com
@@ -3725,6 +3729,7 @@ DOMAIN-SUFFIX,tile.openstreetmap.org
 DOMAIN-SUFFIX,tile.thunderforest.com
 DOMAIN-SUFFIX,tile2.opencyclemap.org
 DOMAIN-SUFFIX,tiles.arcticconnect.ca
+DOMAIN-SUFFIX,tiles.openstreetmap.us
 DOMAIN-SUFFIX,tiles.virtualearth.net
 DOMAIN-SUFFIX,tileserver.memomaps.de
 DOMAIN-SUFFIX,tn.tubepornclassic.com
