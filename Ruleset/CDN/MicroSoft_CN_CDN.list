@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Microsoft CDN
-# Last Updated: 2026-07-10T08:43:08.232Z
-# Size: 57
+# Last Updated: 2026-07-15T07:24:20.397Z
+# Size: 55
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -17,11 +17,9 @@ DOMAIN,res.cdn.office.net
 DOMAIN-SUFFIX,cn.windowssearch.com
 DOMAIN,res-1.cdn.office.net
 DOMAIN,res-2.cdn.office.net
-DOMAIN-SUFFIX,shell.cdn.office.net
 DOMAIN-SUFFIX,download.microsoft.com
 DOMAIN-SUFFIX,b.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,ctldl.windowsupdate.com
-DOMAIN-SUFFIX,developer.microsoft.com
 DOMAIN-SUFFIX,f.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,officecdn.microsoft.com
 DOMAIN-SUFFIX,storeedge.microsoft.com
