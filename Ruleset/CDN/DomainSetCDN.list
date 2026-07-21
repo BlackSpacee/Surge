@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-07-20T12:50:36.398Z
-# Size: 4552
+# Last Updated: 2026-07-21T03:49:43.399Z
+# Size: 4554
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -988,6 +988,7 @@ DOMAIN-SUFFIX,js.prosopo.io
 DOMAIN-SUFFIX,js.pusher.com
 DOMAIN-SUFFIX,js.stripe.com
 DOMAIN-SUFFIX,js.upscope.io
+DOMAIN-SUFFIX,kh.google.com
 DOMAIN-SUFFIX,kinja-img.com
 DOMAIN-SUFFIX,klarnacdn.net
 DOMAIN-SUFFIX,line-scdn.net
@@ -2054,6 +2055,7 @@ DOMAIN-SUFFIX,tiles.freemap.sk
 DOMAIN-SUFFIX,tiles.mapbox.com
 DOMAIN-SUFFIX,tiles.planet.com
 DOMAIN-SUFFIX,tiles.strava.com
+DOMAIN-SUFFIX,tiles.zoom.earth
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,townsquare.media
 DOMAIN-SUFFIX,trackerslist.com
