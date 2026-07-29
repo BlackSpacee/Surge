@@ -1,14 +1,14 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4555
+# DOMAIN-SUFFIX: 4563
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4581
-# UPDATED: 2026-07-28 22:26:14
+# TOTAL: 4589
+# UPDATED: 2026-07-29 03:42:39
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-07-21T16:18:25.336Z
-# Size: 4555
+# Last Updated: 2026-07-29T02:59:05.810Z
+# Size: 4563
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1916,6 +1916,10 @@ DOMAIN-SUFFIX,img.javstore.net
 DOMAIN-SUFFIX,img.jsdelivr.com
 DOMAIN-SUFFIX,img.kbhgames.com
 DOMAIN-SUFFIX,img.moviefap.com
+DOMAIN-SUFFIX,img.novipnoad.ca
+DOMAIN-SUFFIX,img.novipnoad.cc
+DOMAIN-SUFFIX,img.novipnoad.uk
+DOMAIN-SUFFIX,img.novipnoad.us
 DOMAIN-SUFFIX,img.olympics.com
 DOMAIN-SUFFIX,img.sooplive.com
 DOMAIN-SUFFIX,img.sparemin.com
@@ -2282,6 +2286,9 @@ DOMAIN-SUFFIX,images.svc.ui.com
 DOMAIN-SUFFIX,images.vexels.com
 DOMAIN-SUFFIX,img.haiwaikan.com
 DOMAIN-SUFFIX,img.imoutomoe.net
+DOMAIN-SUFFIX,img.novipnoad.com
+DOMAIN-SUFFIX,img.novipnoad.net
+DOMAIN-SUFFIX,img.novipnoad.xyz
 DOMAIN-SUFFIX,img.picacomic.com
 DOMAIN-SUFFIX,img.riskified.com
 DOMAIN-SUFFIX,img2.gelbooru.com
@@ -2994,6 +3001,7 @@ DOMAIN-SUFFIX,static.esimplus.net
 DOMAIN-SUFFIX,static.euronews.com
 DOMAIN-SUFFIX,static.formula1.com
 DOMAIN-SUFFIX,static.getbutton.io
+DOMAIN-SUFFIX,static.giffgaff.com
 DOMAIN-SUFFIX,static.gigabyte.com
 DOMAIN-SUFFIX,static.goaffpro.com
 DOMAIN-SUFFIX,static.mendeley.com
