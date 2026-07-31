@@ -1,24 +1,25 @@
 # NAME: Global
 # DOMAIN: 146
-# DOMAIN-SUFFIX: 35240
+# DOMAIN-SUFFIX: 35261
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35600
-# UPDATED: 2026-07-31 17:11:27
+# TOTAL: 35621
+# UPDATED: 2026-07-31 22:24:45
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-07-29T02:59:04.734Z
+# Last Updated: 2026-07-31T17:36:02.148Z
 # Size: 1269
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are NOT available inside the Mainland China.
-DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
+# $content-hash-v1$:2xBcJy754Xc5Rv4GdlUTYG-qRaeZ_2W7WW-9_GeOJHU$
+DOMAIN,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 DOMAIN-SUFFIX,ac
 DOMAIN-SUFFIX,ai
 DOMAIN-SUFFIX,at
@@ -7662,14 +7663,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-30 03:04:41
+# UPDATED: 2026-08-01 03:15:08
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6756
+# DOMAIN-SUFFIX: 6757
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6896
+# TOTAL: 6897
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -8145,6 +8146,7 @@ DOMAIN-SUFFIX,upwork.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,usgs.gov
 DOMAIN-SUFFIX,v.gd
+DOMAIN-SUFFIX,v.recipes
 DOMAIN-SUFFIX,v2.hysteria.network
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,vbstatic.co
@@ -8228,14 +8230,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-07-30 03:04:17
+# UPDATED: 2026-08-01 03:14:47
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34591
+# DOMAIN-SUFFIX: 34613
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34918
+# TOTAL: 34940
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -10145,6 +10147,7 @@ DOMAIN-SUFFIX,aphe.ac.uk
 DOMAIN-SUFFIX,api-extractor.com
 DOMAIN-SUFFIX,api.nebula-emby.com
 DOMAIN-SUFFIX,api.news
+DOMAIN-SUFFIX,apiauto.ru
 DOMAIN-SUFFIX,apina.biz
 DOMAIN-SUFFIX,apiok.ru
 DOMAIN-SUFFIX,apis.ac.uk
@@ -10820,6 +10823,7 @@ DOMAIN-SUFFIX,ausbeatsbydrdre.com
 DOMAIN-SUFFIX,authorxml.com
 DOMAIN-SUFFIX,authpass.app
 DOMAIN-SUFFIX,authy.com
+DOMAIN-SUFFIX,auto.ru
 DOMAIN-SUFFIX,autocad-schulungen.com
 DOMAIN-SUFFIX,autocad.com
 DOMAIN-SUFFIX,autocad360.com
@@ -10956,6 +10960,7 @@ DOMAIN-SUFFIX,autokreditbank.ru
 DOMAIN-SUFFIX,automaton-media.com
 DOMAIN-SUFFIX,automobile.fr
 DOMAIN-SUFFIX,automotive-cadcam.com
+DOMAIN-SUFFIX,autoru.me
 DOMAIN-SUFFIX,autosketch.com
 DOMAIN-SUFFIX,autosub.ac.uk
 DOMAIN-SUFFIX,autumn-jade.com
@@ -11049,6 +11054,7 @@ DOMAIN-SUFFIX,avstar5.com
 DOMAIN-SUFFIX,avstar6.com
 DOMAIN-SUFFIX,avstar8.com
 DOMAIN-SUFFIX,avstar9.com
+DOMAIN-SUFFIX,avto.ru
 DOMAIN-SUFFIX,avwong.com
 DOMAIN-SUFFIX,avwto.com
 DOMAIN-SUFFIX,avxde.org
@@ -13902,6 +13908,7 @@ DOMAIN-SUFFIX,cherrypornhd.com
 DOMAIN-SUFFIX,cheshire.ac.uk
 DOMAIN-SUFFIX,cheshirecolleges.ac.uk
 DOMAIN-SUFFIX,cheshirehe.ac.uk
+DOMAIN-SUFFIX,chesscomfiles.com
 DOMAIN-SUFFIX,chest.ac.uk
 DOMAIN-SUFFIX,chester.ac.uk
 DOMAIN-SUFFIX,chesterfield.ac.uk
@@ -13990,6 +13997,9 @@ DOMAIN-SUFFIX,chwr7s8u.com
 DOMAIN-SUFFIX,chyoa.com
 DOMAIN-SUFFIX,ci-en.net
 DOMAIN-SUFFIX,cia.ac.uk
+DOMAIN-SUFFIX,cian.ru
+DOMAIN-SUFFIX,cian.site
+DOMAIN-SUFFIX,ciangroup.ru
 DOMAIN-SUFFIX,cias.ac.uk
 DOMAIN-SUFFIX,ciattackers.com
 DOMAIN-SUFFIX,cib.ac.uk
@@ -14220,6 +14230,7 @@ DOMAIN-SUFFIX,clubtubes.com
 DOMAIN-SUFFIX,clusterconnection.com
 DOMAIN-SUFFIX,clydebank.ac.uk
 DOMAIN-SUFFIX,clzz2.xyz
+DOMAIN-SUFFIX,cm.expert
 DOMAIN-SUFFIX,cmac.ac.uk
 DOMAIN-SUFFIX,cmcnet.ac.uk
 DOMAIN-SUFFIX,cmcsm.ac.uk
@@ -15626,6 +15637,7 @@ DOMAIN-SUFFIX,dlsitestudio.com
 DOMAIN-SUFFIX,dm-event.net
 DOMAIN-SUFFIX,dmed.technology
 DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
+DOMAIN-SUFFIX,dmir.ru
 DOMAIN-SUFFIX,dmit.io
 DOMAIN-SUFFIX,dmit.sh
 DOMAIN-SUFFIX,dml-lang.org
@@ -15861,6 +15873,7 @@ DOMAIN-SUFFIX,drmario-world.com
 DOMAIN-SUFFIX,drnastran.com
 DOMAIN-SUFFIX,drns.ac.uk
 DOMAIN-SUFFIX,drobbox.pro
+DOMAIN-SUFFIX,drom.ru
 DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,dropbox.tech
 DOMAIN-SUFFIX,dropboxbusiness.com
@@ -26199,6 +26212,7 @@ DOMAIN-SUFFIX,nypostreprints.com
 DOMAIN-SUFFIX,nyt.net
 DOMAIN-SUFFIX,nyu.ac.uk
 DOMAIN-SUFFIX,o-courier.ru
+DOMAIN-SUFFIX,o-uchi.ru
 DOMAIN-SUFFIX,o2action.co.kr
 DOMAIN-SUFFIX,o3.ru
 DOMAIN-SUFFIX,o365weve-dev.com
@@ -27774,6 +27788,7 @@ DOMAIN-SUFFIX,postyourgirls.ws
 DOMAIN-SUFFIX,potenza.jp
 DOMAIN-SUFFIX,potteries.ac.uk
 DOMAIN-SUFFIX,potterieseducationaltrust.ac.uk
+DOMAIN-SUFFIX,poudobnee.com
 DOMAIN-SUFFIX,poverty.ac.uk
 DOMAIN-SUFFIX,povpornonly.com
 DOMAIN-SUFFIX,povr.com
@@ -28386,6 +28401,7 @@ DOMAIN-SUFFIX,rdi.ac.uk
 DOMAIN-SUFFIX,rdio.com
 DOMAIN-SUFFIX,rdmrsc.ac.uk
 DOMAIN-SUFFIX,rdnet.ac.uk
+DOMAIN-SUFFIX,rdrom.ru
 DOMAIN-SUFFIX,rds-yes.buzz
 DOMAIN-SUFFIX,re-net.ac.uk
 DOMAIN-SUFFIX,re25.vip
@@ -28459,6 +28475,7 @@ DOMAIN-SUFFIX,realteengirls.com
 DOMAIN-SUFFIX,realtor.com
 DOMAIN-SUFFIX,realtype.co.jp
 DOMAIN-SUFFIX,realtype.jp
+DOMAIN-SUFFIX,realtyverif.ru
 DOMAIN-SUFFIX,realvision.com
 DOMAIN-SUFFIX,realviz.com
 DOMAIN-SUFFIX,realzoomovies.com
@@ -32311,6 +32328,7 @@ DOMAIN-SUFFIX,ucf.ac.uk
 DOMAIN-SUFFIX,ucfb.ac.uk
 DOMAIN-SUFFIX,ucg.ac.uk
 DOMAIN-SUFFIX,uchi.ru
+DOMAIN-SUFFIX,uchilk.ru
 DOMAIN-SUFFIX,ucisa.ac.uk
 DOMAIN-SUFFIX,ucl-status.ac.uk
 DOMAIN-SUFFIX,ucl.ac.uk
@@ -34449,6 +34467,7 @@ DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com
 DOMAIN-SUFFIX,xn----8sbeoy5bze.com
 DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
 DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
+DOMAIN-SUFFIX,xn----otbzjdu.xn--p1ai
 DOMAIN-SUFFIX,xn--096-4g6em5t.com
 DOMAIN-SUFFIX,xn--201-4g6em5t.com
 DOMAIN-SUFFIX,xn--202-4g6em5t.com
@@ -34465,7 +34484,9 @@ DOMAIN-SUFFIX,xn--74q434dwff.com
 DOMAIN-SUFFIX,xn--74q434dwff.net
 DOMAIN-SUFFIX,xn--7hv594h.com
 DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai
+DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
 DOMAIN-SUFFIX,xn--80aaazx1an0a.lol
+DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
 DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
@@ -35105,6 +35126,7 @@ DOMAIN-SUFFIX,ymca.ac.uk
 DOMAIN-SUFFIX,ymhsf.top
 DOMAIN-SUFFIX,ymhsf1.top
 DOMAIN-SUFFIX,ync.ne.jp
+DOMAIN-SUFFIX,yndx.net
 DOMAIN-SUFFIX,ynoproject.net
 DOMAIN-SUFFIX,yo-star.com
 DOMAIN-SUFFIX,yo1health.com
