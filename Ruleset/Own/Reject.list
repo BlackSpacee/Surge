@@ -8,7 +8,7 @@
 # USER-AGENT: 1
 # URL-REGEX: 3
 # TOTAL: 6707
-# UPDATED: 2026-08-01 03:43:57
+# UPDATED: 2026-08-01 11:36:31
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1289,9 +1289,6 @@ DOMAIN,ads.finance.yahoo.com
 DOMAIN,ads.yahoo.com
 DOMAIN,ads.yahoo.de
 # (Z)
-# > Zhihu
-USER-AGENT,AVOS*
-DOMAIN,118.89.204.198
 # > ZOL
 DOMAIN,apppv.zol.com.cn
 DOMAIN,pvnapp.zol.com.cn
@@ -1893,6 +1890,7 @@ IP-CIDR6,240e:928:1400:10::25/128,no-resolve
 ############################################################# 这是第五条分割线 #############################################################
 # 规则名称: Reject
 # 规则统计: 6210
+DOMAIN,118.89.204.198
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn
 DOMAIN,msmp.abchina.com.cn
 DOMAIN-SUFFIX,003store.com
@@ -6944,4 +6942,5 @@ IP-CIDR,194.59.220.161/32,no-resolve
 IP-CIDR,205.209.138.102/32,no-resolve
 IP-CIDR,23.231.151.252/32,no-resolve
 IP-CIDR,60.190.139.164/32,no-resolve
+USER-AGENT,AVOS*
 AND,((DOMAIN-KEYWORD,stun),(DOMAIN-KEYWORD,bilibili))
