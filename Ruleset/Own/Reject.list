@@ -1,14 +1,13 @@
 # NAME: Reject
 # AND: 1
-# DOMAIN: 483
+# DOMAIN: 482
 # DOMAIN-SUFFIX: 5997
 # DOMAIN-KEYWORD: 163
 # IP-CIDR: 55
 # IP-CIDR6: 4
-# USER-AGENT: 1
 # URL-REGEX: 3
-# TOTAL: 6707
-# UPDATED: 2026-08-01 16:29:38
+# TOTAL: 6705
+# UPDATED: 2026-08-01 21:43:33
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1889,8 +1888,7 @@ IP-CIDR6,240e:928:1400:10::25/128,no-resolve
 ################## EOF ##################
 ############################################################# 这是第五条分割线 #############################################################
 # 规则名称: Reject
-# 规则统计: 6210
-DOMAIN,118.89.204.198
+# 规则统计: 6203
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn
 DOMAIN,msmp.abchina.com.cn
 DOMAIN-SUFFIX,003store.com
@@ -6942,5 +6940,4 @@ IP-CIDR,194.59.220.161/32,no-resolve
 IP-CIDR,205.209.138.102/32,no-resolve
 IP-CIDR,23.231.151.252/32,no-resolve
 IP-CIDR,60.190.139.164/32,no-resolve
-USER-AGENT,AVOS*
 AND,((DOMAIN-KEYWORD,stun),(DOMAIN-KEYWORD,bilibili))
