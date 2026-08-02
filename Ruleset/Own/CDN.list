@@ -1,20 +1,20 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4567
+# DOMAIN-SUFFIX: 4569
 # DOMAIN-KEYWORD: 21
-# TOTAL: 4593
-# UPDATED: 2026-08-02 11:36:30
+# TOTAL: 4595
+# UPDATED: 2026-08-02 16:32:45
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-08-01T12:14:54.344Z
-# Size: 4567
+# Last Updated: 2026-08-02T09:45:05.519Z
+# Size: 4569
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
-# $content-hash-v1$:YyAnjEMRzgjPEsK8K_FAhKBkqvvY5L6etDrhNRItbuw$
+# $content-hash-v1$:Po1lBS34OEKNjwYal5wnlVKueUwZSSjKv-9DcLUrwDs$
 DOMAIN-SUFFIX,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 DOMAIN-SUFFIX,0x0.st
 DOMAIN-SUFFIX,eep.io
@@ -1956,6 +1956,7 @@ DOMAIN-SUFFIX,lm.visualon.info
 DOMAIN-SUFFIX,magic.scalar.com
 DOMAIN-SUFFIX,mangadex.network
 DOMAIN-SUFFIX,maps.gstatic.com
+DOMAIN-SUFFIX,maps.hereapi.com
 DOMAIN-SUFFIX,maps.wplace.live
 DOMAIN-SUFFIX,mcdns.vrporn.com
 DOMAIN-SUFFIX,media-amazon.com
@@ -4338,6 +4339,7 @@ DOMAIN-SUFFIX,checkout-sdk.bigcommerce.com
 DOMAIN-SUFFIX,cms-assets.webediamovies.pro
 DOMAIN-SUFFIX,code.buywithprime.amazon.com
 DOMAIN-SUFFIX,components.cyclingfactory.be
+DOMAIN-SUFFIX,connectcache20.azureedge.net
 DOMAIN-SUFFIX,csp-reporting.cloudflare.com
 DOMAIN-SUFFIX,doppler-config.cbsivideo.com
 DOMAIN-SUFFIX,fastly-cloud.typenetwork.com
