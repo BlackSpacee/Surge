@@ -1,24 +1,24 @@
 # NAME: Global
 # DOMAIN: 146
-# DOMAIN-SUFFIX: 35261
+# DOMAIN-SUFFIX: 35271
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35621
-# UPDATED: 2026-08-03 17:59:12
+# TOTAL: 35631
+# UPDATED: 2026-08-03 22:55:52
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-07-31T17:36:02.148Z
-# Size: 1269
+# Last Updated: 2026-08-03T18:48:52.206Z
+# Size: 1270
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are NOT available inside the Mainland China.
-# $content-hash-v1$:2xBcJy754Xc5Rv4GdlUTYG-qRaeZ_2W7WW-9_GeOJHU$
+# $content-hash-v1$:6OraxeJQNo9v4FPMxuFqvCuByqqZ_5H6jJFtRPYEH7w$
 DOMAIN,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 DOMAIN-SUFFIX,ac
 DOMAIN-SUFFIX,ai
@@ -1209,6 +1209,7 @@ DOMAIN-SUFFIX,redbullracing.com
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,thaiheadlines.com
+DOMAIN-SUFFIX,trainingpeaks.com
 DOMAIN-SUFFIX,trycloudflare.com
 DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,wikifunctions.org
@@ -7663,7 +7664,7 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-01 03:15:08
+# UPDATED: 2026-08-04 03:25:57
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
 # DOMAIN-SUFFIX: 6757
@@ -7749,10 +7750,12 @@ DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,celestrak.com
 DOMAIN-SUFFIX,census.gov
+DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,cg.play-analytics.com
 DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,chinatimes.com
 DOMAIN-SUFFIX,chonglangtv.org
+DOMAIN-SUFFIX,cht.com.tw
 DOMAIN-SUFFIX,cia.gov
 DOMAIN-SUFFIX,circle19.org
 DOMAIN-SUFFIX,cl.ly
@@ -7967,7 +7970,6 @@ DOMAIN-SUFFIX,moomooequity.com
 DOMAIN-SUFFIX,moomootrustee.com
 DOMAIN-SUFFIX,mosavi.io
 DOMAIN-SUFFIX,moves-export.com
-DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,myfontastic.com
 DOMAIN-SUFFIX,mytvsuper.com
@@ -7987,6 +7989,7 @@ DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,novafile.com
+DOMAIN-SUFFIX,nthlink.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,onenote.com
@@ -8036,7 +8039,6 @@ DOMAIN-SUFFIX,pullfolio.co
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,radio.co
-DOMAIN-SUFFIX,radiojar.com
 DOMAIN-SUFFIX,raphael.app
 DOMAIN-SUFFIX,rawstory.com
 DOMAIN-SUFFIX,recordedfuture.com
@@ -8171,7 +8173,6 @@ DOMAIN-SUFFIX,workflow.is
 DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,wr.pvp.net
-DOMAIN-SUFFIX,www.clashverge.dev
 DOMAIN-SUFFIX,xcancel.com
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
@@ -8230,14 +8231,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-08-01 03:14:47
+# UPDATED: 2026-08-04 03:25:35
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34613
+# DOMAIN-SUFFIX: 34622
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34940
+# TOTAL: 34949
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -9057,6 +9058,7 @@ DOMAIN-SUFFIX,acrobat.com
 DOMAIN-SUFFIX,acsis.ac.uk
 DOMAIN-SUFFIX,actalis.com
 DOMAIN-SUFFIX,actalis.it
+DOMAIN-SUFFIX,actifio.com
 DOMAIN-SUFFIX,activatelearning.ac.uk
 DOMAIN-SUFFIX,activelearnprimary.co.uk
 DOMAIN-SUFFIX,activelearnprimary.com.au
@@ -13748,7 +13750,6 @@ DOMAIN-SUFFIX,cepacol.com
 DOMAIN-SUFFIX,ceramics-cadcam.com
 DOMAIN-SUFFIX,cercia.ac.uk
 DOMAIN-SUFFIX,cerdas.com
-DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,ceredigion.ac.uk
 DOMAIN-SUFFIX,ceri.ac.uk
 DOMAIN-SUFFIX,cerlim.ac.uk
@@ -13977,7 +13978,6 @@ DOMAIN-SUFFIX,chronicle.security
 DOMAIN-SUFFIX,chroniclesec.com
 DOMAIN-SUFFIX,chrysaliscourses.ac.uk
 DOMAIN-SUFFIX,chs.ac.uk
-DOMAIN-SUFFIX,cht.com.tw
 DOMAIN-SUFFIX,chtf.org.tw
 DOMAIN-SUFFIX,chuangb15.xyz
 DOMAIN-SUFFIX,chubbypornonly.com
@@ -21769,7 +21769,10 @@ DOMAIN-SUFFIX,jessicaturner.com
 DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,jetbrains.cloud
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.dev
 DOMAIN-SUFFIX,jetbrains.net
+DOMAIN-SUFFIX,jetbrains.org
+DOMAIN-SUFFIX,jetbrains.ru
 DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,jetfuelapp.com
@@ -22350,6 +22353,8 @@ DOMAIN-SUFFIX,korona.com
 DOMAIN-SUFFIX,koshelek.app
 DOMAIN-SUFFIX,koskade.com
 DOMAIN-SUFFIX,kostenlosepornoclips.com
+DOMAIN-SUFFIX,kotl.in
+DOMAIN-SUFFIX,kotlinconf.com
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,koubaibu.jp
 DOMAIN-SUFFIX,koukoku.jp
@@ -22376,6 +22381,7 @@ DOMAIN-SUFFIX,kssacademy.ac.uk
 DOMAIN-SUFFIX,kssdeanery.ac.uk
 DOMAIN-SUFFIX,ksyp10.com
 DOMAIN-SUFFIX,ktech.team
+DOMAIN-SUFFIX,ktor.io
 DOMAIN-SUFFIX,ktvu.com
 DOMAIN-SUFFIX,ku77.xyz
 DOMAIN-SUFFIX,kuaimao-app.com
@@ -24636,6 +24642,7 @@ DOMAIN-SUFFIX,mozgcp.net
 DOMAIN-SUFFIX,mozilla-europe.org
 DOMAIN-SUFFIX,mozilla-hispano.org
 DOMAIN-SUFFIX,mozilla-mexico.org
+DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.cz
 DOMAIN-SUFFIX,mozilla.de
@@ -24931,6 +24938,7 @@ DOMAIN-SUFFIX,myhtlmebook.com
 DOMAIN-SUFFIX,myhulu.com
 DOMAIN-SUFFIX,myicloud.net
 DOMAIN-SUFFIX,myipod.net
+DOMAIN-SUFFIX,myjetbrains.com
 DOMAIN-SUFFIX,myjkwd.com
 DOMAIN-SUFFIX,mylabnotebook.ac.uk
 DOMAIN-SUFFIX,mylcb.ac.uk
@@ -26513,6 +26521,7 @@ DOMAIN-SUFFIX,openvinotoolkit.org
 DOMAIN-SUFFIX,openweather.co.uk
 DOMAIN-SUFFIX,openweathermap.org
 DOMAIN-SUFFIX,openweave.io
+DOMAIN-SUFFIX,openxla.org
 DOMAIN-SUFFIX,opera-archive.ac.uk
 DOMAIN-SUFFIX,opera-mini.net
 DOMAIN-SUFFIX,opinionjournal.com
@@ -31270,6 +31279,7 @@ DOMAIN-SUFFIX,talantix.ru
 DOMAIN-SUFFIX,talentlens.com
 DOMAIN-SUFFIX,taleofthenight.com
 DOMAIN-SUFFIX,talkinghealthmatters.ac.uk
+DOMAIN-SUFFIX,talkingkotlin.com
 DOMAIN-SUFFIX,talksport.com
 DOMAIN-SUFFIX,tamescol.ac.uk
 DOMAIN-SUFFIX,tameside-acl.ac.uk
