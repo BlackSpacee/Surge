@@ -1,16 +1,16 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-08-04T15:40:21.299Z
-# Size: 4572
+# Last Updated: 2026-08-05T12:33:04.691Z
+# Size: 4577
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #
-# $content-hash-v1$:17WLpGDJl1Y-3mQXztb58GJxVQpAdiaYsztRGq8kdOU$
+# $content-hash-v1$:k9faeG2BtOyWf1Et34Ja8h2muexsBXzkpgib2qpP9CY$
 #########################################
-DOMAIN-SUFFIX,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
+DOMAIN-SUFFIX,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,0x0.st
 DOMAIN-SUFFIX,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -3078,6 +3078,7 @@ DOMAIN-SUFFIX,assets.zerohedge.com
 DOMAIN-SUFFIX,attach2.mobile01.com
 DOMAIN-SUFFIX,avatars.dicebear.com
 DOMAIN-SUFFIX,avatars.dzeninfra.ru
+DOMAIN-SUFFIX,basemap.beacondb.net
 DOMAIN-SUFFIX,bcdn.starapps.studio
 DOMAIN-SUFFIX,bcmedia.bitchute.com
 DOMAIN-SUFFIX,boards.greenhouse.io
@@ -3307,6 +3308,7 @@ DOMAIN-SUFFIX,thecontentserver.com
 DOMAIN-SUFFIX,thumbnail.missav.com
 DOMAIN-SUFFIX,thumbnails.cbsig.net
 DOMAIN-SUFFIX,tile.opentopomap.org
+DOMAIN-SUFFIX,tiles.locationiq.com
 DOMAIN-SUFFIX,tiles.mapterhorn.com
 DOMAIN-SUFFIX,tiles.openseamap.org
 DOMAIN-SUFFIX,tiles.openskimap.org
@@ -3561,6 +3563,7 @@ DOMAIN-SUFFIX,www-cdn.anthropic.com
 DOMAIN-SUFFIX,www-res.cablelabs.com
 DOMAIN-SUFFIX,yammerusercontent.com
 DOMAIN-SUFFIX,3dna.nationbuilder.com
+DOMAIN-SUFFIX,a-tiles.locationiq.com
 DOMAIN-SUFFIX,account-cdn.svc.ui.com
 DOMAIN-SUFFIX,api.pwnedpasswords.com
 DOMAIN-SUFFIX,assets-cdn.abcnews.com
@@ -3584,8 +3587,10 @@ DOMAIN-SUFFIX,avatar.stefanjudis.com
 DOMAIN-SUFFIX,avatar2.bahamut.com.tw
 DOMAIN-SUFFIX,avatars.mds.yandex.net
 DOMAIN-SUFFIX,az700632.vo.msecnd.net
+DOMAIN-SUFFIX,b-tiles.locationiq.com
 DOMAIN-SUFFIX,backinstock.useamp.com
 DOMAIN-SUFFIX,brick.a.ssl.fastly.net
+DOMAIN-SUFFIX,c-tiles.locationiq.com
 DOMAIN-SUFFIX,cache-05.filehippo.net
 DOMAIN-SUFFIX,cached.rebuyengine.com
 DOMAIN-SUFFIX,cdn-c.leavemealone.com
