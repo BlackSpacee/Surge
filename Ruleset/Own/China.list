@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 128746
-# UPDATED: 2026-08-08 03:06:13
+# UPDATED: 2026-08-08 10:04:59
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -246,9 +246,10 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Size: 868
+# Last Updated: 2026-08-08T06:31:42.029Z
+# Size: 869
 # This file contains known addresses that are avaliable in the Mainland China.
-# $content-hash-v1$:s6uEBZDB7N3h-F9Ba9IsgqivlnRzGYyHOblC3bWuy1w$
+# $content-hash-v1$:T_za7NN7pWO6RMdaJduvv6ssx377hsJAKf_gBeOSZrA$
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,t.cn
@@ -931,6 +932,7 @@ DOMAIN-SUFFIX,bytecdntp.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,caiyuncdn.com
 DOMAIN-SUFFIX,camera360.com
 DOMAIN-SUFFIX,chaoxingv.com
 DOMAIN-SUFFIX,chazidian.com
@@ -27209,7 +27211,6 @@ DOMAIN-SUFFIX,caixinonline.com
 DOMAIN-SUFFIX,caiyicloud.com
 DOMAIN-SUFFIX,caiyiduo.com
 DOMAIN-SUFFIX,caiyuemedical.com
-DOMAIN-SUFFIX,caiyuncdn.com
 DOMAIN-SUFFIX,caiyunhub.com
 DOMAIN-SUFFIX,caiyunyi.com
 DOMAIN-SUFFIX,caizhaowang.com
