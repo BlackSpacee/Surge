@@ -1,13 +1,13 @@
 # NAME: Reject
 # AND: 1
-# DOMAIN: 482
-# DOMAIN-SUFFIX: 5997
+# DOMAIN: 481
+# DOMAIN-SUFFIX: 5998
 # DOMAIN-KEYWORD: 163
 # IP-CIDR: 55
 # IP-CIDR6: 4
 # URL-REGEX: 3
 # TOTAL: 6705
-# UPDATED: 2026-08-09 15:06:02
+# UPDATED: 2026-08-09 21:05:12
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,7 +1498,7 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2026-08-05T12:33:03.771Z
+# Last Updated: 2026-08-09T16:01:35.176Z
 # Size: 370
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -1529,9 +1529,10 @@ DOMAIN,track.tenjin.io
 #   - https://ublockorigin.pages.dev/thirdparties/easylist-cookies.txt
 #   - https://ublockorigin.pages.dev/thirdparties/easylist-newsletters.txt
 #   - https://ublockorigin.pages.dev/thirdparties/easylist-notifications.txt
-# $content-hash-v1$:kqO46drov9P233MCVJmxr5BMH3Rm9BrwEzWTb2n8b5Y$
+# $content-hash-v1$:TI2f7_KaaHNeBF_3PqL1Z5Exu2XSI0LIXSmVngobkfM$
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,data
+DOMAIN-SUFFIX,api.bz
 DOMAIN-SUFFIX,bgp.co
 DOMAIN-SUFFIX,hola.hk
 DOMAIN-SUFFIX,hola.ph
@@ -1558,7 +1559,6 @@ DOMAIN-SUFFIX,lum-ext.io
 DOMAIN-SUFFIX,lum-int.io
 DOMAIN-SUFFIX,lum-sdk.io
 DOMAIN-SUFFIX,moebgp.com
-DOMAIN,ntp.api.bz
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,shengen.ru
 DOMAIN-SUFFIX,whoisit.co
