@@ -1,20 +1,20 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4607
+# DOMAIN-SUFFIX: 4615
 # DOMAIN-KEYWORD: 22
-# TOTAL: 4634
-# UPDATED: 2026-08-10 15:54:26
+# TOTAL: 4642
+# UPDATED: 2026-08-10 21:24:03
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-08-09T16:01:36.426Z
-# Size: 4607
+# Last Updated: 2026-08-10T15:21:05.144Z
+# Size: 4615
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
-# $content-hash-v1$:1XgFH58x_WKxtN4S8U3P2R7tAXgvSgLy6RjIzpSSDUo$
+# $content-hash-v1$:r5aeT0uDrYyNh6y9zoJfc87mWPt6hs1DoZaU7URmC0w$
 DOMAIN-SUFFIX,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,0x0.st
 DOMAIN-SUFFIX,eep.io
@@ -499,6 +499,7 @@ DOMAIN-SUFFIX,imagehub.cc
 DOMAIN-SUFFIX,img.agrd.eu
 DOMAIN-SUFFIX,img.skk.moe
 DOMAIN-SUFFIX,img.toto.im
+DOMAIN-SUFFIX,imgcdn8.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,imglink.win
 DOMAIN-SUFFIX,imgsmail.ru
@@ -1566,6 +1567,7 @@ DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,fonts.bunny.net
 DOMAIN-SUFFIX,fonts.gishan.cc
 DOMAIN-SUFFIX,fonts.upset.dev
+DOMAIN-SUFFIX,fonts.wd40.info
 DOMAIN-SUFFIX,gannett-cdn.com
 DOMAIN-SUFFIX,gauthstatic.com
 DOMAIN-SUFFIX,gdb.voanews.com
@@ -1624,6 +1626,7 @@ DOMAIN-SUFFIX,media.giphy.com
 DOMAIN-SUFFIX,media.licdn.com
 DOMAIN-SUFFIX,media.smooch.io
 DOMAIN-SUFFIX,media.tenor.com
+DOMAIN-SUFFIX,media.wd40.asia
 DOMAIN-SUFFIX,media.webtoo.ls
 DOMAIN-SUFFIX,media.wired.com
 DOMAIN-SUFFIX,metrics.kapa.ai
@@ -1783,6 +1786,7 @@ DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,bugly.qcloud.com
 DOMAIN-SUFFIX,bundlephobia.com
 DOMAIN-SUFFIX,cache.ip-api.com
+DOMAIN-SUFFIX,cache.sgvafs.com
 DOMAIN-SUFFIX,capcutstatic.com
 DOMAIN-SUFFIX,cdn-1.porn87.com
 DOMAIN-SUFFIX,cdn-1.strava.com
@@ -1888,6 +1892,7 @@ DOMAIN-SUFFIX,gateway.scarf.sh
 DOMAIN-SUFFIX,getaroom-cdn.com
 DOMAIN-SUFFIX,gis.pinkbike.org
 DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,glass.adidas.com
 DOMAIN-SUFFIX,glyph.medium.com
 DOMAIN-SUFFIX,gravatar.cat.net
@@ -2418,6 +2423,8 @@ DOMAIN-SUFFIX,static.tumblr.com
 DOMAIN-SUFFIX,static.vinted.com
 DOMAIN-SUFFIX,static.vocadb.net
 DOMAIN-SUFFIX,static.zaobao.com
+DOMAIN-SUFFIX,status.claude.com
+DOMAIN-SUFFIX,status.openai.com
 DOMAIN-SUFFIX,stbff.newfold.com
 DOMAIN-SUFFIX,steemitimages.com
 DOMAIN-SUFFIX,storage.ko-fi.com
@@ -3161,6 +3168,7 @@ DOMAIN-SUFFIX,cdn9.bigcommerce.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,chart.googleapis.com
 DOMAIN-SUFFIX,cloud.influxdata.com
+DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudinary.vpsvc.com
 DOMAIN-SUFFIX,cms.socialinsider.io
