@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 146
-# DOMAIN-SUFFIX: 35323
+# DOMAIN-SUFFIX: 35326
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35683
-# UPDATED: 2026-08-11 10:11:46
+# TOTAL: 35686
+# UPDATED: 2026-08-11 15:18:08
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7664,14 +7664,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-04 03:25:57
+# UPDATED: 2026-08-12 02:54:20
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6757
+# DOMAIN-SUFFIX: 6760
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6897
+# TOTAL: 6900
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7694,6 +7694,7 @@ DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,adult.friendfinder.com
 DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aihub.top
 DOMAIN-SUFFIX,airuniversity.af.edu
 DOMAIN-SUFFIX,akile.io
 DOMAIN-SUFFIX,alfredapp.com
@@ -7789,6 +7790,7 @@ DOMAIN-SUFFIX,digitaltrends.com
 DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,disq.us
 DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,divdyn.com
 DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,dns.sb
 DOMAIN-SUFFIX,dnsimple.com
@@ -7805,6 +7807,7 @@ DOMAIN-SUFFIX,easybib.com
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,edigest.hk
 DOMAIN-SUFFIX,entrust.net
+DOMAIN-SUFFIX,esim.redteago.com
 DOMAIN-SUFFIX,even.stream
 DOMAIN-SUFFIX,evernote.com
 DOMAIN-SUFFIX,expressnews.com
@@ -8231,14 +8234,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-08-08 02:46:58
+# UPDATED: 2026-08-12 02:53:57
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34676
+# DOMAIN-SUFFIX: 34679
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 35003
+# TOTAL: 35006
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
