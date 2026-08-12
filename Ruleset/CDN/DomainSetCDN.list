@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-08-10T23:08:53.341Z
-# Size: 4618
+# Last Updated: 2026-08-12T18:15:16.115Z
+# Size: 4624
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #
-# $content-hash-v1$:G6fA96ODt7s7Dt-ty6aXKoWIdKloYkHTDD5TyJWj-Bw$
+# $content-hash-v1$:J15pPSvWz9zcmdGcQo0XsNv3WhzYEWgHZaMsO2NcI2U$
 #########################################
 DOMAIN-SUFFIX,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,0x0.st
@@ -421,6 +421,7 @@ DOMAIN-SUFFIX,cdn.css.net
 DOMAIN-SUFFIX,cdn.cuty.io
 DOMAIN-SUFFIX,cdn.fera.ai
 DOMAIN-SUFFIX,cdn.gist.ai
+DOMAIN-SUFFIX,cdn.id.life
 DOMAIN-SUFFIX,cdn.mer.run
 DOMAIN-SUFFIX,cdn.mida.so
 DOMAIN-SUFFIX,cdn.nba.com
@@ -1459,6 +1460,7 @@ DOMAIN-SUFFIX,cdn.adguard.com
 DOMAIN-SUFFIX,cdn.adsninja.ca
 DOMAIN-SUFFIX,cdn.apponic.com
 DOMAIN-SUFFIX,cdn.aptoide.com
+DOMAIN-SUFFIX,cdn.bitrix24.eu
 DOMAIN-SUFFIX,cdn.bsky.social
 DOMAIN-SUFFIX,cdn.craft.cloud
 DOMAIN-SUFFIX,cdn.daradara.me
@@ -2292,6 +2294,7 @@ DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,images.carfax.com
 DOMAIN-SUFFIX,images.mattel.net
+DOMAIN-SUFFIX,images.motion.dev
 DOMAIN-SUFFIX,images.now-tv.com
 DOMAIN-SUFFIX,images.nvidia.com
 DOMAIN-SUFFIX,images.pexels.com
@@ -2380,6 +2383,7 @@ DOMAIN-SUFFIX,signal.cdnbye.com
 DOMAIN-SUFFIX,simplecastcdn.com
 DOMAIN-SUFFIX,slidesharecdn.com
 DOMAIN-SUFFIX,sp.streamlabs.com
+DOMAIN-SUFFIX,spaceship-cdn.com
 DOMAIN-SUFFIX,st.codeforces.com
 DOMAIN-SUFFIX,st.deviantart.net
 DOMAIN-SUFFIX,static-id.fc2.com
@@ -3308,6 +3312,7 @@ DOMAIN-SUFFIX,static.incapsula.com
 DOMAIN-SUFFIX,static.infomaniak.ch
 DOMAIN-SUFFIX,static.macupdate.com
 DOMAIN-SUFFIX,static.mediafire.com
+DOMAIN-SUFFIX,static.meteoblue.com
 DOMAIN-SUFFIX,static.mocortech.com
 DOMAIN-SUFFIX,static.newsbreak.com
 DOMAIN-SUFFIX,static.parallels.com
@@ -4249,6 +4254,7 @@ DOMAIN-SUFFIX,images3.cmp.optimizely.com
 DOMAIN-SUFFIX,images4.cmp.optimizely.com
 DOMAIN-SUFFIX,imgssl.constantcontact.com
 DOMAIN-SUFFIX,launchercontent.mojang.com
+DOMAIN-SUFFIX,maps-api-cdn.meteoblue.com
 DOMAIN-SUFFIX,mgx-backend-cdn.metadl.com
 DOMAIN-SUFFIX,mobilecenter.azureedge.net
 DOMAIN-SUFFIX,myanalytics.cdn.office.net
