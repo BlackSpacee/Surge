@@ -1,14 +1,14 @@
 # NAME: China
 # DOMAIN: 366
-# DOMAIN-SUFFIX: 111854
+# DOMAIN-SUFFIX: 111855
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12179
+# IP-CIDR: 12180
 # IP-CIDR6: 4198
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 128749
-# UPDATED: 2026-08-14 10:29:41
+# TOTAL: 128751
+# UPDATED: 2026-08-14 15:41:25
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -73,9 +73,10 @@ DOMAIN,setmeup.arubanetworks.com
 ################## EOF ##################
 ############################################################# 这是第一条分割线 #############################################################
 # Sukka's Ruleset - Direct Rules
-# Size: 222
+# Last Updated: 2026-08-14T11:27:06.562Z
+# Size: 223
 # This file contains domains and process that should not be proxied.
-# $content-hash-v1$:XFcFC4bongTMmQpMQ8WSJwx_is3aucuRbD9BqnBnCYA$
+# $content-hash-v1$:l2wStpjwYHdII8YiXiRGwUOpcgS2RedyffJ40t2ohzE$
 DOMAIN-SUFFIX,m2m
 DOMAIN-SUFFIX,bogon
 DOMAIN-SUFFIX,msg.vg
@@ -179,6 +180,7 @@ DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,aidoru-online.me
 DOMAIN-SUFFIX,cinemageddon.net
+DOMAIN-SUFFIX,collegeboard.org
 DOMAIN-SUFFIX,gazellegames.net
 DOMAIN-SUFFIX,myanonamouse.net
 DOMAIN-SUFFIX,researchgate.net
@@ -1119,12 +1121,12 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-08-14T06:44:11.018Z
-# Size: 3914
+# Last Updated: 2026-08-14T11:27:07.506Z
+# Size: 3915
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
-# $content-hash-v1$:CUHSBQFvPcXAu_H7PlgPInXFyaE5Z04EumRuv-cr32E$
+# $content-hash-v1$:P-1W5ilBc4jkMFaEG45WyxEQIr_5483IkwAC7wGJEVI$
 IP-CIDR,1.1.8.0/24
 IP-CIDR,1.2.4.0/24
 IP-CIDR,1.8.1.0/24
@@ -4955,6 +4957,7 @@ IP-CIDR,222.126.236.0/23
 IP-CIDR,222.126.240.0/20
 IP-CIDR,222.128.0.0/12
 IP-CIDR,222.160.0.0/14
+IP-CIDR,222.167.160.0/23
 IP-CIDR,222.168.0.0/13
 IP-CIDR,222.176.0.0/12
 IP-CIDR,222.192.0.0/11
