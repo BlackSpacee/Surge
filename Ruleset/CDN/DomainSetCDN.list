@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-08-14T12:22:28.498Z
-# Size: 4627
+# Last Updated: 2026-08-20T15:29:43.566Z
+# Size: 4626
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #
-# $content-hash-v1$:gsD3DZWCGEeVoR1Qx8rLAoiLIAmF2H72mQqN4zsraik$
+# $content-hash-v1$:SdxAGDdJ2dzV0Zkvr8FFrZjTxM-RKFjmVKgDTUaQR60$
 #########################################
 DOMAIN-SUFFIX,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,0x0.st
@@ -553,7 +553,6 @@ DOMAIN-SUFFIX,reactjs.org
 DOMAIN-SUFFIX,s.gishan.cc
 DOMAIN-SUFFIX,s.imgur.com
 DOMAIN-SUFFIX,s.plurk.com
-DOMAIN-SUFFIX,s3.aaaaa.io
 DOMAIN-SUFFIX,s3.masto.ai
 DOMAIN-SUFFIX,skypack.dev
 DOMAIN-SUFFIX,smilecdn.co
@@ -1480,6 +1479,7 @@ DOMAIN-SUFFIX,cdn.iporntv.net
 DOMAIN-SUFFIX,cdn.javmiku.com
 DOMAIN-SUFFIX,cdn.jetboost.io
 DOMAIN-SUFFIX,cdn.jolipage.co
+DOMAIN-SUFFIX,cdn.leonardo.ai
 DOMAIN-SUFFIX,cdn.mathjax.org
 DOMAIN-SUFFIX,cdn.mcp-use.com
 DOMAIN-SUFFIX,cdn.mercury.com
@@ -1566,6 +1566,7 @@ DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,fonts.bunny.net
 DOMAIN-SUFFIX,fonts.gishan.cc
+DOMAIN-SUFFIX,fonts.reown.com
 DOMAIN-SUFFIX,fonts.upset.dev
 DOMAIN-SUFFIX,fonts.wd40.info
 DOMAIN-SUFFIX,gannett-cdn.com
@@ -1676,7 +1677,6 @@ DOMAIN-SUFFIX,sprig.figma.com
 DOMAIN-SUFFIX,ssl.gstatic.com
 DOMAIN-SUFFIX,stack.imgur.com
 DOMAIN-SUFFIX,stackassets.com
-DOMAIN-SUFFIX,static.bad.news
 DOMAIN-SUFFIX,static.blip.net
 DOMAIN-SUFFIX,static.fboom.me
 DOMAIN-SUFFIX,static.ietf.org
@@ -1812,6 +1812,7 @@ DOMAIN-SUFFIX,cdn.equalweb.com
 DOMAIN-SUFFIX,cdn.firebase.com
 DOMAIN-SUFFIX,cdn.foxycart.com
 DOMAIN-SUFFIX,cdn.getkoala.com
+DOMAIN-SUFFIX,cdn.getmerlin.in
 DOMAIN-SUFFIX,cdn.ghostery.com
 DOMAIN-SUFFIX,cdn.gofundme.com
 DOMAIN-SUFFIX,cdn.hashnode.com
@@ -2478,7 +2479,6 @@ DOMAIN-SUFFIX,assets.jolipage.co
 DOMAIN-SUFFIX,assets.mailgun.com
 DOMAIN-SUFFIX,assets.nflxext.com
 DOMAIN-SUFFIX,assets.nxtrace.org
-DOMAIN-SUFFIX,assets.onestore.ms
 DOMAIN-SUFFIX,assets.ontrack.com
 DOMAIN-SUFFIX,assets.pingone.com
 DOMAIN-SUFFIX,assets.porndig.com
@@ -2510,7 +2510,6 @@ DOMAIN-SUFFIX,cdn.boldmethod.com
 DOMAIN-SUFFIX,cdn.britannica.com
 DOMAIN-SUFFIX,cdn.bullwhip.cloud
 DOMAIN-SUFFIX,cdn.cmcmarkets.com
-DOMAIN-SUFFIX,cdn.commandbar.com
 DOMAIN-SUFFIX,cdn.contentful.com
 DOMAIN-SUFFIX,cdn.convertbox.com
 DOMAIN-SUFFIX,cdn.conveythis.com
@@ -4172,6 +4171,7 @@ DOMAIN-SUFFIX,push.services.mozilla.com
 DOMAIN-SUFFIX,ravencoinipfs-gateway.com
 DOMAIN-SUFFIX,report-uri.cloudflare.com
 DOMAIN-SUFFIX,resource.tnlmediagene.com
+DOMAIN-SUFFIX,s3.beta.coinmarketcap.com
 DOMAIN-SUFFIX,scripts.scriptwrapper.com
 DOMAIN-SUFFIX,simplicity.trustpilot.com
 DOMAIN-SUFFIX,smartscreen.microsoft.com
@@ -4600,7 +4600,6 @@ DOMAIN-SUFFIX,cdn-yotpo-images-production.yotpo.com
 DOMAIN-SUFFIX,cdn.us-east-1.prod.moon.dubai.aws.dev
 DOMAIN-SUFFIX,content-storage-upload.googleapis.com
 DOMAIN-SUFFIX,firefox.settings.services.mozilla.com
-DOMAIN-SUFFIX,frames-commandbar-prod.commandbar.com
 DOMAIN-SUFFIX,frontend-apps-multi-region.workos.com
 DOMAIN-SUFFIX,pplx-next-static-public.perplexity.ai
 DOMAIN-SUFFIX,prod-packager-packages.codesandbox.io
