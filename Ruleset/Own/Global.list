@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 146
-# DOMAIN-SUFFIX: 35371
+# DOMAIN-SUFFIX: 35381
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35731
-# UPDATED: 2026-08-21 14:57:39
+# TOTAL: 35741
+# UPDATED: 2026-08-21 21:00:55
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7664,14 +7664,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-20 02:27:21
+# UPDATED: 2026-08-22 02:30:24
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6760
+# DOMAIN-SUFFIX: 6761
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6900
+# TOTAL: 6901
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7994,6 +7994,7 @@ DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,novafile.com
 DOMAIN-SUFFIX,nthlink.com
 DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,oldmapsonline.org
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,ooni.io
@@ -8234,14 +8235,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-08-20 02:26:58
+# UPDATED: 2026-08-22 02:30:00
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34724
+# DOMAIN-SUFFIX: 34734
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 35051
+# TOTAL: 35061
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -8738,6 +8739,7 @@ DOMAIN-SUFFIX,592r.com
 DOMAIN-SUFFIX,59mvmv.com
 DOMAIN-SUFFIX,5axis-machining.com
 DOMAIN-SUFFIX,5beatsbydre.com
+DOMAIN-SUFFIX,5ch.io
 DOMAIN-SUFFIX,5ch.net
 DOMAIN-SUFFIX,5fang.cc
 DOMAIN-SUFFIX,5itv.tv
@@ -9959,6 +9961,7 @@ DOMAIN-SUFFIX,amazonstudiosguilds.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,amazonvideo.cc
 DOMAIN-SUFFIX,amazonvideodirect.com
+DOMAIN-SUFFIX,amazonwebservices.com
 DOMAIN-SUFFIX,amazonworkdocs.com
 DOMAIN-SUFFIX,ambs.ac.uk
 DOMAIN-SUFFIX,amc.com
@@ -15863,6 +15866,7 @@ DOMAIN-SUFFIX,drdreprobeatssale.com
 DOMAIN-SUFFIX,dream-cdt.ac.uk
 DOMAIN-SUFFIX,dreambmw.ca
 DOMAIN-SUFFIX,dreamforce.com
+DOMAIN-SUFFIX,dreamgen.com
 DOMAIN-SUFFIX,dreammovies.com
 DOMAIN-SUFFIX,dreamorder.com
 DOMAIN-SUFFIX,dreamteamfc.com
@@ -17431,6 +17435,7 @@ DOMAIN-SUFFIX,fans-here.com
 DOMAIN-SUFFIX,fans17.com
 DOMAIN-SUFFIX,fans66.tw
 DOMAIN-SUFFIX,fansking.tw
+DOMAIN-SUFFIX,fansly.com
 DOMAIN-SUFFIX,fansnudes.com
 DOMAIN-SUFFIX,fansone.co
 DOMAIN-SUFFIX,fanspot.jp
@@ -25619,6 +25624,8 @@ DOMAIN-SUFFIX,nichost.ru
 DOMAIN-SUFFIX,nicis.ac.uk
 DOMAIN-SUFFIX,nickscipio.com
 DOMAIN-SUFFIX,nicky.xxx
+DOMAIN-SUFFIX,nico.ms
+DOMAIN-SUFFIX,nicochannel.jp
 DOMAIN-SUFFIX,nicodic.jp
 DOMAIN-SUFFIX,nicolepeters.com
 DOMAIN-SUFFIX,nicomanga.jp
@@ -25949,6 +25956,7 @@ DOMAIN-SUFFIX,northumberland.ac.uk
 DOMAIN-SUFFIX,northumbria.ac.uk
 DOMAIN-SUFFIX,norton.com
 DOMAIN-SUFFIX,norwichresearchpark.ac.uk
+DOMAIN-SUFFIX,notegpt.io
 DOMAIN-SUFFIX,noticias-rt.com
 DOMAIN-SUFFIX,notimundo.press
 DOMAIN-SUFFIX,notion-static.com
@@ -25971,6 +25979,7 @@ DOMAIN-SUFFIX,nottinghamknowledge.ac.uk
 DOMAIN-SUFFIX,nottinghamtrentadfs.ac.uk
 DOMAIN-SUFFIX,nottm-coll.ac.uk
 DOMAIN-SUFFIX,nottsmaternity.ac.uk
+DOMAIN-SUFFIX,novelai.net
 DOMAIN-SUFFIX,novella.ac.uk
 DOMAIN-SUFFIX,noveltrove.com
 DOMAIN-SUFFIX,novids.com
@@ -31368,6 +31377,7 @@ DOMAIN-SUFFIX,takporn.com
 DOMAIN-SUFFIX,talantix.ru
 DOMAIN-SUFFIX,talentlens.com
 DOMAIN-SUFFIX,taleofthenight.com
+DOMAIN-SUFFIX,talkai.info
 DOMAIN-SUFFIX,talkinghealthmatters.ac.uk
 DOMAIN-SUFFIX,talkingkotlin.com
 DOMAIN-SUFFIX,talksport.com
