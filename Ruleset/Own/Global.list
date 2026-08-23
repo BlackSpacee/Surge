@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 146
-# DOMAIN-SUFFIX: 35381
+# DOMAIN-SUFFIX: 35385
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35741
-# UPDATED: 2026-08-23 14:52:05
+# TOTAL: 35745
+# UPDATED: 2026-08-23 20:53:06
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7664,14 +7664,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-22 02:30:24
+# UPDATED: 2026-08-24 02:23:41
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6761
+# DOMAIN-SUFFIX: 6767
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6901
+# TOTAL: 6907
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7746,6 +7746,7 @@ DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,blogsmithmedia.com
 DOMAIN-SUFFIX,boomplay.com
+DOMAIN-SUFFIX,briarproject.org
 DOMAIN-SUFFIX,c.gle
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
@@ -7753,6 +7754,7 @@ DOMAIN-SUFFIX,celestrak.com
 DOMAIN-SUFFIX,census.gov
 DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,cg.play-analytics.com
+DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,chinatimes.com
 DOMAIN-SUFFIX,chonglangtv.org
@@ -7882,6 +7884,7 @@ DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,hiddify.com
+DOMAIN-SUFFIX,historylines.net
 DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,hive.blog
 DOMAIN-SUFFIX,hkong.hk
@@ -7917,6 +7920,7 @@ DOMAIN-SUFFIX,kat.cr
 DOMAIN-SUFFIX,kathmandupost.com
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,kfor.com
+DOMAIN-SUFFIX,kiwix.org
 DOMAIN-SUFFIX,krypt.com
 DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,laohu8.com
@@ -7955,6 +7959,7 @@ DOMAIN-SUFFIX,marketwatch.com
 DOMAIN-SUFFIX,mas.to
 DOMAIN-SUFFIX,mashable.com
 DOMAIN-SUFFIX,mathjax.org
+DOMAIN-SUFFIX,mceindex.com
 DOMAIN-SUFFIX,mediamatters.org
 DOMAIN-SUFFIX,meee.com.tw
 DOMAIN-SUFFIX,megaupload.com
@@ -8054,6 +8059,7 @@ DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,rts.ch
 DOMAIN-SUFFIX,rule34.us
 DOMAIN-SUFFIX,s.team
+DOMAIN-SUFFIX,sb.sb
 DOMAIN-SUFFIX,sbti.unun.dev
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,schwab.co.uk
@@ -8235,14 +8241,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-08-22 02:30:00
+# UPDATED: 2026-08-24 02:23:17
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34734
+# DOMAIN-SUFFIX: 34738
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 35061
+# TOTAL: 35065
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -13833,7 +13839,6 @@ DOMAIN-SUFFIX,chase.ac.uk
 DOMAIN-SUFFIX,chasestudy.ac.uk
 DOMAIN-SUFFIX,chatango.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
-DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,chatgptvideo.xyz
 DOMAIN-SUFFIX,chatgptvideob.buzz
 DOMAIN-SUFFIX,chatsex.xxx
@@ -29291,7 +29296,6 @@ DOMAIN-SUFFIX,sayeasy.eu
 DOMAIN-SUFFIX,saynow.com
 DOMAIN-SUFFIX,sb-mobile.jp
 DOMAIN-SUFFIX,sb-telecom.net
-DOMAIN-SUFFIX,sb.sb
 DOMAIN-SUFFIX,sb24.com
 DOMAIN-SUFFIX,sbank.ir
 DOMAIN-SUFFIX,sbc.ac.uk
