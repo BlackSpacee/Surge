@@ -1,20 +1,20 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4627
+# DOMAIN-SUFFIX: 4632
 # DOMAIN-KEYWORD: 20
-# TOTAL: 4652
-# UPDATED: 2026-08-22 20:52:00
+# TOTAL: 4657
+# UPDATED: 2026-08-23 02:39:00
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-08-21T08:17:07.730Z
-# Size: 4627
+# Last Updated: 2026-08-22T19:56:09.234Z
+# Size: 4632
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
-# $content-hash-v1$:vPt48rBk3C59Lt3QBDMf4FOhk1MyTVblsGr5YoXOlNM$
+# $content-hash-v1$:YUjobn8edA9hIFPvsn2uR7Bz8PorZFdNnYhPOmjpOxc$
 DOMAIN-SUFFIX,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,0x0.st
 DOMAIN-SUFFIX,eep.io
@@ -921,6 +921,7 @@ DOMAIN-SUFFIX,emotivecdn.io
 DOMAIN-SUFFIX,ensighten.com
 DOMAIN-SUFFIX,eu.cdnbye.com
 DOMAIN-SUFFIX,fastlycdn.com
+DOMAIN-SUFFIX,fe.indazn.com
 DOMAIN-SUFFIX,feedercdn.com
 DOMAIN-SUFFIX,fiverrcdn.com
 DOMAIN-SUFFIX,flagpedia.net
@@ -2408,6 +2409,7 @@ DOMAIN-SUFFIX,static.codepen.io
 DOMAIN-SUFFIX,static.cracked.ax
 DOMAIN-SUFFIX,static.cracked.sh
 DOMAIN-SUFFIX,static.crypto.com
+DOMAIN-SUFFIX,static.dazndn.com
 DOMAIN-SUFFIX,static.flickr.com
 DOMAIN-SUFFIX,static.frame.work
 DOMAIN-SUFFIX,static.garmin.com
@@ -4252,6 +4254,7 @@ DOMAIN-SUFFIX,hackerone-user-content.com
 DOMAIN-SUFFIX,hubspotusercontent-eu1.net
 DOMAIN-SUFFIX,hubspotusercontent-na1.net
 DOMAIN-SUFFIX,idportal-cdn-prd.unity.com
+DOMAIN-SUFFIX,image.discovery.indazn.com
 DOMAIN-SUFFIX,images.applegamingwiki.com
 DOMAIN-SUFFIX,images.ecomm.microsoft.com
 DOMAIN-SUFFIX,images.financemagnates.com
@@ -4542,6 +4545,7 @@ DOMAIN-SUFFIX,b5x-sentry.1passwordservices.com
 DOMAIN-SUFFIX,cmtycdn.powerpages.microsoft.com
 DOMAIN-SUFFIX,commondatastorage.googleapis.com
 DOMAIN-SUFFIX,crash-reports.browser.yandex.net
+DOMAIN-SUFFIX,dazn-content-proxy.sd.indazn.com
 DOMAIN-SUFFIX,detectportal.brave-http-only.com
 DOMAIN-SUFFIX,edge-mobile-static.azureedge.net
 DOMAIN-SUFFIX,nbcnewsdigital-static.nbcuni.com
@@ -4593,6 +4597,7 @@ DOMAIN-SUFFIX,static-assets-prod.unrealengine.com
 DOMAIN-SUFFIX,stubdownloader.services.mozilla.com
 DOMAIN-SUFFIX,cf-images.us-east-1.prod.boltdns.net
 DOMAIN-SUFFIX,content-prod-live.cert.starbucks.com
+DOMAIN-SUFFIX,contentful-asset-proxy.sd.indazn.com
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,crossborder-integration.global-e.com
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
