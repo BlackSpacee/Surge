@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Anti Bogus Domain
-# Last Updated: 2026-08-05T12:33:03.771Z
-# Size: 777
+# Last Updated: 2026-08-24T05:54:41.161Z
+# Size: 780
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -34,7 +34,7 @@
 #   - https://ublockorigin.pages.dev/thirdparties/easylist-newsletters.txt
 #   - https://ublockorigin.pages.dev/thirdparties/easylist-notifications.txt
 #
-# $content-hash-v1$:93uUe3VL_Eqndq4WsOFYhaf88w1a4qCnhBYXRwj1PIY$
+# $content-hash-v1$:IENPmy-EG_ac8V7MO4v_BhEI8HN9ufet5vmQGIRjs0M$
 #########################################
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 IP-CIDR,10.72.25.0/24,no-resolve
@@ -95,6 +95,7 @@ IP-CIDR,5.61.55.143/32
 IP-CIDR,5.79.71.205/32
 IP-CIDR,5.79.71.225/32
 IP-CIDR,5.188.62.36/32
+IP-CIDR,13.140.171.211/32
 IP-CIDR,13.248.148.254/32
 IP-CIDR,15.197.244.48/32
 IP-CIDR,18.142.131.147/32
@@ -360,6 +361,7 @@ IP-CIDR,100.20.104.229/32
 IP-CIDR,100.28.19.138/32
 IP-CIDR,101.226.10.8/32
 IP-CIDR,103.19.128.222/32
+IP-CIDR,103.29.182.53/32
 IP-CIDR,103.67.200.64/32
 IP-CIDR,103.155.214.207/32
 IP-CIDR,103.167.92.73/32
@@ -701,6 +703,7 @@ IP-CIDR,198.134.116.30/32
 IP-CIDR,198.199.120.251/32
 IP-CIDR,198.251.82.186/32
 IP-CIDR,199.59.243.222/32
+IP-CIDR,199.168.185.4/32
 IP-CIDR,200.72.40.46/32
 IP-CIDR,202.12.80.74/32
 IP-CIDR,202.98.24.121/32
