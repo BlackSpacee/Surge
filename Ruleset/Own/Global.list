@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 146
-# DOMAIN-SUFFIX: 35385
+# DOMAIN-SUFFIX: 35386
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35745
-# UPDATED: 2026-08-25 14:58:47
+# TOTAL: 35746
+# UPDATED: 2026-08-25 20:59:28
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7664,14 +7664,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-24 02:23:41
+# UPDATED: 2026-08-26 02:34:17
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6767
+# DOMAIN-SUFFIX: 6769
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6907
+# TOTAL: 6909
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7711,6 +7711,7 @@ DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.moomoobull.com
+DOMAIN-SUFFIX,api.shuaiapi.com
 DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,app.element.io
 DOMAIN-SUFFIX,apple-dns.net
@@ -8183,6 +8184,7 @@ DOMAIN-SUFFIX,workflow.is
 DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,wr.pvp.net
+DOMAIN-SUFFIX,x86.fr
 DOMAIN-SUFFIX,xcancel.com
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
@@ -8241,14 +8243,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-08-24 02:23:17
+# UPDATED: 2026-08-26 02:33:53
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34738
+# DOMAIN-SUFFIX: 34739
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 35065
+# TOTAL: 35066
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -20071,7 +20073,6 @@ DOMAIN-SUFFIX,hp-invent.info
 DOMAIN-SUFFIX,hp-mns.com
 DOMAIN-SUFFIX,hp-printing.com
 DOMAIN-SUFFIX,hp-webplatform.com
-DOMAIN-SUFFIX,hp-ww.com
 DOMAIN-SUFFIX,hp.company
 DOMAIN-SUFFIX,hp.io
 DOMAIN-SUFFIX,hp3d.com
