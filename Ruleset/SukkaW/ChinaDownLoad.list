@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2026-08-14T11:27:06.562Z
-# Size: 223
+# Last Updated: 2026-08-29T18:37:13.404Z
+# Size: 224
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains and process that should not be proxied.
 #
-# $content-hash-v1$:l2wStpjwYHdII8YiXiRGwUOpcgS2RedyffJ40t2ohzE$
+# $content-hash-v1$:cHGPw28cUlHeJPPagi8Xu_fFZ8zOSPij9yiiZy5La3M$
 #########################################
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,lan
@@ -180,6 +180,7 @@ DOMAIN,public.localsend.org
 DOMAIN-SUFFIX,blackwell-synergy.com
 DOMAIN,injections.adguard.org
 DOMAIN-SUFFIX,lcdn-locator.apple.com
+DOMAIN,mirrorlist.cdn.skk.moe
 DOMAIN-SUFFIX,classix-unlimited.co.uk
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
