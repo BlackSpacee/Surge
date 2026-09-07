@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 146
-# DOMAIN-SUFFIX: 35403
+# DOMAIN-SUFFIX: 35407
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35763
-# UPDATED: 2026-09-07 12:12:44
+# TOTAL: 35767
+# UPDATED: 2026-09-07 20:13:06
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7664,14 +7664,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-06 03:53:17
+# UPDATED: 2026-09-08 05:03:30
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6774
+# DOMAIN-SUFFIX: 6783
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6914
+# TOTAL: 6923
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7886,6 +7886,7 @@ DOMAIN-SUFFIX,gosetsuden.jp
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,hembed.com
+DOMAIN-SUFFIX,hentai.tv
 DOMAIN-SUFFIX,hiddify.com
 DOMAIN-SUFFIX,historylines.net
 DOMAIN-SUFFIX,hitun.io
@@ -8061,6 +8062,8 @@ DOMAIN-SUFFIX,rime.im
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
 DOMAIN-SUFFIX,roblox.com
+DOMAIN-SUFFIX,roc-taiwan.org
+DOMAIN-SUFFIX,roushuwo.com
 DOMAIN-SUFFIX,rts.ch
 DOMAIN-SUFFIX,rule34.us
 DOMAIN-SUFFIX,s.team
@@ -8105,7 +8108,9 @@ DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,sysub.com
+DOMAIN-SUFFIX,taiav.com
 DOMAIN-SUFFIX,tails.net
+DOMAIN-SUFFIX,taiwanembassy.org
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
 DOMAIN-SUFFIX,teamviewer.com
@@ -8189,6 +8194,7 @@ DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,wr.pvp.net
 DOMAIN-SUFFIX,write.as
+DOMAIN-SUFFIX,wtfpass.com
 DOMAIN-SUFFIX,x86.fr
 DOMAIN-SUFFIX,xcancel.com
 DOMAIN-SUFFIX,xclient.info
@@ -8248,14 +8254,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-09-06 03:52:54
+# UPDATED: 2026-09-08 05:03:07
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34756
+# DOMAIN-SUFFIX: 34762
 # IP-CIDR: 112
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 35083
+# TOTAL: 35089
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -19602,7 +19608,6 @@ DOMAIN-SUFFIX,hentai.name
 DOMAIN-SUFFIX,hentai.pink
 DOMAIN-SUFFIX,hentai.pro
 DOMAIN-SUFFIX,hentai.toys
-DOMAIN-SUFFIX,hentai.tv
 DOMAIN-SUFFIX,hentai0.com
 DOMAIN-SUFFIX,hentai01.com
 DOMAIN-SUFFIX,hentai2.net
@@ -31372,7 +31377,6 @@ DOMAIN-SUFFIX,tachusz.xyz
 DOMAIN-SUFFIX,tagapie.com.tw
 DOMAIN-SUFFIX,tagbank.ru
 DOMAIN-SUFFIX,tags.ac.uk
-DOMAIN-SUFFIX,taiav.com
 DOMAIN-SUFFIX,taiko.xyz
 DOMAIN-SUFFIX,tail-f.com
 DOMAIN-SUFFIX,tailf.com
