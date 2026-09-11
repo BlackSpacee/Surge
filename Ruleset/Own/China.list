@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 128440
-# UPDATED: 2026-09-11 04:44:49
+# UPDATED: 2026-09-11 12:16:45
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -1122,12 +1122,12 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-09-10T19:40:04.629Z
+# Last Updated: 2026-09-11T09:45:13.327Z
 # Size: 3902
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
-# $content-hash-v1$:doyP6MDtY9lDYIUGMATXonShKb6Fz1dAf8mcJPbtTXk$
+# $content-hash-v1$:gNCS-P7N0gfjaf5omUwgC-wjE2PAUf-omZkxlM8BQ98$
 IP-CIDR,1.1.8.0/24
 IP-CIDR,1.2.4.0/24
 IP-CIDR,1.8.1.0/24
@@ -1193,6 +1193,7 @@ IP-CIDR,14.134.0.0/15
 IP-CIDR,14.144.0.0/12
 IP-CIDR,14.204.0.0/15
 IP-CIDR,14.208.0.0/12
+IP-CIDR,14.238.34.0/24
 IP-CIDR,14.255.16.0/24
 IP-CIDR,14.255.238.0/24
 IP-CIDR,14.255.254.0/24
@@ -4316,7 +4317,6 @@ IP-CIDR,203.118.248.0/22
 IP-CIDR,203.119.25.0/24
 IP-CIDR,203.119.26.0/23
 IP-CIDR,203.119.28.0/23
-IP-CIDR,203.119.30.0/24
 IP-CIDR,203.119.80.0/24
 IP-CIDR,203.119.83.0/24
 IP-CIDR,203.119.115.0/24
