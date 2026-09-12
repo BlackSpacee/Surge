@@ -1,24 +1,24 @@
 # NAME: Global
 # DOMAIN: 146
-# DOMAIN-SUFFIX: 35408
+# DOMAIN-SUFFIX: 35409
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 123
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35768
-# UPDATED: 2026-09-12 18:32:00
+# TOTAL: 35769
+# UPDATED: 2026-09-12 23:24:49
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-08-05T12:33:04.218Z
-# Size: 1270
+# Last Updated: 2026-09-12T18:18:09.438Z
+# Size: 1271
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are NOT available inside the Mainland China.
-# $content-hash-v1$:ZN9fRXPGIwvFkg6hO1C-QenBwugCQ5dZM7Dgcqm39aQ$
+# $content-hash-v1$:uq2srddtA_SpQFylp-v1hjO-_ugEdXkdlXEI5BzYBqY$
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,ac
 DOMAIN-SUFFIX,ai
@@ -779,6 +779,7 @@ DOMAIN-SUFFIX,bitchute.com
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blogblog.com
+DOMAIN-SUFFIX,boxcloud.com
 DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,capitalg.com
