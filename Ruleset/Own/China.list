@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 128453
-# UPDATED: 2026-09-18 12:21:19
+# UPDATED: 2026-09-18 19:00:38
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -249,10 +249,10 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2026-08-08T06:31:42.029Z
-# Size: 869
+# Last Updated: 2026-09-18T13:04:49.628Z
+# Size: 870
 # This file contains known addresses that are avaliable in the Mainland China.
-# $content-hash-v1$:T_za7NN7pWO6RMdaJduvv6ssx377hsJAKf_gBeOSZrA$
+# $content-hash-v1$:u1_GAhmdU8R2sz5rspM5LIA3nMHrTi14HL6vgoGv9M8$
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,t.cn
@@ -1024,6 +1024,7 @@ DOMAIN-SUFFIX,onlinedown.com
 DOMAIN-SUFFIX,openinstall.io
 DOMAIN-SUFFIX,oppomobile.com
 DOMAIN-SUFFIX,qyerstatic.com
+DOMAIN-SUFFIX,rednotecdn.com
 DOMAIN,res.viayoo.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,tianyancha.com
@@ -1122,12 +1123,12 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-09-16T20:05:55.362Z
+# Last Updated: 2026-09-18T13:04:49.950Z
 # Size: 3901
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
-# $content-hash-v1$:1i05igfyd6WfS05ZDcp7qGNrjgFYQtAlstnYB4WLTJc$
+# $content-hash-v1$:inXaFpimBrOnTzjkunqcm9Ekr6KQt7QL1DrLGOfPQ0s$
 IP-CIDR,1.1.8.0/24
 IP-CIDR,1.2.4.0/24
 IP-CIDR,1.8.1.0/24
@@ -1378,7 +1379,7 @@ IP-CIDR,43.231.170.0/24
 IP-CIDR,43.239.120.0/22
 IP-CIDR,43.239.172.0/23
 IP-CIDR,43.240.0.0/22
-IP-CIDR,43.240.56.0/21
+IP-CIDR,43.240.60.0/22
 IP-CIDR,43.240.72.0/22
 IP-CIDR,43.240.124.0/22
 IP-CIDR,43.240.128.0/22
@@ -1913,6 +1914,7 @@ IP-CIDR,103.8.220.0/22
 IP-CIDR,103.9.8.0/22
 IP-CIDR,103.9.252.0/22
 IP-CIDR,103.10.84.0/22
+IP-CIDR,103.12.98.0/23
 IP-CIDR,103.12.184.0/22
 IP-CIDR,103.12.232.0/22
 IP-CIDR,103.13.244.0/22
@@ -3667,6 +3669,7 @@ IP-CIDR,140.210.4.0/22
 IP-CIDR,140.210.8.0/21
 IP-CIDR,140.210.16.0/20
 IP-CIDR,140.210.32.0/22
+IP-CIDR,140.210.40.0/23
 IP-CIDR,140.210.65.0/24
 IP-CIDR,140.210.67.0/24
 IP-CIDR,140.210.69.0/24
@@ -3745,13 +3748,11 @@ IP-CIDR,153.118.0.0/15
 IP-CIDR,154.8.48.0/20
 IP-CIDR,154.8.128.0/17
 IP-CIDR,154.89.32.0/20
-IP-CIDR,154.197.128.0/17
 IP-CIDR,155.126.176.0/23
 IP-CIDR,156.107.160.0/23
 IP-CIDR,156.107.170.0/24
 IP-CIDR,156.107.179.0/24
 IP-CIDR,156.107.181.0/24
-IP-CIDR,156.224.128.0/17
 IP-CIDR,156.227.239.0/24
 IP-CIDR,156.232.9.0/24
 IP-CIDR,156.232.10.0/23
@@ -81560,7 +81561,6 @@ DOMAIN-SUFFIX,redmou.com
 DOMAIN-SUFFIX,rednetdns.com
 DOMAIN-SUFFIX,rednote.com
 DOMAIN-SUFFIX,rednote.life
-DOMAIN-SUFFIX,rednotecdn.com
 DOMAIN-SUFFIX,redocn.com
 DOMAIN-SUFFIX,redodopower.com
 DOMAIN-SUFFIX,redoop.com
