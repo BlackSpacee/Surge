@@ -10,7 +10,6 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       'uc.cn',
       // 'ucweb.com', // UC International
       'alibaba.com',
-      '+alicdn.com',
       '+ialicdn.com',
       '+myalicdn.com',
       '+alidns.com',
@@ -24,7 +23,6 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       'alipay.cn',
       'alipay.com.cn',
       'alipaydev.com',
-      '+alipayobjects.com',
       'alibaba-inc.com',
       '+alibabausercontent.com',
       '+alibabadns.com',
@@ -48,7 +46,6 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       'mxhichina.com',
       'soku.com',
       'tb.cn',
-      '+tbcdn.cn',
       'taobao.com',
       'taobao.org',
       '+taobaocdn.com',
@@ -99,10 +96,7 @@ export const DOMESTICS: Record<string, DNSMapping> = {
 
       // Bilibili Aliyun CDN
       '$upos-sz-mirrorali.bilivideo.com',
-      '$upos-sz-estgoss.bilivideo.com',
-
-      // AcFun CDN
-      '$ali-safety-video.acfun.cn'
+      '$upos-sz-estgoss.bilivideo.com'
     ]
   },
   TENCENT: {
@@ -165,10 +159,7 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       'coding.net',
       '+codehub.cn',
       'cnb.cool',
-      'webank.com',
-
-      // AcFun QCloud CDN
-      '$tx-safety-video.acfun.cn'
+      'webank.com'
     ]
   },
   BILIBILI: {
@@ -188,7 +179,6 @@ export const DOMESTICS: Record<string, DNSMapping> = {
       '+bilivideo.com',
       '+bilivideo.cn',
       '+bilivideo.net',
-      '+biliimg.com',
       '+biliapi.com',
       '+biliapi.net',
       // 'biligame.cn', // not owned by bilibili, was put on sale by ename
@@ -356,13 +346,6 @@ export const DOMESTICS: Record<string, DNSMapping> = {
     realip: false,
     ruleset: true,
     domains: [
-      // '+qhimgs0.com',
-      // '+qhimgs1.com',
-      // '+qhimgs2.com',
-      // '+qhimgs3.com',
-      // '+qhimgs4.com',
-      // '+qhimgs5.com',
-      // '+qhimgs6.com',
       '+qhmsg.com',
       '+qhstatic.com',
       '+qhupdate.com',
