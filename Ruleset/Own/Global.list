@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 146
-# DOMAIN-SUFFIX: 35417
+# DOMAIN-SUFFIX: 35419
 # DOMAIN-KEYWORD: 39
-# IP-CIDR: 123
+# IP-CIDR: 126
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35777
-# UPDATED: 2026-09-27 19:51:01
+# TOTAL: 35782
+# UPDATED: 2026-09-28 00:49:23
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7665,14 +7665,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-24 04:59:17
+# UPDATED: 2026-09-28 04:43:01
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6786
-# IP-CIDR: 93
+# DOMAIN-SUFFIX: 6789
+# IP-CIDR: 96
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6926
+# TOTAL: 6932
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7750,6 +7750,7 @@ DOMAIN-SUFFIX,blogsmithmedia.com
 DOMAIN-SUFFIX,boomplay.com
 DOMAIN-SUFFIX,briarproject.org
 DOMAIN-SUFFIX,c.gle
+DOMAIN-SUFFIX,c.go-mpulse.net
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,celestrak.com
@@ -8055,6 +8056,7 @@ DOMAIN-SUFFIX,prompthero.com
 DOMAIN-SUFFIX,pullfolio.co
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,qobuz.com
 DOMAIN-SUFFIX,quakemachinex.com
 DOMAIN-SUFFIX,radio.co
 DOMAIN-SUFFIX,raphael.app
@@ -8174,6 +8176,7 @@ DOMAIN-SUFFIX,v.gd
 DOMAIN-SUFFIX,v.recipes
 DOMAIN-SUFFIX,v2.hysteria.network
 DOMAIN-SUFFIX,v2ex.co
+DOMAIN-SUFFIX,vava8.com
 DOMAIN-SUFFIX,vbstatic.co
 DOMAIN-SUFFIX,veed.io
 DOMAIN-SUFFIX,venturebeat.com
@@ -8230,7 +8233,10 @@ IP-CIDR,125.209.208.0/20,no-resolve
 IP-CIDR,125.6.146.0/24,no-resolve
 IP-CIDR,125.6.149.0/24,no-resolve
 IP-CIDR,125.6.190.0/24,no-resolve
+IP-CIDR,13.251.24.0/24,no-resolve
+IP-CIDR,13.251.41.0/24,no-resolve
 IP-CIDR,14.102.250.18/31,no-resolve
+IP-CIDR,17.252.156.0/23,no-resolve
 IP-CIDR,174.142.105.153/32,no-resolve
 IP-CIDR,174.37.0.0/16,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
@@ -8257,14 +8263,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-09-26 04:58:34
+# UPDATED: 2026-09-28 04:42:42
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34773
-# IP-CIDR: 112
+# DOMAIN-SUFFIX: 34775
+# IP-CIDR: 115
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 35100
+# TOTAL: 35105
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -28241,7 +28247,6 @@ DOMAIN-SUFFIX,qmw.ac.uk
 DOMAIN-SUFFIX,qmzdd.com
 DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,qnapsupport.net
-DOMAIN-SUFFIX,qobuz.com
 DOMAIN-SUFFIX,qombol.com
 DOMAIN-SUFFIX,qoo-app.com
 DOMAIN-SUFFIX,qoo10.jp
