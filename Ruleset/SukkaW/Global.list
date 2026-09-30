@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-09-12T18:18:09.438Z
-# Size: 1271
+# Last Updated: 2026-09-30T11:33:00.165Z
+# Size: 1272
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are NOT available inside the Mainland China.
 #
-# $content-hash-v1$:uq2srddtA_SpQFylp-v1hjO-_ugEdXkdlXEI5BzYBqY$
+# $content-hash-v1$:lSYbzIK22JC1o39jlbbC5F0Qm_lXNRMPakDx3JIKZ5o$
 #########################################
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,ac
@@ -409,6 +409,7 @@ DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tesco.com
 DOMAIN-SUFFIX,tfbnw.net
+DOMAIN-SUFFIX,tokens.ci
 DOMAIN-SUFFIX,tube8.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitch.tv

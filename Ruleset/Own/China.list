@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 128643
-# UPDATED: 2026-09-30 06:08:16
+# UPDATED: 2026-09-30 13:13:51
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -249,10 +249,10 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2026-09-22T18:44:23.938Z
-# Size: 871
+# Last Updated: 2026-09-30T11:33:00.392Z
+# Size: 872
 # This file contains known addresses that are avaliable in the Mainland China.
-# $content-hash-v1$:9bjEUQSsmGRmgvO67Yj_Sr0XhrCa3ATTfhn-llAYkJE$
+# $content-hash-v1$:rWUXpmmZfqd-E48xeinjmUM2pBbxQLRUZDouiuMITlE$
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,t.cn
@@ -1103,6 +1103,7 @@ DOMAIN-SUFFIX,chinanetcenter.com
 DOMAIN-SUFFIX,dl.pinyuncloud.com
 DOMAIN-SUFFIX,heytapdownload.com
 DOMAIN-SUFFIX,samsungcloudcn.com
+DOMAIN,time.xtracloud.net
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN,assets1.xboxlive.cn
@@ -8513,7 +8514,6 @@ DOMAIN,staging-controlbe.floonet.goog
 DOMAIN,staging-databe.floonet.goog
 DOMAIN,staging.databe.floonet.goog
 DOMAIN,storeedgefd.dsx.mp.microsoft.com
-DOMAIN,time.xtracloud.net
 DOMAIN,update.crashlytics.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.pxcc.com
