@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 146
-# DOMAIN-SUFFIX: 35420
+# DOMAIN-SUFFIX: 35425
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 126
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35783
-# UPDATED: 2026-10-01 13:28:52
+# TOTAL: 35788
+# UPDATED: 2026-10-01 20:56:47
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7666,14 +7666,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-28 04:43:01
+# UPDATED: 2026-10-02 06:16:16
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6789
+# DOMAIN-SUFFIX: 6791
 # IP-CIDR: 96
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6932
+# TOTAL: 6934
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -7859,6 +7859,7 @@ DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futustatic.com
 DOMAIN-SUFFIX,fututrade.com
 DOMAIN-SUFFIX,fututrustee.com
+DOMAIN-SUFFIX,fuyin116.com
 DOMAIN-SUFFIX,fzlm.net
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,gabia.net
@@ -7988,6 +7989,7 @@ DOMAIN-SUFFIX,moomootrustee.com
 DOMAIN-SUFFIX,mosavi.io
 DOMAIN-SUFFIX,moves-export.com
 DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,myfontastic.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,name.com
@@ -8264,14 +8266,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-09-28 04:42:42
+# UPDATED: 2026-10-02 06:15:52
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34775
+# DOMAIN-SUFFIX: 34780
 # IP-CIDR: 115
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 35105
+# TOTAL: 35110
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -20325,6 +20327,7 @@ DOMAIN-SUFFIX,huangse.love
 DOMAIN-SUFFIX,huanyuju.com
 DOMAIN-SUFFIX,huarenav.com
 DOMAIN-SUFFIX,huarenporn.com
+DOMAIN-SUFFIX,huarun.win
 DOMAIN-SUFFIX,huashundg.com
 DOMAIN-SUFFIX,huawen.ac.uk
 DOMAIN-SUFFIX,huaxin-lls.xyz
@@ -23891,6 +23894,7 @@ DOMAIN-SUFFIX,messybrainz.org
 DOMAIN-SUFFIX,messytube.com
 DOMAIN-SUFFIX,met-nude.com
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,metabolomics.ac.uk
 DOMAIN-SUFFIX,metabora.io
 DOMAIN-SUFFIX,metabrainz.org
@@ -26588,6 +26592,7 @@ DOMAIN-SUFFIX,openapiservice.com
 DOMAIN-SUFFIX,openbook.org.tw
 DOMAIN-SUFFIX,opencas.io
 DOMAIN-SUFFIX,openclaw.ai
+DOMAIN-SUFFIX,opencode.ai
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opendesktop.org
 DOMAIN-SUFFIX,opendns.com
