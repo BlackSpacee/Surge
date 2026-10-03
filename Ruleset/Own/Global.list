@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 146
-# DOMAIN-SUFFIX: 35425
+# DOMAIN-SUFFIX: 35427
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 126
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35788
-# UPDATED: 2026-10-03 19:29:17
+# TOTAL: 35790
+# UPDATED: 2026-10-04 00:05:33
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -7666,14 +7666,14 @@ DOMAIN-SUFFIX,picjs.xyz
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-10-02 06:16:16
+# UPDATED: 2026-10-04 04:29:34
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6791
+# DOMAIN-SUFFIX: 6795
 # IP-CIDR: 96
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6934
+# TOTAL: 6938
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -8189,6 +8189,7 @@ DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,wallzhihu.com
 DOMAIN-SUFFIX,washingtontimes.com
 DOMAIN-SUFFIX,wbrks.com
@@ -8197,6 +8198,7 @@ DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,weights.com
 DOMAIN-SUFFIX,wikileaks.info
 DOMAIN-SUFFIX,wikis.tw
+DOMAIN-SUFFIX,wikispecies.org
 DOMAIN-SUFFIX,wispbyte.com
 DOMAIN-SUFFIX,workflow.is
 DOMAIN-SUFFIX,workflowy.com
@@ -8266,14 +8268,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-10-02 06:15:52
+# UPDATED: 2026-10-04 04:29:10
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34780
+# DOMAIN-SUFFIX: 34783
 # IP-CIDR: 115
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 35110
+# TOTAL: 35113
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -14186,6 +14188,7 @@ DOMAIN-SUFFIX,classicnike.com
 DOMAIN-SUFFIX,classics.ac.uk
 DOMAIN-SUFFIX,classymomsex.com
 DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.dev
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
@@ -33814,7 +33817,6 @@ DOMAIN-SUFFIX,walker-institute.ac.uk
 DOMAIN-SUFFIX,walker.ac.uk
 DOMAIN-SUFFIX,wallberis.ru
 DOMAIN-SUFFIX,wallet.com
-DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,walmart-content.com
 DOMAIN-SUFFIX,walmart.com
 DOMAIN-SUFFIX,walmart.pharmacy
