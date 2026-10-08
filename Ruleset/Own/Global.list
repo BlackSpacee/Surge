@@ -1,24 +1,24 @@
 # NAME: Global
 # DOMAIN: 146
-# DOMAIN-SUFFIX: 35452
+# DOMAIN-SUFFIX: 35455
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 126
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35815
-# UPDATED: 2026-10-08 06:58:40
+# TOTAL: 35818
+# UPDATED: 2026-10-08 13:42:53
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-09-30T11:33:00.165Z
-# Size: 1272
+# Last Updated: 2026-10-08T10:17:52.347Z
+# Size: 1275
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are NOT available inside the Mainland China.
-# $content-hash-v1$:lSYbzIK22JC1o39jlbbC5F0Qm_lXNRMPakDx3JIKZ5o$
+# $content-hash-v1$:74H1YSMmm9aphi-MX6BibJOJpPr0kX3SxWRjt_E9hIE$
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,ac
 DOMAIN-SUFFIX,ai
@@ -427,6 +427,7 @@ DOMAIN-SUFFIX,umblr.com
 DOMAIN-SUFFIX,upjav.org
 DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,vanta.com
 DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,waymo.com
@@ -1088,6 +1089,7 @@ DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,wikisource.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
+DOMAIN-SUFFIX,approveit.today
 DOMAIN,ccmdl.adobe.com
 DOMAIN-SUFFIX,cosplay-jav.com
 DOMAIN-SUFFIX,crashlytics.com
@@ -1182,6 +1184,7 @@ DOMAIN-SUFFIX,reutersmedia.net
 DOMAIN-SUFFIX,shutterstock.com
 DOMAIN-SUFFIX,spankingtube.com
 DOMAIN-SUFFIX,surfsharkdns.com
+DOMAIN-SUFFIX,surveymonkey.com
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,tokto-motion.net
 DOMAIN-SUFFIX,vesselfinder.com

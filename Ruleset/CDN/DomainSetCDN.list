@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-10-01T14:48:46.522Z
-# Size: 4681
+# Last Updated: 2026-10-08T10:17:55.635Z
+# Size: 4685
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #
-# $content-hash-v1$:7cnqRfB77U9nLupjyVpaVwHRY3fSitc_SQrZwGmeO7I$
+# $content-hash-v1$:mbPxnJQd_eLFh01IPkkroFETNs89FHe-cOZ8vPeBV8Y$
 #########################################
 DOMAIN-SUFFIX,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,0x0.st
@@ -1789,6 +1789,7 @@ DOMAIN-SUFFIX,assets.stash.com
 DOMAIN-SUFFIX,assets.toot.cafe
 DOMAIN-SUFFIX,assets.twitch.tv
 DOMAIN-SUFFIX,assets.upload.io
+DOMAIN-SUFFIX,assets.vanta.com
 DOMAIN-SUFFIX,assets.vogue.com
 DOMAIN-SUFFIX,assets.volvo.com
 DOMAIN-SUFFIX,assets.xmind.net
@@ -2360,6 +2361,7 @@ DOMAIN-SUFFIX,media.nownews.com
 DOMAIN-SUFFIX,media.zestyio.com
 DOMAIN-SUFFIX,mediadelivery.net
 DOMAIN-SUFFIX,monitor.azure.com
+DOMAIN-SUFFIX,n.approveit.today
 DOMAIN-SUFFIX,netlify.apollo.io
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,ocsp.comodoca.com
@@ -4400,6 +4402,7 @@ DOMAIN-SUFFIX,player-frontend.cnevids.com
 DOMAIN-SUFFIX,prego-cache.prod.sketch.com
 DOMAIN-SUFFIX,public-pages.cbinsights.com
 DOMAIN-SUFFIX,resources-live.sketch.cloud
+DOMAIN-SUFFIX,rum-ingest.us1.signalfx.com
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,sessions-bugsnag.docker.com
 DOMAIN-SUFFIX,siteintercept.qualtrics.com
@@ -4409,6 +4412,7 @@ DOMAIN-SUFFIX,static-homepage-en.pluto.tv
 DOMAIN-SUFFIX,static-mh.content.disney.io
 DOMAIN-SUFFIX,static-production.npmjs.com
 DOMAIN-SUFFIX,static-webfonts.myfonts.com
+DOMAIN-SUFFIX,static.acm.account.sony.com
 DOMAIN-SUFFIX,static.captcha-delivery.com
 DOMAIN-SUFFIX,sts.online.visualstudio.com
 DOMAIN-SUFFIX,tvdownloaddw-a.akamaihd.net
