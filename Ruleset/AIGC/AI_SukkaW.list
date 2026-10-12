@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2026-10-03T12:41:14.667Z
-# Size: 53
+# Last Updated: 2026-10-12T11:45:42.734Z
+# Size: 56
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains of OpenAI, Claude.
 #
-# $content-hash-v1$:dbMtvjywzKjkuOoPTNH2Z96MZyTDgRWaf6luuiNljck$
+# $content-hash-v1$:zEhGllCXs-oKaXAmNQsLUfzQltqnMxOAp-rbeQDnGJw$
 #########################################
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,g.ai
@@ -45,9 +45,11 @@ DOMAIN,jules.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN,antigravity.google
+DOMAIN,server.codeium.com
 DOMAIN,aida.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,generativeai.google
+DOMAIN,inference.codeium.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN,antigravity-unleash.goog
@@ -55,6 +57,7 @@ DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN,gateway.ai.cloudflare.com
 DOMAIN,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN,server.self-serve.windsurf.com
 DOMAIN,robinfrontend-pa.googleapis.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
