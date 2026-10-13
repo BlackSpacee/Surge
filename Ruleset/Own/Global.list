@@ -1,13 +1,13 @@
 # NAME: Global
 # DOMAIN: 145
-# DOMAIN-SUFFIX: 35544
+# DOMAIN-SUFFIX: 35545
 # DOMAIN-KEYWORD: 39
 # IP-CIDR: 126
 # IP-CIDR6: 5
 # USER-AGENT: 46
 # PROCESS-NAME: 1
-# TOTAL: 35906
-# UPDATED: 2026-10-13 08:29:13
+# TOTAL: 35907
+# UPDATED: 2026-10-13 22:00:06
 
 #########################################
 # Sukka's Ruleset - General Global Services
@@ -8300,14 +8300,14 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 ############################################################# 这是第三条分割线 #############################################################
 # NAME: Global
-# UPDATED: 2026-10-12 05:21:45
+# UPDATED: 2026-10-14 06:11:06
 # DOMAIN: 127
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34900
+# DOMAIN-SUFFIX: 34901
 # IP-CIDR: 115
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 35229
+# TOTAL: 35230
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -8928,6 +8928,7 @@ DOMAIN-SUFFIX,91se.fun
 DOMAIN-SUFFIX,91sesex.xyz
 DOMAIN-SUFFIX,91sew.xyz
 DOMAIN-SUFFIX,91sew40.buzz
+DOMAIN-SUFFIX,91short.com
 DOMAIN-SUFFIX,91vhome.com
 DOMAIN-SUFFIX,920share.com
 DOMAIN-SUFFIX,921bb.com
