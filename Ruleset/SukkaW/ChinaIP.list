@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-10-13T21:50:06.451Z
-# Size: 3904
+# Last Updated: 2026-10-14T10:15:46.650Z
+# Size: 3905
 # License: CC BY-SA 2.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,7 +9,7 @@
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
 #
-# $content-hash-v1$:oyQT0gQjRXdGmAT4Yn9TZHRD2GNlNmqVfBOoJ8KuN4k$
+# $content-hash-v1$:9h8xK9AG5nrLmJ20y7XU-KBEYyQ37kYxEdnb6nb4D1w$
 #########################################
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 IP-CIDR,1.1.8.0/24
@@ -193,8 +193,10 @@ IP-CIDR,42.224.0.0/12
 IP-CIDR,42.240.0.0/21
 IP-CIDR,42.240.8.0/22
 IP-CIDR,42.240.12.0/23
+IP-CIDR,42.240.14.0/24
 IP-CIDR,42.240.16.0/23
 IP-CIDR,42.240.20.0/22
+IP-CIDR,42.240.24.0/24
 IP-CIDR,42.240.48.0/24
 IP-CIDR,42.240.128.0/17
 IP-CIDR,42.242.0.0/15
@@ -578,7 +580,6 @@ IP-CIDR,59.111.144.0/24
 IP-CIDR,59.111.152.0/21
 IP-CIDR,59.111.160.0/23
 IP-CIDR,59.111.162.0/24
-IP-CIDR,59.111.164.0/22
 IP-CIDR,59.111.168.0/22
 IP-CIDR,59.111.173.0/24
 IP-CIDR,59.111.175.0/24
