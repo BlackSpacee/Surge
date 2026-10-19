@@ -7,18 +7,18 @@
 # USER-AGENT: 46
 # PROCESS-NAME: 1
 # TOTAL: 35913
-# UPDATED: 2026-10-19 04:26:31
+# UPDATED: 2026-10-19 12:18:47
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-10-08T10:17:52.347Z
-# Size: 1275
+# Last Updated: 2026-10-19T06:11:53.650Z
+# Size: 1276
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are NOT available inside the Mainland China.
-# $content-hash-v1$:74H1YSMmm9aphi-MX6BibJOJpPr0kX3SxWRjt_E9hIE$
+# $content-hash-v1$:zX5qzOCxIHFOzFwYUEoeqHmfcDZG-3k6Rn7MHyJVEZY$
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,ac
 DOMAIN-SUFFIX,ai
@@ -549,6 +549,7 @@ DOMAIN-SUFFIX,nextdns.io
 DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nitter.net
+DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,nypost.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,odysee.com
@@ -26084,7 +26085,6 @@ DOMAIN-SUFFIX,noticias-rt.com
 DOMAIN-SUFFIX,notimundo.press
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion-status.com
-DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,notredamecoll.ac.uk
