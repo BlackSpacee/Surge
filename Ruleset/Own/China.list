@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 127949
-# UPDATED: 2026-10-20 06:13:44
+# UPDATED: 2026-10-20 12:30:02
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -249,10 +249,10 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2026-09-30T11:33:00.392Z
-# Size: 872
+# Last Updated: 2026-10-20T10:56:36.477Z
+# Size: 873
 # This file contains known addresses that are avaliable in the Mainland China.
-# $content-hash-v1$:rWUXpmmZfqd-E48xeinjmUM2pBbxQLRUZDouiuMITlE$
+# $content-hash-v1$:y7L2wtlvCeD6OPUOWtzQfz3XV7Sjbdp7NF6R58_pKuc$
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,t.cn
@@ -451,6 +451,7 @@ DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,95588.com
 DOMAIN-SUFFIX,aicdn.com
 DOMAIN-SUFFIX,alipay.cn
+DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,awtmt.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baike.com
@@ -5085,7 +5086,6 @@ DOMAIN-SUFFIX,bilibili.co
 DOMAIN-SUFFIX,biliintl.co
 DOMAIN-SUFFIX,im9.com
 # ByteDance
-DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bdxiguaimg.com
 DOMAIN-SUFFIX,bdxiguastatic.com
 DOMAIN-SUFFIX,bytedance.net
