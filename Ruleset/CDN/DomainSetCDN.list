@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-10-21T13:45:24.421Z
-# Size: 4699
+# Last Updated: 2026-10-23T06:28:09.470Z
+# Size: 4706
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #
-# $content-hash-v1$:VwTPhNRsGl9sbhi1_2HCuPkkfBy3K8BNp9Uaa5V07Zs$
+# $content-hash-v1$:2ztnRBSvmcH9SeasY43C-XIPzviIfsRILVDHqGpqe2E$
 #########################################
 DOMAIN-SUFFIX,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,0x0.st
@@ -332,6 +332,7 @@ DOMAIN-SUFFIX,p.sda1.dev
 DOMAIN-SUFFIX,pagecdn.io
 DOMAIN-SUFFIX,pgimgs.com
 DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,pic2.99.co
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pixhost.to
 DOMAIN-SUFFIX,pixoraa.cc
@@ -1432,6 +1433,7 @@ DOMAIN-SUFFIX,api.bintray.com
 DOMAIN-SUFFIX,api.weather.com
 DOMAIN-SUFFIX,app.gitbook.com
 DOMAIN-SUFFIX,asset.chase.com
+DOMAIN-SUFFIX,assets-v2.99.co
 DOMAIN-SUFFIX,assets.about.me
 DOMAIN-SUFFIX,assets.bbhub.io
 DOMAIN-SUFFIX,assets.canny.io
@@ -1439,6 +1441,7 @@ DOMAIN-SUFFIX,assets.cello.so
 DOMAIN-SUFFIX,assets.clibo.tw
 DOMAIN-SUFFIX,assets.game8.co
 DOMAIN-SUFFIX,assets.goat.com
+DOMAIN-SUFFIX,assets.grab.com
 DOMAIN-SUFFIX,assets.habr.com
 DOMAIN-SUFFIX,assets.jable.tv
 DOMAIN-SUFFIX,assets.kagi.com
@@ -2822,6 +2825,7 @@ DOMAIN-SUFFIX,archive.mozilla.org
 DOMAIN-SUFFIX,assets-cdn.jable.tv
 DOMAIN-SUFFIX,assets-cdn.porn.com
 DOMAIN-SUFFIX,assets-docs.dify.ai
+DOMAIN-SUFFIX,assets-static.99.co
 DOMAIN-SUFFIX,assets-www.xbox.com
 DOMAIN-SUFFIX,assets.adobedtm.com
 DOMAIN-SUFFIX,assets.airbuddy.app
@@ -3991,6 +3995,7 @@ DOMAIN-SUFFIX,s3media.squarespace.com
 DOMAIN-SUFFIX,safebrowsing.google.com
 DOMAIN-SUFFIX,sciencedirectassets.com
 DOMAIN-SUFFIX,screenshots.webflow.com
+DOMAIN-SUFFIX,scribe-web-sdk.grab.com
 DOMAIN-SUFFIX,scripts.dailymail.co.uk
 DOMAIN-SUFFIX,server.arcgisonline.com
 DOMAIN-SUFFIX,static-assets.juksy.com
@@ -4427,6 +4432,7 @@ DOMAIN-SUFFIX,static-production.npmjs.com
 DOMAIN-SUFFIX,static-webfonts.myfonts.com
 DOMAIN-SUFFIX,static.acm.account.sony.com
 DOMAIN-SUFFIX,static.captcha-delivery.com
+DOMAIN-SUFFIX,static1.straitstimes.com.sg
 DOMAIN-SUFFIX,sts.online.visualstudio.com
 DOMAIN-SUFFIX,tvdownloaddw-a.akamaihd.net
 DOMAIN-SUFFIX,typescript.visualstudio.com
@@ -4692,6 +4698,7 @@ DOMAIN-SUFFIX,edge-cloud-resource-static.azureedge.net
 DOMAIN-SUFFIX,edgecdn-embza6g8cacagcbn.z01.azurefd.net
 DOMAIN-SUFFIX,cdn.mcauto-images-production.sendgrid.net
 DOMAIN-SUFFIX,cf-images.ap-northeast-1.prod.boltdns.net
+DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN-SUFFIX,marfeelexperimentsexperienceengine.mrf.io
 DOMAIN-SUFFIX,prod-streaming-video-msn-com.akamaized.net
 DOMAIN-SUFFIX,talon-website-prod.ecosec.on.epicgames.com

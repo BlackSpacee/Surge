@@ -3,11 +3,11 @@
 # DOMAIN: 481
 # DOMAIN-SUFFIX: 5998
 # DOMAIN-KEYWORD: 163
-# IP-CIDR: 55
+# IP-CIDR: 59
 # IP-CIDR6: 4
 # URL-REGEX: 3
-# TOTAL: 6705
-# UPDATED: 2026-10-23 05:25:38
+# TOTAL: 6709
+# UPDATED: 2026-10-23 12:25:09
 
 # 2024-08-14 16:05
 # ======= A ======= #
@@ -1498,8 +1498,8 @@ DOMAIN,track.tenjin.io
 ############################################################# 这是第四条分割线 #############################################################
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2026-08-09T16:01:35.176Z
-# Size: 370
+# Last Updated: 2026-10-23T10:38:06.139Z
+# Size: 374
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1529,7 +1529,7 @@ DOMAIN,track.tenjin.io
 #   - https://ublockorigin.pages.dev/thirdparties/easylist-cookies.txt
 #   - https://ublockorigin.pages.dev/thirdparties/easylist-newsletters.txt
 #   - https://ublockorigin.pages.dev/thirdparties/easylist-notifications.txt
-# $content-hash-v1$:TI2f7_KaaHNeBF_3PqL1Z5Exu2XSI0LIXSmVngobkfM$
+# $content-hash-v1$:INrGk-ezCTScFnqNxL7XBzfCDbushJo09K91o1iOpjc$
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,data
 DOMAIN-SUFFIX,api.bz
@@ -1857,6 +1857,8 @@ IP-CIDR,59.82.99.47/32,no-resolve
 IP-CIDR,59.111.239.61/32,no-resolve
 IP-CIDR,59.111.239.62/32,no-resolve
 IP-CIDR,101.35.204.35/32,no-resolve
+IP-CIDR,101.91.140.124/32,no-resolve
+IP-CIDR,101.91.140.224/32,no-resolve
 IP-CIDR,103.37.152.97/32,no-resolve
 IP-CIDR,103.224.222.208/32,no-resolve
 IP-CIDR,106.11.25.31/32,no-resolve
@@ -1874,6 +1876,8 @@ IP-CIDR,119.29.29.98/31,no-resolve
 IP-CIDR,120.46.169.234/32,no-resolve
 IP-CIDR,121.36.72.124/32,no-resolve
 IP-CIDR,122.9.7.134/32,no-resolve
+IP-CIDR,122.9.13.79/32,no-resolve
+IP-CIDR,122.9.15.129/32,no-resolve
 IP-CIDR,123.151.54.50/32,no-resolve
 IP-CIDR,180.76.76.220/32,no-resolve
 IP-CIDR,182.254.116.117/32,no-resolve
