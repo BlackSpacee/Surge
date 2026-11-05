@@ -3,12 +3,12 @@
 # DOMAIN-SUFFIX: 110728
 # DOMAIN-KEYWORD: 36
 # IP-ASN: 1
-# IP-CIDR: 12150
+# IP-CIDR: 12151
 # IP-CIDR6: 4312
 # USER-AGENT: 68
 # PROCESS-NAME: 47
-# TOTAL: 127683
-# UPDATED: 2026-11-04 22:13:45
+# TOTAL: 127684
+# UPDATED: 2026-11-05 07:29:57
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -249,10 +249,10 @@ PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 ############################################################# 这是第二条分割线 #############################################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2026-10-20T10:56:36.477Z
-# Size: 873
+# Last Updated: 2026-11-05T06:05:13.811Z
+# Size: 874
 # This file contains known addresses that are avaliable in the Mainland China.
-# $content-hash-v1$:y7L2wtlvCeD6OPUOWtzQfz3XV7Sjbdp7NF6R58_pKuc$
+# $content-hash-v1$:gNEtFZTFRC9JO1efrlNeTZOOhOdo0qMAoECNQxaCxcc$
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,t.cn
@@ -866,6 +866,7 @@ DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,dcarlive.com
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dittocdn.com
 DOMAIN-SUFFIX,dizzylab.net
 DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,douyucdn2.cn
@@ -1126,12 +1127,12 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 USER-AGENT,TeslaMap
 ############################################################# 这是第三条分割线 #############################################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-11-04T22:36:38.297Z
-# Size: 3889
+# Last Updated: 2026-11-05T06:05:13.946Z
+# Size: 3890
 # License: CC BY-SA 2.0
 # This file contains data from:
 #   - https://chnroutes2.cdn.skk.moe/chnroutes.txt
-# $content-hash-v1$:i1vgB7OFN8hbb7qdNXAczvhcd_0Kb42yc0QPEWiMUjc$
+# $content-hash-v1$:4kASodMd45GdfscDp68mi-xTBX9eZYnQ1pnER4wDvaY$
 IP-CIDR,1.1.8.0/24
 IP-CIDR,1.2.4.0/24
 IP-CIDR,1.8.1.0/24
@@ -2144,6 +2145,7 @@ IP-CIDR,103.96.224.0/23
 IP-CIDR,103.97.60.0/24
 IP-CIDR,103.97.112.0/23
 IP-CIDR,103.98.44.0/22
+IP-CIDR,103.98.75.0/24
 IP-CIDR,103.98.125.0/24
 IP-CIDR,103.98.127.0/24
 IP-CIDR,103.98.220.0/22
@@ -2231,7 +2233,7 @@ IP-CIDR,103.147.124.0/24
 IP-CIDR,103.149.242.0/24
 IP-CIDR,103.149.244.0/22
 IP-CIDR,103.150.24.0/23
-IP-CIDR,103.150.36.0/23
+IP-CIDR,103.150.37.0/24
 IP-CIDR,103.150.164.0/23
 IP-CIDR,103.151.148.0/23
 IP-CIDR,103.152.28.0/23
@@ -36265,7 +36267,6 @@ DOMAIN-SUFFIX,ditianshanhe.com
 DOMAIN-SUFFIX,ditiezu.com
 DOMAIN-SUFFIX,ditiezu.net
 DOMAIN-SUFFIX,ditrit.com
-DOMAIN-SUFFIX,dittocdn.com
 DOMAIN-SUFFIX,ditu.live.com
 DOMAIN-SUFFIX,dituhui.com
 DOMAIN-SUFFIX,dituw.net
