@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Anti Bogus Domain
-# Last Updated: 2026-11-05T13:13:57.090Z
+# Last Updated: 2026-11-12T13:47:31.389Z
 # Size: 784
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -34,7 +34,7 @@
 #   - https://ublockorigin.pages.dev/thirdparties/easylist-newsletters.txt
 #   - https://ublockorigin.pages.dev/thirdparties/easylist-notifications.txt
 #
-# $content-hash-v1$:oQ0ICoXUUFYmBmZbJHaen4fjukUNf_w5mxksanhnE1M$
+# $content-hash-v1$:TKSAImqHq4Ot38qmWNb5XA9FnzBfDOQbeA4Nj2ND8bU$
 #########################################
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 IP-CIDR,10.72.25.0/24,no-resolve
@@ -211,7 +211,6 @@ IP-CIDR,50.112.124.170/32
 IP-CIDR,51.15.3.223/32
 IP-CIDR,51.68.87.229/32
 IP-CIDR,51.77.227.97/32
-IP-CIDR,51.89.187.141/32
 IP-CIDR,51.91.66.125/32
 IP-CIDR,51.91.211.94/32
 IP-CIDR,51.178.76.105/32
@@ -568,6 +567,7 @@ IP-CIDR,172.255.6.107/32
 IP-CIDR,172.255.6.147/32
 IP-CIDR,172.255.6.219/32
 IP-CIDR,172.255.6.225/32
+IP-CIDR,172.255.6.254/32
 IP-CIDR,173.208.96.42/31
 IP-CIDR,173.208.96.44/31
 IP-CIDR,173.208.96.46/32
