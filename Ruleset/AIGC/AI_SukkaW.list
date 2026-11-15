@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2026-10-12T11:45:42.734Z
-# Size: 56
+# Last Updated: 2026-11-15T11:51:54.798Z
+# Size: 58
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains of OpenAI, Claude.
 #
-# $content-hash-v1$:zEhGllCXs-oKaXAmNQsLUfzQltqnMxOAp-rbeQDnGJw$
+# $content-hash-v1$:zL9QgXqC077Iq9x4xTTpGBBOxhtaPMnpq7fYl0mcCIE$
 #########################################
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,g.ai
@@ -49,6 +49,7 @@ DOMAIN,server.codeium.com
 DOMAIN,aida.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,generativeai.google
+DOMAIN,aicode.googleapis.com
 DOMAIN,inference.codeium.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,notebooklm.google.com
@@ -63,6 +64,7 @@ DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
 URL-REGEX,https://www\.google\.com/.*continue=https://gemini\.google\.com.+
