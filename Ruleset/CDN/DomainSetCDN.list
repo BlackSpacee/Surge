@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-11-15T14:06:23.819Z
-# Size: 4703
+# Last Updated: 2026-11-19T07:36:54.562Z
+# Size: 4706
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #
-# $content-hash-v1$:6uM5hSmMY1rld61sUhRhy2byUu2k9-NufSDcMk0ch8k$
+# $content-hash-v1$:-kBfRg_eH_avxmGI2zA0iqNvhxavUzn3BaXO4HK3ZsY$
 #########################################
 DOMAIN-SUFFIX,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,0x0.st
@@ -3486,7 +3486,6 @@ DOMAIN-SUFFIX,cdne-pics.youjizz.com
 DOMAIN-SUFFIX,cdnjs.betterstack.com
 DOMAIN-SUFFIX,chargebeestaticv2.com
 DOMAIN-SUFFIX,chat-assets.front.app
-DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,cloud.typenetwork.com
 DOMAIN-SUFFIX,cloud1.influxdata.com
 DOMAIN-SUFFIX,cloud2.influxdata.com
@@ -4390,6 +4389,7 @@ DOMAIN-SUFFIX,encrypted-vtbn0.gstatic.com
 DOMAIN-SUFFIX,encrypted-vtbn1.gstatic.com
 DOMAIN-SUFFIX,encrypted-vtbn2.gstatic.com
 DOMAIN-SUFFIX,encrypted-vtbn3.gstatic.com
+DOMAIN-SUFFIX,frame.claudeusercontent.com
 DOMAIN-SUFFIX,images-eds-ssl.xboxlive.com
 DOMAIN-SUFFIX,images-ext-1.discordapp.net
 DOMAIN-SUFFIX,images-ext-2.discordapp.net
@@ -4443,6 +4443,7 @@ DOMAIN-SUFFIX,agechecker-northern-apps.com
 DOMAIN-SUFFIX,agechecker.northern-apps.com
 DOMAIN-SUFFIX,applicationinsights.azure.cn
 DOMAIN-SUFFIX,assets-cdn.watchdisneyfe.com
+DOMAIN-SUFFIX,assets.claudeusercontent.com
 DOMAIN-SUFFIX,assets.positional-bucket.com
 DOMAIN-SUFFIX,assets4.mist-train-girls.com
 DOMAIN-SUFFIX,cdn-dynmedia-1.microsoft.com
@@ -4489,6 +4490,7 @@ DOMAIN-SUFFIX,static-oforms.onlyoffice.com
 DOMAIN-SUFFIX,static-prod-web.miniclip.com
 DOMAIN-SUFFIX,static-r.kamihimeproject.net
 DOMAIN-SUFFIX,static-secure-uploads.ui.com
+DOMAIN-SUFFIX,static.claudeusercontent.com
 DOMAIN-SUFFIX,static.community.workday.com
 DOMAIN-SUFFIX,static.edge.microsoftapp.net
 DOMAIN-SUFFIX,static2.sharepointonline.com
@@ -4497,6 +4499,7 @@ DOMAIN-SUFFIX,store-images.s-microsoft.com
 DOMAIN-SUFFIX,tunnels.api.visualstudio.com
 DOMAIN-SUFFIX,ui-statics-cf.streamable.com
 DOMAIN-SUFFIX,uos-support-files.svc.ui.com
+DOMAIN-SUFFIX,upload.claudeusercontent.com
 DOMAIN-SUFFIX,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,wctour-images.worldchess.com
 DOMAIN-SUFFIX,akamai-assets.squarespace.com
