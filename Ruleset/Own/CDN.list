@@ -1,20 +1,20 @@
 # NAME: CDN
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 4707
+# DOMAIN-SUFFIX: 4697
 # DOMAIN-KEYWORD: 20
-# TOTAL: 4732
-# UPDATED: 2026-11-27 05:19:05
+# TOTAL: 4722
+# UPDATED: 2026-11-27 15:56:14
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-11-26T08:43:16.325Z
-# Size: 4707
+# Last Updated: 2026-11-27T12:05:50.057Z
+# Size: 4697
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
-# $content-hash-v1$:N6sxrU8ZVAcXev1dzkc0ZwEsGfQxXUDedIh7Sdnga_g$
+# $content-hash-v1$:cbzEpISkbHDVxTboK9S7as9iLAAHbyeiXjhcaNuU3mk$
 DOMAIN-SUFFIX,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,0x0.st
 DOMAIN-SUFFIX,eep.io
@@ -1041,7 +1041,6 @@ DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,place-hold.it
 DOMAIN-SUFFIX,pomf2.lain.la
 DOMAIN-SUFFIX,r2.dejavu.moe
-DOMAIN-SUFFIX,r2cdn.c7d.dev
 DOMAIN-SUFFIX,randomuser.me
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,rcsobjects.it
@@ -1358,7 +1357,6 @@ DOMAIN-SUFFIX,s1.divhunt.com
 DOMAIN-SUFFIX,s3.2233778.xyz
 DOMAIN-SUFFIX,sbcdnvideo.com
 DOMAIN-SUFFIX,scache.vzw.com
-DOMAIN-SUFFIX,scdn.clerk.com
 DOMAIN-SUFFIX,sdata.ndtv.com
 DOMAIN-SUFFIX,sdk.qikify.com
 DOMAIN-SUFFIX,sentry-cdn.com
@@ -1386,7 +1384,6 @@ DOMAIN-SUFFIX,static.reo.dev
 DOMAIN-SUFFIX,static.snyk.io
 DOMAIN-SUFFIX,static.toss.im
 DOMAIN-SUFFIX,static.xns.one
-DOMAIN-SUFFIX,static.yfsp.tv
 DOMAIN-SUFFIX,stc.utdstc.com
 DOMAIN-SUFFIX,sthlstatic.com
 DOMAIN-SUFFIX,stream.mux.com
@@ -1659,7 +1656,6 @@ DOMAIN-SUFFIX,net.anydesk.com
 DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,object.innei.in
 DOMAIN-SUFFIX,objects.hit.moe
-DOMAIN-SUFFIX,pacdn.500px.org
 DOMAIN-SUFFIX,parastorage.com
 DOMAIN-SUFFIX,pcz.javidol.org
 DOMAIN-SUFFIX,permaweb.eu.org
@@ -1890,7 +1886,6 @@ DOMAIN-SUFFIX,dc-telemetry.net
 DOMAIN-SUFFIX,directupload.net
 DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,dreamscape.cloud
-DOMAIN-SUFFIX,drscdn.500px.org
 DOMAIN-SUFFIX,e.deviantart.net
 DOMAIN-SUFFIX,embed.lantern.io
 DOMAIN-SUFFIX,embed.reddit.com
@@ -2054,7 +2049,6 @@ DOMAIN-SUFFIX,s3.wasabisys.com
 DOMAIN-SUFFIX,s8.maxstream.org
 DOMAIN-SUFFIX,scribdassets.com
 DOMAIN-SUFFIX,sdk.customfit.ai
-DOMAIN-SUFFIX,segapi.clerk.com
 DOMAIN-SUFFIX,shots.codepen.io
 DOMAIN-SUFFIX,sny.monosnap.com
 DOMAIN-SUFFIX,static.arxiv.org
@@ -2707,7 +2701,6 @@ DOMAIN-SUFFIX,proxy.spigotmc.org
 DOMAIN-SUFFIX,public.hare200.com
 DOMAIN-SUFFIX,public.popclip.app
 DOMAIN-SUFFIX,quip-marketing.com
-DOMAIN-SUFFIX,r2cdn.corespeed.io
 DOMAIN-SUFFIX,reader.readmoo.com
 DOMAIN-SUFFIX,registry.oomol.com
 DOMAIN-SUFFIX,replicate.delivery
@@ -3467,6 +3460,7 @@ DOMAIN-SUFFIX,cdn.freebiesupply.com
 DOMAIN-SUFFIX,cdn.heapanalytics.com
 DOMAIN-SUFFIX,cdn.joincommunity.xyz
 DOMAIN-SUFFIX,cdn.printfriendly.com
+DOMAIN-SUFFIX,cdn.protect.clerk.com
 DOMAIN-SUFFIX,cdn.prowritingaid.com
 DOMAIN-SUFFIX,cdn.shoppinggives.com
 DOMAIN-SUFFIX,cdn.simplelocalize.io
@@ -3560,7 +3554,6 @@ DOMAIN-SUFFIX,media.cleanshot.cloud
 DOMAIN-SUFFIX,media.games.dmm.co.jp
 DOMAIN-SUFFIX,media.gettyimages.com
 DOMAIN-SUFFIX,media.graphassets.com
-DOMAIN-SUFFIX,media.hentaifreak.org
 DOMAIN-SUFFIX,media.identity.ui.com
 DOMAIN-SUFFIX,media.invisioncic.com
 DOMAIN-SUFFIX,media.istockphoto.com
@@ -3892,7 +3885,6 @@ DOMAIN-SUFFIX,assets.clever-cloud.com
 DOMAIN-SUFFIX,assets.clickfunnels.com
 DOMAIN-SUFFIX,assets.digitalocean.com
 DOMAIN-SUFFIX,assets.lemonsqueezy.com
-DOMAIN-SUFFIX,assets.mcp.corespeed.io
 DOMAIN-SUFFIX,assets.science.nasa.gov
 DOMAIN-SUFFIX,assets.singaporeair.com
 DOMAIN-SUFFIX,assets.streamlinehq.com
@@ -4149,9 +4141,7 @@ DOMAIN-SUFFIX,segment.digitalocean.com
 DOMAIN-SUFFIX,service-icons.zeabur.com
 DOMAIN-SUFFIX,settings.crashlytics.com
 DOMAIN-SUFFIX,sf-coze-web-cdn.coze.com
-DOMAIN-SUFFIX,showcase.abovemarket.com
 DOMAIN-SUFFIX,sp-spiegel-de.spiegel.de
-DOMAIN-SUFFIX,spotlightimage.biggo.com
 DOMAIN-SUFFIX,static-assets.mapbox.com
 DOMAIN-SUFFIX,static-assets.vinted.com
 DOMAIN-SUFFIX,static-forms.klaviyo.com
@@ -4276,7 +4266,6 @@ DOMAIN-SUFFIX,tiles.maps.opensearch.org
 DOMAIN-SUFFIX,trekcdnprod.azureedge.net
 DOMAIN-SUFFIX,tuf-repo-cdn.sigstore.dev
 DOMAIN-SUFFIX,ubistatic2-a.akamaihd.net
-DOMAIN-SUFFIX,unlimited-cdn.waifu2x.net
 DOMAIN-SUFFIX,vz-2222604c-50b.b-cdn.net
 DOMAIN-SUFFIX,vz-c0fe498e-5ab.b-cdn.net
 DOMAIN-SUFFIX,web-assets.esetstatic.com
@@ -4593,6 +4582,7 @@ DOMAIN-SUFFIX,android-safebrowsing.google.com
 DOMAIN-SUFFIX,bookface-static.ycombinator.com
 DOMAIN-SUFFIX,brand-assets.cne.ngc.nvidia.com
 DOMAIN-SUFFIX,bunnycdn-video-assets.b-cdn.net
+DOMAIN-SUFFIX,cdn-resize-prod-com.500px.cloud
 DOMAIN-SUFFIX,cdn-widgetsrepository.yotpo.com
 DOMAIN-SUFFIX,cdn.playersupport.riotgames.com
 DOMAIN-SUFFIX,cdn.techcommunity.microsoft.com
