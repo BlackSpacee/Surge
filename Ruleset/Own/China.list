@@ -8,7 +8,7 @@
 # USER-AGENT: 68
 # PROCESS-NAME: 47
 # TOTAL: 127685
-# UPDATED: 2026-11-27 15:56:14
+# UPDATED: 2026-11-28 05:00:01
 
 #########################################
 # Sukka's Ruleset - LAN
@@ -5201,6 +5201,7 @@ DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
+DOMAIN-SUFFIX,gcloudsvcs.com
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,tencentmind.com
@@ -5402,6 +5403,11 @@ DOMAIN-SUFFIX,zhanqi.tv
 DOMAIN-SUFFIX,zhaopin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+DOMAIN-SUFFIX,made-in-china.com
+DOMAIN-SUFFIX,micstatic.com
+DOMAIN-SUFFIX,focuschina.com
+DOMAIN-SUFFIX,vemic.com
+DOMAIN-SUFFIX,trademessenger.com
 ############################################################# 这是第五条分割线 #############################################################
 # NAME: China
 # AUTHOR: blackmatrix7
@@ -41890,7 +41896,6 @@ DOMAIN-SUFFIX,foctek.com
 DOMAIN-SUFFIX,focus-efc.com
 DOMAIN-SUFFIX,focus-eloan.com
 DOMAIN-SUFFIX,focus-fusion.com
-DOMAIN-SUFFIX,focuschina.com
 DOMAIN-SUFFIX,focusight.net
 DOMAIN-SUFFIX,focussend.com
 DOMAIN-SUFFIX,focustock.com
@@ -43449,7 +43454,6 @@ DOMAIN-SUFFIX,gcld.net
 DOMAIN-SUFFIX,gclhgc.com
 DOMAIN-SUFFIX,gcloudcache.com
 DOMAIN-SUFFIX,gcloudgbs.com
-DOMAIN-SUFFIX,gcloudsvcs.com
 DOMAIN-SUFFIX,gcmc.cc
 DOMAIN-SUFFIX,gcok.com
 DOMAIN-SUFFIX,gcomtechnology.com
@@ -68746,7 +68750,6 @@ DOMAIN-SUFFIX,madailicai.com
 DOMAIN-SUFFIX,madajiefood.com
 DOMAIN-SUFFIX,madaomall.com
 DOMAIN-SUFFIX,madboxi.com
-DOMAIN-SUFFIX,made-in-china.com
 DOMAIN-SUFFIX,madefuns.com
 DOMAIN-SUFFIX,madeinchinastone.com
 DOMAIN-SUFFIX,madewei.com
@@ -70370,7 +70373,6 @@ DOMAIN-SUFFIX,microxiang.com
 DOMAIN-SUFFIX,microyan.com
 DOMAIN-SUFFIX,microzl.com
 DOMAIN-SUFFIX,microzuji.com
-DOMAIN-SUFFIX,micstatic.com
 DOMAIN-SUFFIX,mictormedical.com
 DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,micun.com
@@ -93595,7 +93597,6 @@ DOMAIN-SUFFIX,tradaquan.com
 DOMAIN-SUFFIX,tradeblazer.net
 DOMAIN-SUFFIX,tradeleo.com
 DOMAIN-SUFFIX,trademanager.com
-DOMAIN-SUFFIX,trademessenger.com
 DOMAIN-SUFFIX,tradeplus.cc
 DOMAIN-SUFFIX,tradesns.com
 DOMAIN-SUFFIX,tradesou.com
@@ -95836,7 +95837,6 @@ DOMAIN-SUFFIX,velocaps.com
 DOMAIN-SUFFIX,velouras.shop
 DOMAIN-SUFFIX,vemarsdev.com
 DOMAIN-SUFFIX,vemarsstatic.com
-DOMAIN-SUFFIX,vemic.com
 DOMAIN-SUFFIX,vemte.com
 DOMAIN-SUFFIX,vemvm.com
 DOMAIN-SUFFIX,vendor-src-eo.com
